@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Archives — Alien Activity</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="archives">
+<div class="wrap">
+
+  <div class="nav">
+    <div class="navtabs">
+      <a class="navtab" href="index.html">ALIEN ACTIVITY</a>
+      <a class="navtab" href="sightings.html">SIGHTINGS</a>
+      <a class="navtab active" href="archives.html">▣ ARCHIVES</a>
+    </div>
+    <div class="nav-right">
+      <span class="row" id="nav-pill" style="gap:6px"><span class="live-dot pulse"></span><span class="mn" style="font-size:10px;color:var(--cyan);letter-spacing:.16em">LIVE</span></span>
+      <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="comm-link glow-cyan">COMMUNITY ↗</a>
+    </div>
+  </div>
+
+  <!-- HERO TAGLINE -->
+  <div class="sec" style="text-align:center;padding:52px 30px 36px;background:radial-gradient(ellipse at center top, rgba(180,155,255,0.07) 0%, transparent 55%)">
+    <div class="kicker" style="margin-bottom:16px">// The Archives</div>
+    <div class="gr" style="font-size:27px;color:var(--text);letter-spacing:.02em;margin-bottom:6px;line-height:1.3;font-weight:500">"Where were you when</div>
+    <div class="gr glow-purple" style="font-size:27px;color:var(--purple);letter-spacing:.06em;margin-bottom:22px;line-height:1.3;font-weight:600">CONTACT IMMINENT happened?"</div>
+    <div style="font-size:13.5px;color:var(--text-dim);max-width:560px;margin:0 auto" id="load-note">Every reading preserved. The complete surveillance log.</div>
+  </div>
+
+  <!-- STATS -->
+  <div class="sec">
+    <div class="stat-grid">
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">ALL-TIME HIGH</div><div class="mn glow-purple" id="st-high" style="font-size:32px;color:var(--purple);font-weight:500">—</div></div>
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">CURRENT STREAK</div><div class="row" style="align-items:baseline;gap:8px"><div class="mn glow-amber" id="st-cur" style="font-size:32px;color:var(--amber);font-weight:500">—</div><div class="mn" style="font-size:10px;color:var(--text-dim)">DAYS &gt; ROSWELL</div></div></div>
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">LONGEST STREAK</div><div class="row" style="align-items:baseline;gap:8px"><div class="mn" id="st-longest" style="font-size:32px;color:var(--text);font-weight:500">—</div><div class="mn" style="font-size:10px;color:var(--text-dim)">DAYS</div></div></div>
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">AVG SCORE</div><div class="mn glow-yellow" id="st-avg" style="font-size:32px;color:var(--yellow);font-weight:500">—</div></div>
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">CONTACT IMMINENT</div><div class="row" style="align-items:baseline;gap:8px"><div class="mn glow-purple" id="st-contact" style="font-size:32px;color:var(--purple);font-weight:500">—</div><div class="mn" style="font-size:10px;color:var(--text-dim)">DAYS LOGGED</div></div></div>
+      <div class="stat-card"><div class="mn" style="font-size:9.5px;color:var(--cyan);letter-spacing:.18em;margin-bottom:10px">SURVEILLANCE</div><div class="row" style="align-items:baseline;gap:8px"><div class="mn glow-cyan" id="st-days" style="font-size:32px;color:var(--cyan);font-weight:500">—</div><div class="mn" style="font-size:10px;color:var(--text-dim)">DAYS TRACKED</div></div></div>
+    </div>
+  </div>
+
+  <!-- HISTORICAL CHART -->
+  <div class="sec">
+    <div class="sec-head"><div class="sec-title glow-cyan">[ Historical Index ]</div></div>
+    <svg id="hist-svg" viewBox="0 0 1180 320" width="100%" height="320">
+      <defs>
+        <linearGradient id="histFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFB347" stop-opacity="0.18"/><stop offset="100%" stop-color="#FFB347" stop-opacity="0"/></linearGradient>
+        <linearGradient id="histLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00FF94"/><stop offset="40%" stop-color="#FFB347"/><stop offset="70%" stop-color="#FF5252"/><stop offset="100%" stop-color="#B49BFF"/></linearGradient>
+        <filter id="histGlow"><feGaussianBlur stdDeviation="2"/></filter>
+      </defs>
+      <line x1="0" y1="258" x2="1180" y2="258" stroke="#2DBF7B" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.3"/>
+      <line x1="0" y1="154" x2="1180" y2="154" stroke="#FFE066" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.35"/>
+      <line x1="0" y1="114" x2="1180" y2="114" stroke="#FFB347" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.4"/>
+      <line x1="0" y1="74" x2="1180" y2="74" stroke="#FF5252" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.4"/>
+      <line x1="0" y1="34" x2="1180" y2="34" stroke="#B49BFF" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.5"/>
+      <g font-family="JetBrains Mono,monospace" font-size="9" text-anchor="end" letter-spacing="1">
+        <text x="1175" y="255" fill="#2DBF7B">NOTHINGBURGER</text>
+        <text x="1175" y="151" fill="#A89844">THAT'S WEIRD</text>
+        <text x="1175" y="111" fill="#FFB347">ROSWELL</text>
+        <text x="1175" y="71" fill="#FF5252">THEY'RE WATCHING</text>
+        <text x="1175" y="31" fill="#B49BFF">CONTACT IMMINENT</text>
+      </g>
+      <polyline id="hist-area" points="" fill="url(#histFill)"/>
+      <polyline id="hist-glow" points="" fill="none" stroke="url(#histLine)" stroke-width="2.5" opacity="0.5" filter="url(#histGlow)"/>
+      <polyline id="hist-line" points="" fill="none" stroke="url(#histLine)" stroke-width="2"/>
+      <circle id="hist-peak" cx="-10" cy="-10" r="5" fill="#B49BFF" filter="url(#histGlow)"/>
+    </svg>
+  </div>
+
+  <!-- NOTABLE -->
+  <div class="sec">
+    <div class="sec-head"><div class="sec-title glow-cyan">[ Notable Alien Activity ]</div></div>
+    <div style="display:flex;flex-direction:column;gap:10px" id="notable-list"><div class="loading">Computing peaks from the log…</div></div>
+  </div>
+
+  <!-- HEATMAP -->
+  <div class="sec">
+    <div class="sec-head">
+      <div class="sec-title glow-cyan">[ Threat Calendar · 90 Days ]</div>
+      <div class="mn" style="font-size:10px;color:var(--text-faint);letter-spacing:.16em">EACH CELL = ONE DAY</div>
+    </div>
+    <svg id="heat-svg" viewBox="0 0 1180 150" width="100%" height="150">
+      <defs><filter id="heatGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+      <g font-family="JetBrains Mono,monospace" font-size="8.5" fill="var(--text-faint)" letter-spacing="0.5">
+        <text x="0" y="18">MON</text><text x="0" y="36">TUE</text><text x="0" y="54">WED</text>
+        <text x="0" y="72">THU</text><text x="0" y="90">FRI</text><text x="0" y="108">SAT</text><text x="0" y="126">SUN</text>
+      </g>
+      <g id="heat-cells"></g>
+    </svg>
+    <div class="row mn" style="justify-content:center;gap:12px;margin-top:16px;font-size:9.5px;flex-wrap:wrap;letter-spacing:.12em">
+      <span style="color:#7a7e8a">LESS</span>
+      <span style="background:#2DBF7B;width:16px;height:9px;display:inline-block;border-radius:1px"></span>
+      <span style="background:#5DD49C;width:16px;height:9px;display:inline-block;border-radius:1px"></span>
+      <span style="background:#FFE066;width:16px;height:9px;display:inline-block;border-radius:1px"></span>
+      <span style="background:#FFB347;width:16px;height:9px;display:inline-block;border-radius:1px"></span>
+      <span style="background:#FF5252;width:16px;height:9px;display:inline-block;border-radius:1px"></span>
+      <span style="background:#B49BFF;width:16px;height:9px;display:inline-block;border-radius:1px;box-shadow:0 0 7px #B49BFF"></span>
+      <span style="color:#7a7e8a">MORE</span>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div style="font-size:12px;color:var(--text-mute);margin-bottom:8px">Surveillance log · Built and maintained by the <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="glow-cyan">Ayylien community ↗</a></div>
+    <div class="mn" style="font-size:10px;color:#3a3e47;letter-spacing:.16em">CREDIBILITY PARTNERS · <span style="color:var(--blue)">NASA</span> · <span style="color:var(--cyan)">NOAA</span> · <span style="color:var(--amber)">USGS</span> · <span style="color:var(--red)">GDELT</span> · <span style="color:var(--purple)">UFOSINT</span> · <span style="color:var(--yellow)">WIKIPEDIA</span> · <span style="color:var(--pink)">REDDIT</span> · <span style="color:var(--green)">BLUESKY</span></div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

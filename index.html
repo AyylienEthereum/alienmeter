@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Alien Activity Index</title>
+<meta name="description" content="A real-time index of UFO/UAP signals, space weather, and anomalous Earth activity. Updated every 15 minutes.">
+<meta property="og:title" content="Global Alien Activity Index">
+<meta property="og:description" content="Real-time extraterrestrial activity index. How weird is today?">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="index">
+<div class="wrap">
+
+  <!-- NAV -->
+  <div class="nav">
+    <div class="navtabs">
+      <a class="navtab active" href="index.html">▣ ALIEN ACTIVITY</a>
+      <a class="navtab" href="sightings.html">SIGHTINGS</a>
+      <a class="navtab" href="archives.html">ARCHIVES</a>
+    </div>
+    <div class="nav-right">
+      <span class="row" id="nav-pill" style="gap:6px"><span class="live-dot pulse"></span><span class="mn" style="font-size:10px;color:var(--cyan);letter-spacing:.16em">LIVE</span></span>
+      <span class="mn" id="nav-updated" style="font-size:10px;color:var(--text-mute);letter-spacing:.14em">UPDATED —</span>
+      <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="comm-link glow-cyan">COMMUNITY ↗</a>
+    </div>
+  </div>
+
+  <!-- ALERT BANNER -->
+  <div class="alert-banner hidden" id="alert-banner">
+    <div class="row" style="gap:10px">
+      <span class="mn glow-red" style="font-size:14px;color:var(--red)">⚠</span>
+      <span class="mn glow-red" style="color:var(--red);letter-spacing:.18em;font-size:11px">ALIEN ACTIVITY DETECTED</span>
+      <span class="mn" style="font-size:11px;color:#cdd1d8">INDEX <span class="glow-red" style="color:var(--red)" id="alert-delta">+0</span> IN LAST 60 MIN</span>
+    </div>
+  </div>
+
+  <!-- PARTNERS -->
+  <div class="partners-strip">
+    <div class="row" style="justify-content:space-between;gap:10px;flex-wrap:wrap">
+      <span class="mn" style="font-size:10px;letter-spacing:.22em;color:#3a8d72">[ Credibility Partners ]</span>
+      <div class="row" style="gap:6px;flex-wrap:wrap">
+        <span class="partner p-blue">NASA</span><span class="partner p-cyan">NOAA SWPC</span>
+        <span class="partner p-amber">USGS</span><span class="partner p-red">GDELT</span>
+        <span class="partner p-purple">UFOSINT</span><span class="partner p-yellow">WIKIMEDIA</span>
+        <span class="partner p-pink">REDDIT</span><span class="partner p-green">BLUESKY</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- HERO GAUGE -->
+  <div class="hero sec">
+    <div class="kicker" style="margin-bottom:8px">// Global Alien Activity Index</div>
+    <div style="font-size:12px;color:#5a5e69;margin-bottom:8px" id="load-note">A real-time index of UFO/UAP signals, space weather, and anomalous Earth activity. Refreshed every 15 minutes.</div>
+
+    <div style="position:relative;max-width:580px;margin:16px auto 0">
+      <svg viewBox="0 0 360 250" width="100%" style="max-width:500px;display:block;margin:0 auto" preserveAspectRatio="xMidYMid meet">
+        <defs>
+          <linearGradient id="gaugeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00FF94"/><stop offset="14%" stop-color="#7AFFD0"/>
+            <stop offset="32%" stop-color="#FFE066"/><stop offset="50%" stop-color="#FFB347"/>
+            <stop offset="68%" stop-color="#FF8A47"/><stop offset="86%" stop-color="#FF5252"/>
+            <stop offset="100%" stop-color="#B49BFF"/>
+          </linearGradient>
+          <filter id="arcGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+          <filter id="needleGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+          <filter id="scoreGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+        </defs>
+        <path d="M 30 180 A 150 150 0 0 1 330 180" stroke="url(#gaugeGrad)" stroke-width="30" fill="none" opacity="0.35" filter="url(#arcGlow)"/>
+        <path d="M 30 180 A 150 150 0 0 1 330 180" stroke="url(#gaugeGrad)" stroke-width="20" fill="none" stroke-linecap="round"/>
+        <g stroke="rgba(255,255,255,0.2)" stroke-width="1">
+          <line x1="30" y1="180" x2="22" y2="186"/><line x1="73" y1="89" x2="68" y2="83"/>
+          <line x1="143" y1="35" x2="143" y2="27"/><line x1="217" y1="35" x2="217" y2="27"/>
+          <line x1="287" y1="89" x2="292" y2="83"/><line x1="330" y1="180" x2="338" y2="186"/>
+        </g>
+        <g id="gauge-needle" transform="rotate(-90)" style="transform-origin:180px 180px;transition:transform 1s cubic-bezier(.34,1.56,.64,1)">
+          <polygon points="180,54 173,70 187,70" fill="#FFB347" filter="url(#needleGlow)"/>
+          <line x1="180" y1="66" x2="180" y2="180" stroke="#FFB347" stroke-width="2.8" stroke-linecap="round" filter="url(#needleGlow)"/>
+        </g>
+        <circle cx="180" cy="180" r="12" fill="#04060a" stroke="#FFB347" stroke-width="2.4" filter="url(#needleGlow)"/>
+        <circle cx="180" cy="180" r="4" fill="#FFB347"/>
+        <text id="gauge-score" x="180" y="142" fill="#FFB347" font-size="72" font-weight="500" text-anchor="middle" font-family="JetBrains Mono,monospace" filter="url(#scoreGlow)">—</text>
+        <text x="180" y="218" fill="#7AFFD0" font-size="9" font-weight="500" text-anchor="middle" font-family="JetBrains Mono,monospace" letter-spacing="2" opacity="0.85">ALIEN ACTIVITY INDEX</text>
+        <text x="22" y="202" fill="#4a4f59" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="middle">00</text>
+        <text x="180" y="20" fill="#4a4f59" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="middle">50</text>
+        <text x="338" y="202" fill="#4a4f59" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="middle">100</text>
+      </svg>
+      <div style="margin-top:-4px">
+        <div class="gr" id="band-name" style="font-size:26px;letter-spacing:.16em;font-weight:600;margin-bottom:6px;color:#FFB347">—</div>
+        <div id="band-flavor" style="font-size:13.5px;color:var(--text-dim);font-style:italic"></div>
+      </div>
+    </div>
+
+    <!-- LEVEL INDICATOR -->
+    <div style="max-width:820px;margin:26px auto 0;position:relative">
+      <div style="position:relative;height:22px;margin-bottom:5px">
+        <div class="band-arrow" id="band-arrow" style="position:absolute;left:58.3%;transform:translate(-50%,0);display:flex;flex-direction:column;align-items:center">
+          <span class="mn glow-amber" style="font-size:9.5px;color:var(--amber);letter-spacing:.22em;margin-bottom:2px">CURRENT</span>
+          <span class="glow-amber" style="color:var(--amber);font-size:14px;line-height:1">▼</span>
+        </div>
+      </div>
+      <div class="band-row" id="band-row"></div>
+    </div>
+
+    <div class="row mn" style="justify-content:center;gap:28px;margin-top:24px;font-size:11.5px">
+      <span class="glow-red" id="d1h" style="color:var(--red)">▲ +0 / 1H</span>
+      <span class="glow-amber" id="d24h" style="color:var(--amber)">▲ +0 / 24H</span>
+      <span id="peak90" style="color:var(--text-mute)">90D PEAK —</span>
+    </div>
+  </div>
+
+  <!-- FACTORS -->
+  <div class="sec">
+    <div class="sec-head">
+      <div class="sec-title glow-cyan">[ Contributing Factors ]</div>
+      <div class="mn" style="font-size:10.5px;color:var(--text-faint);letter-spacing:.18em">WEIGHTED SCORE</div>
+    </div>
+    <div class="factor-grid" id="factor-grid"><div class="loading">Loading signals…</div></div>
+  </div>
+
+  <!-- DAILY REPORT -->
+  <div class="sec" style="background:radial-gradient(ellipse at top right, rgba(255,82,82,0.05) 0%, transparent 50%), var(--surface-2)">
+    <div class="sec-head"><div class="sec-title glow-cyan">[ Daily Threat Report ]</div></div>
+    <div style="background:linear-gradient(180deg,var(--surface) 0%,#0d1116 100%);border:1px solid rgba(255,179,71,0.28);box-shadow:0 0 32px rgba(255,179,71,0.07);border-radius:3px;padding:26px 28px;position:relative">
+      <div style="position:absolute;top:16px;right:20px;font-family:var(--font-mono);font-size:9px;color:var(--red);letter-spacing:.22em;transform:rotate(-1.5deg);border:1px solid rgba(255,82,82,0.55);padding:4px 8px;box-shadow:0 0 14px rgba(255,82,82,0.1);text-shadow:0 0 6px rgba(255,82,82,0.5)">CLASSIFIED</div>
+      <div class="mn glow-cyan" style="font-size:10px;color:var(--cyan);letter-spacing:.22em;margin-bottom:14px">EXTRATERRESTRIAL ACTIVITY BRIEFING</div>
+      <div style="display:grid;grid-template-columns:130px 1fr;gap:12px 20px;margin-bottom:8px">
+        <div class="mn" style="font-size:10.5px;color:var(--cyan);letter-spacing:.16em">ACTIVITY LEVEL</div>
+        <div class="row" style="gap:10px"><span class="gr glow-amber" id="rep-band" style="font-size:14px;color:var(--amber);font-weight:600;letter-spacing:.12em">—</span><span class="mn" style="font-size:11px;color:#cdd1d8">[ <span class="glow-amber" style="color:var(--amber)" id="rep-score">—</span> ]</span></div>
+        <div class="mn" style="font-size:10.5px;color:var(--cyan);letter-spacing:.16em">24H DELTA</div>
+        <div class="mn glow-red" id="rep-d24" style="font-size:12.5px;color:var(--red)">—</div>
+        <div class="mn" style="font-size:10.5px;color:var(--cyan);letter-spacing:.16em">SIGHTINGS (24H)</div>
+        <div class="mn" style="font-size:12.5px;color:#cdd1d8"><span class="glow-cyan" style="color:var(--cyan)" id="rep-sight">—</span></div>
+      </div>
+      <div class="row" style="gap:8px;flex-wrap:wrap;margin-top:18px">
+        <button class="btn-share btn-cyan">SAVE IMAGE</button>
+        <button class="btn-share btn-pink">SHARE TO X</button>
+        <button class="btn-share btn-blue">TELEGRAM</button>
+        <button class="btn-share btn-purple">DISCORD</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7-DAY TREND -->
+  <div class="sec">
+    <div class="sec-head"><div class="sec-title glow-cyan">[ 7-Day Trend ]</div></div>
+    <svg id="trend-svg" viewBox="0 0 1180 200" width="100%" height="200">
+      <defs>
+        <linearGradient id="chartFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFB347" stop-opacity="0.4"/><stop offset="100%" stop-color="#FFB347" stop-opacity="0"/></linearGradient>
+        <linearGradient id="chartLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7AFFD0"/><stop offset="60%" stop-color="#FFB347"/><stop offset="100%" stop-color="#FF5252"/></linearGradient>
+        <filter id="lineGlow1"><feGaussianBlur stdDeviation="3"/></filter>
+      </defs>
+      <line x1="0" y1="130" x2="1180" y2="130" stroke="#FFB347" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.4"/>
+      <line x1="0" y1="75" x2="1180" y2="75" stroke="#FF5252" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.4"/>
+      <text x="8" y="127" fill="#FFB347" font-size="9" font-family="JetBrains Mono,monospace" opacity="0.7">50 · ROSWELL</text>
+      <text x="8" y="72" fill="#FF5252" font-size="9" font-family="JetBrains Mono,monospace" opacity="0.7">70 · THEY'RE WATCHING</text>
+      <polyline id="trend-area" points="" fill="url(#chartFill)"/>
+      <polyline id="trend-glow" points="" fill="none" stroke="url(#chartLine)" stroke-width="2.5" opacity="0.55" filter="url(#lineGlow1)"/>
+      <polyline id="trend-line" points="" fill="none" stroke="url(#chartLine)" stroke-width="2"/>
+      <circle id="trend-now" cx="-10" cy="-10" r="5" fill="#FFB347" filter="url(#lineGlow1)"/>
+    </svg>
+  </div>
+
+  <!-- LIVE INTEL -->
+  <div class="sec">
+    <div class="sec-head">
+      <div class="sec-title glow-cyan">[ Live Intel Feed ]</div>
+      <span class="row" style="gap:6px"><span class="live-dot pulse"></span><span class="mn glow-cyan" style="font-size:10px;color:var(--cyan);letter-spacing:.18em">LIVE</span></span>
+    </div>
+    <div id="ticker-feed"><div class="loading">Loading intel…</div></div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="foot">
+    <div style="font-size:12px;color:var(--text-mute);margin-bottom:8px">Built and maintained by the <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="glow-cyan">Ayylien community ↗</a></div>
+    <div class="mn" style="font-size:10px;color:#3a3e47;letter-spacing:.16em">CREDIBILITY PARTNERS · <span style="color:var(--blue)">NASA</span> · <span style="color:var(--cyan)">NOAA</span> · <span style="color:var(--amber)">USGS</span> · <span style="color:var(--red)">GDELT</span> · <span style="color:var(--purple)">UFOSINT</span> · <span style="color:var(--yellow)">WIKIPEDIA</span> · <span style="color:var(--pink)">REDDIT</span> · <span style="color:var(--green)">BLUESKY</span></div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

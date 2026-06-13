@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Alien Sightings</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="sightings">
+<div class="wrap">
+
+  <div class="nav">
+    <div class="navtabs">
+      <a class="navtab" href="index.html">ALIEN ACTIVITY</a>
+      <a class="navtab active" href="sightings.html">▣ SIGHTINGS</a>
+      <a class="navtab" href="archives.html">ARCHIVES</a>
+    </div>
+    <div class="nav-right">
+      <span class="row" id="nav-pill" style="gap:6px"><span class="live-dot pulse"></span><span class="mn" style="font-size:10px;color:var(--cyan);letter-spacing:.16em">LIVE</span></span>
+      <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="comm-link glow-cyan">COMMUNITY ↗</a>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <div class="sec" style="padding-bottom:16px">
+    <div class="row" style="justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:10px">
+      <div>
+        <div class="kicker" style="margin-bottom:8px">// Global Alien Sightings</div>
+        <div style="font-size:13px;color:var(--text-dim);max-width:620px" id="load-note"><span class="glow-cyan" style="color:var(--cyan);font-weight:500" id="sight-count">—</span> sightings aggregated from <span class="glow-purple" style="color:var(--purple);font-weight:500">UFOSINT</span> · NUFORC · MUFON · UFOCAT · UPDB · r/UFOs.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SEARCH -->
+  <div class="sec" style="padding-bottom:14px">
+    <div class="row" style="background:var(--surface);border:1px solid rgba(122,255,208,0.3);box-shadow:0 0 22px rgba(122,255,208,0.07);border-radius:2px;padding:0">
+      <span style="padding:0 18px;color:var(--cyan);filter:drop-shadow(0 0 8px rgba(122,255,208,0.7));font-size:18px">⊕</span>
+      <input type="text" id="geo-input" placeholder="Postcode, city or address — e.g. BS1 4DJ, Bristol UK" class="mn" style="flex:1;background:transparent;border:none;color:var(--text);font-size:13.5px;padding:16px 0;outline:none;letter-spacing:.02em">
+      <button id="geo-btn" class="mn" style="background:linear-gradient(180deg,#7AFFD0,#5DD49C);color:#04060a;border:none;padding:16px 28px;font-size:11px;letter-spacing:.22em;font-weight:600;cursor:pointer;box-shadow:0 0 18px rgba(122,255,208,0.5)">SCAN ▸</button>
+    </div>
+  </div>
+
+  <!-- MAP -->
+  <div class="map-shell">
+    <div id="map"></div>
+    <div class="hud" style="top:84px;left:18px">
+      <div class="hud-label">VIEW MODE</div>
+      <div class="mn" style="font-size:11px;color:#cdd1d8">GLOBAL · SATELLITE</div>
+    </div>
+    <div class="hud" style="top:84px;right:18px;text-align:right">
+      <div class="hud-label">TOTAL CONTACTS</div>
+      <div class="mn glow-cyan" style="font-size:19px;color:var(--cyan);font-weight:500" id="sight-shown">—</div>
+      <div class="mn" style="font-size:9.5px;color:var(--text-mute);margin-top:2px">SHOWN ON MAP</div>
+    </div>
+    <div class="row mn" style="position:absolute;z-index:500;bottom:18px;left:18px;gap:14px;font-size:9.5px;color:var(--text-dim);background:rgba(4,6,10,0.8);border:1px solid rgba(255,255,255,0.07);padding:9px 13px;border-radius:2px;letter-spacing:.12em">
+      <span><span style="color:#FF5252;text-shadow:0 0 5px #FF5252">●</span> &lt; 24H</span>
+      <span><span style="color:#FFB347;text-shadow:0 0 5px #FFB347">●</span> &lt; 7D</span>
+      <span><span style="color:#7AFFD0;text-shadow:0 0 5px #7AFFD0">●</span> &lt; 30D</span>
+      <span><span style="color:#5AC8FF;text-shadow:0 0 5px #5AC8FF">●</span> OLDER</span>
+    </div>
+  </div>
+
+  <!-- FILTERS -->
+  <div class="sec" style="padding-top:16px;padding-bottom:16px">
+    <div class="row" id="shape-chips" style="gap:8px;flex-wrap:wrap">
+      <span class="mn" style="font-size:10px;color:var(--text-faint);letter-spacing:.22em;margin-right:6px">SHAPE</span>
+      <span class="chip active" data-shape="all">● ALL</span>
+      <span class="chip" data-shape="orb">○ ORB</span>
+      <span class="chip" data-shape="triangle">△ TRIANGLE</span>
+      <span class="chip" data-shape="disk">◇ DISK</span>
+      <span class="chip" data-shape="fireball">▽ FIREBALL</span>
+      <span class="chip" data-shape="other">⬡ OTHER</span>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div style="font-size:12px;color:var(--text-mute);margin-bottom:8px">Sightings data via <span class="glow-purple" style="color:var(--purple)">UFOSINT</span> · Map © OpenStreetMap, © CARTO · Built and maintained by the <a href="https://x.com/ayylmao_eth" target="_blank" rel="noopener" class="glow-cyan">Ayylien community ↗</a></div>
+    <div class="mn" style="font-size:10px;color:#3a3e47;letter-spacing:.16em">CREDIBILITY PARTNERS · <span style="color:var(--blue)">NASA</span> · <span style="color:var(--cyan)">NOAA</span> · <span style="color:var(--amber)">USGS</span> · <span style="color:var(--red)">GDELT</span> · <span style="color:var(--purple)">UFOSINT</span> · <span style="color:var(--yellow)">WIKIPEDIA</span> · <span style="color:var(--pink)">REDDIT</span> · <span style="color:var(--green)">BLUESKY</span></div>
+  </div>
+
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="app.js"></script>
+</body>
+</html>

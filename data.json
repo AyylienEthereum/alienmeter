@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-06-13T23:11:37.431158Z",
+  "score": 52.9,
+  "band": {
+    "name": "ROSWELL ENERGY",
+    "flavor": "trust nothing",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
+  },
+  "deltas": {
+    "d1h": 0.0,
+    "d24h": 0.0,
+    "peak90": 52.9
+  },
+  "contributing_factors": {
+    "news_velocity": 12.0,
+    "social_chatter": 9.0,
+    "geomagnetic": 7.2,
+    "solar_flares": 5.0,
+    "asteroid_approach": 5.9,
+    "search_interest": 7.4,
+    "space_weather_alerts": 2.4,
+    "seismic": 3.2,
+    "alien_variance": 0.8
+  },
+  "sightings_24h": 10,
+  "raw": {
+    "kp": 4.3,
+    "xray_class": "C",
+    "closest_asteroid_ld": 4.1,
+    "asteroid_name": "(2026 XX)",
+    "gdelt_spike_pct": 50.0,
+    "reddit_last_hour": 17,
+    "wiki_spike_pct": 46.3,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.4,
+    "swpc_alerts_24h": 2
+  },
+  "ticker": [
+    {
+      "type": "news",
+      "text": "Pentagon releases new UAP report to Congress",
+      "source": "reuters.com",
+      "url": "https://example.com/a"
+    },
+    {
+      "type": "reddit",
+      "text": "Bright orb over Phoenix tonight",
+      "source": "r/UFOs",
+      "url": "https://reddit.com/r/UFOs/x"
+    },
+    {
+      "type": "swpc",
+      "text": "G2 storm watch issued",
+      "source": "NOAA SWPC",
+      "url": null
+    },
+    {
+      "type": "swpc",
+      "text": "M-class flare observed",
+      "source": "NOAA SWPC",
+      "url": null
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: off the coast of Chile",
+      "source": "USGS",
+      "url": null
+    },
+    {
+      "type": "neo",
+      "text": "NEO (2026 XX) passing at 4.10 LD (~87m, 12.4 km/s)",
+      "source": "NASA NeoWs",
+      "url": null
+    }
+  ],
+  "history": [
+    {
+      "ts": "2026-06-13T23:11:37.429391Z",
+      "score": 52.9,
+      "band": "ROSWELL ENERGY",
+      "i": 3
+    }
+  ],
+  "sources": [
+    "NASA NeoWs",
+    "NOAA SWPC",
+    "USGS",
+    "GDELT 2.0",
+    "UFOSINT",
+    "Wikipedia",
+    "Reddit",
+    "Bluesky"
+  ]
+}
