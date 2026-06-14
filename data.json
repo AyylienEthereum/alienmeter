@@ -1,27 +1,26 @@
 {
-  "generated_at": "2026-06-14T22:21:54.434537Z",
-  "score": 51.5,
+  "generated_at": "2026-06-14T23:44:11.973864Z",
+  "score": 11.7,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
+    "emoji": "\ud83d\udfe2",
+    "min": 0
   },
   "deltas": {
-    "d1h": 34.7,
+    "d1h": -3.3,
     "d24h": 0.0,
     "peak90": 53.0
   },
   "contributing_factors": {
-    "news_velocity": 36,
     "social_chatter": 0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 3.6,
-    "alien_variance": 1.4
+    "alien_variance": 0.1
   },
   "sightings_total": 250,
   "daily_report": {
@@ -29,22 +28,22 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "22:21",
+    "generated_utc": "23:44",
     "top_drivers": [
-      "News velocity +551% vs 7-day baseline (GDELT)",
+      "Steven Spielberg  Disclosure Day  TOPS American box office with USD 92 . 9 million haul ;  Obsession  set to become highest grossing original film",
       "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 250
   },
   "raw": {
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "A",
     "closest_asteroid_ld": 26.8474702759,
     "asteroid_name": "(2013 BO27)",
-    "gdelt_spike_pct": 550.5448993559482,
+    "gdelt_spike_pct": null,
     "reddit_last_hour": 0,
     "wiki_spike_pct": 89.55685068226393,
     "earthquakes_24h": 0,
@@ -52,6 +51,66 @@
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  TOPS American box office with USD 92 . 9 million haul ;  Obsession  set to become highest grossing original film",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/steven-spielbergs-disclosure-day-tops-american-box-office-with-usd-92-9-million-haul-obsession-set-to-become-highest-grossing-original-film/articleshow/131728808.cms"
+    },
+    {
+      "type": "news",
+      "text": "Discs , orbs ,  heavenly  phenomena , more revealed in 3rd batch of declassified UFO files",
+      "source": "sott.net",
+      "url": "https://www.sott.net/article/506879-Discs-orbs-heavenly-phenomena-more-revealed-in-3rd-batch-of-declassified-UFO-files"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "dailygazette.com",
+      "url": "https://www.dailygazette.com/ade/ap/business/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_0518fbfe-edbe-5d4a-a0d6-e9a6866be725.html"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "isp.netscape.com",
+      "url": "https://isp.netscape.com:443/entertainment/story/0001/20260614/2afc250609da00480bdaaab5fca1e573"
+    },
+    {
+      "type": "news",
+      "text": "La historia real de ovnis que impact\u00f3 a Spielberg y volvi\u00f3 a encender el misterio",
+      "source": "elgrafico.mx",
+      "url": "https://www.elgrafico.mx/opinion/yohanan-diaz-vargas/2026/06/14/la-historia-real-de-ovnis-que-impacto-a-spielberg-y-volvio-a-encender-el-misterio/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "isp.netscape.com",
+      "url": "https://isp.netscape.com:443/news/story/0001/20260614/2afc250609da00480bdaaab5fca1e573"
+    },
+    {
+      "type": "news",
+      "text": "  Disclosure Day  tops North American box office with $44M",
+      "source": "upi.com",
+      "url": "https://www.upi.com/Entertainment_News/Movies/2026/06/14/disclosure-day-tops-north-american-box-office/9581781453154/"
+    },
+    {
+      "type": "news",
+      "text": "OK , let talk about that mad Disclosure Day ending",
+      "source": "gq-magazine.co.uk",
+      "url": "https://www.gq-magazine.co.uk/article/ok-lets-talk-about-that-mad-disclosure-day-ending"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "medicinehatnews.com",
+      "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
+    },
+    {
+      "type": "news",
+      "text": "Deadline",
+      "source": "deadline.com",
+      "url": "https://deadline.com/print-article/1236955776/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -161,6 +220,12 @@
       "score": 51.5,
       "band": "ROSWELL ENERGY",
       "i": 3
+    },
+    {
+      "ts": "2026-06-14T23:44:11.972891Z",
+      "score": 11.7,
+      "band": "NOTHINGBURGER",
+      "i": 0
     }
   ],
   "sources": [
