@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-14T18:09:00.931469Z",
-  "score": 15.0,
+  "generated_at": "2026-06-14T19:57:00.558656Z",
+  "score": 13.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -4.0,
+    "d1h": -1.3,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 4.8,
-    "alien_variance": -0.3
+    "alien_variance": -1.9
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,13 +28,14 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "18:09",
+    "generated_utc": "19:57",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 250
   },
   "raw": {
@@ -50,6 +51,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ra306p6nkka7m2is9r7bm1far6"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg career has been an alien crusade culminating in  Disclosure Day  ",
+      "source": "keyt.com",
+      "url": "https://keyt.com/lifestyle/entertainment/cnn-entertainment/2026/06/14/steven-spielbergs-career-has-been-an-alien-crusade-culminating-in-disclosure-day-2/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_f2e22ee6-a847-5f7c-9a7f-120c33ac8ffd.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0sv36b4muaj451o5i38vvbpg96"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "voiceofalexandria.com",
+      "url": "https://www.voiceofalexandria.com/entertainment/celebrity_news/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_eed77f80-ecf8-53c6-a6c9-87438c49aec2.html"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/entertainment/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg Scrapped A  Porgy And Bes Film With Colman Domingo",
+      "source": "deadline.com",
+      "url": "https://deadline.com/2026/06/steven-spielberg-porgy-and-bess-movie-colman-domingo-1236955776/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "therecord.com",
+      "url": "https://www.therecord.com/business/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_7f11f395-2ad3-5024-acbe-6743b35e78d7.html"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "ksat.com",
+      "url": "https://www.ksat.com/entertainment/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
+      "source": "reflector.com",
+      "url": "http://www.reflector.com/news/national/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_bfc60e8c-6c56-510c-88fe-174115d40da4.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -141,6 +202,12 @@
       "score": 15.0,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
+    },
+    {
+      "ts": "2026-06-14T19:57:00.557668Z",
+      "score": 13.4,
+      "band": "NOTHINGBURGER",
+      "i": 0
     }
   ],
   "sources": [
