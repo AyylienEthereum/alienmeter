@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-14T16:53:59.345167Z",
-  "score": 16.8,
+  "generated_at": "2026-06-14T18:09:00.931469Z",
+  "score": 15.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.5,
+    "d1h": -4.0,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 4.8,
-    "alien_variance": 1.5
+    "alien_variance": -0.3
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,7 +28,7 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "16:53",
+    "generated_utc": "18:09",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +90% above baseline",
@@ -133,6 +133,12 @@
     {
       "ts": "2026-06-14T16:53:59.344090Z",
       "score": 16.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-14T18:09:00.930483Z",
+      "score": 15.0,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
     }
