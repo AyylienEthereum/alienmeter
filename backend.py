@@ -358,18 +358,18 @@ def build_ticker(f):
     for p in f.get("reddit", {}).get("items", [])[:6]:
         t.append({"type": "reddit", "text": p["title"], "source": f"r/{p['sub']}", "url": p["url"]})
     for msg in (f.get("alerts") or {}).get("latest", [])[:3]:
-        t.append({"type": "swpc", "text": msg, "source": "NOAA SWPC", "url": None})
+        t.append({"type": "swpc", "text": msg, "source": "NOAA SWPC", "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"})
     q = f.get("quakes") or {}
     for place in q.get("places", [])[:2]:
-        t.append({"type": "seismic", "text": f"Significant seismic event: {place}", "source": "USGS", "url": None})
+        t.append({"type": "seismic", "text": f"Significant seismic event: {place}", "source": "USGS", "url": "https://earthquake.usgs.gov/earthquakes/map/"})
     n = f.get("neo") or {}
     if n.get("closest"):
         c = n["closest"]
         t.append({
             "type": "neo",
-            "text": f"NEO {c['name']} passing at {c['ld']:.2f} LD (~{c['diameter_m']:.0f}m, {c['velocity_kps']:.1f} km/s)" + (" — PHA" if c["hazardous"] else ""),
+            "text": f"NEO {c['name']} passing at {c['ld']:.2f} LD (~{c['diameter_m']:.0f}m, {c['velocity_kps']:.1f} km/s)" + (" \u2014 PHA" if c["hazardous"] else ""),
             "source": "NASA NeoWs",
-            "url": None,
+            "url": "https://cneos.jpl.nasa.gov/ca/",
         })
     return t
 
@@ -409,7 +409,7 @@ def mock_factors():
         "alerts":         {"count": 2, "latest": ["G2 storm watch issued", "M-class flare observed"]},
         "neo":            {"closest": {"ld": 4.1, "name": "(2026 XX)", "diameter_m": 87, "hazardous": False, "velocity_kps": 12.4}, "count": 5},
         "gdelt_volume":   {"latest": 0.18, "baseline": 0.12, "z": 1.6, "spike_pct": 50.0},
-        "gdelt_articles": [{"title": "Pentagon releases new UAP report to Congress", "url": "https://example.com/a", "source": "reuters.com", "time": "20260527T000000Z"}],
+        "gdelt_articles": [{"title": "Pentagon releases new UAP report to Congress", "url": "https://www.reuters.com/", "source": "reuters.com", "time": "20260527T000000Z"}],
         "reddit":         {"last_hour": 17, "items": [{"title": "Bright orb over Phoenix tonight", "url": "https://reddit.com/r/UFOs/x", "sub": "UFOs", "score": 412, "time": 1700000000}]},
         "wiki":           {"yesterday": 12000, "baseline": 8200, "spike_pct": 46.3},
         "quakes":         {"count": 1, "max_mag": 6.4, "places": ["off the coast of Chile"]},
@@ -492,6 +492,64 @@ def mock_sightings():
              "country": ctry, "summary": f"{w} witnesses reported anomalous activity.",
              "source": "UFOSINT/NUFORC"} for (la, lo, sh, c, ctry, w) in pts]
 
+# ---------- daily report (for the briefing card) ----------
+ASSESSMENTS = {
+    5: "Anomalous signal is off the charts across every monitored source. If you were waiting for a sign, this is it. Recommend you look up.",
+    4: "Multiple independent sources are spiking in unison. Something is driving sustained, coordinated anomalous activity. Heightened surveillance advised.",
+    3: "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    2: "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    1: "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    0: "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+}
+
+def build_daily_report(score, band, deltas, factors, history, sightings_total):
+    now = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None)
+    # surveillance day = number of distinct calendar days we have data for (grows over time)
+    days = {p["ts"][:10] for p in history if p.get("ts")}
+    day_n = max(1, len(days))
+
+    drivers = []
+    art = (factors.get("gdelt_articles") or [])
+    if art and art[0].get("title"):
+        drivers.append(art[0]["title"])
+    gv = factors.get("gdelt_volume") or {}
+    if gv.get("spike_pct", 0) > 10:
+        drivers.append(f"News velocity +{gv['spike_pct']:.0f}% vs 7-day baseline (GDELT)")
+    rd = factors.get("reddit") or {}
+    if rd.get("last_hour"):
+        drivers.append(f"r/UFOs + r/aliens activity: {rd['last_hour']} posts/hr")
+    al = factors.get("alerts") or {}
+    if al.get("count"):
+        drivers.append(f"NOAA space-weather alerts active: {al['count']}")
+    wk = factors.get("wiki") or {}
+    if wk.get("spike_pct", 0) > 5:
+        drivers.append(f"Wikipedia UFO pageviews +{wk['spike_pct']:.0f}% above baseline")
+    neo = (factors.get("neo") or {}).get("closest")
+    if neo:
+        drivers.append(f"NEO {neo['name']} passing Earth at {neo['ld']:.1f} lunar distances")
+    if not drivers:
+        drivers = ["Background monitoring \u2014 no significant drivers in the last cycle."]
+
+    return {
+        "number": day_n,
+        "day": day_n,
+        "date": now.strftime("%d.%m.%Y"),
+        "declassified": now.strftime("%d.%m.%y"),
+        "generated_utc": now.strftime("%H:%M"),
+        "top_drivers": drivers[:4],
+        "assessment": ASSESSMENTS.get(band["index"], ASSESSMENTS[3]),
+        "sightings_total": sightings_total,
+    }
+
+def load_sightings_count():
+    """Sightings are a static committed dataset (not refetched each cron). Just read the count."""
+    if SIGHT.exists():
+        try:
+            return json.loads(SIGHT.read_text()).get("count", 0)
+        except Exception:
+            return 0
+    return 0
+
 # ---------- main ----------
 def main():
     print(f"[{dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat()}Z] AYYLIEN threat meter — fetching…")
@@ -516,12 +574,8 @@ def main():
     ticker  = build_ticker(factors)
     history = update_history(score, band)
     deltas  = compute_deltas(history, score)
-    sightings = get_sightings()
-    SIGHT.write_text(json.dumps({
-        "generated_at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat() + "Z",
-        "count": len(sightings),
-        "sightings": sightings,
-    }))
+    sightings_total = load_sightings_count()
+    report  = build_daily_report(score, band, deltas, factors, history, sightings_total)
 
     output = {
         "generated_at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat() + "Z",
@@ -529,7 +583,8 @@ def main():
         "band":         band,            # {name, flavor, index, color, emoji, min}
         "deltas":       deltas,          # {d1h, d24h, peak90}
         "contributing_factors": contrib,
-        "sightings_24h": len(sightings),
+        "sightings_total": sightings_total,
+        "daily_report": report,
         "raw": {
             "kp":                       (factors["kp"] or {}).get("value"),
             "xray_class":               (factors["xray"] or {}).get("class"),
@@ -553,7 +608,8 @@ def main():
     OUT.write_text(json.dumps(output, indent=2))
     print(f"  score={score}  band={band['name']}  ({band['flavor']})")
     print(f"  deltas: 1h={deltas['d1h']:+}  24h={deltas['d24h']:+}  peak90={deltas['peak90']}")
-    print(f"  wrote {OUT} ({OUT.stat().st_size}b), {SIGHT} ({SIGHT.stat().st_size}b)")
+    print(f"  report #{report['number']}  drivers={len(report['top_drivers'])}  sightings_db={sightings_total}")
+    print(f"  wrote {OUT} ({OUT.stat().st_size}b)")
     print(f"  history points: {len(history)}")
 
 if __name__ == "__main__":

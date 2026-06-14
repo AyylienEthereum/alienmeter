@@ -132,11 +132,24 @@ function initIndex(data) {
     }).join("");
   }
 
-  // daily report quick fields
-  if ($("#rep-band")) $("#rep-band").textContent = data.band.name;
-  if ($("#rep-score")) $("#rep-score").textContent = Math.round(score);
-  if ($("#rep-d24")) $("#rep-d24").textContent = "\u25b2 " + fmt(data.deltas ? data.deltas.d24h : 0);
-  if ($("#rep-sight")) $("#rep-sight").textContent = (data.sightings_24h||0);
+  // daily report card
+  const rep = data.daily_report || {};
+  const setTxt = (id,v)=>{ const e=$("#"+id); if(e) e.textContent=v; };
+  setTxt("rep-band", data.band.name);
+  setTxt("rep-score", Math.round(score));
+  setTxt("rep-d24", "\u25b2 " + fmt(data.deltas ? data.deltas.d24h : 0));
+  setTxt("rep-sight", (data.sightings_total||0).toLocaleString());
+  setTxt("rep-number", "#" + (rep.number ?? "\u2014"));
+  setTxt("rep-daystamp", "DAY " + (rep.day ?? "\u2014") + " OF SURVEILLANCE \u00b7 " + (rep.date || ""));
+  setTxt("rep-declass", rep.declassified || "");
+  setTxt("rep-utc", rep.generated_utc || "");
+  setTxt("rep-assessment", "\u201c" + (rep.assessment || "") + "\u201d");
+  const drv = $("#rep-drivers");
+  if (drv && rep.top_drivers) {
+    drv.innerHTML = rep.top_drivers.map((d,i)=>
+      `<div><span class="glow-amber" style="color:var(--amber)">${String(i+1).padStart(2,"0")}</span> \u00b7 ${escapeHTML(d)}</div>`).join("");
+  }
+  wireShare(data);
 
   // 7-day chart
   drawTrend($("#trend-svg"), data.history || []);
@@ -156,6 +169,47 @@ function initIndex(data) {
 }
 
 function escapeHTML(s){ return String(s).replace(/[&<>"']/g, c=>({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;" }[c])); }
+
+/* share + save-image actions on the daily report card */
+function wireShare(data) {
+  const url   = window.location.origin + window.location.pathname;
+  const emoji = (data.band && data.band.emoji) || "\uD83D\uDC7D";
+  const text  = `Global Alien Activity Index: ${Math.round(data.score)} \u2014 ${data.band.name} ${emoji} "${data.band.flavor}"`;
+  const note  = $("#share-note");
+  const flash = (m)=>{ if(note){ note.textContent=m; setTimeout(()=>note.textContent="",2500);} };
+
+  const x = $("#btn-x");
+  if (x) x.onclick = () => window.open(
+    "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url),
+    "_blank","noopener,width=600,height=500");
+
+  const tg = $("#btn-tg");
+  if (tg) tg.onclick = () => window.open(
+    "https://t.me/share/url?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(text),
+    "_blank","noopener,width=600,height=500");
+
+  // Discord has no share-intent URL, so copy a ready-to-paste message to clipboard.
+  const dc = $("#btn-dc");
+  if (dc) dc.onclick = async () => {
+    try { await navigator.clipboard.writeText(text + " " + url); flash("COPIED \u2014 PASTE IN DISCORD"); }
+    catch(e){ flash("COPY FAILED"); }
+  };
+
+  const save = $("#btn-save");
+  if (save) save.onclick = async () => {
+    const card = $("#report-card");
+    if (!card || typeof html2canvas === "undefined") { flash("IMAGE LIB NOT LOADED"); return; }
+    flash("RENDERING\u2026");
+    try {
+      const canvas = await html2canvas(card, { backgroundColor:"#0a0d12", scale:2, useCORS:true, logging:false });
+      const a = document.createElement("a");
+      a.href = canvas.toDataURL("image/png");
+      a.download = "ayylien-report-" + (data.daily_report && data.daily_report.number || "x") + ".png";
+      a.click();
+      flash("SAVED \u2014 ATTACH IT TO YOUR POST");
+    } catch(e){ console.error(e); flash("RENDER FAILED"); }
+  };
+}
 
 /* downsampled trend polyline into an existing <svg> with viewBox 0 0 1180 200 */
 function drawTrend(svg, hist) {
