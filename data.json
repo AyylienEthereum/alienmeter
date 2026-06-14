@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-14T15:18:52.286812Z",
-  "score": 13.8,
+  "generated_at": "2026-06-14T16:53:59.345167Z",
+  "score": 16.8,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.3,
+    "d1h": -2.5,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 4.8,
-    "alien_variance": -1.5
+    "alien_variance": 1.5
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,13 +28,13 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "15:18",
+    "generated_utc": "16:53",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 250
   },
   "raw": {
@@ -129,6 +129,12 @@
       "score": 13.8,
       "band": "NOTHINGBURGER",
       "i": 0
+    },
+    {
+      "ts": "2026-06-14T16:53:59.344090Z",
+      "score": 16.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
     }
   ],
   "sources": [
