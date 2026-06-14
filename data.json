@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-06-14T19:57:00.558656Z",
-  "score": 13.4,
+  "generated_at": "2026-06-14T21:10:43.994574Z",
+  "score": 53.0,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
-    "emoji": "\ud83d\udfe2",
-    "min": 0
+    "name": "ROSWELL ENERGY",
+    "flavor": "something in the air tonight",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": -1.3,
+    "d1h": 39.2,
     "d24h": 0.0,
-    "peak90": 52.9
+    "peak90": 53.0
   },
   "contributing_factors": {
+    "news_velocity": 36,
     "social_chatter": 0,
     "solar_flares": 2.5,
     "asteroid_approach": 0,
     "search_interest": 8,
-    "space_weather_alerts": 4.8,
-    "alien_variance": -1.9
+    "space_weather_alerts": 3.6,
+    "alien_variance": 2.9
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,14 +29,14 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "19:57",
+    "generated_utc": "21:10",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "NOAA space-weather alerts active: 4",
+      "News velocity +430% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 250
   },
   "raw": {
@@ -43,74 +44,14 @@
     "xray_class": "B",
     "closest_asteroid_ld": 26.8474702759,
     "asteroid_name": "(2013 BO27)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 430.19509766736206,
     "reddit_last_hour": 0,
     "wiki_spike_pct": 89.55685068226393,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ra306p6nkka7m2is9r7bm1far6"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg career has been an alien crusade culminating in  Disclosure Day  ",
-      "source": "keyt.com",
-      "url": "https://keyt.com/lifestyle/entertainment/cnn-entertainment/2026/06/14/steven-spielbergs-career-has-been-an-alien-crusade-culminating-in-disclosure-day-2/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_f2e22ee6-a847-5f7c-9a7f-120c33ac8ffd.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0sv36b4muaj451o5i38vvbpg96"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "voiceofalexandria.com",
-      "url": "https://www.voiceofalexandria.com/entertainment/celebrity_news/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_eed77f80-ecf8-53c6-a6c9-87438c49aec2.html"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/entertainment/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg Scrapped A  Porgy And Bes Film With Colman Domingo",
-      "source": "deadline.com",
-      "url": "https://deadline.com/2026/06/steven-spielberg-porgy-and-bess-movie-colman-domingo-1236955776/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "therecord.com",
-      "url": "https://www.therecord.com/business/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_7f11f395-2ad3-5024-acbe-6743b35e78d7.html"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "ksat.com",
-      "url": "https://www.ksat.com/entertainment/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "reflector.com",
-      "url": "http://www.reflector.com/news/national/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_bfc60e8c-6c56-510c-88fe-174115d40da4.html"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -208,6 +149,12 @@
       "score": 13.4,
       "band": "NOTHINGBURGER",
       "i": 0
+    },
+    {
+      "ts": "2026-06-14T21:10:43.993543Z",
+      "score": 53.0,
+      "band": "ROSWELL ENERGY",
+      "i": 3
     }
   ],
   "sources": [
