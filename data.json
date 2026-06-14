@@ -1,108 +1,98 @@
 {
-  "generated_at": "2026-06-14T00:25:53.225490Z",
-  "score": 53.3,
+  "generated_at": "2026-06-14T00:42:04.426205Z",
+  "score": 17.9,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "they might be cooking",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
     "d1h": 0.0,
     "d24h": 0.0,
-    "peak90": 53.3
+    "peak90": 52.9
   },
   "contributing_factors": {
-    "news_velocity": 12.0,
-    "social_chatter": 9.0,
-    "geomagnetic": 7.2,
-    "solar_flares": 5.0,
-    "asteroid_approach": 5.9,
-    "search_interest": 7.4,
-    "space_weather_alerts": 2.4,
-    "seismic": 3.2,
-    "alien_variance": 1.2
+    "social_chatter": 0,
+    "solar_flares": 2.5,
+    "asteroid_approach": 0,
+    "search_interest": 8,
+    "space_weather_alerts": 4.8,
+    "alien_variance": 2.6
   },
   "sightings_total": 250,
   "daily_report": {
-    "number": 1,
-    "day": 1,
+    "number": 2,
+    "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "00:25",
+    "generated_utc": "00:42",
     "top_drivers": [
-      "Pentagon releases new UAP report to Congress",
-      "News velocity +50% vs 7-day baseline (GDELT)",
-      "r/UFOs + r/aliens activity: 17 posts/hr",
-      "NOAA space-weather alerts active: 2"
+      "NOAA space-weather alerts active: 4",
+      "Wikipedia UFO pageviews +76% above baseline",
+      "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 250
   },
   "raw": {
-    "kp": 4.3,
-    "xray_class": "C",
-    "closest_asteroid_ld": 4.1,
-    "asteroid_name": "(2026 XX)",
-    "gdelt_spike_pct": 50.0,
-    "reddit_last_hour": 17,
-    "wiki_spike_pct": 46.3,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.4,
-    "swpc_alerts_24h": 2
+    "kp": null,
+    "xray_class": "B",
+    "closest_asteroid_ld": 26.8474702759,
+    "asteroid_name": "(2013 BO27)",
+    "gdelt_spike_pct": null,
+    "reddit_last_hour": 0,
+    "wiki_spike_pct": 75.87836464741635,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Pentagon releases new UAP report to Congress",
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/"
-    },
-    {
-      "type": "reddit",
-      "text": "Bright orb over Phoenix tonight",
-      "source": "r/UFOs",
-      "url": "https://reddit.com/r/UFOs/x"
-    },
-    {
       "type": "swpc",
-      "text": "G2 storm watch issued",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5365\r Issue Time: 2026 Jun 13 2356 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "M-class flare observed",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2666\r Issue Time: 2026 Jun 13 2101 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "seismic",
-      "text": "Significant seismic event: off the coast of Chile",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3699\r Issue Time: 2026 Jun 13 1333 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
-      "text": "NEO (2026 XX) passing at 4.10 LD (~87m, 12.4 km/s)",
+      "text": "NEO (2013 BO27) passing at 26.85 LD (~90m, 14.7 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
     {
-      "ts": "2026-06-14T00:25:14.938909Z",
-      "score": 49.1,
-      "band": "THAT'S WEIRD",
-      "i": 2
-    },
-    {
-      "ts": "2026-06-14T00:25:53.221279Z",
-      "score": 53.3,
+      "ts": "2026-06-13T23:11:37.429391Z",
+      "score": 52.9,
       "band": "ROSWELL ENERGY",
       "i": 3
+    },
+    {
+      "ts": "2026-06-14T00:32:14.822065Z",
+      "score": 17.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-14T00:42:04.425247Z",
+      "score": 17.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
     }
   ],
   "sources": [
