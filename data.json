@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-14T00:42:48.908676Z",
-  "score": 18.2,
+  "generated_at": "2026-06-14T05:20:11.349477Z",
+  "score": 14.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 0.0,
+    "d1h": -38.8,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -19,8 +19,8 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0,
     "search_interest": 8,
-    "space_weather_alerts": 4.8,
-    "alien_variance": 2.9
+    "space_weather_alerts": 3.6,
+    "alien_variance": -0.0
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,14 +28,13 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "00:42",
+    "generated_utc": "05:20",
     "top_drivers": [
-      "Spielberg ailen film Disclosure Day could be  cursed , priest says",
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +76% above baseline",
+      "NOAA space-weather alerts active: 3",
+      "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 250
   },
   "raw": {
@@ -45,72 +44,12 @@
     "asteroid_name": "(2013 BO27)",
     "gdelt_spike_pct": null,
     "reddit_last_hour": 0,
-    "wiki_spike_pct": 75.87836464741635,
+    "wiki_spike_pct": 89.55685068226393,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Spielberg ailen film Disclosure Day could be  cursed , priest says",
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/06/13/entertainment/spielbergs-ailen-film-disclosure-day-could-be-cursed-priest-says/"
-    },
-    {
-      "type": "news",
-      "text": "1896 : Mysterious Airships [ 22 : 52 ] ",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4383655/posts"
-    },
-    {
-      "type": "news",
-      "text": "News Briefing : Church in the World",
-      "source": "thetablet.co.uk",
-      "url": "https://www.thetablet.co.uk/news/news-briefing-church-in-the-world-79/"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/0ba76303-4948-5e2d-b843-bf76c9d0209c/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/b0da5231-1b00-5217-bded-0e3e0ad9fdf7/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "When Is  Disclosure Day  Coming To Streaming ? ",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/timlammers/2026/06/13/why-the-disclosure-day-streaming-release-wont-likely-follow-universals-new-pvod-strategy/"
-    },
-    {
-      "type": "news",
-      "text": "Evidence of the Unexplained",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/6582fe6a-99b8-5fc3-baac-f8adcbc2bb80/evidence-of-the-unexplained"
-    },
-    {
-      "type": "news",
-      "text": "Forza Italia in Abruzzo | il balzo dal 8 % al 14 % e il nuovo slancio",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-06-13/forza-italia-in-abruzzo-il-balzo-dal-8-al-14-e-il-nuovo-slancio/19340943/"
-    },
-    {
-      "type": "news",
-      "text": "Inside the Octagon at the White House",
-      "source": "foxla.com",
-      "url": "https://www.foxla.com/news/inside-octagon-white-house"
-    },
-    {
-      "type": "news",
-      "text": "How Alien Conspiracy Theory Brought America Back to Magical Thinking",
-      "source": "variety.com",
-      "url": "https://variety.com/2026/film/columns/how-alien-conspiracy-theory-got-respectable-disclosure-day-1236780665/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5365\r Issue Time: 2026 Jun 13 2356 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -160,6 +99,12 @@
       "score": 18.2,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
+    },
+    {
+      "ts": "2026-06-14T05:20:11.348514Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0
     }
   ],
   "sources": [
