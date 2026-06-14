@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T21:10:43.994574Z",
-  "score": 53.0,
+  "generated_at": "2026-06-14T22:21:54.434537Z",
+  "score": 51.5,
   "band": {
     "name": "ROSWELL ENERGY",
     "flavor": "something in the air tonight",
@@ -10,7 +10,7 @@
     "min": 50
   },
   "deltas": {
-    "d1h": 39.2,
+    "d1h": 34.7,
     "d24h": 0.0,
     "peak90": 53.0
   },
@@ -21,7 +21,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 3.6,
-    "alien_variance": 2.9
+    "alien_variance": 1.4
   },
   "sightings_total": 250,
   "daily_report": {
@@ -29,9 +29,9 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "21:10",
+    "generated_utc": "22:21",
     "top_drivers": [
-      "News velocity +430% vs 7-day baseline (GDELT)",
+      "News velocity +551% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
@@ -44,7 +44,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 26.8474702759,
     "asteroid_name": "(2013 BO27)",
-    "gdelt_spike_pct": 430.19509766736206,
+    "gdelt_spike_pct": 550.5448993559482,
     "reddit_last_hour": 0,
     "wiki_spike_pct": 89.55685068226393,
     "earthquakes_24h": 0,
@@ -153,6 +153,12 @@
     {
       "ts": "2026-06-14T21:10:43.993543Z",
       "score": 53.0,
+      "band": "ROSWELL ENERGY",
+      "i": 3
+    },
+    {
+      "ts": "2026-06-14T22:21:54.433726Z",
+      "score": 51.5,
       "band": "ROSWELL ENERGY",
       "i": 3
     }
