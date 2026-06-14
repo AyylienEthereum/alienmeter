@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T08:53:08.262106Z",
-  "score": 19.3,
+  "generated_at": "2026-06-14T11:26:29.724021Z",
+  "score": 19.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,7 +10,7 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.1,
+    "d1h": 1.1,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 4.8,
-    "alien_variance": 4.0
+    "alien_variance": 3.7
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,9 +28,8 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "08:53",
+    "generated_utc": "11:26",
     "top_drivers": [
-      "O Pent\u00e1gono desclasifica un terceiro lote con 72 arquivos sobre UAP : m\u00e1is de 1 . 700 mill\u00f3ns de visitas \u00e1 web oficial",
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +90% above baseline",
       "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
@@ -51,66 +50,6 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "O Pent\u00e1gono desclasifica un terceiro lote con 72 arquivos sobre UAP : m\u00e1is de 1 . 700 mill\u00f3ns de visitas \u00e1 web oficial",
-      "source": "xornalgalicia.com",
-      "url": "https://xornalgalicia.com/hoy/o-pentagono-desclasifica-un-terceiro-lote-con-72-arquivos-sobre-uap-mais-de-1-700-millons-de-visitas-a-web-oficial"
-    },
-    {
-      "type": "news",
-      "text": "Darby Allin returns to attack Kevin Knight , Mark Briscoe gets closer to MJF title , and more from  Dynamite  ",
-      "source": "foxwilmington.com",
-      "url": "https://foxwilmington.com/darby-allin-returns-to-attack-kevin-knight-mark-briscoe-gets-closer-to-mjfs-title-and-more-from-dynamite/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4u195oe347adiviqa3sr3teki0"
-    },
-    {
-      "type": "news",
-      "text": "\u0422\u0440\u0430\u043c\u043f \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b \u043e\u043a\u0442\u0430\u0433\u043e\u043d UFC \u043d\u0430 \u043b\u0443\u0436\u0430\u0439\u043a\u0435 \u0411\u0435\u043b\u043e\u0433\u043e \u0434\u043e\u043c\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e 80 - \u043b\u0435\u0442\u0438\u044f",
-      "source": "wek.ru",
-      "url": "https://wek.ru/tramp-prevratil-luzhajku-prezidentskoj-rezidencii-v-arenu-dlya-mma"
-    },
-    {
-      "type": "news",
-      "text": "CIA was  extraordinarily  evasive with UFO scientist , new US files say",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/news/science/articles/cia-extraordinarily-evasive-ufo-scientist-171522357.html"
-    },
-    {
-      "type": "news",
-      "text": "Latest Articles",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/tag/*/index?more=4383657"
-    },
-    {
-      "type": "news",
-      "text": "As UFOs go mainstream , the jury is out on what the existence of alien life might mean for religion",
-      "source": "wthitv.com",
-      "url": "https://www.wthitv.com:443/2026/06/13/ufos-go-mainstream-jury-is-out-what-existence-alien-life-might-mean-religion/"
-    },
-    {
-      "type": "news",
-      "text": "Il primo a credere agli alieni \u00e8 Steven Spielberg",
-      "source": "ilpost.it",
-      "url": "https://www.ilpost.it/2026/06/11/alieni-steven-spielberg-disclosure-day/?homepagePosition=26.1&referrerPost=3603918"
-    },
-    {
-      "type": "news",
-      "text": "As UFOs go mainstream , the jury is out on what the existence of alien life might mean for religion",
-      "source": "actionnews5.com",
-      "url": "https://www.actionnews5.com/2026/06/13/ufos-go-mainstream-jury-is-out-what-existence-alien-life-might-mean-religion/"
-    },
-    {
-      "type": "news",
-      "text": "\u041b\u0435\u0442\u0447\u0438\u043a \u0421\u044b\u0442\u043d\u0438\u043a \u0441\u043a\u0430\u0437\u0430\u043b , \u043a\u0430\u043a\u0438\u0435 \u041d\u041b\u041e \u043a\u0443\u0440\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043c\u0435\u0436\u0434\u0443 \u041c\u043e\u0441\u043a\u0432\u043e\u0439 \u0438 \u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442\u043e\u043c",
-      "source": "aif.ru",
-      "url": "https://aif.ru/politics/letchik-sytnik-skazal-kakie-nlo-kursirovali-mezhdu-moskvoy-i-budapeshtom"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 276\r Issue Time: 2026 Jun 14 0830 UTC\r \r CANCELLED WATCH: Geomagnetic Storm Category G2 P",
@@ -170,6 +109,12 @@
     {
       "ts": "2026-06-14T08:53:08.261170Z",
       "score": 19.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-14T11:26:29.723232Z",
+      "score": 19.0,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
     }
