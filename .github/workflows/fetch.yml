@@ -1,0 +1,48 @@
+name: fetch-threat-level
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes
+  workflow_dispatch:           # manual trigger button in Actions tab
+  push:
+    branches: [main]
+    paths: ['backend.py', '.github/workflows/fetch.yml']
+
+# Allow the workflow to commit data.json back to the repo
+permissions:
+  contents: write
+
+# Cancel an in-flight run if another is queued
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run fetcher
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python3 backend.py
+
+      - name: Commit data.json and history.json
+        run: |
+          git config user.name  "ayylien-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json history.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
