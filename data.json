@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T13:13:30.309573Z",
-  "score": 14.7,
+  "generated_at": "2026-06-14T15:18:52.286812Z",
+  "score": 13.8,
   "band": {
     "name": "NOTHINGBURGER",
     "flavor": "the aliens are sleeping",
@@ -10,7 +10,7 @@
     "min": 0
   },
   "deltas": {
-    "d1h": -3.5,
+    "d1h": -0.3,
     "d24h": 0.0,
     "peak90": 52.9
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 4.8,
-    "alien_variance": -0.6
+    "alien_variance": -1.5
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,7 +28,7 @@
     "day": 2,
     "date": "14.06.2026",
     "declassified": "14.06.26",
-    "generated_utc": "13:13",
+    "generated_utc": "15:18",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +90% above baseline",
@@ -52,6 +52,12 @@
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 276\r Issue Time: 2026 Jun 14 0830 UTC\r \r CANCELLED WATCH: Geomagnetic Storm Category G2 P",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
@@ -59,12 +65,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5365\r Issue Time: 2026 Jun 13 2356 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2666\r Issue Time: 2026 Jun 13 2101 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -121,6 +121,12 @@
     {
       "ts": "2026-06-14T13:13:30.308608Z",
       "score": 14.7,
+      "band": "NOTHINGBURGER",
+      "i": 0
+    },
+    {
+      "ts": "2026-06-14T15:18:52.285900Z",
+      "score": 13.8,
       "band": "NOTHINGBURGER",
       "i": 0
     }
