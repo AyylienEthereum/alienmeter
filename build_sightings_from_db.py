@@ -7,7 +7,7 @@ UFOSINT asks people to use the SQLite download rather than scrape the rate-limit
 3. Commit the regenerated sightings.json
 
 The script introspects the 'sighting' table and auto-detects lat/lon/shape/city/date
-columns, so it tolerates minor schema changes. Default sample: 2500 geocoded points
+columns, so it tolerates minor schema changes. Default sample: 25,000 geocoded points
 spread across the globe (more than that bloats the static file the browser must load).
 """
 import sys, json, sqlite3, random, datetime as dt
@@ -26,7 +26,7 @@ def main():
         print("usage: python3 build_sightings_from_db.py /path/to/ufo_public.db [max_points]")
         sys.exit(1)
     db = sys.argv[1]
-    cap = int(sys.argv[2]) if len(sys.argv) > 2 else 2500
+    cap = int(sys.argv[2]) if len(sys.argv) > 2 else 25000
 
     con = sqlite3.connect(db); con.row_factory = sqlite3.Row
     cols = [r[1] for r in con.execute("PRAGMA table_info(sighting)").fetchall()]

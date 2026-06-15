@@ -1,176 +1,108 @@
 {
-  "generated_at": "2026-06-15T13:39:04.564686Z",
-  "score": 14.1,
+  "generated_at": "2026-06-14T01:28:24.726593Z",
+  "score": 50.9,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
-    "emoji": "\ud83d\udfe2",
-    "min": 0
+    "name": "ROSWELL ENERGY",
+    "flavor": "trust nothing",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": -37.4,
+    "d1h": 0.0,
     "d24h": 0.0,
-    "peak90": 53.0
+    "peak90": 50.9
   },
   "contributing_factors": {
-    "social_chatter": 0,
-    "solar_flares": 2.5,
-    "asteroid_approach": 0,
-    "search_interest": 8,
-    "space_weather_alerts": 1.2,
-    "alien_variance": 2.4
+    "news_velocity": 12.0,
+    "social_chatter": 9.6,
+    "geomagnetic": 7.2,
+    "solar_flares": 5.0,
+    "asteroid_approach": 5.9,
+    "search_interest": 7.4,
+    "space_weather_alerts": 2.4,
+    "seismic": 3.2,
+    "alien_variance": -1.8
   },
   "sightings_total": 250,
   "daily_report": {
-    "number": 3,
-    "day": 3,
-    "date": "15.06.2026",
-    "declassified": "15.06.26",
-    "generated_utc": "13:39",
+    "number": 1,
+    "day": 1,
+    "date": "14.06.2026",
+    "declassified": "14.06.26",
+    "generated_utc": "01:28",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +77% above baseline",
-      "NEO (2015 MC) passing Earth at 28.6 lunar distances"
+      "Pentagon releases new UAP report to Congress",
+      "News velocity +50% vs 7-day baseline (GDELT)",
+      "Social chatter: 40 UFO/UAP posts/hr (Reddit + Bluesky)",
+      "NOAA space-weather alerts active: 2"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 250
   },
   "raw": {
-    "kp": null,
-    "xray_class": "B",
-    "closest_asteroid_ld": 28.5799495008,
-    "asteroid_name": "(2015 MC)",
-    "gdelt_spike_pct": null,
-    "reddit_last_hour": 0,
-    "wiki_spike_pct": 77.38580750407831,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "kp": 4.3,
+    "xray_class": "C",
+    "closest_asteroid_ld": 4.1,
+    "asteroid_name": "(2026 XX)",
+    "gdelt_spike_pct": 50.0,
+    "reddit_last_hour": 17,
+    "wiki_spike_pct": 46.3,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.4,
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Pentagon releases new UAP report to Congress",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "type": "reddit",
+      "text": "Bright orb over Phoenix tonight",
+      "source": "r/UFOs",
+      "url": "https://reddit.com/r/UFOs/x"
+    },
+    {
+      "type": "bluesky",
+      "text": "anyone else just see that thing over the bay?? #UAP",
+      "source": "@skywatcher.bsky.social",
+      "url": "https://bsky.app/profile/skywatcher.bsky.social/post/abc"
+    },
+    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "G2 storm watch issued",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
+      "type": "swpc",
+      "text": "M-class flare observed",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: off the coast of Chile",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
       "type": "neo",
-      "text": "NEO (2015 MC) passing at 28.58 LD (~90m, 9.8 km/s)",
+      "text": "NEO (2026 XX) passing at 4.10 LD (~87m, 12.4 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
     {
-      "ts": "2026-06-13T23:11:37.429391Z",
-      "score": 52.9,
+      "ts": "2026-06-14T01:28:24.722000Z",
+      "score": 50.9,
       "band": "ROSWELL ENERGY",
       "i": 3
-    },
-    {
-      "ts": "2026-06-14T00:32:14.822065Z",
-      "score": 17.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T00:42:04.425247Z",
-      "score": 17.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T00:42:48.907556Z",
-      "score": 18.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T05:20:11.348514Z",
-      "score": 14.1,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-14T08:53:08.261170Z",
-      "score": 19.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T11:26:29.723232Z",
-      "score": 19.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T13:13:30.308608Z",
-      "score": 14.7,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-14T15:18:52.285900Z",
-      "score": 13.8,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-14T16:53:59.344090Z",
-      "score": 16.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T18:09:00.930483Z",
-      "score": 15.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-14T19:57:00.557668Z",
-      "score": 13.4,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-14T21:10:43.993543Z",
-      "score": 53.0,
-      "band": "ROSWELL ENERGY",
-      "i": 3
-    },
-    {
-      "ts": "2026-06-14T22:21:54.433726Z",
-      "score": 51.5,
-      "band": "ROSWELL ENERGY",
-      "i": 3
-    },
-    {
-      "ts": "2026-06-14T23:44:11.972891Z",
-      "score": 11.7,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-15T02:06:31.750772Z",
-      "score": 11.3,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-15T07:37:22.170088Z",
-      "score": 16.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
-    {
-      "ts": "2026-06-15T13:39:04.563703Z",
-      "score": 14.1,
-      "band": "NOTHINGBURGER",
-      "i": 0
     }
   ],
   "sources": [

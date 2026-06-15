@@ -122,32 +122,40 @@ def get_alerts():
     return {"count": len(recent), "latest": recent[:5]}
 
 def get_neo():
-    """NASA Near-Earth Object — closest asteroid pass today, in Lunar Distances."""
-    today = dt.date.today().isoformat()
+    """NASA Near-Earth Object — closest asteroid pass over the next few days, in Lunar Distances."""
+    if NASA_KEY == "DEMO_KEY":
+        print("  NOTE: NASA_API_KEY not set \u2014 using DEMO_KEY (rate-limited ~30/hr; asteroid data will often be empty)")
+    start = dt.date.today()
+    end = start + dt.timedelta(days=2)
     url = (
         f"https://api.nasa.gov/neo/rest/v1/feed?"
-        f"start_date={today}&end_date={today}&api_key={NASA_KEY}"
+        f"start_date={start.isoformat()}&end_date={end.isoformat()}&api_key={NASA_KEY}"
     )
     data = fetch_json(url)
     if not data:
+        print("  WARN: NASA NeoWs returned nothing (key missing/invalid or rate-limited)")
         return None
-    objs = data.get("near_earth_objects", {}).get(today, [])
+    neo_by_date = data.get("near_earth_objects", {})
     closest = None
-    for o in objs:
-        for ca in o.get("close_approach_data", []):
-            try:
-                ld = float(ca["miss_distance"]["lunar"])
-            except (KeyError, ValueError):
-                continue
-            if closest is None or ld < closest["ld"]:
-                closest = {
-                    "ld": ld,
-                    "name": o.get("name", "?"),
-                    "diameter_m": o.get("estimated_diameter", {}).get("meters", {}).get("estimated_diameter_max", 0),
-                    "hazardous": o.get("is_potentially_hazardous_asteroid", False),
-                    "velocity_kps": float(ca.get("relative_velocity", {}).get("kilometers_per_second", 0)),
-                }
-    return {"closest": closest, "count": len(objs)}
+    count = 0
+    for _day, objs in neo_by_date.items():
+        count += len(objs)
+        for o in objs:
+            for ca in o.get("close_approach_data", []):
+                try:
+                    ld = float(ca["miss_distance"]["lunar"])
+                except (KeyError, ValueError, TypeError):
+                    continue
+                if closest is None or ld < closest["ld"]:
+                    closest = {
+                        "ld": ld,
+                        "name": o.get("name", "?"),
+                        "diameter_m": o.get("estimated_diameter", {}).get("meters", {}).get("estimated_diameter_max", 0),
+                        "hazardous": o.get("is_potentially_hazardous_asteroid", False),
+                        "velocity_kps": float(ca.get("relative_velocity", {}).get("kilometers_per_second", 0)),
+                    }
+    print(f"  NEO: {count} objects over 3 days, closest {closest['ld']:.2f} LD" if closest else "  NEO: response OK but no close approaches found")
+    return {"closest": closest, "count": count}
 
 def get_gdelt_volume():
     """GDELT volume timeline for UFO/UAP coverage — current vs 7-day baseline."""
@@ -223,6 +231,50 @@ def get_reddit():
     items.sort(key=lambda x: -x["time"])
     return {"last_hour": last_hour, "items": items[:15]}
 
+def get_bluesky():
+    """Bluesky chatter velocity for UFO/UAP terms. Public AppView API — no auth,
+    works from datacenter IPs (unlike Reddit, which blocks Actions runners)."""
+    terms = ["UFO", "UAP", "alien sighting"]
+    now = dt.datetime.now(dt.timezone.utc)
+    last_hour = 0
+    items = []
+    seen = set()
+    for q in terms:
+        url = ("https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts"
+               f"?q={urllib.parse.quote(q)}&limit=100&sort=latest")
+        data = fetch_json(url)
+        if not data:
+            continue
+        for p in data.get("posts", []):
+            uri = p.get("uri", "")
+            if not uri or uri in seen:
+                continue
+            seen.add(uri)
+            rec = p.get("record", {}) or {}
+            created = rec.get("createdAt") or p.get("indexedAt")
+            try:
+                ts = dt.datetime.fromisoformat(str(created).replace("Z", "+00:00"))
+            except (TypeError, ValueError):
+                continue
+            age_h = (now - ts).total_seconds() / 3600
+            if age_h < 0 or age_h > 48:
+                continue
+            if age_h < 1:
+                last_hour += 1
+            handle = (p.get("author") or {}).get("handle", "")
+            rkey = uri.split("/")[-1]
+            text = (rec.get("text") or "")[:200]
+            if age_h < 24 and handle and rkey and text:
+                items.append({
+                    "title": text,
+                    "url": f"https://bsky.app/profile/{handle}/post/{rkey}",
+                    "handle": handle,
+                    "time": ts.timestamp(),
+                })
+    items.sort(key=lambda x: -x["time"])
+    print(f"  bluesky: {last_hour} posts in last hour, {len(items)} recent items")
+    return {"last_hour": last_hour, "items": items[:15]}
+
 def get_wiki():
     """Wikipedia pageview spike for UFO-related articles vs 30-day baseline."""
     articles = [
@@ -287,9 +339,11 @@ def score_factors(f):
         score += s; contrib["news_velocity"] = round(s, 1)
 
     # Reddit chatter (0–20). Baseline ~8/hr combined across subs.
-    r = f.get("reddit")
-    if r:
-        s = clamp((r["last_hour"] - 8) / 4, 0, 5) * 4
+    r = f.get("reddit") or {}
+    b = f.get("bluesky") or {}
+    chatter = (r.get("last_hour") or 0) + (b.get("last_hour") or 0)
+    if chatter:
+        s = clamp((chatter - 8) / 40, 0, 1) * 12
         score += s; contrib["social_chatter"] = round(s, 1)
 
     # Geomagnetic Kp (0–15)
@@ -357,6 +411,8 @@ def build_ticker(f):
             t.append({"type": "news", "text": a["title"], "source": a.get("source"), "url": a.get("url")})
     for p in f.get("reddit", {}).get("items", [])[:6]:
         t.append({"type": "reddit", "text": p["title"], "source": f"r/{p['sub']}", "url": p["url"]})
+    for p in f.get("bluesky", {}).get("items", [])[:5]:
+        t.append({"type": "bluesky", "text": p["title"], "source": "@" + p.get("handle", "bsky"), "url": p["url"]})
     for msg in (f.get("alerts") or {}).get("latest", [])[:3]:
         t.append({"type": "swpc", "text": msg, "source": "NOAA SWPC", "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"})
     q = f.get("quakes") or {}
@@ -411,6 +467,7 @@ def mock_factors():
         "gdelt_volume":   {"latest": 0.18, "baseline": 0.12, "z": 1.6, "spike_pct": 50.0},
         "gdelt_articles": [{"title": "Pentagon releases new UAP report to Congress", "url": "https://www.reuters.com/", "source": "reuters.com", "time": "20260527T000000Z"}],
         "reddit":         {"last_hour": 17, "items": [{"title": "Bright orb over Phoenix tonight", "url": "https://reddit.com/r/UFOs/x", "sub": "UFOs", "score": 412, "time": 1700000000}]},
+        "bluesky":        {"last_hour": 23, "items": [{"title": "anyone else just see that thing over the bay?? #UAP", "url": "https://bsky.app/profile/skywatcher.bsky.social/post/abc", "handle": "skywatcher.bsky.social", "time": 1700000000}]},
         "wiki":           {"yesterday": 12000, "baseline": 8200, "spike_pct": 46.3},
         "quakes":         {"count": 1, "max_mag": 6.4, "places": ["off the coast of Chile"]},
     }
@@ -516,8 +573,10 @@ def build_daily_report(score, band, deltas, factors, history, sightings_total):
     if gv.get("spike_pct", 0) > 10:
         drivers.append(f"News velocity +{gv['spike_pct']:.0f}% vs 7-day baseline (GDELT)")
     rd = factors.get("reddit") or {}
-    if rd.get("last_hour"):
-        drivers.append(f"r/UFOs + r/aliens activity: {rd['last_hour']} posts/hr")
+    bs = factors.get("bluesky") or {}
+    chatter = (rd.get("last_hour") or 0) + (bs.get("last_hour") or 0)
+    if chatter:
+        drivers.append(f"Social chatter: {chatter} UFO/UAP posts/hr (Reddit + Bluesky)")
     al = factors.get("alerts") or {}
     if al.get("count"):
         drivers.append(f"NOAA space-weather alerts active: {al['count']}")
@@ -565,6 +624,7 @@ def main():
             "gdelt_volume":   get_gdelt_volume(),
             "gdelt_articles": get_gdelt_articles(),
             "reddit":         get_reddit(),
+            "bluesky":        get_bluesky(),
             "wiki":           get_wiki(),
             "quakes":         get_quakes(),
         }

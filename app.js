@@ -318,7 +318,7 @@ function buildNotable(el, byDay){
 }
 
 /* ============================================================ SIGHTINGS (Leaflet) */
-let MAP=null, MARKERS=null, allSightings=[], activeShape="all";
+let MAP=null, MARKERS=null, SEARCH=null, allSightings=[], activeShape="all";
 
 function initSightings(payload) {
   allSightings = (payload && payload.sightings) || [];
@@ -331,7 +331,35 @@ function initSightings(payload) {
     attribution:'&copy; OpenStreetMap &copy; CARTO'
   }).addTo(MAP);
 
-  MARKERS = L.layerGroup().addTo(MAP);
+  // Cluster group keeps the map fast even with tens of thousands of points.
+  // Falls back to a plain layer group if the plugin didn't load.
+  if (typeof L.markerClusterGroup === "function") {
+    MARKERS = L.markerClusterGroup({
+      chunkedLoading: true,
+      chunkInterval: 120,
+      maxClusterRadius: 55,
+      spiderfyOnMaxZoom: true,
+      showCoverageOnHover: false,
+      iconCreateFunction: (cluster) => {
+        const n = cluster.getChildCount();
+        let color = "#7AFFD0", size = 34;
+        if (n >= 250)      { color = "#FF5252"; size = 50; }
+        else if (n >= 50)  { color = "#FFB347"; size = 42; }
+        const label = n >= 1000 ? (n/1000).toFixed(1) + "k" : n;
+        return L.divIcon({
+          className: "ayy-cluster",
+          iconSize: [size, size],
+          html: `<div style="width:${size}px;height:${size}px;display:flex;align-items:center;justify-content:center;
+                   border-radius:50%;background:${color}1f;border:1.5px solid ${color};color:${color};
+                   font-family:'JetBrains Mono',monospace;font-size:${n>=1000?11:12}px;font-weight:500;
+                   box-shadow:0 0 14px ${color}99, inset 0 0 10px ${color}33;text-shadow:0 0 6px ${color}">${label}</div>`
+        });
+      }
+    }).addTo(MAP);
+  } else {
+    MARKERS = L.layerGroup().addTo(MAP);
+  }
+  SEARCH = L.layerGroup().addTo(MAP);   // geocode pin/radius live here, never cleared by filters
   renderMarkers();
 
   // shape filter chips
@@ -355,9 +383,10 @@ function initSightings(payload) {
       const j = await r.json();
       if (j && j[0]) {
         const lat=+j[0].lat, lon=+j[0].lon;
+        SEARCH.clearLayers();
         MAP.setView([lat,lon], 8);
-        L.circleMarker([lat,lon], { radius:7, color:"#7AFFD0", weight:2, fillColor:"#7AFFD0", fillOpacity:0.25, className:"sighting-marker" }).addTo(MARKERS);
-        L.circle([lat,lon], { radius:160000, color:"#7AFFD0", weight:1, dashArray:"4,4", fill:false, opacity:0.5 }).addTo(MARKERS);
+        L.circleMarker([lat,lon], { radius:7, color:"#7AFFD0", weight:2, fillColor:"#7AFFD0", fillOpacity:0.25, className:"sighting-marker" }).addTo(SEARCH);
+        L.circle([lat,lon], { radius:160000, color:"#7AFFD0", weight:1, dashArray:"4,4", fill:false, opacity:0.5 }).addTo(SEARCH);
       } else {
         btn.textContent = "NOT FOUND"; setTimeout(()=>btn.textContent=old, 1500); return;
       }
@@ -382,6 +411,7 @@ function renderMarkers(){
   if (!MARKERS) return;
   MARKERS.clearLayers();
   const list = allSightings.filter(s => activeShape==="all" || s.shape===activeShape);
+  const layers = [];
   for (const s of list) {
     const c = ageColor(s.date);
     const m = L.circleMarker([s.lat, s.lon], {
@@ -393,8 +423,10 @@ function renderMarkers(){
       + (s.summary?`<div style="font-size:12px;color:#cdd1d8;font-style:italic;line-height:1.5">${escapeHTML(s.summary)}</div>`:"")
       + `<div class="mn" style="font-size:9.5px;color:#7AFFD0;letter-spacing:.16em;margin-top:8px">${escapeHTML(s.source||"UFOSINT")}</div>`
     );
-    m.addTo(MARKERS);
+    layers.push(m);
   }
+  if (MARKERS.addLayers) MARKERS.addLayers(layers);   // bulk add (fast, chunked)
+  else layers.forEach(m => m.addTo(MARKERS));
   const updMarkers = document.querySelector("#sight-shown");
   if (updMarkers) updMarkers.textContent = list.length.toLocaleString();
 }
