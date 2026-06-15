@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-06-15T21:30:20.885490Z",
-  "score": 26.5,
+  "generated_at": "2026-06-15T23:19:39.056779Z",
+  "score": 31.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 9.8,
+    "d1h": 9.5,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 12,
+    "news_velocity": 0,
+    "social_chatter": 11.3,
     "solar_flares": 2.5,
     "asteroid_approach": 3.4,
     "search_interest": 8,
     "space_weather_alerts": 1.2,
     "seismic": 1.2,
-    "alien_variance": -1.8
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -29,14 +30,14 @@
     "day": 1,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "21:30",
+    "generated_utc": "23:19",
     "top_drivers": [
-      "X/Twitter chatter: 209 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 188 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
@@ -44,8 +45,8 @@
     "xray_class": "B",
     "closest_asteroid_ld": 28.5799495008,
     "asteroid_name": "(2015 MC)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 209,
+    "gdelt_spike_pct": -23.760086314750414,
+    "x_last_hour": 188,
     "wiki_spike_pct": 77.38580750407831,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 2.4,
@@ -54,39 +55,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@mendlowicz Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, fee",
+      "text": "The US Air Force insignia on the craft is similar to the US flag on the craft that Bob Lazar worked on.  It seems there is some kind of cooperation between Aliens (NHI) and Human Factions.  That FACT ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634381830087052"
+      "url": "https://x.com/i/web/status/2066661838280933549"
     },
     {
       "type": "x",
-      "text": "@carlosjordy Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, fe",
+      "text": "Arizona Friends! TUCSON EVENT,  \ud83e\udd73on Sunday, June 28th, 2026 AS ALWAYS, GIVEAWAYS, BOOK SIGNINGS, VITAL UPDATES, ALL QUESTIONS AND OBJECTIONS ANSWERED.                 F O R   T I C K E T S $10.00 ea. ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634346220433664"
+      "url": "https://x.com/i/web/status/2066661788188598523"
     },
     {
       "type": "x",
-      "text": "@GayerGus @Mi_Bolsonaro Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your b",
+      "text": "The Conservative News Command Center is LIVE. 150 headlines, 11 sources, real-time stocks, live TV, election tracker, UFO briefings, comics. All free.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634315224498589"
+      "url": "https://x.com/i/web/status/2066661517005619539"
     },
     {
       "type": "x",
-      "text": "@lucaspavanato Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, ",
+      "text": "@InfinityDisclsd @RepLuna @RepTimBurchett 'Science' council. This will be where NHI/UAP info goes to die.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634294450176315"
+      "url": "https://x.com/i/web/status/2066661357928218905"
     },
     {
       "type": "x",
-      "text": "@durov Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, feelings",
+      "text": "@goddek Trump is the biggest traitor in history. He agreed to every mass manipulation asked of him: Qanon, Covid 19, mRNA Vax, World Peace, Anti-establishment Swamp Drainer, America First, MAHA, Alien",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634273075916936"
+      "url": "https://x.com/i/web/status/2066661320116600840"
     },
     {
       "type": "x",
-      "text": "@rmotta2 @matheusvillelam Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your",
+      "text": "'Disclosure Day'..  #DisclosureDay  @disclosureday   #aliens #censorship #offworld #military #offwoeldplanet #life  #news  #crime #ufo  #corporations #deepstate #government https://t.co/Redy7w9XH4",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066634253773701400"
+      "url": "https://x.com/i/web/status/2066661274126073904"
     },
     {
       "type": "swpc",
@@ -143,6 +144,12 @@
       "score": 26.5,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
+    },
+    {
+      "ts": "2026-06-15T23:19:38.983779Z",
+      "score": 31.1,
+      "band": "THAT'S WEIRD",
+      "i": 2
     }
   ],
   "sources": [
