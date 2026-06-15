@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-15T16:20:47.471525Z",
-  "score": 27.7,
+  "generated_at": "2026-06-15T18:16:52.488330Z",
+  "score": 29.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.0,
+    "d1h": -21.9,
     "d24h": 0.0,
     "peak90": 51.5
   },
@@ -21,7 +21,7 @@
     "search_interest": 8,
     "space_weather_alerts": 1.2,
     "seismic": 1.2,
-    "alien_variance": -0.7
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -29,9 +29,9 @@
     "day": 1,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "16:20",
+    "generated_utc": "18:16",
     "top_drivers": [
-      "X/Twitter chatter: 222 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 203 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
@@ -45,7 +45,7 @@
     "closest_asteroid_ld": 28.5799495008,
     "asteroid_name": "(2015 MC)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 222,
+    "x_last_hour": 203,
     "wiki_spike_pct": 77.38580750407831,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 2.4,
@@ -54,39 +54,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udcd6 A Sky Older Than Flight. Available now in paperback &amp; Kindle. #UAP #UFO https://t.co/zjkmQmieBa",
+      "text": "My Alaska UAP \u2013 UFO Sighting I wanted to share with you my UAP or UFO experience. This experience shook me to the core and changed forever my view of this topic. We live at the head of a fiord in Alas",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066556221998440811"
+      "url": "https://x.com/i/web/status/2066585557107404936"
     },
     {
       "type": "x",
-      "text": "@Barron47voicese Ask him if they know where my keys to my UFO I\u2019m still looking for them\ud83c\udf5f\ud83c\udf57\ud83c\udf54\ud83c\udf2d\ud83c\udf2e\ud83e\udd69\ud83c\udf55\ud83e\udd53\ud83c\udf5f",
+      "text": "So I'm guessing that releasing these old, possible Space Alien files, is an attempt at ANOTHER DISTRACTION from the  Epstein-Trump Files. UAP disclosure: Whistleblower David Grusch has pushed for tran",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066556166617116926"
+      "url": "https://x.com/i/web/status/2066585542968435051"
     },
     {
       "type": "x",
-      "text": "Someone tried to bring their \"UFO podcast tour\" to my city, booked a 1700 seat venue, tried to charge $50+ for tickets, and guess what? The show was canceled.  Oops. Hahaha. #ufotwitter",
+      "text": "@MarioNawfal Anyone else disappointed to realize the US Dept of War UAP drops were just a clever marketing campaign for Spielberg's lame movie?   Hey look! I'm Orson Wells!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066556134891090224"
+      "url": "https://x.com/i/web/status/2066585253876060447"
     },
     {
       "type": "x",
-      "text": "BREAKING NEWS: The Pentagon has released a new batch of UFO files, making these images publicly available for the first time: https://t.co/l6ZnW4F6WX",
+      "text": "@NevaHaddaDadda @chrisbledsoeufo @BobMcGwier_N4HY @RyanDBledsoe @chrisramsay52 @AlchemyAmerican @Wheres_Gino Yes, I believe all those bad things happened to him because of his connection to those bein",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066555910646800678"
+      "url": "https://x.com/i/web/status/2066585137521803436"
     },
     {
       "type": "x",
-      "text": "The Bible spends surprisingly little time telling us what exists elsewhere in creation.  Its focus is humanity\u2019s relationship with God.  Perhaps that distinction matters.  #UAP #Theology",
+      "text": "\ud83c\udfac \u2018Disclosure Day\u2019- Spielberg Should Stop Making Films   https://t.co/tOQnxmhvkA    Critique by Critical drinker: \u201cA two and a half hour snorfest\u201d \ud83d\ude34  #UFOTwitter #UFOSightings #UFO #orbs #aliens #Alie",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066555868267811120"
+      "url": "https://x.com/i/web/status/2066584976464675306"
     },
     {
       "type": "x",
-      "text": "Has anyone else in the #ufotwitter community visited the \u201cHansel and Gretel House\u201d, or heard/read about this specific reference in regard to a UAP related experience? Is this a common theme or \u201ctrope\u201d",
+      "text": "OK I listened to the esteemed Richard Dolan give his best attempt at giving some legitimacy to the last UFO file drop by the gov.; and despite his best attempt, I gotta say this is the third \"nothing ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066555706182885704"
+      "url": "https://x.com/i/web/status/2066584800001925519"
     },
     {
       "type": "swpc",
@@ -129,6 +129,12 @@
     {
       "ts": "2026-06-15T16:20:47.414508Z",
       "score": 27.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-15T18:16:52.413077Z",
+      "score": 29.6,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
     }
