@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-15T02:06:31.751760Z",
-  "score": 11.3,
+  "generated_at": "2026-06-15T07:37:22.171328Z",
+  "score": 16.5,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -2.1,
+    "d1h": -36.5,
     "d24h": 0.0,
     "peak90": 53.0
   },
@@ -20,7 +20,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 2.4,
-    "alien_variance": -1.6
+    "alien_variance": 3.6
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,13 +28,13 @@
     "day": 3,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "02:06",
+    "generated_utc": "07:37",
     "top_drivers": [
       "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +91% above baseline",
+      "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 250
   },
   "raw": {
@@ -44,7 +44,7 @@
     "asteroid_name": "(2015 MC)",
     "gdelt_spike_pct": null,
     "reddit_last_hour": 0,
-    "wiki_spike_pct": 90.51002890236217,
+    "wiki_spike_pct": 77.38580750407831,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -165,6 +165,12 @@
       "score": 11.3,
       "band": "NOTHINGBURGER",
       "i": 0
+    },
+    {
+      "ts": "2026-06-15T07:37:22.170088Z",
+      "score": 16.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
     }
   ],
   "sources": [
