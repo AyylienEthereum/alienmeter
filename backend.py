@@ -30,7 +30,7 @@ X_BEARER   = os.environ.get("X_BEARER_TOKEN", "").strip()
 X_API_BASE = os.environ.get("X_API_BASE") or "https://api.twitter.com/2"
 X_QUERY    = os.environ.get("X_QUERY") or '(UFO OR UAP OR "unidentified anomalous" OR "alien sighting") -is:retweet lang:en'
 SOCIAL_CACHE   = Path("social_cache.json")
-SOCIAL_TTL_MIN = int(os.environ.get("SOCIAL_TTL_MIN", "55"))   # hit X ~hourly to control cost
+SOCIAL_TTL_MIN = int(os.environ.get("SOCIAL_TTL_MIN") or "55")   # hit X ~hourly to control cost
 OUT      = Path("data.json")
 HIST     = Path("history.json")
 SIGHT    = Path("sightings.json")
@@ -242,7 +242,7 @@ def fetch_x():
     if counts and counts.get("data"):
         last_hour = counts["data"][-1].get("tweet_count", 0)   # current (most recent) hour bucket
     items = []
-    if os.environ.get("X_TICKER", "1") == "1":
+    if (os.environ.get("X_TICKER") or "1") == "1":
         search = _x_get("/tweets/search/recent",
                         {"query": X_QUERY, "max_results": "10", "tweet.fields": "created_at"})
         if search and search.get("data"):
