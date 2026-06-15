@@ -1,116 +1,55 @@
 {
-  "generated_at": "2026-06-14T23:44:11.973864Z",
-  "score": 11.7,
+  "generated_at": "2026-06-15T02:06:31.751760Z",
+  "score": 11.3,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
+    "flavor": "boringly terrestrial",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -3.3,
+    "d1h": -2.1,
     "d24h": 0.0,
     "peak90": 53.0
   },
   "contributing_factors": {
     "social_chatter": 0,
-    "solar_flares": 0.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0,
     "search_interest": 8,
-    "space_weather_alerts": 3.6,
-    "alien_variance": 0.1
+    "space_weather_alerts": 2.4,
+    "alien_variance": -1.6
   },
   "sightings_total": 250,
   "daily_report": {
-    "number": 2,
-    "day": 2,
-    "date": "14.06.2026",
-    "declassified": "14.06.26",
-    "generated_utc": "23:44",
+    "number": 3,
+    "day": 3,
+    "date": "15.06.2026",
+    "declassified": "15.06.26",
+    "generated_utc": "02:06",
     "top_drivers": [
-      "Steven Spielberg  Disclosure Day  TOPS American box office with USD 92 . 9 million haul ;  Obsession  set to become highest grossing original film",
-      "NOAA space-weather alerts active: 3",
-      "Wikipedia UFO pageviews +90% above baseline",
-      "NEO (2013 BO27) passing Earth at 26.8 lunar distances"
+      "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +91% above baseline",
+      "NEO (2015 MC) passing Earth at 28.6 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 250
   },
   "raw": {
     "kp": null,
-    "xray_class": "A",
-    "closest_asteroid_ld": 26.8474702759,
-    "asteroid_name": "(2013 BO27)",
+    "xray_class": "B",
+    "closest_asteroid_ld": 28.5799495008,
+    "asteroid_name": "(2015 MC)",
     "gdelt_spike_pct": null,
     "reddit_last_hour": 0,
-    "wiki_spike_pct": 89.55685068226393,
+    "wiki_spike_pct": 90.51002890236217,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  TOPS American box office with USD 92 . 9 million haul ;  Obsession  set to become highest grossing original film",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/steven-spielbergs-disclosure-day-tops-american-box-office-with-usd-92-9-million-haul-obsession-set-to-become-highest-grossing-original-film/articleshow/131728808.cms"
-    },
-    {
-      "type": "news",
-      "text": "Discs , orbs ,  heavenly  phenomena , more revealed in 3rd batch of declassified UFO files",
-      "source": "sott.net",
-      "url": "https://www.sott.net/article/506879-Discs-orbs-heavenly-phenomena-more-revealed-in-3rd-batch-of-declassified-UFO-files"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "dailygazette.com",
-      "url": "https://www.dailygazette.com/ade/ap/business/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/article_0518fbfe-edbe-5d4a-a0d6-e9a6866be725.html"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "isp.netscape.com",
-      "url": "https://isp.netscape.com:443/entertainment/story/0001/20260614/2afc250609da00480bdaaab5fca1e573"
-    },
-    {
-      "type": "news",
-      "text": "La historia real de ovnis que impact\u00f3 a Spielberg y volvi\u00f3 a encender el misterio",
-      "source": "elgrafico.mx",
-      "url": "https://www.elgrafico.mx/opinion/yohanan-diaz-vargas/2026/06/14/la-historia-real-de-ovnis-que-impacto-a-spielberg-y-volvio-a-encender-el-misterio/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "isp.netscape.com",
-      "url": "https://isp.netscape.com:443/news/story/0001/20260614/2afc250609da00480bdaaab5fca1e573"
-    },
-    {
-      "type": "news",
-      "text": "  Disclosure Day  tops North American box office with $44M",
-      "source": "upi.com",
-      "url": "https://www.upi.com/Entertainment_News/Movies/2026/06/14/disclosure-day-tops-north-american-box-office/9581781453154/"
-    },
-    {
-      "type": "news",
-      "text": "OK , let talk about that mad Disclosure Day ending",
-      "source": "gq-magazine.co.uk",
-      "url": "https://www.gq-magazine.co.uk/article/ok-lets-talk-about-that-mad-disclosure-day-ending"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  opens No . 1 , while  Obsession  sensation continues",
-      "source": "medicinehatnews.com",
-      "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/06/14/steven-spielbergs-disclosure-day-opens-no-1-while-obsession-sensation-continues/"
-    },
-    {
-      "type": "news",
-      "text": "Deadline",
-      "source": "deadline.com",
-      "url": "https://deadline.com/print-article/1236955776/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -124,14 +63,8 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5365\r Issue Time: 2026 Jun 13 2356 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
-      "text": "NEO (2013 BO27) passing at 26.85 LD (~90m, 14.7 km/s)",
+      "text": "NEO (2015 MC) passing at 28.58 LD (~90m, 9.8 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -224,6 +157,12 @@
     {
       "ts": "2026-06-14T23:44:11.972891Z",
       "score": 11.7,
+      "band": "NOTHINGBURGER",
+      "i": 0
+    },
+    {
+      "ts": "2026-06-15T02:06:31.750772Z",
+      "score": 11.3,
       "band": "NOTHINGBURGER",
       "i": 0
     }
