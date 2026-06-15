@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T14:20:43.123459Z",
-  "score": 16.7,
+  "generated_at": "2026-06-15T15:50:10.911704Z",
+  "score": 21.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
@@ -15,27 +15,29 @@
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 0,
+    "social_chatter": 4.2,
     "solar_flares": 2.5,
     "asteroid_approach": 3.4,
     "search_interest": 8,
     "space_weather_alerts": 1.2,
-    "alien_variance": 1.6
+    "seismic": 1.2,
+    "alien_variance": 1.1
   },
-  "sightings_total": 250,
+  "sightings_total": 70699,
   "daily_report": {
     "number": 1,
     "day": 1,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "14:20",
+    "generated_utc": "15:50",
     "top_drivers": [
+      "X/Twitter chatter: 193 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
-    "sightings_total": 250
+    "sightings_total": 70699
   },
   "raw": {
     "kp": null,
@@ -43,18 +45,60 @@
     "closest_asteroid_ld": 28.5799495008,
     "asteroid_name": "(2015 MC)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 0,
+    "x_last_hour": 193,
     "wiki_spike_pct": 77.38580750407831,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 2.4,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "x",
+      "text": "\ud83d\udef8 \"The breadth of these files indicates that the federal government has been putting a substantial amount of its intelligence resources into investigating reports of UFOs.\"  Alex Isenstadt joined @ago",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066548665062199354"
+    },
+    {
+      "type": "x",
+      "text": "The UAP Scientific Board has not produced content yet but this books been out since '23. Read &amp; review!  THE STAR CAPTAINS EXOPOLITICS GUIDE \ud83d\udef8\ud83c\udff4\u200d\u2620\ufe0f #exopolitics #aliens #uap #disclosure #uap https:",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066548465631371686"
+    },
+    {
+      "type": "x",
+      "text": "Newly declassified files detail red orb sightings in northeastern US, prompting investigation  #UFO #Pentagon #RedOrb   Read More: https://t.co/evO9RoKNAo https://t.co/h3x3V6YEYt",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066547862683422812"
+    },
+    {
+      "type": "x",
+      "text": "SpaceX\u2019s blockbuster debut pulled money away from the rest of the sector, sending space stocks lower on Friday.   Rocket Lab, Redwire, AST SpaceMobile, Firefly Aerospace, and Virgin Galactic fell betw",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066547529228128380"
+    },
+    {
+      "type": "x",
+      "text": "@Mr_BenPrime It definitely has me wondering.  I didn't think the Department of War would've started releasing UFO files. and ten years ago I would never have expected sitting congressional representat",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066547526187254039"
+    },
+    {
+      "type": "x",
+      "text": "(Images): \u201cEyewitness Account of Disc Shape Craft Seen Flying Over California 2015\u201d  Large, Green UFO saucer sighted flying over San Francisco Bay  Size: 100 Yards across! \u201cVery clear details\u201d  Source",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066547522148176245"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 8 km NE of Bel Air North, Maryland",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -73,6 +117,12 @@
     {
       "ts": "2026-06-15T14:20:43.122426Z",
       "score": 16.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-15T15:50:10.796738Z",
+      "score": 21.6,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
     }
