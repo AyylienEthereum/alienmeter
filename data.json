@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T18:16:52.488330Z",
-  "score": 29.6,
+  "generated_at": "2026-06-15T21:30:20.885490Z",
+  "score": 26.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,7 +10,7 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -21.9,
+    "d1h": 9.8,
     "d24h": 0.0,
     "peak90": 51.5
   },
@@ -21,7 +21,7 @@
     "search_interest": 8,
     "space_weather_alerts": 1.2,
     "seismic": 1.2,
-    "alien_variance": 1.3
+    "alien_variance": -1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -29,9 +29,9 @@
     "day": 1,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "18:16",
+    "generated_utc": "21:30",
     "top_drivers": [
-      "X/Twitter chatter: 203 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 209 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
@@ -45,7 +45,7 @@
     "closest_asteroid_ld": 28.5799495008,
     "asteroid_name": "(2015 MC)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 203,
+    "x_last_hour": 209,
     "wiki_spike_pct": 77.38580750407831,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 2.4,
@@ -54,39 +54,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "My Alaska UAP \u2013 UFO Sighting I wanted to share with you my UAP or UFO experience. This experience shook me to the core and changed forever my view of this topic. We live at the head of a fiord in Alas",
+      "text": "@mendlowicz Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, fee",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066585557107404936"
+      "url": "https://x.com/i/web/status/2066634381830087052"
     },
     {
       "type": "x",
-      "text": "So I'm guessing that releasing these old, possible Space Alien files, is an attempt at ANOTHER DISTRACTION from the  Epstein-Trump Files. UAP disclosure: Whistleblower David Grusch has pushed for tran",
+      "text": "@carlosjordy Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, fe",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066585542968435051"
+      "url": "https://x.com/i/web/status/2066634346220433664"
     },
     {
       "type": "x",
-      "text": "@MarioNawfal Anyone else disappointed to realize the US Dept of War UAP drops were just a clever marketing campaign for Spielberg's lame movie?   Hey look! I'm Orson Wells!",
+      "text": "@GayerGus @Mi_Bolsonaro Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your b",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066585253876060447"
+      "url": "https://x.com/i/web/status/2066634315224498589"
     },
     {
       "type": "x",
-      "text": "@NevaHaddaDadda @chrisbledsoeufo @BobMcGwier_N4HY @RyanDBledsoe @chrisramsay52 @AlchemyAmerican @Wheres_Gino Yes, I believe all those bad things happened to him because of his connection to those bein",
+      "text": "@lucaspavanato Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066585137521803436"
+      "url": "https://x.com/i/web/status/2066634294450176315"
     },
     {
       "type": "x",
-      "text": "\ud83c\udfac \u2018Disclosure Day\u2019- Spielberg Should Stop Making Films   https://t.co/tOQnxmhvkA    Critique by Critical drinker: \u201cA two and a half hour snorfest\u201d \ud83d\ude34  #UFOTwitter #UFOSightings #UFO #orbs #aliens #Alie",
+      "text": "@durov Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your behavior, feelings",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066584976464675306"
+      "url": "https://x.com/i/web/status/2066634273075916936"
     },
     {
       "type": "x",
-      "text": "OK I listened to the esteemed Richard Dolan give his best attempt at giving some legitimacy to the last UFO file drop by the gov.; and despite his best attempt, I gotta say this is the third \"nothing ",
+      "text": "@rmotta2 @matheusvillelam Are you being cursed or having intrusive thoughts? Not UFO or Aliens.  Be aware for not being hoisted by stress, neural pathways training and photonic waves that control your",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066584800001925519"
+      "url": "https://x.com/i/web/status/2066634253773701400"
     },
     {
       "type": "swpc",
@@ -135,6 +135,12 @@
     {
       "ts": "2026-06-15T18:16:52.413077Z",
       "score": 29.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
+    },
+    {
+      "ts": "2026-06-15T21:30:20.810519Z",
+      "score": 26.5,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
     }
