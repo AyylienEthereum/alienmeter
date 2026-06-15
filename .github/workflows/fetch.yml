@@ -33,6 +33,9 @@ jobs:
       - name: Run fetcher
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_TICKER: ${{ vars.X_TICKER }}
+          SOCIAL_TTL_MIN: ${{ vars.SOCIAL_TTL_MIN }}
         run: python3 backend.py
 
       - name: Commit data.json and history.json
