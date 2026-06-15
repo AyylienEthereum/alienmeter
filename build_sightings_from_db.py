@@ -2,17 +2,15 @@
 """Build sightings.json from the full UFOSINT public SQLite (~600k records).
 
 Usage:
-  Inspect the schema first (recommended):
-      python build_sightings_from_db.py ufo_public.db --inspect
-  Then extract:
-      python build_sightings_from_db.py ufo_public.db 25000
+  python build_sightings_from_db.py ufo_public.db --inspect      # dump schema
+  python build_sightings_from_db.py ufo_public.db 25000          # extract
 
-The extractor inspects real column VALUES (not just names) so it won't grab a
-numeric city_id when it wants a city name. It prints the columns it chose plus a
-sample record — eyeball that before uploading. If a field still looks wrong,
-re-run with --inspect and share the output.
+UFOSINT normalizes location into a separate `location` table (joined via
+sighting.location_id). This script joins it for city/state/country, uses the
+cleaned `standardized_shape`, and pulls `description` for the popup summary.
+Prints the chosen mapping + a sample record so you can verify before uploading.
 """
-import sys, json, sqlite3, random, datetime as dt
+import sys, json, sqlite3, datetime as dt
 
 def col_info(con, table):
     cols = [r[1] for r in con.execute(f"PRAGMA table_info({table})").fetchall()]
@@ -25,104 +23,90 @@ def col_info(con, table):
             samples[c] = None
     return cols, samples
 
-def is_texty(v):
-    """True if the value looks like text (has a letter), not a pure number/id."""
-    if v is None: return False
-    s = str(v).strip()
-    if not s: return False
-    return any(ch.isalpha() for ch in s)
-
-def pick(cols, samples, names, want_text=False, want_num=False):
-    low = {c.lower(): c for c in cols}
-    # exact name matches first, then substring
-    ordered = []
-    for n in names:
-        if n in low: ordered.append(low[n])
-    for n in names:
+def inspect(con, tables):
+    for t in tables:
+        cols, samples = col_info(con, t)
+        print(f"\nTABLE: {t}  ({len(cols)} columns)\n" + "-"*60)
         for c in cols:
-            if n in c.lower() and c not in ordered:
-                ordered.append(c)
-    for c in ordered:
-        v = samples.get(c)
-        if want_text and not is_texty(v):   # skip id-like numeric columns
-            continue
-        if want_num:
-            try: float(v)
-            except (TypeError, ValueError): continue
-        return c
-    return ordered[0] if ordered and not (want_text or want_num) else None
+            print(f"  {c:<24} = {str(samples.get(c))[:50]}")
+        print("-"*60)
 
-def inspect(con, table):
-    cols, samples = col_info(con, table)
-    print(f"\nTABLE: {table}  ({len(cols)} columns)\n" + "-"*60)
-    for c in cols:
-        print(f"  {c:<24} = {str(samples.get(c))[:50]}")
-    print("-"*60)
+def clean_date(*vals):
+    for v in vals:
+        if not v: continue
+        s = str(v)[:10]
+        if len(s) >= 4 and s[:4].isdigit():
+            y = int(s[:4])
+            if 1900 <= y <= 2027:
+                return s
+    return ""
+
+def txt(v, maxlen=60):
+    if v is None: return ""
+    s = str(v).strip().strip('"').strip()
+    return s[:maxlen]
 
 def main():
     if len(sys.argv) < 2:
         print("usage: python build_sightings_from_db.py ufo_public.db [max_points | --inspect]"); sys.exit(1)
     db = sys.argv[1]
     con = sqlite3.connect(db); con.row_factory = sqlite3.Row
-
     tables = [r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'")]
-    print("TABLES:", tables)
-    table = "sighting" if "sighting" in tables else tables[0]
 
     if len(sys.argv) > 2 and sys.argv[2] == "--inspect":
-        for t in tables:
-            inspect(con, t)
-        return
+        print("TABLES:", tables); inspect(con, tables); return
 
     cap = int(sys.argv[2]) if len(sys.argv) > 2 else 25000
-    cols, samples = col_info(con, table)
+    scols, _ = col_info(con, "sighting")
+    has_location = "location" in tables and "location_id" in scols
+    shape_col = "standardized_shape" if "standardized_shape" in scols else "shape"
 
-    c_lat   = pick(cols, samples, ["lat","latitude"], want_num=True)
-    c_lon   = pick(cols, samples, ["lon","lng","long","longitude"], want_num=True)
-    c_shape = pick(cols, samples, ["shape","object_shape","form"], want_text=True)
-    c_city  = pick(cols, samples, ["city_name","cityname","city","town","locality","place","location"], want_text=True)
-    c_state = pick(cols, samples, ["state","province","region"], want_text=True)
-    c_ctry  = pick(cols, samples, ["country_name","country","nation"], want_text=True)
-    c_date  = pick(cols, samples, ["date_time","datetime","date","occurred","sighted","event_date","reported"])
-    c_summ  = pick(cols, samples, ["summary","description","text","narrative","comments","report","details","account","story","body","desc"], want_text=True)
-
-    print(f"\nColumn mapping chosen:")
-    for k,v in [("lat",c_lat),("lon",c_lon),("shape",c_shape),("city",c_city),
-                ("state",c_state),("country",c_ctry),("date",c_date),("summary",c_summ)]:
-        print(f"  {k:<8}-> {v}")
-    if not (c_lat and c_lon):
-        print("\nERROR: no lat/lon columns. Run with --inspect and share the output."); sys.exit(1)
+    # build query (join location if available)
+    if has_location:
+        q = (f'SELECT s.lat, s.lng, s."{shape_col}" AS shape, s.description AS descr, '
+             f's.date_event, s.sighting_datetime, '
+             f'l.city AS l_city, l.state AS l_state, l.country AS l_country '
+             f'FROM sighting s LEFT JOIN location l ON s.location_id = l.id '
+             f'WHERE s.lat IS NOT NULL AND s.lng IS NOT NULL ORDER BY RANDOM() LIMIT ?')
+        print("Joining `location` table for city/state/country.")
+    else:
+        q = (f'SELECT lat, lng, "{shape_col}" AS shape, description AS descr, '
+             f'date_event, sighting_datetime, "" AS l_city, "" AS l_state, "" AS l_country '
+             f'FROM sighting WHERE lat IS NOT NULL AND lng IS NOT NULL ORDER BY RANDOM() LIMIT ?')
+        print("WARNING: no location table/location_id found — city will be blank.")
+    print(f"shape column: {shape_col}\n")
 
     NORM = {"sphere":"orb","light":"orb","circle":"orb","orb":"orb","star":"orb","triangle":"triangle",
-            "formation":"triangle","chevron":"triangle","disk":"disk","oval":"disk","egg":"disk","diamond":"disk",
-            "fireball":"fireball","flash":"fireball","cigar":"other","other":"other","unknown":"other"}
+            "formation":"triangle","chevron":"triangle","boomerang":"triangle","v-shaped":"triangle",
+            "disk":"disk","oval":"disk","egg":"disk","diamond":"disk","saucer":"disk","cylinder":"other",
+            "fireball":"fireball","flash":"fireball","flare":"fireball","cigar":"other","other":"other","unknown":"other"}
 
-    sel = [c for c in {c_lat,c_lon,c_shape,c_city,c_state,c_ctry,c_date,c_summ} if c]
-    q = f'SELECT {",".join(chr(34)+c+chr(34) for c in sel)} FROM "{table}" WHERE "{c_lat}" IS NOT NULL AND "{c_lon}" IS NOT NULL ORDER BY RANDOM() LIMIT ?'
     out = []
     for r in con.execute(q, (cap,)):
-        try: lat, lon = float(r[c_lat]), float(r[c_lon])
+        try: lat, lon = float(r["lat"]), float(r["lng"])
         except (TypeError, ValueError): continue
         if not (-90<=lat<=90 and -180<=lon<=180): continue
-        raw = (str(r[c_shape]).lower().strip() if c_shape and r[c_shape] else "other")
-        city = str(r[c_city]) if c_city and r[c_city] else ""
-        state = str(r[c_state]) if c_state and r[c_state] else ""
-        ctry = str(r[c_ctry]) if c_ctry and r[c_ctry] else ""
-        place = ", ".join([p for p in (city, state) if p and is_texty(p)]) or ctry
+        raw = (str(r["shape"]).lower().strip() if r["shape"] else "other")
+        city, state, ctry = txt(r["l_city"]), txt(r["l_state"], 24), txt(r["l_country"], 32)
+        place = ", ".join([p for p in (city, state) if p]) or ctry
         out.append({
             "lat": round(lat,4), "lon": round(lon,4),
-            "shape": NORM.get(raw,"other"),
-            "date": (str(r[c_date])[:10] if c_date and r[c_date] else ""),
+            "shape": NORM.get(raw, "other"),
+            "date": clean_date(r["date_event"], r["sighting_datetime"]),
             "city": place,
-            "country": ctry if is_texty(ctry) else "",
-            "summary": (str(r[c_summ])[:280] if c_summ and r[c_summ] else ""),
+            "country": ctry,
+            "summary": txt(r["descr"], 280),
             "source": "UFOSINT",
         })
     payload = {"generated_at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat()+"Z",
                "note": f"Sampled {len(out)} of full UFOSINT dataset.", "count": len(out), "sightings": out}
     open("sightings.json","w",encoding="utf-8").write(json.dumps(payload))
-    print(f"\nwrote sightings.json: {len(out)} sightings")
-    print("SAMPLE RECORD:", json.dumps(out[0], ensure_ascii=False) if out else "none")
+    with_desc = sum(1 for s in out if s["summary"])
+    with_city = sum(1 for s in out if s["city"])
+    print(f"wrote sightings.json: {len(out)} sightings  ({with_city} with a place, {with_desc} with a description)")
+    print("SAMPLE RECORDS:")
+    for s in out[:3]:
+        print("  ", json.dumps(s, ensure_ascii=False))
 
 if __name__ == "__main__":
     main()

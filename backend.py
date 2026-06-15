@@ -232,27 +232,57 @@ def _x_get(path, params):
         return None
 
 def fetch_x():
-    """X/Twitter UFO chatter. counts/recent gives the cheap velocity number;
-    a small search/recent (optional) supplies ticker posts. Needs X_BEARER_TOKEN."""
+    """X/Twitter UFO chatter. Primary: counts/recent (cheap). Fallback: derive an
+    hourly rate from the timestamps of recent search results (works even if the
+    counts endpoint isn't in your access tier). Needs X_BEARER_TOKEN."""
     if not X_BEARER:
         print("  NOTE: X_BEARER_TOKEN not set \u2014 social_chatter will read 0")
         return {"last_hour": 0, "items": []}
+
     last_hour = 0
     counts = _x_get("/tweets/counts/recent", {"query": X_QUERY, "granularity": "hour"})
     if counts and counts.get("data"):
-        last_hour = counts["data"][-1].get("tweet_count", 0)   # current (most recent) hour bucket
+        buckets = counts["data"]
+        # last bucket is the current PARTIAL hour; use the last COMPLETE hour instead
+        idx = -2 if len(buckets) >= 2 else -1
+        last_hour = buckets[idx].get("tweet_count", 0)
+        total = (counts.get("meta") or {}).get("total_tweet_count")
+        print(f"  X counts: {len(buckets)} hourly buckets, last full hour={last_hour}, 7d total={total}")
+    else:
+        print("  X counts/recent returned nothing (endpoint may not be in your tier) \u2014 using search rate")
+
     items = []
-    if (os.environ.get("X_TICKER") or "1") == "1":
+    need_rate = (last_hour == 0)
+    want_ticker = (os.environ.get("X_TICKER") or "1") == "1"
+    if need_rate or want_ticker:
+        # 100 posts if we need them for the rate fallback, else just 10 for the ticker
+        n = "100" if need_rate else "10"
         search = _x_get("/tweets/search/recent",
-                        {"query": X_QUERY, "max_results": "10", "tweet.fields": "created_at"})
+                        {"query": X_QUERY, "max_results": n, "tweet.fields": "created_at"})
         if search and search.get("data"):
-            for p in search["data"]:
-                items.append({
-                    "title": (p.get("text") or "").replace("\n", " ")[:200],
-                    "url":   f"https://x.com/i/web/status/{p['id']}",
-                    "time":  p.get("created_at", ""),
-                })
-    print(f"  X: last-hour count={last_hour}, {len(items)} ticker posts")
+            posts = search["data"]
+            if want_ticker:
+                for p in posts[:8]:
+                    items.append({
+                        "title": (p.get("text") or "").replace("\n", " ")[:200],
+                        "url":   f"https://x.com/i/web/status/{p['id']}",
+                        "time":  p.get("created_at", ""),
+                    })
+            if need_rate:
+                times = []
+                for p in posts:
+                    try:
+                        times.append(dt.datetime.fromisoformat(str(p["created_at"]).replace("Z", "+00:00")))
+                    except (KeyError, ValueError, TypeError):
+                        pass
+                if len(times) >= 2:
+                    span_min = (max(times) - min(times)).total_seconds() / 60
+                    last_hour = round(len(times) / (span_min/60)) if span_min > 0 else len(times)
+                    print(f"  X search-rate: {len(times)} posts over {span_min:.0f} min \u2192 ~{last_hour}/hr")
+                elif times:
+                    last_hour = len(times)
+
+    print(f"  X: last_hour={last_hour}, {len(items)} ticker posts")
     return {"last_hour": last_hour, "items": items}
 
 def get_social():
@@ -344,7 +374,7 @@ def score_factors(f):
     # Social chatter from X/Twitter (0–12). Always recorded so the card never disappears.
     soc = f.get("social") or {}
     chatter = soc.get("last_hour") or 0
-    s = clamp((chatter - 30) / 470, 0, 1) * 12
+    s = clamp((chatter - 5) / 195, 0, 1) * 12
     score += s; contrib["social_chatter"] = round(s, 1)
 
     # Geomagnetic Kp (0–15)
