@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T13:50:50.366423Z",
-  "score": 11.3,
+  "generated_at": "2026-06-15T13:53:00.768330Z",
+  "score": 9.2,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
@@ -19,7 +19,7 @@
     "asteroid_approach": 0,
     "search_interest": 8,
     "space_weather_alerts": 1.2,
-    "alien_variance": -0.4
+    "alien_variance": -2.5
   },
   "sightings_total": 250,
   "daily_report": {
@@ -27,9 +27,8 @@
     "day": 2,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "13:50",
+    "generated_utc": "13:53",
     "top_drivers": [
-      "In far West Texas , the threat of land seizures for a border wall has families on edge",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
@@ -50,66 +49,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "In far West Texas , the threat of land seizures for a border wall has families on edge",
-      "source": "ksat.com",
-      "url": "https://www.ksat.com/news/texas/2026/06/15/in-far-west-texas-the-threat-of-land-seizures-for-a-border-wall-has-families-on-edge/"
-    },
-    {
-      "type": "news",
-      "text": "US businessman unveils truth behind viral Trump - aliens photo",
-      "source": "albawaba.com",
-      "url": "https://www.albawaba.com/node/us-businessman-unveils-truth-behind-1630303"
-    },
-    {
-      "type": "news",
-      "text": "  Disclosure Day  ending explained : What did the alien whisper to Margaret and that one word mean ? ",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/disclosure-day-ending-explained-what-did-the-alien-whisper-to-margaret-and-that-one-word-mean/articleshow/131745891.cms"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u0440\u0441\u0442\u0430\u0448\u043a\u0438 \u0440\u0430\u0442 \u0421\u0442\u0438\u0432\u0435\u043d\u0430 \u0421\u043f\u0438\u043b\u0431\u0435\u0440\u0433\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0432\u0430\u043d\u0437\u0435\u043c\u0430\u0459\u0430\u0446\u0430 \u043a\u043e\u0458\u0438 \u0458\u0435 \u043a\u0443\u043b\u043c\u0438\u043d\u0438\u0440\u0430\u043e \u0444\u0438\u043b\u043c\u043e\u043c \u201e \u0414\u0430\u043d \u0440\u0430\u0437\u043e\u0442\u043a\u0440\u0438\u0432\u0430\u045a\u0430  | \u0424\u0438\u043b\u043c \u0438 \u0422\u0412",
-      "source": "rts.rs",
-      "url": "https://www.rts.rs/magazin/film-i-tv/5973260/stiven-spilberg-dan-razotkrivanja-vanzemaljci-bliski-susreti-et.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qov73cajc7mob485q2urr4fev0"
-    },
-    {
-      "type": "news",
-      "text": "A UAP Science Advisory Council to the U . S . Government : Keeping Our Eyes on the Orbs , Not the Audience ! ",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4383813/posts"
-    },
-    {
-      "type": "news",
-      "text": "BTS : John Dower on The Alien Autopsy Scandal",
-      "source": "televisual.com",
-      "url": "https://www.televisual.com/news/bts-john-dower-on-the-alien-autopsy-scandal/"
-    },
-    {
-      "type": "news",
-      "text": "El Pent\u00e1gono publica nuevos archivos sobre ovnis :  Es como si se movieran al un\u00edsono y en formaci\u00f3n  ",
-      "source": "antena3.com",
-      "url": "https://www.antena3.com/noticias/mundo/pentagono-publica-nuevos-archivos-ovnis-como-movieran-unisono-formacion_202606156a2fd2ecf2a09b6364ad15d4.html"
-    },
-    {
-      "type": "news",
-      "text": "I Just Found Out Universal Disclosure Day Has An A+ NBC Cameo I Would Never Have Spotted",
-      "source": "cinemablend.com",
-      "url": "https://www.cinemablend.com/movies/universal-disclosure-day-has-nbc-today-show-crew-member-cameo"
-    },
-    {
-      "type": "news",
-      "text": "President Trump announces Iran peace agreement and more top headlines",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/us/president-trump-announces-iran-peace-agreement-more-top-headlines"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -133,6 +72,12 @@
     {
       "ts": "2026-06-15T13:50:50.362861Z",
       "score": 11.3,
+      "band": "NOTHINGBURGER",
+      "i": 0
+    },
+    {
+      "ts": "2026-06-15T13:53:00.767380Z",
+      "score": 9.2,
       "band": "NOTHINGBURGER",
       "i": 0
     }
