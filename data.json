@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-15T07:37:22.171328Z",
-  "score": 16.5,
+  "generated_at": "2026-06-15T13:39:04.564686Z",
+  "score": 14.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -36.5,
+    "d1h": -37.4,
     "d24h": 0.0,
     "peak90": 53.0
   },
@@ -19,8 +19,8 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0,
     "search_interest": 8,
-    "space_weather_alerts": 2.4,
-    "alien_variance": 3.6
+    "space_weather_alerts": 1.2,
+    "alien_variance": 2.4
   },
   "sightings_total": 250,
   "daily_report": {
@@ -28,13 +28,13 @@
     "day": 3,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "07:37",
+    "generated_utc": "13:39",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
       "NEO (2015 MC) passing Earth at 28.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 250
   },
   "raw": {
@@ -47,18 +47,12 @@
     "wiki_spike_pct": 77.38580750407831,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3700\r Issue Time: 2026 Jun 14 1328 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA30\r Serial Number: 276\r Issue Time: 2026 Jun 14 0830 UTC\r \r CANCELLED WATCH: Geomagnetic Storm Category G2 P",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -171,6 +165,12 @@
       "score": 16.5,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
+    },
+    {
+      "ts": "2026-06-15T13:39:04.563703Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0
     }
   ],
   "sources": [
