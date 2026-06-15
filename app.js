@@ -19,7 +19,7 @@ const BAND_GLOW = ["#00FF94","#5DD49C","#FFE066","#FFB347","#FF5252","#B49BFF"];
 
 const FACTOR_META = {
   news_velocity:        { label:"News velocity",        source:"GDELT 2.0",        color:"#FFB347", srcColor:"#FF5252", max:14 },
-  social_chatter:       { label:"Social chatter",       source:"Reddit + Bluesky", color:"#FF6FCF", srcColor:"#FF6FCF", max:12 },
+  social_chatter:       { label:"Social chatter",       source:"X / Twitter", color:"#FF6FCF", srcColor:"#FF6FCF", max:12 },
   search_interest:      { label:"Search interest",      source:"Wikipedia",        color:"#FFE066", srcColor:"#FFE066", max:10 },
   geomagnetic:          { label:"Geomagnetic",          source:"NOAA",             color:"#7AFFD0", srcColor:"#7AFFD0", max:12 },
   asteroid_approach:    { label:"Asteroid approach",    source:"NASA",             color:"#5AC8FF", srcColor:"#5AC8FF", max:10 },
@@ -29,7 +29,7 @@ const FACTOR_META = {
   alien_variance:       { label:"Alien variance",       source:"Stochastic",       color:"#B49BFF", srcColor:"#B49BFF", max:5 },
 };
 
-const TICKER_EMOJI = { news:"\uD83D\uDCF0", reddit:"\uD83D\uDC7D", swpc:"\uD83D\uDEF0\uFE0F",
+const TICKER_EMOJI = { news:"\uD83D\uDCF0", reddit:"\uD83D\uDC7D", x:"\uD835\uDD4F", swpc:"\uD83D\uDEF0\uFE0F",
   seismic:"\uD83C\uDF0B", neo:"\u2604\uFE0F", bluesky:"\uD83E\uDD8B", default:"\uD83D\uDEF8" };
 
 /* ---- helpers ---- */

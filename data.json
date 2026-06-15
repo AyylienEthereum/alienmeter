@@ -1,85 +1,102 @@
 {
-  "generated_at": "2026-06-15T13:53:00.768330Z",
-  "score": 9.2,
+  "generated_at": "2026-06-15T14:05:03.036311Z",
+  "score": 51.5,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
-    "index": 0,
-    "color": "#00FF94",
-    "emoji": "\ud83d\udfe2",
-    "min": 0
+    "name": "ROSWELL ENERGY",
+    "flavor": "something in the air tonight",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
     "d1h": 0.0,
     "d24h": 0.0,
-    "peak90": 50.9
+    "peak90": 51.5
   },
   "contributing_factors": {
-    "solar_flares": 2.5,
-    "asteroid_approach": 0,
-    "search_interest": 8,
-    "space_weather_alerts": 1.2,
-    "alien_variance": -2.5
+    "news_velocity": 12.0,
+    "social_chatter": 5.4,
+    "geomagnetic": 7.2,
+    "solar_flares": 5.0,
+    "asteroid_approach": 7.3,
+    "search_interest": 7.4,
+    "space_weather_alerts": 2.4,
+    "seismic": 3.2,
+    "alien_variance": 1.6
   },
   "sightings_total": 250,
   "daily_report": {
-    "number": 2,
-    "day": 2,
+    "number": 1,
+    "day": 1,
     "date": "15.06.2026",
     "declassified": "15.06.26",
-    "generated_utc": "13:53",
+    "generated_utc": "14:05",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +77% above baseline",
-      "NEO (2015 MC) passing Earth at 28.6 lunar distances"
+      "Pentagon releases new UAP report to Congress",
+      "News velocity +50% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 240 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 250
   },
   "raw": {
-    "kp": null,
-    "xray_class": "B",
-    "closest_asteroid_ld": 28.5799495008,
-    "asteroid_name": "(2015 MC)",
-    "gdelt_spike_pct": null,
-    "reddit_last_hour": 0,
-    "wiki_spike_pct": 77.38580750407831,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "kp": 4.3,
+    "xray_class": "C",
+    "closest_asteroid_ld": 4.1,
+    "asteroid_name": "(2026 XX)",
+    "gdelt_spike_pct": 50.0,
+    "x_last_hour": 240,
+    "wiki_spike_pct": 46.3,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.4,
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Pentagon releases new UAP report to Congress",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "type": "x",
+      "text": "mass sighting over the bay right now, dozens of us watching #UAP",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/1"
+    },
+    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "G2 storm watch issued",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
+      "type": "swpc",
+      "text": "M-class flare observed",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: off the coast of Chile",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
       "type": "neo",
-      "text": "NEO (2015 MC) passing at 28.58 LD (~90m, 9.8 km/s)",
+      "text": "NEO (2026 XX) passing at 4.10 LD (~87m, 12.4 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
     {
-      "ts": "2026-06-14T01:28:24.722000Z",
-      "score": 50.9,
+      "ts": "2026-06-15T14:05:02.896026Z",
+      "score": 51.5,
       "band": "ROSWELL ENERGY",
       "i": 3
-    },
-    {
-      "ts": "2026-06-15T13:50:50.362861Z",
-      "score": 11.3,
-      "band": "NOTHINGBURGER",
-      "i": 0
-    },
-    {
-      "ts": "2026-06-15T13:53:00.767380Z",
-      "score": 9.2,
-      "band": "NOTHINGBURGER",
-      "i": 0
     }
   ],
   "sources": [
@@ -89,7 +106,6 @@
     "GDELT 2.0",
     "UFOSINT",
     "Wikipedia",
-    "Reddit",
-    "Bluesky"
+    "X / Twitter"
   ]
 }

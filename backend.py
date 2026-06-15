@@ -24,6 +24,13 @@ from pathlib import Path
 NASA_KEY = os.environ.get("NASA_API_KEY", "DEMO_KEY")
 DRY_RUN  = os.environ.get("DRY_RUN") == "1"
 UA       = "ayylien-threatmeter/1.0 (https://github.com/ayylien)"
+
+# X / Twitter API (App-only OAuth 2.0 Bearer token). Pay-per-use as of 2026 — see README.
+X_BEARER   = os.environ.get("X_BEARER_TOKEN", "").strip()
+X_API_BASE = os.environ.get("X_API_BASE") or "https://api.twitter.com/2"
+X_QUERY    = os.environ.get("X_QUERY") or '(UFO OR UAP OR "unidentified anomalous" OR "alien sighting") -is:retweet lang:en'
+SOCIAL_CACHE   = Path("social_cache.json")
+SOCIAL_TTL_MIN = int(os.environ.get("SOCIAL_TTL_MIN", "55"))   # hit X ~hourly to control cost
 OUT      = Path("data.json")
 HIST     = Path("history.json")
 SIGHT    = Path("sightings.json")
@@ -56,12 +63,21 @@ def fetch_json(url, timeout=20):
     if DRY_RUN:
         return None
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return json.loads(r.read().decode("utf-8", errors="replace"))
-    except Exception as e:
-        print(f"  WARN fetch failed {url[:80]}…  {e}")
-        return None
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read().decode("utf-8", errors="replace"))
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt == 0:
+                print(f"  429 rate-limited, retrying in 6s: {url[:60]}…")
+                import time as _t; _t.sleep(6)
+                continue
+            print(f"  WARN fetch failed {url[:80]}…  {e}")
+            return None
+        except Exception as e:
+            print(f"  WARN fetch failed {url[:80]}…  {e}")
+            return None
+    return None
 
 def clamp(v, lo, hi):
     return max(lo, min(hi, v))
@@ -202,78 +218,65 @@ def get_gdelt_articles():
             })
     return out[:20]
 
-def get_reddit():
-    """Reddit chatter velocity across UFO subs (no auth, custom UA required)."""
-    subs = ["UFOs", "aliens", "UAP", "HighStrangeness", "AlienBodies"]
-    last_hour = 0
-    items = []
-    now = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).timestamp()
-    for sub in subs:
-        data = fetch_json(f"https://www.reddit.com/r/{sub}/new.json?limit=100")
-        if not data:
-            continue
-        for c in data.get("data", {}).get("children", []):
-            d = c.get("data", {})
-            try:
-                age_h = (now - float(d["created_utc"])) / 3600
-            except (KeyError, ValueError):
-                continue
-            if age_h < 1:
-                last_hour += 1
-            if age_h < 24:
-                items.append({
-                    "title":  (d.get("title") or "")[:200],
-                    "url":    "https://reddit.com" + d.get("permalink", ""),
-                    "sub":    sub,
-                    "score":  int(d.get("score", 0)),
-                    "time":   int(d.get("created_utc", 0)),
-                })
-    items.sort(key=lambda x: -x["time"])
-    return {"last_hour": last_hour, "items": items[:15]}
+def _x_get(path, params):
+    """Authenticated GET against the X API v2. Returns parsed JSON or None."""
+    if not X_BEARER:
+        return None
+    url = X_API_BASE + path + "?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {X_BEARER}", "User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return json.loads(r.read().decode("utf-8", errors="replace"))
+    except Exception as e:
+        print(f"  WARN X API {path}: {e}")
+        return None
 
-def get_bluesky():
-    """Bluesky chatter velocity for UFO/UAP terms. Public AppView API — no auth,
-    works from datacenter IPs (unlike Reddit, which blocks Actions runners)."""
-    terms = ["UFO", "UAP", "alien sighting"]
-    now = dt.datetime.now(dt.timezone.utc)
+def fetch_x():
+    """X/Twitter UFO chatter. counts/recent gives the cheap velocity number;
+    a small search/recent (optional) supplies ticker posts. Needs X_BEARER_TOKEN."""
+    if not X_BEARER:
+        print("  NOTE: X_BEARER_TOKEN not set \u2014 social_chatter will read 0")
+        return {"last_hour": 0, "items": []}
     last_hour = 0
+    counts = _x_get("/tweets/counts/recent", {"query": X_QUERY, "granularity": "hour"})
+    if counts and counts.get("data"):
+        last_hour = counts["data"][-1].get("tweet_count", 0)   # current (most recent) hour bucket
     items = []
-    seen = set()
-    for q in terms:
-        url = ("https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts"
-               f"?q={urllib.parse.quote(q)}&limit=100&sort=latest")
-        data = fetch_json(url)
-        if not data:
-            continue
-        for p in data.get("posts", []):
-            uri = p.get("uri", "")
-            if not uri or uri in seen:
-                continue
-            seen.add(uri)
-            rec = p.get("record", {}) or {}
-            created = rec.get("createdAt") or p.get("indexedAt")
-            try:
-                ts = dt.datetime.fromisoformat(str(created).replace("Z", "+00:00"))
-            except (TypeError, ValueError):
-                continue
-            age_h = (now - ts).total_seconds() / 3600
-            if age_h < 0 or age_h > 48:
-                continue
-            if age_h < 1:
-                last_hour += 1
-            handle = (p.get("author") or {}).get("handle", "")
-            rkey = uri.split("/")[-1]
-            text = (rec.get("text") or "")[:200]
-            if age_h < 24 and handle and rkey and text:
+    if os.environ.get("X_TICKER", "1") == "1":
+        search = _x_get("/tweets/search/recent",
+                        {"query": X_QUERY, "max_results": "10", "tweet.fields": "created_at"})
+        if search and search.get("data"):
+            for p in search["data"]:
                 items.append({
-                    "title": text,
-                    "url": f"https://bsky.app/profile/{handle}/post/{rkey}",
-                    "handle": handle,
-                    "time": ts.timestamp(),
+                    "title": (p.get("text") or "").replace("\n", " ")[:200],
+                    "url":   f"https://x.com/i/web/status/{p['id']}",
+                    "time":  p.get("created_at", ""),
                 })
-    items.sort(key=lambda x: -x["time"])
-    print(f"  bluesky: {last_hour} posts in last hour, {len(items)} recent items")
-    return {"last_hour": last_hour, "items": items[:15]}
+    print(f"  X: last-hour count={last_hour}, {len(items)} ticker posts")
+    return {"last_hour": last_hour, "items": items}
+
+def get_social():
+    """Cached X fetch: the meter refreshes every 15 min, but X is only hit ~hourly
+    (SOCIAL_TTL_MIN) to control pay-per-use cost. Cache lives in social_cache.json."""
+    if DRY_RUN:
+        return {"last_hour": 34, "items": [{"title": "mass sighting over the bay right now, dozens of us watching #UAP",
+                "url": "https://x.com/i/web/status/1", "time": ""}]}
+    now_ts = dt.datetime.now(dt.timezone.utc).timestamp()
+    if SOCIAL_CACHE.exists():
+        try:
+            c = json.loads(SOCIAL_CACHE.read_text())
+            age_min = (now_ts - c.get("fetched_at", 0)) / 60
+            if age_min < SOCIAL_TTL_MIN and c.get("data"):
+                print(f"  social: reusing cached X data ({age_min:.0f} min old, refresh at {SOCIAL_TTL_MIN})")
+                return c["data"]
+        except Exception:
+            pass
+    data = fetch_x()
+    try:
+        SOCIAL_CACHE.write_text(json.dumps({"fetched_at": now_ts, "data": data}))
+    except Exception:
+        pass
+    return data
 
 def get_wiki():
     """Wikipedia pageview spike for UFO-related articles vs 30-day baseline."""
@@ -338,13 +341,11 @@ def score_factors(f):
         s = clamp(g["spike_pct"] / 50, 0, 3) * 12
         score += s; contrib["news_velocity"] = round(s, 1)
 
-    # Reddit chatter (0–20). Baseline ~8/hr combined across subs.
-    r = f.get("reddit") or {}
-    b = f.get("bluesky") or {}
-    chatter = (r.get("last_hour") or 0) + (b.get("last_hour") or 0)
-    if chatter:
-        s = clamp((chatter - 8) / 40, 0, 1) * 12
-        score += s; contrib["social_chatter"] = round(s, 1)
+    # Social chatter from X/Twitter (0–12). Always recorded so the card never disappears.
+    soc = f.get("social") or {}
+    chatter = soc.get("last_hour") or 0
+    s = clamp((chatter - 30) / 470, 0, 1) * 12
+    score += s; contrib["social_chatter"] = round(s, 1)
 
     # Geomagnetic Kp (0–15)
     k = f.get("kp")
@@ -362,7 +363,7 @@ def score_factors(f):
     n = f.get("neo")
     if n and n.get("closest"):
         ld = n["closest"]["ld"]
-        s = clamp((10 - ld) / 10, 0, 1) * 10
+        s = clamp((50 - ld) / 50, 0, 1) * 8
         score += s; contrib["asteroid_approach"] = round(s, 1)
 
     # Wikipedia interest spike (0–8)
@@ -409,10 +410,8 @@ def build_ticker(f):
     for a in f.get("gdelt_articles", [])[:10]:
         if a.get("title"):
             t.append({"type": "news", "text": a["title"], "source": a.get("source"), "url": a.get("url")})
-    for p in f.get("reddit", {}).get("items", [])[:6]:
-        t.append({"type": "reddit", "text": p["title"], "source": f"r/{p['sub']}", "url": p["url"]})
-    for p in f.get("bluesky", {}).get("items", [])[:5]:
-        t.append({"type": "bluesky", "text": p["title"], "source": "@" + p.get("handle", "bsky"), "url": p["url"]})
+    for p in f.get("social", {}).get("items", [])[:6]:
+        t.append({"type": "x", "text": p["title"], "source": "X / Twitter", "url": p["url"]})
     for msg in (f.get("alerts") or {}).get("latest", [])[:3]:
         t.append({"type": "swpc", "text": msg, "source": "NOAA SWPC", "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"})
     q = f.get("quakes") or {}
@@ -466,8 +465,7 @@ def mock_factors():
         "neo":            {"closest": {"ld": 4.1, "name": "(2026 XX)", "diameter_m": 87, "hazardous": False, "velocity_kps": 12.4}, "count": 5},
         "gdelt_volume":   {"latest": 0.18, "baseline": 0.12, "z": 1.6, "spike_pct": 50.0},
         "gdelt_articles": [{"title": "Pentagon releases new UAP report to Congress", "url": "https://www.reuters.com/", "source": "reuters.com", "time": "20260527T000000Z"}],
-        "reddit":         {"last_hour": 17, "items": [{"title": "Bright orb over Phoenix tonight", "url": "https://reddit.com/r/UFOs/x", "sub": "UFOs", "score": 412, "time": 1700000000}]},
-        "bluesky":        {"last_hour": 23, "items": [{"title": "anyone else just see that thing over the bay?? #UAP", "url": "https://bsky.app/profile/skywatcher.bsky.social/post/abc", "handle": "skywatcher.bsky.social", "time": 1700000000}]},
+        "social":         {"last_hour": 240, "items": [{"title": "mass sighting over the bay right now, dozens of us watching #UAP", "url": "https://x.com/i/web/status/1", "time": ""}]},
         "wiki":           {"yesterday": 12000, "baseline": 8200, "spike_pct": 46.3},
         "quakes":         {"count": 1, "max_mag": 6.4, "places": ["off the coast of Chile"]},
     }
@@ -572,11 +570,10 @@ def build_daily_report(score, band, deltas, factors, history, sightings_total):
     gv = factors.get("gdelt_volume") or {}
     if gv.get("spike_pct", 0) > 10:
         drivers.append(f"News velocity +{gv['spike_pct']:.0f}% vs 7-day baseline (GDELT)")
-    rd = factors.get("reddit") or {}
-    bs = factors.get("bluesky") or {}
-    chatter = (rd.get("last_hour") or 0) + (bs.get("last_hour") or 0)
+    soc = factors.get("social") or {}
+    chatter = soc.get("last_hour") or 0
     if chatter:
-        drivers.append(f"Social chatter: {chatter} UFO/UAP posts/hr (Reddit + Bluesky)")
+        drivers.append(f"X/Twitter chatter: {chatter} UFO/UAP posts in the last hour")
     al = factors.get("alerts") or {}
     if al.get("count"):
         drivers.append(f"NOAA space-weather alerts active: {al['count']}")
@@ -623,8 +620,7 @@ def main():
             "neo":            get_neo(),
             "gdelt_volume":   get_gdelt_volume(),
             "gdelt_articles": get_gdelt_articles(),
-            "reddit":         get_reddit(),
-            "bluesky":        get_bluesky(),
+            "social":         get_social(),
             "wiki":           get_wiki(),
             "quakes":         get_quakes(),
         }
@@ -651,7 +647,7 @@ def main():
             "closest_asteroid_ld":      ((factors["neo"] or {}).get("closest") or {}).get("ld"),
             "asteroid_name":            ((factors["neo"] or {}).get("closest") or {}).get("name"),
             "gdelt_spike_pct":          (factors["gdelt_volume"] or {}).get("spike_pct"),
-            "reddit_last_hour":         (factors["reddit"] or {}).get("last_hour"),
+            "x_last_hour":              (factors["social"] or {}).get("last_hour"),
             "wiki_spike_pct":           (factors["wiki"] or {}).get("spike_pct"),
             "earthquakes_24h":          (factors["quakes"] or {}).get("count", 0),
             "max_quake_mag_24h":        (factors["quakes"] or {}).get("max_mag", 0),
@@ -661,7 +657,7 @@ def main():
         "history": history[-672:],   # last ~7 days for the trend chart on page 1
         "sources": [
             "NASA NeoWs", "NOAA SWPC", "USGS", "GDELT 2.0", "UFOSINT",
-            "Wikipedia", "Reddit", "Bluesky",
+            "Wikipedia", "X / Twitter",
         ],
     }
 
