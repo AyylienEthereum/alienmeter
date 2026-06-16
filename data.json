@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-06-16T07:42:09.751848Z",
-  "score": 29.0,
+  "generated_at": "2026-06-16T12:31:23.914470Z",
+  "score": 36.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -0.6,
+    "d1h": 9.9,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 5.7,
+    "news_velocity": 0,
+    "social_chatter": 12,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 7.2,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 3.4,
-    "alien_variance": 1.7
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -29,14 +30,14 @@
     "day": 2,
     "date": "16.06.2026",
     "declassified": "16.06.26",
-    "generated_utc": "07:42",
+    "generated_utc": "12:31",
     "top_drivers": [
-      " \u201e \u0414\u0435\u043d\u044f\u0442 \u043d\u0430 \u0438\u0441\u0442\u0438\u043d\u0430\u0442\u0430  \u043d\u0430 \u0421\u043f\u0438\u043b\u0431\u044a\u0440\u0433 \u0441\u0435 \u0445\u0430\u0440\u0435\u0441\u0430 \u043d\u0430\u0439 - \u043c\u043d\u043e\u0433\u043e \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0442\u0435 \u0437\u0440\u0438\u0442\u0435\u043b\u0438",
-      "X/Twitter chatter: 97 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "Spielberg  Disclosure Day  Was Actually Inspired by Real - Life US Navy History",
+      "X/Twitter chatter: 202 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +45% above baseline"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
@@ -44,109 +45,115 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 97,
+    "gdelt_spike_pct": -71.76009593460233,
+    "x_last_hour": 202,
     "wiki_spike_pct": 45.30886379759592,
-    "earthquakes_24h": 2,
+    "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.7,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "news",
-      "text": " \u201e \u0414\u0435\u043d\u044f\u0442 \u043d\u0430 \u0438\u0441\u0442\u0438\u043d\u0430\u0442\u0430  \u043d\u0430 \u0421\u043f\u0438\u043b\u0431\u044a\u0440\u0433 \u0441\u0435 \u0445\u0430\u0440\u0435\u0441\u0430 \u043d\u0430\u0439 - \u043c\u043d\u043e\u0433\u043e \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0442\u0435 \u0437\u0440\u0438\u0442\u0435\u043b\u0438",
-      "source": "standartnews.com",
-      "url": "https://www.standartnews.com/kultura/denyat-na-istinata-na-spilbarg-se-haresa-nay-mnogo-na-balgarskite-zriteli-637335.html"
+      "text": "Spielberg  Disclosure Day  Was Actually Inspired by Real - Life US Navy History",
+      "source": "collider.com",
+      "url": "https://collider.com/disclosure-day-ending-meaning-ufo-uap-navy-history-steven-spielberg/"
     },
     {
       "type": "news",
-      "text": "\u798f\u7530 / \u8fdc\u7a0b\u4e89\u51a0 \uff0c \u8dc3\u8fdb\u524d\u4e09 \uff0c \u6c5f\u6dee / \u91cd\u6c7d / \u5947\u745e\u7b49\u5927\u6da8 \uff01 5\u6708\u65b0\u80fd\u6e90\u8f7b\u5361\u95002",
-      "source": "k.sina.com.cn",
-      "url": "https://k.sina.com.cn/article_1579773413_5e296de500101e9be.html"
+      "text": "Movie review :  Disclosure Day  strays from Spielberg genius \u2013 The Morning Sun",
+      "source": "themorningsun.com",
+      "url": "https://www.themorningsun.com/2026/06/16/movie-review-disclosure-day-strays-from-spielbergs-genius/"
     },
     {
       "type": "news",
-      "text": "\u798f\u7530 / \u8fdc\u7a0b\u4e89\u51a0 \uff0c \u8dc3\u8fdb\u524d\u4e09 \uff0c \u6c5f\u6dee / \u91cd\u6c7d / \u5947\u745e\u7b49\u5927\u6da8 \uff01 5\u6708\u65b0\u80fd\u6e90\u8f7b\u5361\u95002",
-      "source": "k.sina.com.cn",
-      "url": "https://k.sina.com.cn/article_1579773413_5e296de502701e9bg.html"
+      "text": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043c\u0438\u0440\u0430 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443 2026 - \u0443\u0447\u0435\u043d\u044b\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 , \u043a\u0442\u043e \u043f\u043e\u0431\u0435\u0434\u0438\u0442 \u0438 \u0437\u0430\u0431\u044c\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u0433\u043e\u043b\u043e\u0432",
+      "source": "science.focus.ua",
+      "url": "https://science.focus.ua/nauka/757786-chempionat-mira-po-futbolu-2026-uchenye-vyyasnili-kto-pobedit-i-zabet-bolshe-vsego-golov"
     },
     {
       "type": "news",
-      "text": "Juneteenth celebration to take place at Island Park on Saturday",
-      "source": "beenews.com",
-      "url": "https://www.beenews.com/ken_ton_bee/ken_ton_bee/news/juneteenth-celebration-to-take-place-at-island-park-on-saturday/article_424420d8-76db-43c8-91e7-a54d1a6b4501.html"
+      "text": "Ancient Aliens",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/7648f77c-3e37-586f-995f-7678816c2419/ancient-aliens"
     },
     {
       "type": "news",
-      "text": "Steven Spielberg Claims His UFO Movie Was Based On  Credible Foundation  and  Circumstantial Evidence  ",
+      "text": "\u0420\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 : \u041d\u041b\u041e \u0432 \u0444\u043e\u0440\u043c\u0435 \u0433\u0438\u0433\u0430\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044f",
+      "source": "society.comments.ua",
+      "url": "https://society.comments.ua/news/science-and-learning/v-ssha-videli-strannoe-nlo-v-vide-gigantskogo-kartofelya-foto-808838.html"
+    },
+    {
+      "type": "news",
+      "text": "UAP Task Force Member Thinks She May Have Encountered Two Aliens  Humanoid Enough To Blend In  ",
       "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/steven-spielberg-disclosure-day-ufo-research-1802979"
+      "url": "https://www.ibtimes.co.uk/capitol-hill-briefing-ufo-extraterrestrial-claims-1802980"
     },
     {
       "type": "news",
-      "text": "Ufo , la Disclosure va avanti nel silenzio dei media ( meglio parlare di Spielberg ) ",
-      "source": "ilfattoquotidiano.it",
-      "url": "https://www.ilfattoquotidiano.it/2026/06/16/ufo-disclosure-congresso-assemblea-nazionale-notizie/8419676/"
+      "text": "Die Wahrheit ist irgendwo da draussen",
+      "source": "tele.ch",
+      "url": "https://www.tele.ch/kino/die-wahrheit-ist-irgendwo-da-draussen/f1eqlv0"
     },
     {
       "type": "news",
-      "text": "DSM Kei Ninomiya Goes Punk for Show as Pitti Uomo Guest Designer",
-      "source": "wwd.com",
-      "url": "https://wwd.com/menswear-news/mens-designer-luxury/dsm-kei-ninomiya-pitti-preview-1239005217/"
+      "text": "\u0412 \u0420\u0410\u041d \u043a\u043e\u043d\u0441\u0442\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043d\u0435\u0437\u0435\u043c\u043d\u044b\u0445 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0439",
+      "source": "govoritmoskva.ru",
+      "url": "http://govoritmoskva.ru/news/495860/"
     },
     {
       "type": "news",
-      "text": "US government releases floating  potato  UFO image | National",
-      "source": "lebanondemocrat.com",
-      "url": "https://www.lebanondemocrat.com/maconcounty/news/national/us-government-releases-floating-potato-ufo-image/article_ea900f92-c7da-5594-bc81-0b764d0b5500.html"
+      "text": "Airborne 06 . 15 . 26 : Storm v Airport , UFO Files , Wayward CFI Sentenced",
+      "source": "aero-news.net",
+      "url": "https://aero-news.net:443/index.cfm?do=main.textpost&id=53415073-4B37-46EC-A127-803C2E3F040B"
     },
     {
       "type": "news",
-      "text": "Space Force and IDF hold joint exercise in Bolingbrook ( Fiction ) ",
-      "source": "freethoughtblogs.com",
-      "url": "https://freethoughtblogs.com/babbler/2026/06/15/space-force-and-idf-hold-joint-exercises-in-bolingbrook-fiction/"
-    },
-    {
-      "type": "news",
-      "text": "America Cup Recon : End of the winter test block for the Kiwis",
-      "source": "yachtsandyachting.com",
-      "url": "https://www.yachtsandyachting.com/news/297101/Americas-Cup-Recon-Kiwis-finish-tests-June-15"
+      "text": "\u05d4\u05e8\u05d0\u05d1  \u05d3 \u05de\u05de\u05d5\u05e0\u05d8\u05e8\u05d9\u05d0\u05d5\u05dc \u05d4\u05e9\u05d9\u05d0 \u05d0\u05ea \u05d1\u05e0\u05d5 \u05e2\u05dd \u05e0\u05db\u05d3\u05ea \u05e8\u05d0\u05e9 \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4 \u05de\u05d0\u05e8\u05d4  \u05d1 | \u05e6\u05e4\u05d5 \u05d1\u05d2\u05dc\u05e8\u05d9\u05d4",
+      "source": "kikar.co.il",
+      "url": "https://www.kikar.co.il/hasidism/tgpkw6"
     },
     {
       "type": "x",
-      "text": "@webdevmike Unfortunately, the UFO community is fked up by psyops and commerce.",
+      "text": "\ud83d\udef8 $BUBL IS LIVE! \ud83d\udef8  A strange signal just entered the Solana galaxy.  No destination. No limits. Just a pink UFO cruising through the memeverse with a bubble tea in hand.  CA:  8s6yu36YSSmvbcezwmyGZtG",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066788016962539672"
+      "url": "https://x.com/i/web/status/2066858644293980389"
     },
     {
       "type": "x",
-      "text": "Guys $UFO is only 183 votes away from getting listed on Moonshot  Been loading up \u2014 once this lists it's going to rip  Get your votes in now \ud83d\udc47 https://t.co/qFWLJoYzO7",
+      "text": "@elonmusk @NewsNation https://t.co/ZYXyu9p1MO This video (DOW-UAP-PR051, \"Syrian UAP instant acceleration\") was officially released by the U.S. All-domain Anomaly Resolution Office (AARO), under the D",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066787712863027637"
+      "url": "https://x.com/i/web/status/2066857673039999462"
     },
     {
       "type": "x",
-      "text": "I call this #UAP \"Ghost\" because it has some bizarre aspects. First, its size went from 5 meters to 2 meters.  It instantly accelerated to \"get away\" from the operator/observer when it no longer wante",
+      "text": "@RealAlexJones Could you discuss the ufo files/disclosure on today\u2019s broadcast? \ud83d\ude4f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066787341612523970"
+      "url": "https://x.com/i/web/status/2066857665112822107"
     },
     {
       "type": "x",
-      "text": "@vaulies @Photonire I remember when he was all about custom tds towers  I miss the UFO photon...",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066787095730118686"
+      "url": "https://x.com/i/web/status/2066857325982343667"
     },
     {
       "type": "x",
-      "text": "@GeorgeCochrane1 FSO Polonez. An elderly lady i knew had one and rang the local motor factors 'I want a fan belt for my UFO'",
+      "text": "@ProfAviLoeb absolute truth UAP spacecrafts &amp; aliens races Need Talk StarDrive Engineering companyLLC At &lt;@swage99&gt; Ceo Alexander former CiA Director Black operations 1978to1995yrs Ran area5",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066786936631476367"
+      "url": "https://x.com/i/web/status/2066857232071819592"
     },
     {
       "type": "x",
-      "text": "@famitsu Mega Man's Gray Gabity Beast as a UFO Catchers prize Capcom really knows how to turn a power up into a dust collector",
+      "text": "How I encountered an Alien being \u2013 A conversation with UFO Whistleblower... https://t.co/TISagwzrNR via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066786930562310240"
+      "url": "https://x.com/i/web/status/2066856518528418244"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3702\r Issue Time: 2026 Jun 16 1124 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -156,13 +163,13 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 43 km ESE of Palu, Indonesia",
+      "text": "Significant seismic event: 260 km SSE of Dunhuang, China",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 8 km NE of Bel Air North, Maryland",
+      "text": "Significant seismic event: 43 km ESE of Palu, Indonesia",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -227,6 +234,12 @@
       "score": 29.0,
       "band": "PROBABLY SWAMP GAS",
       "i": 1
+    },
+    {
+      "ts": "2026-06-16T12:31:23.857659Z",
+      "score": 36.4,
+      "band": "THAT'S WEIRD",
+      "i": 2
     }
   ],
   "sources": [
