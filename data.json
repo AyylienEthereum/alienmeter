@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-06-16T20:44:20.415021Z",
-  "score": 36.8,
+  "generated_at": "2026-06-16T22:36:05.101156Z",
+  "score": 35.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.0,
+    "d1h": 6.9,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "news_velocity": 0,
-    "social_chatter": 12,
+    "social_chatter": 10.7,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 7.2,
     "space_weather_alerts": 1.2,
     "seismic": 3.4,
-    "alien_variance": 3.1
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -30,9 +29,9 @@
     "day": 2,
     "date": "16.06.2026",
     "declassified": "16.06.26",
-    "generated_utc": "20:44",
+    "generated_utc": "22:36",
     "top_drivers": [
-      "X/Twitter chatter: 213 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +45% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
@@ -45,8 +44,8 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -32.965441206654894,
-    "x_last_hour": 213,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 179,
     "wiki_spike_pct": 45.30886379759592,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.7,
@@ -55,39 +54,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@TheUfoJoe @shellenberger @SicCoP1 @ProfAviLoeb But Joe, the Avi group is different (and just a small piece) of the newly announced UAP governance board. What do you make of the GB?",
+      "text": "@AZolin312 @MrHustleMCR @shellenberger @ProfAviLoeb @joerogan He commandeered  ( stole ) Crook Corbells phony UFO Immaculate Constellation and presented it to Congress as evidence of UFOs \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23. His",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066985076823384254"
+      "url": "https://x.com/i/web/status/2067013266052989013"
     },
     {
       "type": "x",
-      "text": "\"You\" is the UFO folks.  Not generally you. ...",
+      "text": "@kijana_sharp @Daily_MailUS Not bullshit, just clickbait.   \"UFO\" here means **Ultra-Fast Outflow** \u2014 powerful winds of ionized gas ejected from the accretion disk of a supermassive black hole in the ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066984966496387185"
+      "url": "https://x.com/i/web/status/2067013206564827562"
     },
     {
       "type": "x",
-      "text": "@JaSantaolalla @LP_UKnow @RaulTorresPLD @JordiWild \ud83d\udea8Just published a parameter\u2011free Theory of Everything that unifies physics and derives the antigravity mechanism behind UAPs from first principles.  ",
+      "text": "@immyonboard In 2022 the Liberal staffers bought us all coffee. I managed to persuade the guy handing out HTVs for the UAP to start telling people not to vote for the Libertarians, who were number 2 o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066984965120651333"
+      "url": "https://x.com/i/web/status/2067013142107054431"
     },
     {
       "type": "x",
-      "text": "@OliverWood2017 @shellenberger @ProfAviLoeb Not a single credible example of a UFO or Aliens exists. It's all bullshit. The already declassified videos showed no \"UAP's\", mostly planes and balloons. T",
+      "text": "\"It was like being in a UFO testing room.  And also I was naked.\"  Hahahaha, I like that they always emphasize of them being naked https://t.co/OWFyOWkSrL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066984925564428729"
+      "url": "https://x.com/i/web/status/2067012847368912981"
     },
     {
       "type": "x",
-      "text": "@TBrighamPhd A CIA spook and an immunologist with a full-time UFO hobby",
+      "text": "Prof. Avi Loeb is 100% the best thing that could happen to the uap discussion. https://t.co/2CAHpTfhCi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066984845025358094"
+      "url": "https://x.com/i/web/status/2067012815559233961"
     },
     {
       "type": "x",
-      "text": "Ok\u2026 so there are several advisory groups besides Avi Leob\u2019s science advisory group. \u2026  The key tell would be an announcement of RELIGIOUS Advisory group to aide the UAP Governance Board. https://t.co/",
+      "text": "@rdunsheath @ingelramdecoucy My Mom: Look a UFO My Dad: Darlin' that's just your jello salad, congealing into a sentient life form and returning to its home planet.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066984585360179584"
+      "url": "https://x.com/i/web/status/2067012803848806606"
     },
     {
       "type": "swpc",
@@ -184,6 +183,12 @@
     {
       "ts": "2026-06-16T20:44:20.342591Z",
       "score": 36.8,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-16T22:36:05.024148Z",
+      "score": 35.9,
       "band": "THAT'S WEIRD",
       "i": 2
     }
