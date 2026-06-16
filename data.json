@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-16T12:31:23.914470Z",
-  "score": 36.4,
+  "generated_at": "2026-06-16T17:49:35.095147Z",
+  "score": 35.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 9.9,
+    "d1h": 4.8,
     "d24h": 0.0,
     "peak90": 51.5
   },
@@ -20,9 +20,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 7.2,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 3.4,
-    "alien_variance": 1.4
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -30,12 +30,12 @@
     "day": 2,
     "date": "16.06.2026",
     "declassified": "16.06.26",
-    "generated_utc": "12:31",
+    "generated_utc": "17:49",
     "top_drivers": [
-      "Spielberg  Disclosure Day  Was Actually Inspired by Real - Life US Navy History",
-      "X/Twitter chatter: 202 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +45% above baseline"
+      "X/Twitter chatter: 232 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
+      "Wikipedia UFO pageviews +45% above baseline",
+      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
@@ -45,119 +45,53 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -71.76009593460233,
-    "x_last_hour": 202,
+    "gdelt_spike_pct": -15.830769141618713,
+    "x_last_hour": 232,
     "wiki_spike_pct": 45.30886379759592,
-    "earthquakes_24h": 3,
+    "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.7,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Spielberg  Disclosure Day  Was Actually Inspired by Real - Life US Navy History",
-      "source": "collider.com",
-      "url": "https://collider.com/disclosure-day-ending-meaning-ufo-uap-navy-history-steven-spielberg/"
-    },
-    {
-      "type": "news",
-      "text": "Movie review :  Disclosure Day  strays from Spielberg genius \u2013 The Morning Sun",
-      "source": "themorningsun.com",
-      "url": "https://www.themorningsun.com/2026/06/16/movie-review-disclosure-day-strays-from-spielbergs-genius/"
-    },
-    {
-      "type": "news",
-      "text": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043c\u0438\u0440\u0430 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443 2026 - \u0443\u0447\u0435\u043d\u044b\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 , \u043a\u0442\u043e \u043f\u043e\u0431\u0435\u0434\u0438\u0442 \u0438 \u0437\u0430\u0431\u044c\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u0433\u043e\u043b\u043e\u0432",
-      "source": "science.focus.ua",
-      "url": "https://science.focus.ua/nauka/757786-chempionat-mira-po-futbolu-2026-uchenye-vyyasnili-kto-pobedit-i-zabet-bolshe-vsego-golov"
-    },
-    {
-      "type": "news",
-      "text": "Ancient Aliens",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/7648f77c-3e37-586f-995f-7678816c2419/ancient-aliens"
-    },
-    {
-      "type": "news",
-      "text": "\u0420\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 : \u041d\u041b\u041e \u0432 \u0444\u043e\u0440\u043c\u0435 \u0433\u0438\u0433\u0430\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044f",
-      "source": "society.comments.ua",
-      "url": "https://society.comments.ua/news/science-and-learning/v-ssha-videli-strannoe-nlo-v-vide-gigantskogo-kartofelya-foto-808838.html"
-    },
-    {
-      "type": "news",
-      "text": "UAP Task Force Member Thinks She May Have Encountered Two Aliens  Humanoid Enough To Blend In  ",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/capitol-hill-briefing-ufo-extraterrestrial-claims-1802980"
-    },
-    {
-      "type": "news",
-      "text": "Die Wahrheit ist irgendwo da draussen",
-      "source": "tele.ch",
-      "url": "https://www.tele.ch/kino/die-wahrheit-ist-irgendwo-da-draussen/f1eqlv0"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0420\u0410\u041d \u043a\u043e\u043d\u0441\u0442\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043d\u0435\u0437\u0435\u043c\u043d\u044b\u0445 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0439",
-      "source": "govoritmoskva.ru",
-      "url": "http://govoritmoskva.ru/news/495860/"
-    },
-    {
-      "type": "news",
-      "text": "Airborne 06 . 15 . 26 : Storm v Airport , UFO Files , Wayward CFI Sentenced",
-      "source": "aero-news.net",
-      "url": "https://aero-news.net:443/index.cfm?do=main.textpost&id=53415073-4B37-46EC-A127-803C2E3F040B"
-    },
-    {
-      "type": "news",
-      "text": "\u05d4\u05e8\u05d0\u05d1  \u05d3 \u05de\u05de\u05d5\u05e0\u05d8\u05e8\u05d9\u05d0\u05d5\u05dc \u05d4\u05e9\u05d9\u05d0 \u05d0\u05ea \u05d1\u05e0\u05d5 \u05e2\u05dd \u05e0\u05db\u05d3\u05ea \u05e8\u05d0\u05e9 \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4 \u05de\u05d0\u05e8\u05d4  \u05d1 | \u05e6\u05e4\u05d5 \u05d1\u05d2\u05dc\u05e8\u05d9\u05d4",
-      "source": "kikar.co.il",
-      "url": "https://www.kikar.co.il/hasidism/tgpkw6"
+      "type": "x",
+      "text": "Plus there is highly radioactive black monazite sands at beaches were UAP are commonly sighted such as Ubatuba Brazil, Kerala India, coastal Australia and South Africa. This theory fits with why we se",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066941098019480003"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8 $BUBL IS LIVE! \ud83d\udef8  A strange signal just entered the Solana galaxy.  No destination. No limits. Just a pink UFO cruising through the memeverse with a bubble tea in hand.  CA:  8s6yu36YSSmvbcezwmyGZtG",
+      "text": "The most overlooked aspect of UAP is RADIOACTIVE GEOLOGY! Massive radioactive uranium and thorium deposits are within 150 miles of Skinwalker, Bradshaw, Secret Mountain, Colares Brazil, Rua Zimbabwe. ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066858644293980389"
+      "url": "https://x.com/i/web/status/2066941092864647241"
     },
     {
       "type": "x",
-      "text": "@elonmusk @NewsNation https://t.co/ZYXyu9p1MO This video (DOW-UAP-PR051, \"Syrian UAP instant acceleration\") was officially released by the U.S. All-domain Anomaly Resolution Office (AARO), under the D",
+      "text": "Lights floating around moves fast..  Others: oh my god it\u2019s a ufo \ud83d\udef8   India: We see it every midnight in mansrovar lake.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066857673039999462"
+      "url": "https://x.com/i/web/status/2066940783651860535"
     },
     {
       "type": "x",
-      "text": "@RealAlexJones Could you discuss the ufo files/disclosure on today\u2019s broadcast? \ud83d\ude4f",
+      "text": "@mario1973p Another UFO idiot post!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066857665112822107"
+      "url": "https://x.com/i/web/status/2066940744808477118"
     },
     {
       "type": "x",
-      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
+      "text": "@TheOtherKinds @ChrisUKSharp No public details released yet on specific attendees, agenda, notes, or commentary from the UAP Governance Board\u2019s first meeting yesterday (June 15).   ODNI confirmed its ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066857325982343667"
+      "url": "https://x.com/i/web/status/2066940692169974048"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb absolute truth UAP spacecrafts &amp; aliens races Need Talk StarDrive Engineering companyLLC At &lt;@swage99&gt; Ceo Alexander former CiA Director Black operations 1978to1995yrs Ran area5",
+      "text": "@maniaUFO Take a look at this What do you think ? It\u2019s over Chicago  It\u2019s my video  I was following it with my sight for about a minute  It\u2019s a fucking UFO https://t.co/Y4POzgnznN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066857232071819592"
-    },
-    {
-      "type": "x",
-      "text": "How I encountered an Alien being \u2013 A conversation with UFO Whistleblower... https://t.co/TISagwzrNR via @YouTube",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066856518528418244"
+      "url": "https://x.com/i/web/status/2066940676709790085"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3702\r Issue Time: 2026 Jun 16 1124 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -238,6 +172,12 @@
     {
       "ts": "2026-06-16T12:31:23.857659Z",
       "score": 36.4,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-16T17:49:35.019659Z",
+      "score": 35.9,
       "band": "THAT'S WEIRD",
       "i": 2
     }
