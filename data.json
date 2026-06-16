@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-16T02:06:18.604543Z",
-  "score": 32.8,
+  "generated_at": "2026-06-16T07:42:09.751848Z",
+  "score": 29.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 5.1,
+    "d1h": -0.6,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 10.8,
+    "social_chatter": 5.7,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
-    "search_interest": 8,
+    "search_interest": 7.2,
     "space_weather_alerts": 1.2,
-    "seismic": 1.2,
+    "seismic": 3.4,
     "alien_variance": 1.7
   },
   "sightings_total": 44000,
@@ -29,14 +29,14 @@
     "day": 2,
     "date": "16.06.2026",
     "declassified": "16.06.26",
-    "generated_utc": "02:06",
+    "generated_utc": "07:42",
     "top_drivers": [
-      "X/Twitter chatter: 180 UFO/UAP posts in the last hour",
+      " \u201e \u0414\u0435\u043d\u044f\u0442 \u043d\u0430 \u0438\u0441\u0442\u0438\u043d\u0430\u0442\u0430  \u043d\u0430 \u0421\u043f\u0438\u043b\u0431\u044a\u0440\u0433 \u0441\u0435 \u0445\u0430\u0440\u0435\u0441\u0430 \u043d\u0430\u0439 - \u043c\u043d\u043e\u0433\u043e \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0442\u0435 \u0437\u0440\u0438\u0442\u0435\u043b\u0438",
+      "X/Twitter chatter: 97 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +77% above baseline",
-      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
+      "Wikipedia UFO pageviews +45% above baseline"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
@@ -45,54 +45,120 @@
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 180,
-    "wiki_spike_pct": 77.49563773499943,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 2.4,
+    "x_last_hour": 97,
+    "wiki_spike_pct": 45.30886379759592,
+    "earthquakes_24h": 2,
+    "max_quake_mag_24h": 6.7,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "The X-Files S9.E9 Provenance Episode aired Mar 3, 2002  Part 1 of 2. A dangerous cult finds a buried UFO with markings like the one Scully found in Africa. An undercover FBI agent in the cult hunts do",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703757727940834"
+      "type": "news",
+      "text": " \u201e \u0414\u0435\u043d\u044f\u0442 \u043d\u0430 \u0438\u0441\u0442\u0438\u043d\u0430\u0442\u0430  \u043d\u0430 \u0421\u043f\u0438\u043b\u0431\u044a\u0440\u0433 \u0441\u0435 \u0445\u0430\u0440\u0435\u0441\u0430 \u043d\u0430\u0439 - \u043c\u043d\u043e\u0433\u043e \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0442\u0435 \u0437\u0440\u0438\u0442\u0435\u043b\u0438",
+      "source": "standartnews.com",
+      "url": "https://www.standartnews.com/kultura/denyat-na-istinata-na-spilbarg-se-haresa-nay-mnogo-na-balgarskite-zriteli-637335.html"
+    },
+    {
+      "type": "news",
+      "text": "\u798f\u7530 / \u8fdc\u7a0b\u4e89\u51a0 \uff0c \u8dc3\u8fdb\u524d\u4e09 \uff0c \u6c5f\u6dee / \u91cd\u6c7d / \u5947\u745e\u7b49\u5927\u6da8 \uff01 5\u6708\u65b0\u80fd\u6e90\u8f7b\u5361\u95002",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_1579773413_5e296de500101e9be.html"
+    },
+    {
+      "type": "news",
+      "text": "\u798f\u7530 / \u8fdc\u7a0b\u4e89\u51a0 \uff0c \u8dc3\u8fdb\u524d\u4e09 \uff0c \u6c5f\u6dee / \u91cd\u6c7d / \u5947\u745e\u7b49\u5927\u6da8 \uff01 5\u6708\u65b0\u80fd\u6e90\u8f7b\u5361\u95002",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_1579773413_5e296de502701e9bg.html"
+    },
+    {
+      "type": "news",
+      "text": "Juneteenth celebration to take place at Island Park on Saturday",
+      "source": "beenews.com",
+      "url": "https://www.beenews.com/ken_ton_bee/ken_ton_bee/news/juneteenth-celebration-to-take-place-at-island-park-on-saturday/article_424420d8-76db-43c8-91e7-a54d1a6b4501.html"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg Claims His UFO Movie Was Based On  Credible Foundation  and  Circumstantial Evidence  ",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/steven-spielberg-disclosure-day-ufo-research-1802979"
+    },
+    {
+      "type": "news",
+      "text": "Ufo , la Disclosure va avanti nel silenzio dei media ( meglio parlare di Spielberg ) ",
+      "source": "ilfattoquotidiano.it",
+      "url": "https://www.ilfattoquotidiano.it/2026/06/16/ufo-disclosure-congresso-assemblea-nazionale-notizie/8419676/"
+    },
+    {
+      "type": "news",
+      "text": "DSM Kei Ninomiya Goes Punk for Show as Pitti Uomo Guest Designer",
+      "source": "wwd.com",
+      "url": "https://wwd.com/menswear-news/mens-designer-luxury/dsm-kei-ninomiya-pitti-preview-1239005217/"
+    },
+    {
+      "type": "news",
+      "text": "US government releases floating  potato  UFO image | National",
+      "source": "lebanondemocrat.com",
+      "url": "https://www.lebanondemocrat.com/maconcounty/news/national/us-government-releases-floating-potato-ufo-image/article_ea900f92-c7da-5594-bc81-0b764d0b5500.html"
+    },
+    {
+      "type": "news",
+      "text": "Space Force and IDF hold joint exercise in Bolingbrook ( Fiction ) ",
+      "source": "freethoughtblogs.com",
+      "url": "https://freethoughtblogs.com/babbler/2026/06/15/space-force-and-idf-hold-joint-exercises-in-bolingbrook-fiction/"
+    },
+    {
+      "type": "news",
+      "text": "America Cup Recon : End of the winter test block for the Kiwis",
+      "source": "yachtsandyachting.com",
+      "url": "https://www.yachtsandyachting.com/news/297101/Americas-Cup-Recon-Kiwis-finish-tests-June-15"
     },
     {
       "type": "x",
-      "text": "@dank You look like a lesbian that just escaped from a UFO Death Cult",
+      "text": "@webdevmike Unfortunately, the UFO community is fked up by psyops and commerce.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703689382031622"
+      "url": "https://x.com/i/web/status/2066788016962539672"
     },
     {
       "type": "x",
-      "text": "\"In a bombshell revelation that's ripping through the UAP community, retired NASA Chief Flight Surgeon and former US Air Force Major Dr. Gregory Rogers has broken 33 years of silence on a classified 1",
+      "text": "Guys $UFO is only 183 votes away from getting listed on Moonshot  Been loading up \u2014 once this lists it's going to rip  Get your votes in now \ud83d\udc47 https://t.co/qFWLJoYzO7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703656645505286"
+      "url": "https://x.com/i/web/status/2066787712863027637"
     },
     {
       "type": "x",
-      "text": "Former UAP task force member allegedly claims she may have encountered two \u2018extraterrestrials\u2019 in public  https://t.co/hQStGsM5dU",
+      "text": "I call this #UAP \"Ghost\" because it has some bizarre aspects. First, its size went from 5 meters to 2 meters.  It instantly accelerated to \"get away\" from the operator/observer when it no longer wante",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703532955185647"
+      "url": "https://x.com/i/web/status/2066787341612523970"
     },
     {
       "type": "x",
-      "text": "This almost make me wanna look into the UFO files the Bigot tried to release. https://t.co/erFD3b1X1S",
+      "text": "@vaulies @Photonire I remember when he was all about custom tds towers  I miss the UFO photon...",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703368152809777"
+      "url": "https://x.com/i/web/status/2066787095730118686"
     },
     {
       "type": "x",
-      "text": "NASA's independent UAP study team reviewed 800 reports. None defied physics. All defied explanation. Full report: https://t.co/PgOai63ebX https://t.co/VPeAhuTY0i",
+      "text": "@GeorgeCochrane1 FSO Polonez. An elderly lady i knew had one and rang the local motor factors 'I want a fan belt for my UFO'",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066703083388715101"
+      "url": "https://x.com/i/web/status/2066786936631476367"
+    },
+    {
+      "type": "x",
+      "text": "@famitsu Mega Man's Gray Gabity Beast as a UFO Catchers prize Capcom really knows how to turn a power up into a dust collector",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2066786930562310240"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3701\r Issue Time: 2026 Jun 15 1235 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 43 km ESE of Palu, Indonesia",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "seismic",
@@ -155,6 +221,12 @@
       "score": 32.8,
       "band": "THAT'S WEIRD",
       "i": 2
+    },
+    {
+      "ts": "2026-06-16T07:42:09.676043Z",
+      "score": 29.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
     }
   ],
   "sources": [
