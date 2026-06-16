@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-16T17:49:35.095147Z",
-  "score": 35.9,
+  "generated_at": "2026-06-16T20:44:20.415021Z",
+  "score": 36.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.8,
+    "d1h": 4.0,
     "d24h": 0.0,
     "peak90": 51.5
   },
@@ -22,7 +22,7 @@
     "search_interest": 7.2,
     "space_weather_alerts": 1.2,
     "seismic": 3.4,
-    "alien_variance": 2.2
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -30,9 +30,9 @@
     "day": 2,
     "date": "16.06.2026",
     "declassified": "16.06.26",
-    "generated_utc": "17:49",
+    "generated_utc": "20:44",
     "top_drivers": [
-      "X/Twitter chatter: 232 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 213 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +45% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
@@ -45,8 +45,8 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -15.830769141618713,
-    "x_last_hour": 232,
+    "gdelt_spike_pct": -32.965441206654894,
+    "x_last_hour": 213,
     "wiki_spike_pct": 45.30886379759592,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.7,
@@ -55,39 +55,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Plus there is highly radioactive black monazite sands at beaches were UAP are commonly sighted such as Ubatuba Brazil, Kerala India, coastal Australia and South Africa. This theory fits with why we se",
+      "text": "@TheUfoJoe @shellenberger @SicCoP1 @ProfAviLoeb But Joe, the Avi group is different (and just a small piece) of the newly announced UAP governance board. What do you make of the GB?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066941098019480003"
+      "url": "https://x.com/i/web/status/2066985076823384254"
     },
     {
       "type": "x",
-      "text": "The most overlooked aspect of UAP is RADIOACTIVE GEOLOGY! Massive radioactive uranium and thorium deposits are within 150 miles of Skinwalker, Bradshaw, Secret Mountain, Colares Brazil, Rua Zimbabwe. ",
+      "text": "\"You\" is the UFO folks.  Not generally you. ...",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066941092864647241"
+      "url": "https://x.com/i/web/status/2066984966496387185"
     },
     {
       "type": "x",
-      "text": "Lights floating around moves fast..  Others: oh my god it\u2019s a ufo \ud83d\udef8   India: We see it every midnight in mansrovar lake.",
+      "text": "@JaSantaolalla @LP_UKnow @RaulTorresPLD @JordiWild \ud83d\udea8Just published a parameter\u2011free Theory of Everything that unifies physics and derives the antigravity mechanism behind UAPs from first principles.  ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066940783651860535"
+      "url": "https://x.com/i/web/status/2066984965120651333"
     },
     {
       "type": "x",
-      "text": "@mario1973p Another UFO idiot post!",
+      "text": "@OliverWood2017 @shellenberger @ProfAviLoeb Not a single credible example of a UFO or Aliens exists. It's all bullshit. The already declassified videos showed no \"UAP's\", mostly planes and balloons. T",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066940744808477118"
+      "url": "https://x.com/i/web/status/2066984925564428729"
     },
     {
       "type": "x",
-      "text": "@TheOtherKinds @ChrisUKSharp No public details released yet on specific attendees, agenda, notes, or commentary from the UAP Governance Board\u2019s first meeting yesterday (June 15).   ODNI confirmed its ",
+      "text": "@TBrighamPhd A CIA spook and an immunologist with a full-time UFO hobby",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066940692169974048"
+      "url": "https://x.com/i/web/status/2066984845025358094"
     },
     {
       "type": "x",
-      "text": "@maniaUFO Take a look at this What do you think ? It\u2019s over Chicago  It\u2019s my video  I was following it with my sight for about a minute  It\u2019s a fucking UFO https://t.co/Y4POzgnznN",
+      "text": "Ok\u2026 so there are several advisory groups besides Avi Leob\u2019s science advisory group. \u2026  The key tell would be an announcement of RELIGIOUS Advisory group to aide the UAP Governance Board. https://t.co/",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066940676709790085"
+      "url": "https://x.com/i/web/status/2066984585360179584"
     },
     {
       "type": "swpc",
@@ -178,6 +178,12 @@
     {
       "ts": "2026-06-16T17:49:35.019659Z",
       "score": 35.9,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-16T20:44:20.342591Z",
+      "score": 36.8,
       "band": "THAT'S WEIRD",
       "i": 2
     }
