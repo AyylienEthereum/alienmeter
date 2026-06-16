@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T23:19:39.056779Z",
-  "score": 31.1,
+  "generated_at": "2026-06-16T02:06:18.604543Z",
+  "score": 32.8,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,32 +10,31 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 9.5,
+    "d1h": 5.1,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "news_velocity": 0,
-    "social_chatter": 11.3,
+    "social_chatter": 10.8,
     "solar_flares": 2.5,
-    "asteroid_approach": 3.4,
+    "asteroid_approach": 7.4,
     "search_interest": 8,
     "space_weather_alerts": 1.2,
     "seismic": 1.2,
-    "alien_variance": 3.5
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 1,
-    "day": 1,
-    "date": "15.06.2026",
-    "declassified": "15.06.26",
-    "generated_utc": "23:19",
+    "number": 2,
+    "day": 2,
+    "date": "16.06.2026",
+    "declassified": "16.06.26",
+    "generated_utc": "02:06",
     "top_drivers": [
-      "X/Twitter chatter: 188 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 180 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +77% above baseline",
-      "NEO (2015 MC) passing Earth at 28.6 lunar distances"
+      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
@@ -43,11 +42,11 @@
   "raw": {
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 28.5799495008,
-    "asteroid_name": "(2015 MC)",
-    "gdelt_spike_pct": -23.760086314750414,
-    "x_last_hour": 188,
-    "wiki_spike_pct": 77.38580750407831,
+    "closest_asteroid_ld": 3.6847349307,
+    "asteroid_name": "(2003 LN6)",
+    "gdelt_spike_pct": null,
+    "x_last_hour": 180,
+    "wiki_spike_pct": 77.49563773499943,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 2.4,
     "swpc_alerts_24h": 1
@@ -55,39 +54,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "The US Air Force insignia on the craft is similar to the US flag on the craft that Bob Lazar worked on.  It seems there is some kind of cooperation between Aliens (NHI) and Human Factions.  That FACT ",
+      "text": "The X-Files S9.E9 Provenance Episode aired Mar 3, 2002  Part 1 of 2. A dangerous cult finds a buried UFO with markings like the one Scully found in Africa. An undercover FBI agent in the cult hunts do",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661838280933549"
+      "url": "https://x.com/i/web/status/2066703757727940834"
     },
     {
       "type": "x",
-      "text": "Arizona Friends! TUCSON EVENT,  \ud83e\udd73on Sunday, June 28th, 2026 AS ALWAYS, GIVEAWAYS, BOOK SIGNINGS, VITAL UPDATES, ALL QUESTIONS AND OBJECTIONS ANSWERED.                 F O R   T I C K E T S $10.00 ea. ",
+      "text": "@dank You look like a lesbian that just escaped from a UFO Death Cult",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661788188598523"
+      "url": "https://x.com/i/web/status/2066703689382031622"
     },
     {
       "type": "x",
-      "text": "The Conservative News Command Center is LIVE. 150 headlines, 11 sources, real-time stocks, live TV, election tracker, UFO briefings, comics. All free.",
+      "text": "\"In a bombshell revelation that's ripping through the UAP community, retired NASA Chief Flight Surgeon and former US Air Force Major Dr. Gregory Rogers has broken 33 years of silence on a classified 1",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661517005619539"
+      "url": "https://x.com/i/web/status/2066703656645505286"
     },
     {
       "type": "x",
-      "text": "@InfinityDisclsd @RepLuna @RepTimBurchett 'Science' council. This will be where NHI/UAP info goes to die.",
+      "text": "Former UAP task force member allegedly claims she may have encountered two \u2018extraterrestrials\u2019 in public  https://t.co/hQStGsM5dU",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661357928218905"
+      "url": "https://x.com/i/web/status/2066703532955185647"
     },
     {
       "type": "x",
-      "text": "@goddek Trump is the biggest traitor in history. He agreed to every mass manipulation asked of him: Qanon, Covid 19, mRNA Vax, World Peace, Anti-establishment Swamp Drainer, America First, MAHA, Alien",
+      "text": "This almost make me wanna look into the UFO files the Bigot tried to release. https://t.co/erFD3b1X1S",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661320116600840"
+      "url": "https://x.com/i/web/status/2066703368152809777"
     },
     {
       "type": "x",
-      "text": "'Disclosure Day'..  #DisclosureDay  @disclosureday   #aliens #censorship #offworld #military #offwoeldplanet #life  #news  #crime #ufo  #corporations #deepstate #government https://t.co/Redy7w9XH4",
+      "text": "NASA's independent UAP study team reviewed 800 reports. None defied physics. All defied explanation. Full report: https://t.co/PgOai63ebX https://t.co/VPeAhuTY0i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2066661274126073904"
+      "url": "https://x.com/i/web/status/2066703083388715101"
     },
     {
       "type": "swpc",
@@ -103,7 +102,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2015 MC) passing at 28.58 LD (~90m, 9.8 km/s)",
+      "text": "NEO (2003 LN6) passing at 3.68 LD (~68m, 3.9 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -148,6 +147,12 @@
     {
       "ts": "2026-06-15T23:19:38.983779Z",
       "score": 31.1,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-16T02:06:18.529202Z",
+      "score": 32.8,
       "band": "THAT'S WEIRD",
       "i": 2
     }
