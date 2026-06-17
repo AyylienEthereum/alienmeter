@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-17T05:16:07.237532Z",
-  "score": 30.6,
+  "generated_at": "2026-06-17T10:13:38.165085Z",
+  "score": 24.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -5.3,
+    "d1h": -12.4,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 7.6,
+    "news_velocity": 0,
+    "social_chatter": 4.7,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 4.5,
     "space_weather_alerts": 1.2,
-    "seismic": 3.1,
-    "alien_variance": 4.2
+    "alien_variance": 4.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -29,14 +29,14 @@
     "day": 3,
     "date": "17.06.2026",
     "declassified": "17.06.26",
-    "generated_utc": "05:16",
+    "generated_utc": "10:13",
     "top_drivers": [
-      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 82 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
@@ -44,61 +44,55 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 129,
+    "gdelt_spike_pct": -74.1411673569109,
+    "x_last_hour": 82,
     "wiki_spike_pct": 27.859055580954863,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.3,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "That plane was looking more like an uap? Wow! It was amazingly smooth.",
+      "text": "@Vyskomerica @Briankeating @DrBeaVillarroel @Into_Impossible Thanks, it has been an enormous amount of work.  60 hours a week for over a year.  But I have been working on the theory for over 25 years.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067113228769890469"
+      "url": "https://x.com/i/web/status/2067188851232186836"
     },
     {
       "type": "x",
-      "text": "More UFO Flies Released An alien was seen in Kansas City Today https://t.co/3HIN25aUDt",
+      "text": "@overclassifiedx @rosscoulthart @ProfAviLoeb @ODNIgov This would perfectly match with the total silence/stonewalling of fu..ng german mainstream \u201eQuality media\u201c ARD and ZDF, in cooperation with govern",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067113087136944309"
+      "url": "https://x.com/i/web/status/2067188763193679922"
     },
     {
       "type": "x",
-      "text": "nor any effort to start wwlll then a fake ufo invasion to stop it  to unite the world .. sorry ant going to happen ... god is in control not ets  aliens or anybody who might be at war with god ...   d",
+      "text": "@maniaUFO Shitty shitshow as always. This whole UFO thing is so dead.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067113005116997841"
+      "url": "https://x.com/i/web/status/2067188521895436324"
     },
     {
       "type": "x",
-      "text": "Here you can see my latest lab video (1), which explains how I plan to see whether \"magnetically-twisted spacetime\", under field stress, might alter the force of gravity, so as to explain the mysterio",
+      "text": "Listen up \u2014 $UFO is only 65 votes away from getting listed on Moonshot  I'm holding heavy on this one, listing would be huge  Don't fade this \u2014 vote now \ud83d\udc47 https://t.co/Lm5mUFMYo6",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067112615596458399"
+      "url": "https://x.com/i/web/status/2067188046332575947"
     },
     {
       "type": "x",
-      "text": "@RedPandaKoala @TkMe2UrLeader11 What? UFO stuff is now MAGA and all MAG people support child rapists? This is projection. A complete waste of time. We are still messing with a stupid movie and governm",
+      "text": "Christopher Sharp writes in his latest article: \"Two days ago, Harvard astrophysicist Avi Loeb announced  that he was \u2018tasked by the White House, AARO, ODNI, the FBI, and the  Intelligence Community t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067112560693047723"
+      "url": "https://x.com/i/web/status/2067187900484075791"
     },
     {
       "type": "x",
-      "text": "well the m j 12 plan to create a one world order  if contact with ets stated there must be a united world representing the human race in order to be part of the galactic federation .. has come to the ",
+      "text": "@LehtoFiles The Whitehouse ufo science team needs you or another fighter pilot on the team. No one on the team seems to have practical experience at looking at recorded images from mobile platforms.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067112088288239679"
+      "url": "https://x.com/i/web/status/2067187871526584509"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3702\r Issue Time: 2026 Jun 16 1124 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 260 km SSE of Dunhuang, China",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -197,6 +191,12 @@
       "score": 30.6,
       "band": "THAT'S WEIRD",
       "i": 2
+    },
+    {
+      "ts": "2026-06-17T10:13:38.090275Z",
+      "score": 24.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1
     }
   ],
   "sources": [
