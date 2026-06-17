@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-17T19:35:28.250426Z",
-  "score": 41.2,
+  "generated_at": "2026-06-17T21:35:21.949638Z",
+  "score": 38.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 9.1,
+    "d1h": 3.2,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 9.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 4.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 3.1
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 3,
     "date": "17.06.2026",
     "declassified": "17.06.26",
-    "generated_utc": "19:35",
+    "generated_utc": "21:35",
     "top_drivers": [
-      "X/Twitter chatter: 221 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 154 UFO/UAP posts in the last hour",
       "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.8,
-    "baseline_recent": 30.1,
+    "live_signal": 29.0,
+    "baseline_recent": 30.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 221,
+    "x_last_hour": 154,
     "wiki_spike_pct": 27.859055580954863,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "The @DeptofWar release more documents related to UFOs the same day the #Spielberg film @disclosureday premiered. Thus, #UFOs are a mainstream topic and #SouthCarolina is a hotbed for #UAP #sightings, ",
+      "text": "There has not been a single conspiracy theory that I have been wrong about. Here\u2019s a short list:   - UFO/UAP\u2019s are real - Aliens or a Breakaway civilization is in our oceans  - Missing Malaysia flight",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067330030942785944"
+      "url": "https://x.com/i/web/status/2067360429438087174"
     },
     {
       "type": "x",
-      "text": "@ufoalley2026 @otakuconserva @uBF2fV1cVQxRjQo Aliens actually know about truth, Who were were before, what we did, what happend to our ancestors,  it changed my mindset when I heard about Varginha UFO",
+      "text": "@rosscoulthart @TheUfoJoe @DeptofWar Surely, they will bury any evidence of UAP/UFO/NHI evidence from the public if they find any. I'm disappointed that Avi Loeb appears to be out for himself. This is",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067329975632503020"
+      "url": "https://x.com/i/web/status/2067360399830176007"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb The Dangerous Gamble: Suppressing Science and the Hidden Cost of UAP Secrecy \u2013 https://t.co/AqcpVbOGWK",
+      "text": "It will be here sooner than you think. World UFO Day. Keep your eye on the skies and share the word with these stickers: https://t.co/KhRjOHB2yP #worldufoday https://t.co/ZfltEzo14s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067329958830370872"
+      "url": "https://x.com/i/web/status/2067360385380880535"
     },
     {
       "type": "x",
-      "text": "@RonJamesFilms Why do you have to pay to watch every new ufo doc \ud83d\ude44",
+      "text": "FBI Files Reveal 1949 UFO Report Forwarded by J. Edgar Hoover https://t.co/mXWTuHydPS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067329957697638662"
+      "url": "https://x.com/i/web/status/2067360275360293297"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb You could care less about any fact about UAPs. You ignore facts to ignore me because I'm too different so UAP talked to me not you. You're jealous because you're too dumb, evil.",
+      "text": "it also feels so summer in a deserted bus journey way. if someone was murdered and their body was thrown aside it would take days to notice. if an ufo song started to play after tk in yuukei i wouldnt",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067329891700547983"
+      "url": "https://x.com/i/web/status/2067359926398189931"
     },
     {
       "type": "x",
-      "text": "POV: the aliens already took over and left us a survival guide \ud83d\udc7d\ud83d\udef8  10 steps to make it through the alien occupation. Step 7 is why they're scared of us. \ud83d\udc80  Which step are YOU failing? \ud83d\udc47 (be honest)  F",
+      "text": "@LegacyProgramVP When he testified for the UAP Caucus, I remember thinking that was a lot like having JK Rowling testify about Horcruxes and then using that testimony to claim that Hogwarts is a real ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067329810867622014"
+      "url": "https://x.com/i/web/status/2067359851827568674"
     },
     {
       "type": "seismic",
@@ -236,6 +236,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.8
+    },
+    {
+      "ts": "2026-06-17T21:35:21.880188Z",
+      "score": 38.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.0
     }
   ],
   "sources": [
