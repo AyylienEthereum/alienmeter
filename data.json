@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T22:36:05.101156Z",
-  "score": 35.9,
+  "generated_at": "2026-06-17T00:05:07.566137Z",
+  "score": 33.9,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,28 +10,29 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 6.9,
+    "d1h": -2.5,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "social_chatter": 10.7,
+    "news_velocity": 0,
+    "social_chatter": 10.6,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 7.2,
     "space_weather_alerts": 1.2,
     "seismic": 3.4,
-    "alien_variance": 3.5
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 2,
-    "day": 2,
-    "date": "16.06.2026",
-    "declassified": "16.06.26",
-    "generated_utc": "22:36",
+    "number": 3,
+    "day": 3,
+    "date": "17.06.2026",
+    "declassified": "17.06.26",
+    "generated_utc": "00:05",
     "top_drivers": [
-      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 177 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +45% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
@@ -44,9 +45,9 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 179,
-    "wiki_spike_pct": 45.30886379759592,
+    "gdelt_spike_pct": -75.15799793420985,
+    "x_last_hour": 177,
+    "wiki_spike_pct": 45.3038143541523,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.7,
     "swpc_alerts_24h": 1
@@ -54,39 +55,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@AZolin312 @MrHustleMCR @shellenberger @ProfAviLoeb @joerogan He commandeered  ( stole ) Crook Corbells phony UFO Immaculate Constellation and presented it to Congress as evidence of UFOs \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23. His",
+      "text": "@cheddar420yolo @RaidOwlTweets @Walmart \u2026turns out it was just a UFO.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067013266052989013"
+      "url": "https://x.com/i/web/status/2067035538620596238"
     },
     {
       "type": "x",
-      "text": "@kijana_sharp @Daily_MailUS Not bullshit, just clickbait.   \"UFO\" here means **Ultra-Fast Outflow** \u2014 powerful winds of ionized gas ejected from the accretion disk of a supermassive black hole in the ",
+      "text": "Anyone else see this with all the aliens and UFO nonesense?  2 Thessalonians 2:3",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067013206564827562"
+      "url": "https://x.com/i/web/status/2067035499026428103"
     },
     {
       "type": "x",
-      "text": "@immyonboard In 2022 the Liberal staffers bought us all coffee. I managed to persuade the guy handing out HTVs for the UAP to start telling people not to vote for the Libertarians, who were number 2 o",
+      "text": "@karma44921039 I live in the uks ufo hotspot we got one getting built near us \ud83d\ude11",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067013142107054431"
+      "url": "https://x.com/i/web/status/2067035043302613448"
     },
     {
       "type": "x",
-      "text": "\"It was like being in a UFO testing room.  And also I was naked.\"  Hahahaha, I like that they always emphasize of them being naked https://t.co/OWFyOWkSrL",
+      "text": "@SnakePo9 @geomydid 3 year UAP study conducted by retired French military, law enforcement, and Space Agency officials in 1999 known as the   COMETA Report stated an analysis of the most compelling ca",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067012847368912981"
+      "url": "https://x.com/i/web/status/2067034989963985391"
     },
     {
       "type": "x",
-      "text": "Prof. Avi Loeb is 100% the best thing that could happen to the uap discussion. https://t.co/2CAHpTfhCi",
+      "text": "Image of what they want us to believe is a UFO, but which is something very well known for decades: a plasmoid, a natural phenomenon that we have seen on almost all the planets that we have filmed or ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067012815559233961"
+      "url": "https://x.com/i/web/status/2067034846929592608"
     },
     {
       "type": "x",
-      "text": "@rdunsheath @ingelramdecoucy My Mom: Look a UFO My Dad: Darlin' that's just your jello salad, congealing into a sentient life form and returning to its home planet.",
+      "text": "Old drunk ganja black hawk helicopter retrieve crash apex predator china recovered spacecraft reverse engineer all way give us release UFO documents Italian president Luciano world war two recovered s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067012803848806606"
+      "url": "https://x.com/i/web/status/2067034668893962619"
     },
     {
       "type": "swpc",
@@ -189,6 +190,12 @@
     {
       "ts": "2026-06-16T22:36:05.024148Z",
       "score": 35.9,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-17T00:05:07.492160Z",
+      "score": 33.9,
       "band": "THAT'S WEIRD",
       "i": 2
     }
