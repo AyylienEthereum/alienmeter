@@ -361,64 +361,85 @@ def get_quakes():
 
 # ---------- scoring ----------
 def score_factors(f):
-    """Map each factor to a sub-score. Tune weights here."""
-    score = 0.0
+    """Map each data source to a sub-score (the 'live signal').
+    Every factor is always recorded (so no card vanishes) at its real value.
+    Returns (live_signal 0–100, contrib dict). Tune per-factor weights here."""
     contrib = {}
+    def rec(name, value):
+        v = round(float(value), 1)
+        contrib[name] = v
+        return v
+    score = 0.0
 
-    # GDELT news velocity — biggest weight (0–36)
+    # GDELT news velocity — biggest weight (0–36). 0 if GDELT is rate-limited.
     g = f.get("gdelt_volume")
-    if g:
-        s = clamp(g["spike_pct"] / 50, 0, 3) * 12
-        score += s; contrib["news_velocity"] = round(s, 1)
+    score += rec("news_velocity", clamp(g["spike_pct"] / 50, 0, 3) * 12 if g else 0.0)
 
-    # Social chatter from X/Twitter (0–12). Always recorded so the card never disappears.
+    # Social chatter from X/Twitter (0–12)
     soc = f.get("social") or {}
     chatter = soc.get("last_hour") or 0
-    s = clamp((chatter - 5) / 195, 0, 1) * 12
-    score += s; contrib["social_chatter"] = round(s, 1)
+    score += rec("social_chatter", clamp((chatter - 5) / 195, 0, 1) * 12)
 
     # Geomagnetic Kp (0–15)
     k = f.get("kp")
-    if k:
-        s = clamp(k["value"] / 9, 0, 1) * 15
-        score += s; contrib["geomagnetic"] = round(s, 1)
+    score += rec("geomagnetic", clamp(k["value"] / 9, 0, 1) * 15 if k else 0.0)
 
     # Solar flare class (0–10)
     x = f.get("xray")
-    if x:
-        s = (x["idx"] - 1) / 4 * 10
-        score += s; contrib["solar_flares"] = round(s, 1)
+    score += rec("solar_flares", (x["idx"] - 1) / 4 * 10 if x else 0.0)
 
-    # Asteroid close approach (0–10). <1 LD = under moon orbit = spicy.
+    # Asteroid close approach (0–8). Scales over 0–50 lunar distances.
     n = f.get("neo")
-    if n and n.get("closest"):
-        ld = n["closest"]["ld"]
-        s = clamp((50 - ld) / 50, 0, 1) * 8
-        score += s; contrib["asteroid_approach"] = round(s, 1)
+    ld = (n.get("closest") or {}).get("ld") if n else None
+    score += rec("asteroid_approach", clamp((50 - ld) / 50, 0, 1) * 8 if ld is not None else 0.0)
 
     # Wikipedia interest spike (0–8)
     w = f.get("wiki")
-    if w:
-        s = clamp(w["spike_pct"] / 50, 0, 1) * 8
-        score += s; contrib["search_interest"] = round(s, 1)
+    score += rec("search_interest", clamp(w["spike_pct"] / 50, 0, 1) * 8 if w else 0.0)
 
     # SWPC alerts count (0–6)
     a = f.get("alerts")
-    if a:
-        s = clamp(a["count"] / 5, 0, 1) * 6
-        score += s; contrib["space_weather_alerts"] = round(s, 1)
+    score += rec("space_weather_alerts", clamp(a["count"] / 5, 0, 1) * 6 if a else 0.0)
 
     # Seismic chaos (0–4)
     q = f.get("quakes")
-    if q and q["count"] > 0:
-        s = clamp(q["max_mag"] / 8, 0, 1) * 4
-        score += s; contrib["seismic"] = round(s, 1)
+    score += rec("seismic", clamp(q["max_mag"] / 8, 0, 1) * 4 if q and q.get("count", 0) > 0 else 0.0)
 
-    # Random alien variance so the meter feels alive
-    chaos = random.uniform(-3, 5)
-    score += chaos; contrib["alien_variance"] = round(chaos, 1)
+    # Alien variance — small jitter so the meter feels alive (0–4)
+    score += rec("alien_variance", random.uniform(0, 4))
 
     return clamp(round(score, 1), 0, 100), contrib
+
+def history_baseline(hist, days=45):
+    """Recent-era baseline: mean of the stored 'live' signal over the last `days`
+    (30–60 day window). Uses 'live' when present, falling back to 'score' for
+    legacy entries. Returns None if there's no usable history yet."""
+    if not hist:
+        return None
+    cutoff = (dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(days=days))
+    vals = []
+    for p in hist:
+        ts = p.get("ts", "")
+        try:
+            t = dt.datetime.fromisoformat(ts.replace("Z", ""))
+        except (ValueError, AttributeError):
+            continue
+        if t >= cutoff:
+            vals.append(p.get("live", p.get("score", 0)))
+    return (sum(vals) / len(vals)) if vals else None
+
+# Final score = a modest gain on a blend of today's live signal and the recent
+# (30–60 day) baseline. NO flat floor — a genuinely dead period reads low; an
+# active recent era lifts the baseline and keeps current scores realistic.
+BASE_DAYS = int(os.environ.get("SCORE_BASE_DAYS") or "45")    # baseline window (30–60)
+GAIN      = float(os.environ.get("SCORE_GAIN")    or "1.3")   # overall heaviness
+W_LIVE    = float(os.environ.get("SCORE_W_LIVE")  or "0.6")   # weight on today's reading
+W_BASE    = float(os.environ.get("SCORE_W_BASE")  or "0.4")   # weight on recent baseline
+
+def compute_final(live, baseline):
+    base = baseline if baseline is not None else live
+    final = GAIN * (W_LIVE * live + W_BASE * base)
+    return clamp(round(final, 1), 0, 100)
 
 def score_to_band(s):
     for min_score, name, color, emoji, flavors in BANDS:
@@ -459,7 +480,7 @@ def build_ticker(f):
     return t
 
 # ---------- history ----------
-def update_history(score, band):
+def update_history(score, band, live=None):
     now = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat() + "Z"
     hist = []
     if HIST.exists():
@@ -467,7 +488,10 @@ def update_history(score, band):
             hist = json.loads(HIST.read_text())
         except Exception:
             hist = []
-    hist.append({"ts": now, "score": score, "band": band["name"], "i": band["index"]})
+    entry = {"ts": now, "score": score, "band": band["name"], "i": band["index"]}
+    if live is not None:
+        entry["live"] = round(live, 1)
+    hist.append(entry)
     # Keep ~90 days at 15-min cadence (for the Archives page); ~8640 points.
     hist = hist[-8640:]
     HIST.write_text(json.dumps(hist))
@@ -655,10 +679,13 @@ def main():
             "quakes":         get_quakes(),
         }
 
-    score, contrib = score_factors(factors)
+    live, contrib = score_factors(factors)
+    prior_hist = json.loads(HIST.read_text()) if HIST.exists() else []
+    baseline = history_baseline(prior_hist, days=BASE_DAYS)
+    score   = compute_final(live, baseline)
     band    = score_to_band(score)
     ticker  = build_ticker(factors)
-    history = update_history(score, band)
+    history = update_history(score, band, live)
     deltas  = compute_deltas(history, score)
     sightings_total = load_sightings_count()
     report  = build_daily_report(score, band, deltas, factors, history, sightings_total)
@@ -672,6 +699,9 @@ def main():
         "sightings_total": sightings_total,
         "daily_report": report,
         "raw": {
+            "live_signal":              live,
+            "baseline_recent":          round(baseline, 1) if baseline is not None else None,
+            "score_gain":               GAIN,
             "kp":                       (factors["kp"] or {}).get("value"),
             "xray_class":               (factors["xray"] or {}).get("class"),
             "closest_asteroid_ld":      ((factors["neo"] or {}).get("closest") or {}).get("ld"),
@@ -692,7 +722,9 @@ def main():
     }
 
     OUT.write_text(json.dumps(output, indent=2))
-    print(f"  score={score}  band={band['name']}  ({band['flavor']})")
+    base_str = f"{baseline:.1f}" if baseline is not None else "n/a"
+    print(f"  live signal={live}  baseline({BASE_DAYS}d)={base_str}  ->  FINAL score={score}  band={band['name']}")
+    print(f"  (final = {GAIN} * ({W_LIVE}*live + {W_BASE}*baseline), no flat floor)")
     print(f"  deltas: 1h={deltas['d1h']:+}  24h={deltas['d24h']:+}  peak90={deltas['peak90']}")
     print(f"  report #{report['number']}  drivers={len(report['top_drivers'])}  sightings_db={sightings_total}")
     print(f"  wrote {OUT} ({OUT.stat().st_size}b)")
