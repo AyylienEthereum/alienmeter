@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-17T17:23:36.242283Z",
-  "score": 38.7,
+  "generated_at": "2026-06-17T19:35:28.250426Z",
+  "score": 41.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 14.3,
+    "d1h": 9.1,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.3,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 4.5,
     "space_weather_alerts": 0.0,
-    "seismic": 0.0,
-    "alien_variance": 3.8
+    "seismic": 3.3,
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 3,
     "date": "17.06.2026",
     "declassified": "17.06.26",
-    "generated_utc": "17:23",
+    "generated_utc": "19:35",
     "top_drivers": [
-      "X/Twitter chatter: 188 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 221 UFO/UAP posts in the last hour",
       "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.5,
+    "live_signal": 32.8,
     "baseline_recent": 30.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,54 @@
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 188,
+    "x_last_hour": 221,
     "wiki_spike_pct": 27.859055580954863,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@ElBadgerro @ukhomeoffice @NCA_UK @GOVUK  ILLUMINATI  OR ILLUMINATED TO TRUTH  WAS U LOCKDOWN AND IS AREA'S LIKE 51 A CONCERN TO YOU!  R U ABLE TO CREATE CGI ON \ud83d\udcf1 WHY U WATCHING CGI ON \ud83d\udcfa   THEY JUST T",
+      "text": "The @DeptofWar release more documents related to UFOs the same day the #Spielberg film @disclosureday premiered. Thus, #UFOs are a mainstream topic and #SouthCarolina is a hotbed for #UAP #sightings, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067297058155872547"
+      "url": "https://x.com/i/web/status/2067330030942785944"
     },
     {
       "type": "x",
-      "text": "@lunartalksdaily @ukhomeoffice @NCA_UK @GOVUK  ILLUMINATI  OR ILLUMINATED TO TRUTH  WAS U LOCKDOWN AND IS AREA'S LIKE 51 A CONCERN TO YOU!  R U ABLE TO CREATE CGI ON \ud83d\udcf1 WHY U WATCHING CGI ON \ud83d\udcfa   THEY J",
+      "text": "@ufoalley2026 @otakuconserva @uBF2fV1cVQxRjQo Aliens actually know about truth, Who were were before, what we did, what happend to our ancestors,  it changed my mindset when I heard about Varginha UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067297017429123374"
+      "url": "https://x.com/i/web/status/2067329975632503020"
     },
     {
       "type": "x",
-      "text": "@DoreenC230958 @ukhomeoffice @NCA_UK @GOVUK  ILLUMINATI  OR ILLUMINATED TO TRUTH  WAS U LOCKDOWN AND IS AREA'S LIKE 51 A CONCERN TO YOU!  R U ABLE TO CREATE CGI ON \ud83d\udcf1 WHY U WATCHING CGI ON \ud83d\udcfa   THEY JUS",
+      "text": "@ProfAviLoeb The Dangerous Gamble: Suppressing Science and the Hidden Cost of UAP Secrecy \u2013 https://t.co/AqcpVbOGWK",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067296987427307824"
+      "url": "https://x.com/i/web/status/2067329958830370872"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb Greetings Dr; I am Juan Pablo from Ecuador in my life supernatural events have happened with UFO ships \ud83d\udef8 telepathic contact the current film is a contact protocol that happened to me I am",
+      "text": "@RonJamesFilms Why do you have to pay to watch every new ufo doc \ud83d\ude44",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067296971790963036"
+      "url": "https://x.com/i/web/status/2067329957697638662"
     },
     {
       "type": "x",
-      "text": "@john_barrass @ukhomeoffice @NCA_UK @GOVUK  ILLUMINATI  OR ILLUMINATED TO TRUTH  WAS U LOCKDOWN AND IS AREA'S LIKE 51 A CONCERN TO YOU!  R U ABLE TO CREATE CGI ON \ud83d\udcf1 WHY U WATCHING CGI ON \ud83d\udcfa   THEY JUST",
+      "text": "@ProfAviLoeb You could care less about any fact about UAPs. You ignore facts to ignore me because I'm too different so UAP talked to me not you. You're jealous because you're too dumb, evil.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067296957932970361"
+      "url": "https://x.com/i/web/status/2067329891700547983"
     },
     {
       "type": "x",
-      "text": "@theblackvault I think the difference from before is that there are already believers of the UAP/Et orgin theory in this panel like Loeb and Nolan. Plus, another government sanctioned panel serves as ",
+      "text": "POV: the aliens already took over and left us a survival guide \ud83d\udc7d\ud83d\udef8  10 steps to make it through the alien occupation. Step 7 is why they're scared of us. \ud83d\udc80  Which step are YOU failing? \ud83d\udc47 (be honest)  F",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067296916711276869"
+      "url": "https://x.com/i/web/status/2067329810867622014"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: central Mid-Atlantic Ridge",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -223,6 +229,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.5
+    },
+    {
+      "ts": "2026-06-17T19:35:28.173997Z",
+      "score": 41.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.8
     }
   ],
   "sources": [
