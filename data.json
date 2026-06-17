@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T00:05:07.566137Z",
-  "score": 33.9,
+  "generated_at": "2026-06-17T05:16:07.237532Z",
+  "score": 30.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,19 +10,18 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -2.5,
+    "d1h": -5.3,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "news_velocity": 0,
-    "social_chatter": 10.6,
+    "social_chatter": 7.6,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
-    "search_interest": 7.2,
+    "search_interest": 4.5,
     "space_weather_alerts": 1.2,
-    "seismic": 3.4,
-    "alien_variance": 1.6
+    "seismic": 3.1,
+    "alien_variance": 4.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -30,11 +29,11 @@
     "day": 3,
     "date": "17.06.2026",
     "declassified": "17.06.26",
-    "generated_utc": "00:05",
+    "generated_utc": "05:16",
     "top_drivers": [
-      "X/Twitter chatter: 177 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +45% above baseline",
+      "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
@@ -45,49 +44,49 @@
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -75.15799793420985,
-    "x_last_hour": 177,
-    "wiki_spike_pct": 45.3038143541523,
-    "earthquakes_24h": 2,
-    "max_quake_mag_24h": 6.7,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 129,
+    "wiki_spike_pct": 27.859055580954863,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@cheddar420yolo @RaidOwlTweets @Walmart \u2026turns out it was just a UFO.",
+      "text": "That plane was looking more like an uap? Wow! It was amazingly smooth.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067035538620596238"
+      "url": "https://x.com/i/web/status/2067113228769890469"
     },
     {
       "type": "x",
-      "text": "Anyone else see this with all the aliens and UFO nonesense?  2 Thessalonians 2:3",
+      "text": "More UFO Flies Released An alien was seen in Kansas City Today https://t.co/3HIN25aUDt",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067035499026428103"
+      "url": "https://x.com/i/web/status/2067113087136944309"
     },
     {
       "type": "x",
-      "text": "@karma44921039 I live in the uks ufo hotspot we got one getting built near us \ud83d\ude11",
+      "text": "nor any effort to start wwlll then a fake ufo invasion to stop it  to unite the world .. sorry ant going to happen ... god is in control not ets  aliens or anybody who might be at war with god ...   d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067035043302613448"
+      "url": "https://x.com/i/web/status/2067113005116997841"
     },
     {
       "type": "x",
-      "text": "@SnakePo9 @geomydid 3 year UAP study conducted by retired French military, law enforcement, and Space Agency officials in 1999 known as the   COMETA Report stated an analysis of the most compelling ca",
+      "text": "Here you can see my latest lab video (1), which explains how I plan to see whether \"magnetically-twisted spacetime\", under field stress, might alter the force of gravity, so as to explain the mysterio",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067034989963985391"
+      "url": "https://x.com/i/web/status/2067112615596458399"
     },
     {
       "type": "x",
-      "text": "Image of what they want us to believe is a UFO, but which is something very well known for decades: a plasmoid, a natural phenomenon that we have seen on almost all the planets that we have filmed or ",
+      "text": "@RedPandaKoala @TkMe2UrLeader11 What? UFO stuff is now MAGA and all MAG people support child rapists? This is projection. A complete waste of time. We are still messing with a stupid movie and governm",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067034846929592608"
+      "url": "https://x.com/i/web/status/2067112560693047723"
     },
     {
       "type": "x",
-      "text": "Old drunk ganja black hawk helicopter retrieve crash apex predator china recovered spacecraft reverse engineer all way give us release UFO documents Italian president Luciano world war two recovered s",
+      "text": "well the m j 12 plan to create a one world order  if contact with ets stated there must be a united world representing the human race in order to be part of the galactic federation .. has come to the ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067034668893962619"
+      "url": "https://x.com/i/web/status/2067112088288239679"
     },
     {
       "type": "swpc",
@@ -98,12 +97,6 @@
     {
       "type": "seismic",
       "text": "Significant seismic event: 260 km SSE of Dunhuang, China",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 43 km ESE of Palu, Indonesia",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -196,6 +189,12 @@
     {
       "ts": "2026-06-17T00:05:07.492160Z",
       "score": 33.9,
+      "band": "THAT'S WEIRD",
+      "i": 2
+    },
+    {
+      "ts": "2026-06-17T05:16:07.165361Z",
+      "score": 30.6,
       "band": "THAT'S WEIRD",
       "i": 2
     }
