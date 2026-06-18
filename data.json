@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T14:01:08.911568Z",
-  "score": 40.4,
+  "generated_at": "2026-06-18T17:20:10.959307Z",
+  "score": 39.4,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 1.2,
+    "d1h": 1.0,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 11.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 2.8,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 1.2,
     "seismic": 3.3,
-    "alien_variance": 3.9
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,133 @@
     "day": 4,
     "date": "18.06.2026",
     "declassified": "18.06.26",
-    "generated_utc": "14:01",
+    "generated_utc": "17:20",
     "top_drivers": [
-      "X/Twitter chatter: 225 UFO/UAP posts in the last hour",
-      "Wikipedia UFO pageviews +17% above baseline",
-      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
+      "Russia and China Racing to Clone Captured UFOs to Launch  Extraterrestrial Arms Race , Declassified Files Reveal",
+      "X/Twitter chatter: 194 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
+      "Wikipedia UFO pageviews +17% above baseline"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 31.9,
-    "baseline_recent": 29.9,
+    "live_signal": 30.6,
+    "baseline_recent": 30.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 225,
+    "x_last_hour": 194,
     "wiki_spike_pct": 17.20313137395832,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Most people come in with:  \"My printer won't print.\"  Meanwhile your morning was:  \"My AI only sees IA-205.\"  \u2193  \"My lineage registry is too large.\"  \u2193  \"Here's the Biological Terminal Branch.\"  \u2193  \"A",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608415061364855"
+      "type": "news",
+      "text": "Russia and China Racing to Clone Captured UFOs to Launch  Extraterrestrial Arms Race , Declassified Files Reveal",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/russia-china-reverse-engineering-ufos-us-files-1803595"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h3pb0pjuvkidv9ij206houm407"
+    },
+    {
+      "type": "news",
+      "text": "Cette exoplan\u00e8te r\u00f4tie par son \u00e9toile fait avancer la science , malgr\u00e9 elle",
+      "source": "phonandroid.com",
+      "url": "https://www.phonandroid.com/cette-exoplanete-rotie-par-son-etoile-fait-avancer-la-science-malgre-elle.html"
+    },
+    {
+      "type": "news",
+      "text": "Altro che Emily Blunt e Josh OConnor : ecco chi \u00e8 la vera star di Disclosure Day ( SPOILER ) ",
+      "source": "comingsoon.it",
+      "url": "https://www.comingsoon.it/cinema/news/altro-che-emily-blunt-e-josh-o-connor-ecco-chi-e-la-vera-star-di-disclosure/n225273/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/a060bd90-ddee-51f8-b746-8bf7327d5de8/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "\u041e\u0422\u041e\u0412\u0421\u042e\u0414\u0423 \u041e\u0411\u041e \u0412\u0421\u0401\u041c , \u0432\u044b\u043f\u0443\u0441\u043a \u211664 ( 31845 ) 19 22 \u0438\u044e\u043d\u044f 2026 \u0433\u043e\u0434\u0430",
+      "source": "gazeta-pravda.ru",
+      "url": "https://gazeta-pravda.ru/issue/64-31845-1922-iyunya-2026-goda/otovsyudu-obo-vsyem64-26/"
+    },
+    {
+      "type": "news",
+      "text": "Aviel Cahn : \u00ab Jai appris litalien avec Dario Fo \u00bb ",
+      "source": "letemps.ch",
+      "url": "https://www.letemps.ch/culture/musiques/aviel-cahn-j-ai-appris-l-italien-avec-dario-fo"
+    },
+    {
+      "type": "news",
+      "text": "Ako UFO . Expl\u00f3zia v Moskve odtrhla strechu n\u00e1dr\u017ee v rafin\u00e9rii , metropolu kropil ropn\u00fd d\u00e1\u017e\u010f",
+      "source": "hnonline.sk",
+      "url": "https://hnonline.sk/svet/96287215-ako-ufo-explozia-v-moskve-odtrhla-strechu-nadrze-v-rafinerii-metropolu-kropil-ropny-dazd"
+    },
+    {
+      "type": "news",
+      "text": "Frank Turek : Existence of aliens wouldnt  affect Christianity  ",
+      "source": "christianpost.com",
+      "url": "https://www.christianpost.com/news/frank-turek-existence-of-aliens-wouldnt-affect-christianity.html"
+    },
+    {
+      "type": "news",
+      "text": "Ten atak Ukrai\u0144c\u00f3w b\u0119dzie si\u0119 \u015bni\u0142 Putinowi . Wskutek eksplozji nad Moskw\u0105 pojawi\u0142o si\u0119 UFO \u2013 PCFormat",
+      "source": "pcformat.pl",
+      "url": "https://pcformat.pl/ten-atak-ukraincow-bedzie-sie-snil-putinowi-wskutek-eksplozji-nad-moskwa-pojawilo-sie-ufo/"
     },
     {
       "type": "x",
-      "text": "@AlienLeaks9 @UAPWixy Something blurring as it disappears is not necessarily a sign of AI fakes, it is a common observation when viewing UAP.",
+      "text": "@ProfAviLoeb Has nobody yet realised what an incredibly stupid name \"UFO Governing Board\" is?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608366743015848"
+      "url": "https://x.com/i/web/status/2067658576378667123"
     },
     {
       "type": "x",
-      "text": "March 22, 1950. Guy Hottel, head of the FBI's Washington Field Office, sends a memo directly to J. Edgar Hoover. Not a field agent. Not a deputy. Hoover himself.  The memo describes three recovered fl",
+      "text": "@MattWalshBlog But he believes that aliens are demons Matt. I think he is right but since you are an UFO enthusiast you may disagree.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608293858562378"
+      "url": "https://x.com/i/web/status/2067658436397948934"
     },
     {
       "type": "x",
-      "text": "You are suppose to go with \u201cufo\u201d  lol https://t.co/FgnLTgZvIM",
+      "text": "@ufouapam Any of the Colares Brazil 1977 UAP images. https://t.co/3D9qTmiJ7a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608288485642324"
+      "url": "https://x.com/i/web/status/2067658425903845390"
     },
     {
       "type": "x",
-      "text": "The \"expert\" here is a lobbyist for a UFO religion.  For more info on this UFO religion and how it's seduced and bamboozled the news media and U.S. Congress, please see my New York Post reporting here",
+      "text": "$SPCX \"should\" retrace all the way down to 135 (IPO level) so the pain that all other space stocks is experiencing will likely continue till it bounces. GREAT opp to play the emotional swings. Or in o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608230029828136"
+      "url": "https://x.com/i/web/status/2067658309822267589"
     },
     {
       "type": "x",
-      "text": "@UAPJames And you know what? He never will go through the classified information. He's just trying to jump onto the UFO bandwagon by feigning interest in a subject that really is of no importance to h",
+      "text": "Russian air defence shot down a UFO!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067608090837491863"
+      "url": "https://x.com/i/web/status/2067658256256823640"
+    },
+    {
+      "type": "x",
+      "text": "UFO Contactee Billy Meier - 1787 USA Shadow Government #BillyMeier #Figu #Conspiracy #UAP #UFO #Pleadians https://t.co/kbqsEnglee",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067658191458926992"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3703\r Issue Time: 2026 Jun 18 1507 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "seismic",
@@ -278,6 +345,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 31.9
+    },
+    {
+      "ts": "2026-06-18T17:20:10.887408Z",
+      "score": 39.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.6
     }
   ],
   "sources": [
