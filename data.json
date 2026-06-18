@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T21:38:08.786283Z",
-  "score": 37.5,
+  "generated_at": "2026-06-18T23:24:37.731004Z",
+  "score": 37.3,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -0.5,
+    "d1h": -3.1,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 11.4,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 2.8,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 4,
     "date": "18.06.2026",
     "declassified": "18.06.26",
-    "generated_utc": "21:38",
+    "generated_utc": "23:24",
     "top_drivers": [
-      "The Proof Is Out There",
-      "X/Twitter chatter: 235 UFO/UAP posts in the last hour",
+      "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "X/Twitter chatter: 191 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +17% above baseline"
     ],
@@ -42,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.2,
-    "baseline_recent": 29.9,
+    "live_signal": 28.0,
+    "baseline_recent": 29.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -41.766956219812386,
-    "x_last_hour": 235,
+    "gdelt_spike_pct": -28.085901143724517,
+    "x_last_hour": 191,
     "wiki_spike_pct": 17.20313137395832,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,99 +59,99 @@
   "ticker": [
     {
       "type": "news",
-      "text": "The Proof Is Out There",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/519cd69d-f0cb-5f74-ba33-6b8c5ee72964/the-proof-is-out-there"
-    },
-    {
-      "type": "news",
       "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "courant.com",
-      "url": "https://www.courant.com/2026/06/18/new-mexico-plane-crash/"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "chicoer.com",
-      "url": "https://www.chicoer.com/2026/06/18/new-mexico-plane-crash/"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/national/10933741/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico.html"
-    },
-    {
-      "type": "news",
-      "text": "Detroit Iconic Spot Lite and UFO Bar Announce Closure Amidst Nightlife Transformation",
-      "source": "wrif.com",
-      "url": "https://wrif.com/2026/06/18/detroits-iconic-spot-lite-and-ufo-bar-announce-closure-amidst-nightlife-transformation/"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "mynorthwest.com",
-      "url": "https://mynorthwest.com/national/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico/4249296"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico \u2013 Winnipeg Free Press",
-      "source": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/business/2026/06/18/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico"
-    },
-    {
-      "type": "news",
-      "text": "Alien Files : Unsealed",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/4c83adb1-f609-5497-9a08-23f3d05a303b/alien-files-unsealed"
-    },
-    {
-      "type": "news",
-      "text": "\u0412\u044d\u043d\u0441 \u043d\u0435 \u0441\u043c\u043e\u0433 \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441 \u043e\u0431 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u0445",
-      "source": "news.day.az",
-      "url": "https://news.day.az/world/1842467.html"
+      "source": "pilotonline.com",
+      "url": "https://www.pilotonline.com/2026/06/18/new-mexico-plane-crash/"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ofr0s4epj77c512do701sqrk44"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=810tvlc2f4fu3619rv2tk8nsk7"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "canoncitydailyrecord.com",
+      "url": "https://www.canoncitydailyrecord.com/2026/06/18/new-mexico-plane-crash/"
+    },
+    {
+      "type": "news",
+      "text": "Brazil vs Scotland World Cup Match Targeted for  Mass Alien Abduction  on June 24 , Psychic Claims",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/brazilian-psychic-alien-abduction-2026-world-cup-1803641"
+    },
+    {
+      "type": "news",
+      "text": "Detroit Iconic Spot Lite and UFO Bar Announce Closure Amidst Nightlife Transformation",
+      "source": "wcsx.com",
+      "url": "https://wcsx.com/2026/06/18/detroits-iconic-spot-lite-and-ufo-bar-announce-closure-amidst-nightlife-transformation/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a4ad2en41k5mnmpqiotu94j835"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "sandiegouniontribune.com",
+      "url": "https://www.sandiegouniontribune.com/2026/06/18/new-mexico-plane-crash/"
+    },
+    {
+      "type": "news",
+      "text": "\u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0645\u0633\u0645\u0627\u0631 \u0637\u0648\u0644\u0647 5 \u0633\u0646\u062a\u064a\u0645\u062a\u0631\u0627\u062a \u0645\u0646 \u0627\u0644\u0623\u0645\u0639\u0627\u0621 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 \u0644\u0637\u0641\u0644 \u0628\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+      "source": "elwatannews.com",
+      "url": "https://www.elwatannews.com/news/details/8304929"
+    },
+    {
+      "type": "news",
+      "text": "A Serial Killer Stalks Hollywood in Chilling Chapter 51 Trailer With Colman Domingo",
+      "source": "comingsoon.net",
+      "url": "https://www.comingsoon.net/movies/trailers/2150463-a-serial-killer-stalks-hollywood-in-chilling-chapter-51-trailer-with-colman-domingo"
+    },
+    {
+      "type": "news",
+      "text": "Why Disclosure Day Might Not Break Even at the Box Office",
+      "source": "comingsoon.net",
+      "url": "https://www.comingsoon.net/movies/features/2150377-why-disclosure-day-not-break-even-box-office-success-hit-flop"
     },
     {
       "type": "x",
-      "text": "Are we being prepared for the truth? 8/10 \ud83d\udc4d  It looks like Steven Spielberg found out the truth before anyone else \ud83d\udc40  I'm going to look at the Pentagon's classified UFO materials. Incidentally, they w",
+      "text": "@ChrisO_wiki I 1st saw the picture with no context. I thought someone had added a UFO to mock drumpf. This is way better",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067723489818062937"
+      "url": "https://x.com/i/web/status/2067750146625155089"
     },
     {
       "type": "x",
-      "text": "@gpward72 @ChrisO_wiki Aluminium would most like have vaporized in the explosion, and turned into bigger explosion but no UFO.",
+      "text": "@Gerashchenko_en UFO sighting in Moscow https://t.co/a2OHy4iuzy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067723366564282819"
+      "url": "https://x.com/i/web/status/2067750107362058298"
     },
     {
       "type": "x",
-      "text": "@ChrisO_wiki Its a UFO man",
+      "text": "@SicCoP1 @TheDylanBorland You use \"can't figure it out\" to mean \"enemy next-gen drones or possibly the Martian battle fleet.\"  Kirkpatrick means \"undescribed weather or geoelectric phenomenon.\"  Getti",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067723339498484095"
+      "url": "https://x.com/i/web/status/2067749620583936219"
     },
     {
       "type": "x",
-      "text": "@Osint613 Some will say that is amazing UFO footage https://t.co/SOsUhwuSG2",
+      "text": "@overclassifiedx @overclassifiedx \ud83d\udea8BREAKING: Scientist discovers the physics of antigravity. Theory of Everything published. Details in block IX of the pdf\ud83d\udea8  Full paper: https://t.co/iym4x8kUjn  #UAP ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067723035809816998"
+      "url": "https://x.com/i/web/status/2067749614950744100"
     },
     {
       "type": "x",
-      "text": "@EthanVanSciver Disclosure Day was incredibly bad.  And I say that as a huge fan of Spielberg and the UFO/alien topic.",
+      "text": "@UAPReportingCnt I would not be surprised if UAP commentators that attain a certain level of reach are flipped into adopting a narrative chosen for them by the most powerful people with a UAP agenda. ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067722939844485191"
+      "url": "https://x.com/i/web/status/2067749589898399762"
     },
     {
       "type": "x",
-      "text": "@dsotis Years of building UAP credibility quickly being reversed by yahoos like this guy spreading obvious BS",
+      "text": "@overclassifiedx This psychic\u2019s prediction is pretty wild. Giant mothership and greys/reptilians abducting players and hundreds of fans live at the Brazil vs Scotland match in Miami on the 24th. She s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067722838883078426"
+      "url": "https://x.com/i/web/status/2067749474450252104"
     },
     {
       "type": "swpc",
@@ -360,6 +360,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.2
+    },
+    {
+      "ts": "2026-06-18T23:24:37.655566Z",
+      "score": 37.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.0
     }
   ],
   "sources": [
