@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-18T19:39:08.922939Z",
-  "score": 36.6,
+  "generated_at": "2026-06-18T21:38:08.786283Z",
+  "score": 37.5,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.6,
+    "d1h": -0.5,
     "d24h": 0.0,
     "peak90": 51.5
   },
@@ -23,7 +23,7 @@
     "search_interest": 2.8,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 4,
     "date": "18.06.2026",
     "declassified": "18.06.26",
-    "generated_utc": "19:39",
+    "generated_utc": "21:38",
     "top_drivers": [
-      "X/Twitter chatter: 249 UFO/UAP posts in the last hour",
+      "The Proof Is Out There",
+      "X/Twitter chatter: 235 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +17% above baseline",
-      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
+      "Wikipedia UFO pageviews +17% above baseline"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.9,
-    "baseline_recent": 30.0,
+    "live_signal": 28.2,
+    "baseline_recent": 29.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -42.6384364820847,
-    "x_last_hour": 249,
+    "gdelt_spike_pct": -41.766956219812386,
+    "x_last_hour": 235,
     "wiki_spike_pct": 17.20313137395832,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "#ufotwitter #f2b #ufo #Uap #ufos #uaps #aliens #ancientaliens #jimmychurch Tonight at 7PM EST slimy grifter Jimmy Church completely fooled by a fake doctor with a fake work history and his retarded al",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067693315202392522"
+      "type": "news",
+      "text": "The Proof Is Out There",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/519cd69d-f0cb-5f74-ba33-6b8c5ee72964/the-proof-is-out-there"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "courant.com",
+      "url": "https://www.courant.com/2026/06/18/new-mexico-plane-crash/"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "chicoer.com",
+      "url": "https://www.chicoer.com/2026/06/18/new-mexico-plane-crash/"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/national/10933741/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico.html"
+    },
+    {
+      "type": "news",
+      "text": "Detroit Iconic Spot Lite and UFO Bar Announce Closure Amidst Nightlife Transformation",
+      "source": "wrif.com",
+      "url": "https://wrif.com/2026/06/18/detroits-iconic-spot-lite-and-ufo-bar-announce-closure-amidst-nightlife-transformation/"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
+      "source": "mynorthwest.com",
+      "url": "https://mynorthwest.com/national/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico/4249296"
+    },
+    {
+      "type": "news",
+      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico \u2013 Winnipeg Free Press",
+      "source": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/business/2026/06/18/military-jamming-disrupted-a-medical-planes-gps-system-before-it-crashed-last-month-in-new-mexico"
+    },
+    {
+      "type": "news",
+      "text": "Alien Files : Unsealed",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/4c83adb1-f609-5497-9a08-23f3d05a303b/alien-files-unsealed"
+    },
+    {
+      "type": "news",
+      "text": "\u0412\u044d\u043d\u0441 \u043d\u0435 \u0441\u043c\u043e\u0433 \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441 \u043e\u0431 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u0445",
+      "source": "news.day.az",
+      "url": "https://news.day.az/world/1842467.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ofr0s4epj77c512do701sqrk44"
     },
     {
       "type": "x",
-      "text": "@BBCNews @felicitysimper Finally, well done! To get the unknown known and UK to catch up and pay attention: Good places to start are James Fox documentaries, Moment of Contact, Caz Clarke Pentrych inc",
+      "text": "Are we being prepared for the truth? 8/10 \ud83d\udc4d  It looks like Steven Spielberg found out the truth before anyone else \ud83d\udc40  I'm going to look at the Pentagon's classified UFO materials. Incidentally, they w",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067693214622994442"
+      "url": "https://x.com/i/web/status/2067723489818062937"
     },
     {
       "type": "x",
-      "text": "@nypost wasn\u2019t that \"resident UFO expert\" a mormon missionary?",
+      "text": "@gpward72 @ChrisO_wiki Aluminium would most like have vaporized in the explosion, and turned into bigger explosion but no UFO.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067693211703746798"
+      "url": "https://x.com/i/web/status/2067723366564282819"
     },
     {
       "type": "x",
-      "text": "UFO disclosure push and growing debate over government transparency. https://t.co/cTKVvdYWl1 via @YouTube @NewsNation @rosscoulthart @mtgreenee @JeremyCorbell @g_knapp @timburchett #UAP #UFO",
+      "text": "@ChrisO_wiki Its a UFO man",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067692905783767298"
+      "url": "https://x.com/i/web/status/2067723339498484095"
     },
     {
       "type": "x",
-      "text": "BREAKING NEWS IN RUSSIA \ud83d\udea8  There have been rumours of a UFO spotting near Moscow in Russia. Luckily someone managed to take a picture of the UFO that has been terrorising the Russian people.  What do ",
+      "text": "@Osint613 Some will say that is amazing UFO footage https://t.co/SOsUhwuSG2",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067692615550558684"
+      "url": "https://x.com/i/web/status/2067723035809816998"
     },
     {
       "type": "x",
-      "text": "Haters will say it\u2019s not a ufo https://t.co/kjYWQQHfeV",
+      "text": "@EthanVanSciver Disclosure Day was incredibly bad.  And I say that as a huge fan of Spielberg and the UFO/alien topic.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067692400818966910"
+      "url": "https://x.com/i/web/status/2067722939844485191"
+    },
+    {
+      "type": "x",
+      "text": "@dsotis Years of building UAP credibility quickly being reversed by yahoos like this guy spreading obvious BS",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067722838883078426"
     },
     {
       "type": "swpc",
@@ -293,6 +353,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.9
+    },
+    {
+      "ts": "2026-06-18T21:38:08.712553Z",
+      "score": 37.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.2
     }
   ],
   "sources": [
