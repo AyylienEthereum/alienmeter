@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-18T01:41:04.370592Z",
-  "score": 38.4,
+  "generated_at": "2026-06-18T06:27:44.846906Z",
+  "score": 36.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -0.3,
+    "d1h": -5.2,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "social_chatter": 5.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 4.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 2.4
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 4,
     "date": "18.06.2026",
     "declassified": "18.06.26",
-    "generated_utc": "01:41",
+    "generated_utc": "06:27",
     "top_drivers": [
-      "A seleco que ganhou e perdeu",
-      "X/Twitter chatter: 151 UFO/UAP posts in the last hour",
+      "\u0427\u0442\u043e \u0437\u043d\u0430\u0435\u0442 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e \u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0445 \u041d\u041b\u041e ? ",
+      "X/Twitter chatter: 97 UFO/UAP posts in the last hour",
       "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
@@ -42,21 +42,69 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.1,
+    "live_signal": 26.1,
     "baseline_recent": 30.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -49.96621641470966,
-    "x_last_hour": 151,
+    "gdelt_spike_pct": -64.11156621806124,
+    "x_last_hour": 97,
     "wiki_spike_pct": 27.941032306480572,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u0427\u0442\u043e \u0437\u043d\u0430\u0435\u0442 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e \u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0445 \u041d\u041b\u041e ? ",
+      "source": "caravan.kz",
+      "url": "https://www.caravan.kz/news/chto-znaet-pentagon-o-kazahstanskih-nlo/"
+    },
+    {
+      "type": "news",
+      "text": "\u05ea\u05d5\u05db\u05e0\u05d9\u05ea \u05d4\u05d0\u05d5\u05e6\u05e8 \u05dc\u05ea\u05e7\u05e6\u05d9\u05d1 : \u05e1\u05d5\u05db\u05e0\u05d9 \u05d4\u05d1\u05d9\u05d8\u05d5\u05d7 \u05d5\u05e7\u05e8\u05e0\u05d5\u05ea \u05d4\u05d4\u05e9\u05ea\u05dc\u05de\u05d5\u05ea \u05d1\u05de\u05d5\u05e7\u05d3 \u05d4\u05d2\u05d6\u05e8\u05d5\u05ea",
+      "source": "globes.co.il",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001546256"
+    },
+    {
+      "type": "news",
+      "text": "The best things to do in Boston this weekend and beyond",
+      "source": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/06/18/arts/things-to-do-in-boston-this-weekend/"
+    },
+    {
+      "type": "news",
+      "text": "Daughters of the American Revolution rededicating Patriots Marker in Painesville",
+      "source": "news-herald.com",
+      "url": "https://www.news-herald.com/2026/06/17/daughters-of-the-american-revolution-rededicating-patriots-marker-in-painesville/"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX mega - IPO sparks flurry of ETF activity",
+      "source": "investmentnews.com",
+      "url": "https://www.investmentnews.com/etfs/spacex-mega-ipo-sparks-flurry-of-etf-activity/267071"
+    },
+    {
+      "type": "news",
+      "text": "Albuquerque records first triple - digit temperatures of summer 2026",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/albuquerque-hits-100-for-the-first-time-this-year-triple-digit-heat-continues-all-week/3065587"
+    },
+    {
+      "type": "news",
+      "text": "Games Inbox : Do you need to buy a PS5 Pro to play GTA 6 ? ",
+      "source": "metro.co.uk",
+      "url": "https://metro.co.uk/2026/06/18/games-inbox-need-buy-a-ps5-pro-play-gta-6-28822930/"
+    },
+    {
+      "type": "news",
+      "text": "Renowned scientist Neil deGrasse Tyson tells US government to  Show the alien ! after latest UFO disclosure",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-15909475/neil-degrasse-tyson-government-ufo-disclosure.html"
+    },
     {
       "type": "news",
       "text": "A seleco que ganhou e perdeu",
@@ -70,88 +118,40 @@
       "url": "https://www.ellitoral.com.ar/sociedad/2026-6-17-20-53-0-en-caa-cati-se-realiza-el-primer-encuentro-ufologico"
     },
     {
-      "type": "news",
-      "text": "May / June 2026",
-      "source": "lcm.loc.gov",
-      "url": "https://lcm.loc.gov/issue/may-june-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Josh Heupel and Tennessee eye final push as top 2027 OL decision looms",
-      "source": "allfortennessee.com",
-      "url": "https://allfortennessee.com/josh-heupel-and-tennessee-eye-final-push-as-top-2027-ol-decision-looms-01kvbhbktxeg"
-    },
-    {
-      "type": "news",
-      "text": "Genesis Magma Racing Successful Le Mans Debut Was Thrilling To Witness",
-      "source": "jalopnik.com",
-      "url": "https://www.jalopnik.com/2196937/genesis-magma-racing-24-hours-le-mans-successful-debut/"
-    },
-    {
-      "type": "news",
-      "text": "AST SpaceMobile Announces Launch Date for Its Next 3 BlueBird Satellites",
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-announces-launch-date-161500077.html"
-    },
-    {
-      "type": "news",
-      "text": "Market Wrap - Up : Wednesday , June 17",
-      "source": "wlj.net",
-      "url": "https://www.wlj.net/market-wrap-up-wednesday-june-17/"
-    },
-    {
-      "type": "news",
-      "text": "Chattahoochee Nature Center invites alumni to reconnect during 50th anniversary celebration",
-      "source": "mdjonline.com",
-      "url": "https://www.mdjonline.com/news/lifestyle/chattahoochee-nature-center-invites-alumni-to-reconnect-during-50th-anniversary-celebration/article_1530742b-3635-4810-a768-bfb8f4ac1c79.html"
-    },
-    {
-      "type": "news",
-      "text": "Stansbury cries gerrymandering again after Dems carved up NM ( No Pub congressional representative since 2020 ) ",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-gop/4384226/posts"
-    },
-    {
-      "type": "news",
-      "text": "j9\u76f4\u8425\u96c6\u56e2\u5165\u53e3\u7535\u8111\u7248\u4e0b\u8f7d \u6700\u65b0\u7248 \u5947\u8469\u8d4c\u573a\u6a21\u62df\u94bb\u5934\u72c2\u6b22 - \u5546\u4e18\u7f51",
-      "source": "m.sqrb.com.cn",
-      "url": "https://m.sqrb.com.cn/content/2026-06/16/content_96233996.html"
+      "type": "x",
+      "text": "A new type of UFO? https://t.co/2Z9lqpaLUB",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067494256927768738"
     },
     {
       "type": "x",
-      "text": "@jamescfox @TheUfoJoe @UAPJames The other video about the Black NHI coming off a UAP or UFO craft: https://t.co/6Tj7jM8mmC",
+      "text": "\ud83d\udc7d They laughed first.  #UFO #UAP #DisclosureDay #UFOTwitter #AGracie https://t.co/gD9xJIECTq",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067422146125496523"
+      "url": "https://x.com/i/web/status/2067494168608535020"
     },
     {
       "type": "x",
-      "text": "Opinion: Does UFO disclosure threaten faith? https://t.co/SdAqtBiGCJ",
+      "text": "1952 (Oct. 17th) UFO sightings reported in the Port Huron Times-Herald.  Black dot is single sighting, large white dot is multiple sightings. Washington DC flap is there. Lots in NM! https://t.co/dg2J",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067422058661749128"
+      "url": "https://x.com/i/web/status/2067494017370038495"
     },
     {
       "type": "x",
-      "text": "That opinion flipped rather quickly.   I literally did not even try to bait that type of response, but as I\u2019ve said before:  There are a ton of narcissistic personalities in the UFO/Disclosure world. ",
+      "text": "@ConfrontReal Destroyed Mars destroyed, destroyed, Mount Everest, kill the alien, destroyed, the UFO destroyed and Pakistan Air Force, once locked, it\u2019s PL 5969 missile on Neptune and fired  it from t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067422005238903284"
+      "url": "https://x.com/i/web/status/2067493978816299260"
     },
     {
       "type": "x",
-      "text": "@nashienet @theblackvault That's pretty limited to the ufo community lol..   And only the more moronic ones here.",
+      "text": "@1goodtern Maybe Putin would rather it was a UFO that did all that. \ud83e\udd14\ud83e\udd23",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067421855414177899"
+      "url": "https://x.com/i/web/status/2067493533746172388"
     },
     {
       "type": "x",
-      "text": "@GordoCDA What was this thing a few weeks ago about UAP disclosures?  I\u2019ve never been  a big believer in all that, even though I used to listen to Art Bell and watch the C Files, but I do follow the s",
+      "text": "Ya know partner, all this UAP disclosure talk has this cowgirl wonderin\u2019\u2026 What if all them aliens really just came for a tall, cold glass of Hylian milk?  \ud83e\udd5b\ud83e\udd20\ud83e\udd1d\ud83d\udc7d\ud83e\udd5b    #UAPDisclosure #Aliens #ZeldaFanart ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067421841270997302"
-    },
-    {
-      "type": "x",
-      "text": "@yvesnights Also wth is up with the ufo",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067421654108541127"
+      "url": "https://x.com/i/web/status/2067493512413622457"
     },
     {
       "type": "seismic",
@@ -318,6 +318,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.1
+    },
+    {
+      "ts": "2026-06-18T06:27:44.772910Z",
+      "score": 36.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.1
     }
   ],
   "sources": [
