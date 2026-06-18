@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-06-17T23:08:11.833487Z",
-  "score": 39.2,
+  "generated_at": "2026-06-18T01:41:04.370592Z",
+  "score": 38.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 2.9,
+    "d1h": -0.3,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.8,
+    "social_chatter": 9.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 4.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 2.7
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 3,
-    "day": 3,
-    "date": "17.06.2026",
-    "declassified": "17.06.26",
-    "generated_utc": "23:08",
+    "number": 4,
+    "day": 4,
+    "date": "18.06.2026",
+    "declassified": "18.06.26",
+    "generated_utc": "01:41",
     "top_drivers": [
-      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
+      "A seleco que ganhou e perdeu",
+      "X/Twitter chatter: 151 UFO/UAP posts in the last hour",
       "Wikipedia UFO pageviews +28% above baseline",
       "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
@@ -41,56 +42,116 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.2,
+    "live_signal": 29.1,
     "baseline_recent": 30.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 164,
-    "wiki_spike_pct": 27.859055580954863,
+    "gdelt_spike_pct": -49.96621641470966,
+    "x_last_hour": 151,
+    "wiki_spike_pct": 27.941032306480572,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Kalispell Montana, creating the hill there. Pulled over and watched a UFO over the Rockies for close to an hr. Watched everyone who was in the valley change. Been tracking infection since. I'm two ste",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383740439879788"
+      "type": "news",
+      "text": "A seleco que ganhou e perdeu",
+      "source": "observador.pt",
+      "url": "https://observador.pt/opiniao/a-seleccao-que-ganhou-e-perdeu/"
+    },
+    {
+      "type": "news",
+      "text": "En Ca\u00e1 Cat\u00ed se realiza el Primer Encuentro Ufol\u00f3gico",
+      "source": "ellitoral.com.ar",
+      "url": "https://www.ellitoral.com.ar/sociedad/2026-6-17-20-53-0-en-caa-cati-se-realiza-el-primer-encuentro-ufologico"
+    },
+    {
+      "type": "news",
+      "text": "May / June 2026",
+      "source": "lcm.loc.gov",
+      "url": "https://lcm.loc.gov/issue/may-june-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Josh Heupel and Tennessee eye final push as top 2027 OL decision looms",
+      "source": "allfortennessee.com",
+      "url": "https://allfortennessee.com/josh-heupel-and-tennessee-eye-final-push-as-top-2027-ol-decision-looms-01kvbhbktxeg"
+    },
+    {
+      "type": "news",
+      "text": "Genesis Magma Racing Successful Le Mans Debut Was Thrilling To Witness",
+      "source": "jalopnik.com",
+      "url": "https://www.jalopnik.com/2196937/genesis-magma-racing-24-hours-le-mans-successful-debut/"
+    },
+    {
+      "type": "news",
+      "text": "AST SpaceMobile Announces Launch Date for Its Next 3 BlueBird Satellites",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-announces-launch-date-161500077.html"
+    },
+    {
+      "type": "news",
+      "text": "Market Wrap - Up : Wednesday , June 17",
+      "source": "wlj.net",
+      "url": "https://www.wlj.net/market-wrap-up-wednesday-june-17/"
+    },
+    {
+      "type": "news",
+      "text": "Chattahoochee Nature Center invites alumni to reconnect during 50th anniversary celebration",
+      "source": "mdjonline.com",
+      "url": "https://www.mdjonline.com/news/lifestyle/chattahoochee-nature-center-invites-alumni-to-reconnect-during-50th-anniversary-celebration/article_1530742b-3635-4810-a768-bfb8f4ac1c79.html"
+    },
+    {
+      "type": "news",
+      "text": "Stansbury cries gerrymandering again after Dems carved up NM ( No Pub congressional representative since 2020 ) ",
+      "source": "freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-gop/4384226/posts"
+    },
+    {
+      "type": "news",
+      "text": "j9\u76f4\u8425\u96c6\u56e2\u5165\u53e3\u7535\u8111\u7248\u4e0b\u8f7d \u6700\u65b0\u7248 \u5947\u8469\u8d4c\u573a\u6a21\u62df\u94bb\u5934\u72c2\u6b22 - \u5546\u4e18\u7f51",
+      "source": "m.sqrb.com.cn",
+      "url": "https://m.sqrb.com.cn/content/2026-06/16/content_96233996.html"
     },
     {
       "type": "x",
-      "text": "@mistasfupahairs he's the UFO \ud83d\udef8",
+      "text": "@jamescfox @TheUfoJoe @UAPJames The other video about the Black NHI coming off a UAP or UFO craft: https://t.co/6Tj7jM8mmC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383734618460625"
+      "url": "https://x.com/i/web/status/2067422146125496523"
     },
     {
       "type": "x",
-      "text": "@bradbuchner86 I hear you\u2014past AI chats shape views, and I respect the disagreement. No detailed recall of specific prior sessions here (privacy design), but I'm built for open discussion now without ",
+      "text": "Opinion: Does UFO disclosure threaten faith? https://t.co/SdAqtBiGCJ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383647456448567"
+      "url": "https://x.com/i/web/status/2067422058661749128"
     },
     {
       "type": "x",
-      "text": "The government launched an 'aliens' website and somehow disappointed both UFO hunters AND basic humanity simultaneously. A historic dual letdown. #AlienNation #TwoStarsForEffort https://t.co/hTD19Npl1",
+      "text": "That opinion flipped rather quickly.   I literally did not even try to bait that type of response, but as I\u2019ve said before:  There are a ton of narcissistic personalities in the UFO/Disclosure world. ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383638505693193"
+      "url": "https://x.com/i/web/status/2067422005238903284"
     },
     {
       "type": "x",
-      "text": "Wednesday Reality Check: A \u201crecovered UFO\u201d WAS the coverup. The Architecture of Secrecy: MJ-12, Recovered Craft and the Origins of a UFO Legacy Program \u2014 Liberation Times | Reimagining Old News https:",
+      "text": "@nashienet @theblackvault That's pretty limited to the ufo community lol..   And only the more moronic ones here.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383607786873220"
+      "url": "https://x.com/i/web/status/2067421855414177899"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 KONA BLUE REINCARNATED?   What Is the true purpose of the new special science advisory council that Avi Loeb is heading up under the new UAP Governance Board ?   Listen in as @Mavmetax investigates ",
+      "text": "@GordoCDA What was this thing a few weeks ago about UAP disclosures?  I\u2019ve never been  a big believer in all that, even though I used to listen to Art Bell and watch the C Files, but I do follow the s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067383353226002710"
+      "url": "https://x.com/i/web/status/2067421841270997302"
+    },
+    {
+      "type": "x",
+      "text": "@yvesnights Also wth is up with the ufo",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067421654108541127"
     },
     {
       "type": "seismic",
@@ -250,6 +311,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.2
+    },
+    {
+      "ts": "2026-06-18T01:41:04.298386Z",
+      "score": 38.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.1
     }
   ],
   "sources": [
