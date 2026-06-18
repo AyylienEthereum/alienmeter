@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-18T17:20:10.959307Z",
-  "score": 39.4,
+  "generated_at": "2026-06-18T19:39:08.922939Z",
+  "score": 36.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.0,
+    "d1h": 0.6,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.6,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.4,
     "search_interest": 2.8,
     "space_weather_alerts": 1.2,
-    "seismic": 3.3,
-    "alien_variance": 1.8
+    "seismic": 0.0,
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,139 +31,73 @@
     "day": 4,
     "date": "18.06.2026",
     "declassified": "18.06.26",
-    "generated_utc": "17:20",
+    "generated_utc": "19:39",
     "top_drivers": [
-      "Russia and China Racing to Clone Captured UFOs to Launch  Extraterrestrial Arms Race , Declassified Files Reveal",
-      "X/Twitter chatter: 194 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 249 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +17% above baseline"
+      "Wikipedia UFO pageviews +17% above baseline",
+      "NEO (2003 LN6) passing Earth at 3.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.6,
+    "live_signal": 26.9,
     "baseline_recent": 30.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 3.6847349307,
     "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 194,
+    "gdelt_spike_pct": -42.6384364820847,
+    "x_last_hour": 249,
     "wiki_spike_pct": 17.20313137395832,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.6,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Russia and China Racing to Clone Captured UFOs to Launch  Extraterrestrial Arms Race , Declassified Files Reveal",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/russia-china-reverse-engineering-ufos-us-files-1803595"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h3pb0pjuvkidv9ij206houm407"
-    },
-    {
-      "type": "news",
-      "text": "Cette exoplan\u00e8te r\u00f4tie par son \u00e9toile fait avancer la science , malgr\u00e9 elle",
-      "source": "phonandroid.com",
-      "url": "https://www.phonandroid.com/cette-exoplanete-rotie-par-son-etoile-fait-avancer-la-science-malgre-elle.html"
-    },
-    {
-      "type": "news",
-      "text": "Altro che Emily Blunt e Josh OConnor : ecco chi \u00e8 la vera star di Disclosure Day ( SPOILER ) ",
-      "source": "comingsoon.it",
-      "url": "https://www.comingsoon.it/cinema/news/altro-che-emily-blunt-e-josh-o-connor-ecco-chi-e-la-vera-star-di-disclosure/n225273/"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/a060bd90-ddee-51f8-b746-8bf7327d5de8/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "\u041e\u0422\u041e\u0412\u0421\u042e\u0414\u0423 \u041e\u0411\u041e \u0412\u0421\u0401\u041c , \u0432\u044b\u043f\u0443\u0441\u043a \u211664 ( 31845 ) 19 22 \u0438\u044e\u043d\u044f 2026 \u0433\u043e\u0434\u0430",
-      "source": "gazeta-pravda.ru",
-      "url": "https://gazeta-pravda.ru/issue/64-31845-1922-iyunya-2026-goda/otovsyudu-obo-vsyem64-26/"
-    },
-    {
-      "type": "news",
-      "text": "Aviel Cahn : \u00ab Jai appris litalien avec Dario Fo \u00bb ",
-      "source": "letemps.ch",
-      "url": "https://www.letemps.ch/culture/musiques/aviel-cahn-j-ai-appris-l-italien-avec-dario-fo"
-    },
-    {
-      "type": "news",
-      "text": "Ako UFO . Expl\u00f3zia v Moskve odtrhla strechu n\u00e1dr\u017ee v rafin\u00e9rii , metropolu kropil ropn\u00fd d\u00e1\u017e\u010f",
-      "source": "hnonline.sk",
-      "url": "https://hnonline.sk/svet/96287215-ako-ufo-explozia-v-moskve-odtrhla-strechu-nadrze-v-rafinerii-metropolu-kropil-ropny-dazd"
-    },
-    {
-      "type": "news",
-      "text": "Frank Turek : Existence of aliens wouldnt  affect Christianity  ",
-      "source": "christianpost.com",
-      "url": "https://www.christianpost.com/news/frank-turek-existence-of-aliens-wouldnt-affect-christianity.html"
-    },
-    {
-      "type": "news",
-      "text": "Ten atak Ukrai\u0144c\u00f3w b\u0119dzie si\u0119 \u015bni\u0142 Putinowi . Wskutek eksplozji nad Moskw\u0105 pojawi\u0142o si\u0119 UFO \u2013 PCFormat",
-      "source": "pcformat.pl",
-      "url": "https://pcformat.pl/ten-atak-ukraincow-bedzie-sie-snil-putinowi-wskutek-eksplozji-nad-moskwa-pojawilo-sie-ufo/"
+      "type": "x",
+      "text": "#ufotwitter #f2b #ufo #Uap #ufos #uaps #aliens #ancientaliens #jimmychurch Tonight at 7PM EST slimy grifter Jimmy Church completely fooled by a fake doctor with a fake work history and his retarded al",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067693315202392522"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb Has nobody yet realised what an incredibly stupid name \"UFO Governing Board\" is?",
+      "text": "@BBCNews @felicitysimper Finally, well done! To get the unknown known and UK to catch up and pay attention: Good places to start are James Fox documentaries, Moment of Contact, Caz Clarke Pentrych inc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658576378667123"
+      "url": "https://x.com/i/web/status/2067693214622994442"
     },
     {
       "type": "x",
-      "text": "@MattWalshBlog But he believes that aliens are demons Matt. I think he is right but since you are an UFO enthusiast you may disagree.",
+      "text": "@nypost wasn\u2019t that \"resident UFO expert\" a mormon missionary?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658436397948934"
+      "url": "https://x.com/i/web/status/2067693211703746798"
     },
     {
       "type": "x",
-      "text": "@ufouapam Any of the Colares Brazil 1977 UAP images. https://t.co/3D9qTmiJ7a",
+      "text": "UFO disclosure push and growing debate over government transparency. https://t.co/cTKVvdYWl1 via @YouTube @NewsNation @rosscoulthart @mtgreenee @JeremyCorbell @g_knapp @timburchett #UAP #UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658425903845390"
+      "url": "https://x.com/i/web/status/2067692905783767298"
     },
     {
       "type": "x",
-      "text": "$SPCX \"should\" retrace all the way down to 135 (IPO level) so the pain that all other space stocks is experiencing will likely continue till it bounces. GREAT opp to play the emotional swings. Or in o",
+      "text": "BREAKING NEWS IN RUSSIA \ud83d\udea8  There have been rumours of a UFO spotting near Moscow in Russia. Luckily someone managed to take a picture of the UFO that has been terrorising the Russian people.  What do ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658309822267589"
+      "url": "https://x.com/i/web/status/2067692615550558684"
     },
     {
       "type": "x",
-      "text": "Russian air defence shot down a UFO!",
+      "text": "Haters will say it\u2019s not a ufo https://t.co/kjYWQQHfeV",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658256256823640"
-    },
-    {
-      "type": "x",
-      "text": "UFO Contactee Billy Meier - 1787 USA Shadow Government #BillyMeier #Figu #Conspiracy #UAP #UFO #Pleadians https://t.co/kbqsEnglee",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067658191458926992"
+      "url": "https://x.com/i/web/status/2067692400818966910"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3703\r Issue Time: 2026 Jun 18 1507 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: central Mid-Atlantic Ridge",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -352,6 +286,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.6
+    },
+    {
+      "ts": "2026-06-18T19:39:08.849164Z",
+      "score": 36.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.9
     }
   ],
   "sources": [
