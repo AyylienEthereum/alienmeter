@@ -1,157 +1,97 @@
 {
-  "generated_at": "2026-06-18T23:24:37.731004Z",
-  "score": 37.3,
+  "generated_at": "2026-06-19T02:14:59.023958Z",
+  "score": 31.5,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -3.1,
+    "d1h": -7.9,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.4,
+    "social_chatter": 8.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 7.4,
-    "search_interest": 2.8,
+    "asteroid_approach": 2.2,
+    "search_interest": 2.7,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 4,
-    "day": 4,
-    "date": "18.06.2026",
-    "declassified": "18.06.26",
-    "generated_utc": "23:24",
+    "number": 5,
+    "day": 5,
+    "date": "19.06.2026",
+    "declassified": "19.06.26",
+    "generated_utc": "02:14",
     "top_drivers": [
-      "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "X/Twitter chatter: 191 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +17% above baseline"
+      "Wikipedia UFO pageviews +17% above baseline",
+      "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.0,
+    "live_signal": 20.6,
     "baseline_recent": 29.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 3.6847349307,
-    "asteroid_name": "(2003 LN6)",
-    "gdelt_spike_pct": -28.085901143724517,
-    "x_last_hour": 191,
-    "wiki_spike_pct": 17.20313137395832,
+    "closest_asteroid_ld": 36.1917194877,
+    "asteroid_name": "(2008 JL24)",
+    "gdelt_spike_pct": null,
+    "x_last_hour": 143,
+    "wiki_spike_pct": 17.174169267240785,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "pilotonline.com",
-      "url": "https://www.pilotonline.com/2026/06/18/new-mexico-plane-crash/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=810tvlc2f4fu3619rv2tk8nsk7"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "canoncitydailyrecord.com",
-      "url": "https://www.canoncitydailyrecord.com/2026/06/18/new-mexico-plane-crash/"
-    },
-    {
-      "type": "news",
-      "text": "Brazil vs Scotland World Cup Match Targeted for  Mass Alien Abduction  on June 24 , Psychic Claims",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/brazilian-psychic-alien-abduction-2026-world-cup-1803641"
-    },
-    {
-      "type": "news",
-      "text": "Detroit Iconic Spot Lite and UFO Bar Announce Closure Amidst Nightlife Transformation",
-      "source": "wcsx.com",
-      "url": "https://wcsx.com/2026/06/18/detroits-iconic-spot-lite-and-ufo-bar-announce-closure-amidst-nightlife-transformation/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a4ad2en41k5mnmpqiotu94j835"
-    },
-    {
-      "type": "news",
-      "text": "Military jamming disrupted a medical plane GPS system before it crashed last month in New Mexico",
-      "source": "sandiegouniontribune.com",
-      "url": "https://www.sandiegouniontribune.com/2026/06/18/new-mexico-plane-crash/"
-    },
-    {
-      "type": "news",
-      "text": "\u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0645\u0633\u0645\u0627\u0631 \u0637\u0648\u0644\u0647 5 \u0633\u0646\u062a\u064a\u0645\u062a\u0631\u0627\u062a \u0645\u0646 \u0627\u0644\u0623\u0645\u0639\u0627\u0621 \u0627\u0644\u062f\u0642\u064a\u0642\u0629 \u0644\u0637\u0641\u0644 \u0628\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
-      "source": "elwatannews.com",
-      "url": "https://www.elwatannews.com/news/details/8304929"
-    },
-    {
-      "type": "news",
-      "text": "A Serial Killer Stalks Hollywood in Chilling Chapter 51 Trailer With Colman Domingo",
-      "source": "comingsoon.net",
-      "url": "https://www.comingsoon.net/movies/trailers/2150463-a-serial-killer-stalks-hollywood-in-chilling-chapter-51-trailer-with-colman-domingo"
-    },
-    {
-      "type": "news",
-      "text": "Why Disclosure Day Might Not Break Even at the Box Office",
-      "source": "comingsoon.net",
-      "url": "https://www.comingsoon.net/movies/features/2150377-why-disclosure-day-not-break-even-box-office-success-hit-flop"
+      "type": "x",
+      "text": "Not a big fan of the guy, but where he's right, he's right.\ud83d\udef8 \ud83d\udc47\ud83d\udc47\ud83d\udc47  Renowned scientist Neil deGrasse Tyson demands the government 'show the alien!'  https://t.co/CKlMXiVXXQ  #UFO #Aliens #disclosure",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067793124768825662"
     },
     {
       "type": "x",
-      "text": "@ChrisO_wiki I 1st saw the picture with no context. I thought someone had added a UFO to mock drumpf. This is way better",
+      "text": "@VICENews @Dan_Farah @Acrobat Shane Smith going through the fresh UAP files right before sitting down with Dan Farah is exactly the kind of deep dive we need",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067750146625155089"
+      "url": "https://x.com/i/web/status/2067792652515541269"
     },
     {
       "type": "x",
-      "text": "@Gerashchenko_en UFO sighting in Moscow https://t.co/a2OHy4iuzy",
+      "text": "I am still studying the physics of TWO counter-rotating magnetic vortices, interacting with one another in three dimensions, to produce \"UFO flight\"?  Yet even after preliminary study, we can be CERTA",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067750107362058298"
+      "url": "https://x.com/i/web/status/2067792519157743696"
     },
     {
       "type": "x",
-      "text": "@SicCoP1 @TheDylanBorland You use \"can't figure it out\" to mean \"enemy next-gen drones or possibly the Martian battle fleet.\"  Kirkpatrick means \"undescribed weather or geoelectric phenomenon.\"  Getti",
+      "text": "Is Eric afraid he's one of us- the outsiders, the left-behinds, those to be wiped out?  It sounds like Eric knows Elon knows the only escape is via the UFO, with the chemical rockets being the front/f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067749620583936219"
+      "url": "https://x.com/i/web/status/2067792494113513579"
     },
     {
       "type": "x",
-      "text": "@overclassifiedx @overclassifiedx \ud83d\udea8BREAKING: Scientist discovers the physics of antigravity. Theory of Everything published. Details in block IX of the pdf\ud83d\udea8  Full paper: https://t.co/iym4x8kUjn  #UAP ",
+      "text": "\u2018Disclosure Day\u2019 has arrived .  It doesn\u2019t involve little green men in a UAP but a United States VP saying the quite part out loud.  https://t.co/mNR57Me3wr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067749614950744100"
+      "url": "https://x.com/i/web/status/2067792329071898713"
     },
     {
       "type": "x",
-      "text": "@UAPReportingCnt I would not be surprised if UAP commentators that attain a certain level of reach are flipped into adopting a narrative chosen for them by the most powerful people with a UAP agenda. ",
+      "text": "@laralogan @GoingRoguewLara @pstroybrewer Tucker said when news was slow, they would run UFO stories \ud83d\udc7d\ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067749589898399762"
-    },
-    {
-      "type": "x",
-      "text": "@overclassifiedx This psychic\u2019s prediction is pretty wild. Giant mothership and greys/reptilians abducting players and hundreds of fans live at the Brazil vs Scotland match in Miami on the 24th. She s",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067749474450252104"
+      "url": "https://x.com/i/web/status/2067792143805235643"
     },
     {
       "type": "swpc",
@@ -161,7 +101,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2003 LN6) passing at 3.68 LD (~68m, 3.9 km/s)",
+      "text": "NEO (2008 JL24) passing at 36.19 LD (~7m, 2.0 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -367,6 +307,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.0
+    },
+    {
+      "ts": "2026-06-19T02:14:58.950464Z",
+      "score": 31.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 20.6
     }
   ],
   "sources": [
