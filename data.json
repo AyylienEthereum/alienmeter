@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T19:11:14.616517Z",
-  "score": 32.5,
+  "generated_at": "2026-06-19T20:46:49.529343Z",
+  "score": 30.8,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 4.7,
+    "d1h": 1.5,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.3,
+    "social_chatter": 10.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 3.0
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "19:11",
+    "generated_utc": "20:46",
     "top_drivers": [
-      "Zalew mem\u00f3w z lataj\u0105c\u0105 pokryw\u0105 w Moskwie . Internauci nie maj\u0105 lito\u015bci",
-      "X/Twitter chatter: 188 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.8,
-    "baseline_recent": 28.3,
+    "live_signal": 20.8,
+    "baseline_recent": 28.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 188,
+    "gdelt_spike_pct": -88.20341600474724,
+    "x_last_hour": 179,
     "wiki_spike_pct": 3.067401735973668,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
@@ -57,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Zalew mem\u00f3w z lataj\u0105c\u0105 pokryw\u0105 w Moskwie . Internauci nie maj\u0105 lito\u015bci",
-      "source": "fakt.pl",
-      "url": "https://www.fakt.pl/wydarzenia/swiat/zalew-memow-z-latajaca-pokrywa-w-moskwie-internauci-nie-maja-litosci/zmmt3zp"
-    },
-    {
-      "type": "news",
-      "text": "Friday morning forecast : Mostly dry and hot",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/friday-morning-forecast-mostly-dry-and-hot/"
-    },
-    {
-      "type": "news",
-      "text": "Eve Hewson on Spielberg , Disclosure Day , and Growing Up with Bono",
-      "source": "hollywoodreporter.com",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/eve-hewson-spielberg-disclosure-day-bono-1236624575/"
-    },
-    {
-      "type": "news",
-      "text": "Youre not seeing a UFO : High - altitude balloon spotted over several days by area residents | Local",
-      "source": "daytondailynews.com",
-      "url": "https://www.daytondailynews.com/local/you-re-not-seeing-a-ufo-high-altitude-balloon-spotted-over-several-days-by-area/article_2d863ec0-669d-534e-bd8d-da1690c21cbe.html"
-    },
-    {
-      "type": "news",
-      "text": "SCVNews . com",
-      "source": "scvnews.com",
-      "url": "https://scvnews.com/?blackhole=411b31f96c"
-    },
-    {
-      "type": "news",
-      "text": "Video : Gobernador de Lambayeque detalla obras para visita del papa Le\u00f3n XIV a Chiclayo shortrpp por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/JTgaEgAnnzk.gobernador-de-lambayeque-detalla-obras-para-visita-del-papa-leon-xiv-a-chiclayo-shortrpp.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1fodncspjotep3gmglhojb5654"
-    },
-    {
-      "type": "news",
-      "text": "The rise of the luxury barbecue : the united kingdom new outdoor cooking obsession | Barbecue",
-      "source": "theguardian.com",
-      "url": "https://www.theguardian.com/food/2026/jun/19/luxury-barbecue-outdoor-cooking-uk-summer"
-    },
-    {
-      "type": "news",
-      "text": "What Does Masters of the Universe Failure Mean for Other  80s - Based Projects ? ",
-      "source": "thewrap.com",
-      "url": "https://www.thewrap.com/creative-content/movies/masters-of-the-universes-1980s-based-projects-analysis/"
-    },
-    {
-      "type": "news",
-      "text": " [ Box - office ] Beau d\u00e9marrage pour  Jim Queen , lovni queer qui talonne Disney et A24",
-      "source": "lesinrocks.com",
-      "url": "https://www.lesinrocks.com/cinema/box-office-beau-demarrage-pour-jim-queen-lovni-queer-qui-talonne-disney-et-a24-698093-19-06-2026/"
+      "type": "x",
+      "text": "@RepLuna @RepEricBurlison @timburchett @PeteHegseth @DeptofWar @realDonaldTrump @Keir_Starmer @JohnHealey_MP @g_knapp @antonioguterres @coasttocoastam @peterthiel @elonmusk @sama @DARPA @ARIA_research",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068072970870772188"
     },
     {
       "type": "x",
-      "text": "A Friday Space for the Conscious Explorers with @The_Astral_ &amp; @IamVictorPerez1 hoping to see my pals @aj7secrets  and @aj_arciniegas   A combination of the the psychic abilities some UFO talk and",
+      "text": "Amazingly once AI was publicly released and forcefully accepted we have a litany of \u201cufo files\u201d available for everyone\u2019s entertainment.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068048674232340881"
+      "url": "https://x.com/i/web/status/2068072393625526495"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8\ud83d\udc41\ufe0f LIVE TODAY \u2014 4 PM PT \ud83d\udc41\ufe0f\ud83d\udea8  Michael Jaco welcomes Leo Lyon Zagami back to YouTube for one of their most anticipated conversations yet.  Today's discussion will explore hidden Vatican\u2013UFO connections",
+      "text": "https://t.co/OWWsLC5QwK via @zazzle Need a fun #PartyTheme ?  #UFO watch parties can be different.  ad affiliate",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068048665147773165"
+      "url": "https://x.com/i/web/status/2068072381566918991"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8\ud83d\udc7d 4TH TIME'S THE CHARM?! UAP DISCLOSURE ACT RESUBMITTED / BIPARTISAN BILL TO DRAG NHI SECRETS INTO THE LIGHT! \ud83d\udef8\ud83d\udca5  Bipartisan bill (Burlison, Carson, Crane + allies) just reintroduced for the 4th stra",
+      "text": "@MiddleOfMayhem Major intell officer of only nuclear bomber squadron in the world along with other high ranking figures can't tell difference between balsa wood and UFO. Makes major press announcement",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068048523074162998"
+      "url": "https://x.com/i/web/status/2068072225815535826"
     },
     {
       "type": "x",
-      "text": "@BenjaminHorva13 @InterstellarUAP \"...would've been much better if they kept it that way,\" because Russia would not have shared their UFO with China, who has now leapt ahead in UFO research &amp; coul",
+      "text": "\ud83c\udf38 looking completely hilarious and panicked as she gets comically beamed up by a UFO in a dramatic starry night illustration absolutely sends me \ud83d\ude02\u2728 https://t.co/jFbkT7TvrI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068048338524819927"
+      "url": "https://x.com/i/web/status/2068072093770727670"
     },
     {
       "type": "x",
-      "text": "@RealAlexJones Have @DSDOConnor on to blow up the ET UFO deception!! Are you really about The Truth @RealAlexJones ? https://t.co/EP01XweuoI",
+      "text": "@_halkyofu_ Or slowdown of someone throwing a clip or fastening device in the air and filming it fall back down claiming it to be a ufo. \ud83e\udd2a\ud83e\udd2a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068047877142974784"
-    },
-    {
-      "type": "x",
-      "text": "Good Rainy Friday to my Wonderfully Creative 644 #Followers. As many of you know I write Articles on #Substack as well. I'm actually overwhelmed with the amount of Alien Footage being sent to me from ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068047702525452772"
+      "url": "https://x.com/i/web/status/2068072042516119909"
     },
     {
       "type": "seismic",
@@ -408,6 +347,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.8
+    },
+    {
+      "ts": "2026-06-19T20:46:49.458777Z",
+      "score": 30.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 20.8
     }
   ],
   "sources": [
