@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T11:53:55.746937Z",
-  "score": 29.3,
+  "generated_at": "2026-06-19T14:51:29.623092Z",
+  "score": 31.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -8.2,
+    "d1h": -5.4,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.2,
+    "social_chatter": 8.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
     "space_weather_alerts": 1.2,
     "seismic": 3.3,
-    "alien_variance": 3.3
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "11:53",
+    "generated_utc": "14:51",
     "top_drivers": [
-      "Military jamming may have disrupted medical plane GPS before it crashed near Ruidoso",
-      "X/Twitter chatter: 90 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 137 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.2,
-    "baseline_recent": 29.1,
+    "live_signal": 21.7,
+    "baseline_recent": 28.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
-    "gdelt_spike_pct": -89.30238589211619,
-    "x_last_hour": 90,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 137,
     "wiki_spike_pct": 3.067401735973668,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Military jamming may have disrupted medical plane GPS before it crashed near Ruidoso",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/news/local_news/military-jamming-may-have-disrupted-medical-planes-gps-before-it-crashed-near-ruidoso/article_d517f4bb-cee2-5cea-a013-679b4f95bcb6.html"
-    },
-    {
-      "type": "news",
-      "text": "To Rosjanie wys\u0142ali  UFO  nad Moskw\u0119 . Spektakularna kompromitacja [ WIDEO ] ",
-      "source": "wiadomosci.onet.pl",
-      "url": "https://wiadomosci.onet.pl/swiat/to-rosjanie-wyslali-ufo-nad-moskwe-spektakularna-kompromitacja-wideo/rc5ystn"
-    },
-    {
-      "type": "news",
-      "text": "Prawda wysz\u0142a na jaw . Rosjanie sami wysadzili zbiornik w rafinerii",
-      "source": "tech.wp.pl",
-      "url": "https://tech.wp.pl/prawda-wyszla-na-jaw-rosjanie-sami-wysadzili-zbiornik-w-rafinerii,7298242769106976a"
-    },
-    {
-      "type": "news",
-      "text": "Hanson ambitions revolve around xenophobia and hate , unfortunately",
-      "source": "smh.com.au",
-      "url": "https://www.smh.com.au/national/nsw/hanson-s-ambitions-revolve-around-xenophobia-and-hate-unfortunately-20260619-p608a7.html"
-    },
-    {
-      "type": "news",
-      "text": "A febre das siglas em Wall Street : das FAANG \u00e0s MANGOS",
-      "source": "jornaleconomico.sapo.pt",
-      "url": "https://jornaleconomico.sapo.pt/noticias/a-febre-das-siglas-em-wall-street-das-faang-as-mangos/"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg reveals unusual habit which has him sleeping just 5 hours a night",
-      "source": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/steven-spielberg-disclosure-day-ufos-37317564"
-    },
-    {
-      "type": "news",
-      "text": "Bradford local cinemas schedule newest showings for Saturday | Bradford Telegraph and Argus",
-      "source": "thetelegraphandargus.co.uk",
-      "url": "https://www.thetelegraphandargus.co.uk/news/26203875.bradford-local-cinemas-schedule-newest-showings-saturday/"
-    },
-    {
-      "type": "news",
-      "text": "Relay For Life features superheroes and everyday heroes",
-      "source": "wnypapers.com",
-      "url": "http://www.wnypapers.com/news/article/featured/2026/06/19/166391/relay-for-life-features-superheroes-and-everyday-heroes"
-    },
-    {
-      "type": "news",
-      "text": "Varga o  Dniu objawienia  Stevena Spielberga . Mia\u0142a by\u0107 sensacja , a jest fiasko",
-      "source": "newsweek.pl",
-      "url": "https://www.newsweek.pl/opinie/varga-o-dniu-objawienia-stevena-spielberga-miala-byc-sensacja-a-jest-fiasko/n4sdhr9"
-    },
-    {
-      "type": "news",
-      "text": "Great deals on Montessori - inspired kid toys",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/shop-now/great-deals-on-montessori-inspired-kids-toys-c-22455644"
+      "type": "x",
+      "text": "UFO MODE ACTIVATED \ud83d\udca5\ud83d\udca5  #Pluto First Single is out now and it's a quality song. \ud83d\udc4c\ud83d\udca5  https://t.co/32uN3nOzJ7\u2026  #NeerajMadhav #AlthafSalim https://t.co/Qd73MUlNl3",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067983527774421044"
     },
     {
       "type": "x",
-      "text": "NCT is remaking UFO Baby's ost? omg https://t.co/IqfcfHzMlu",
+      "text": "ufo wiped off of Google maps But if you go to historical filter on a map to May 2, 2022 The black/gray craft has a pilot wearing a long cloth that hangs blow &amp; also wearing a helmet &amp; one flip",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067938594963300645"
+      "url": "https://x.com/i/web/status/2067983520845193664"
     },
     {
       "type": "x",
-      "text": "Samson Option will be used by Israel sooner than later and in reality it\u2019s probably what the elites are preparing for  Not some UFO invasion  Not some conspiracy thing   Just Israel launching nukes ev",
+      "text": "Another Trendsetter Material \ud83d\ude0c\ud83d\udcaf  UFO Mode From #Pluto Looks Interesting &amp; Vibee \ud83d\ude02\ud83d\udc4c  https://t.co/IAEIhV9WHl\u2026  Shabareesh Varma 's Lyrics &amp; Vishnu Vijay Vocals Cooked Well \ud83d\ude01\ud83d\udc4f  Looking Forward T",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067938534644662338"
+      "url": "https://x.com/i/web/status/2067983444978643084"
     },
     {
       "type": "x",
-      "text": "The thought of how America would actually be if we all just \u201cfollowed the plan\u201d or went full submissive for these twisted extreme lunatic conservatives, is horrifying.   I am so glad we all screamed o",
+      "text": "@FilmComment If based on reality of ufo lore, yes.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067938239357272221"
+      "url": "https://x.com/i/web/status/2067983321406030138"
     },
     {
       "type": "x",
-      "text": "@Theveripost So, it's time for new alien sighting batch.",
+      "text": "Another Banger From Vishnu Vijay \ud83d\ude3b\ud83d\udd25   #Pluto Lyrical Video UFO Mode Out.. Check It Out\ud83d\ude3b\ud83d\udca5  https://t.co/HmrSLSRk0S https://t.co/JKaUQcd9QI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067938077020987715"
+      "url": "https://x.com/i/web/status/2067983289001144476"
     },
     {
       "type": "x",
-      "text": "@BrandonFugal @michaelshermer \ud83d\udd17 to UFO Files Release 1 document containing Maury Island information: https://t.co/0bljI29YZ5",
+      "text": "\ud83d\udc7dThe history of humanity is filled with unexplained enigmas. From ancient cave drawings to modern military sightings, the evidence is everywhere.  Do you believe they are here, or is there a rational ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067937586354536843"
-    },
-    {
-      "type": "x",
-      "text": "@PeteKaliner That was the slowest moving UFO I've ever seen.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067937563822723140"
+      "url": "https://x.com/i/web/status/2067983250635567459"
     },
     {
       "type": "swpc",
@@ -394,6 +333,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.2
+    },
+    {
+      "ts": "2026-06-19T14:51:29.548184Z",
+      "score": 31.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.7
     }
   ],
   "sources": [
