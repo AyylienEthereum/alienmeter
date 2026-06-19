@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T14:51:29.623092Z",
-  "score": 31.9,
+  "generated_at": "2026-06-19T17:13:55.725155Z",
+  "score": 29.1,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -5.4,
+    "d1h": -2.4,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.1,
+    "social_chatter": 9.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 3.9
+    "alien_variance": 0.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,72 +31,126 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "14:51",
+    "generated_utc": "17:13",
     "top_drivers": [
-      "X/Twitter chatter: 137 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "Video : Gobernador de Lambayeque detalla obras para visita del papa Le\u00f3n XIV a Chiclayo shortrpp por RPP Noticias",
+      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.7,
-    "baseline_recent": 28.8,
+    "live_signal": 18.3,
+    "baseline_recent": 28.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 137,
+    "x_last_hour": 164,
     "wiki_spike_pct": 3.067401735973668,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "UFO MODE ACTIVATED \ud83d\udca5\ud83d\udca5  #Pluto First Single is out now and it's a quality song. \ud83d\udc4c\ud83d\udca5  https://t.co/32uN3nOzJ7\u2026  #NeerajMadhav #AlthafSalim https://t.co/Qd73MUlNl3",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983527774421044"
+      "type": "news",
+      "text": "Video : Gobernador de Lambayeque detalla obras para visita del papa Le\u00f3n XIV a Chiclayo shortrpp por RPP Noticias",
+      "source": "deperu.com",
+      "url": "https://www.deperu.com/tv/JTgaEgAnnzk.gobernador-de-lambayeque-detalla-obras-para-visita-del-papa-leon-xiv-a-chiclayo-shortrpp.UC5j8-2FT0ZMMBkmK72R4aeA.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1fodncspjotep3gmglhojb5654"
+    },
+    {
+      "type": "news",
+      "text": "The rise of the luxury barbecue : the united kingdom new outdoor cooking obsession | Barbecue",
+      "source": "theguardian.com",
+      "url": "https://www.theguardian.com/food/2026/jun/19/luxury-barbecue-outdoor-cooking-uk-summer"
+    },
+    {
+      "type": "news",
+      "text": "SCVNews . com",
+      "source": "scvnews.com",
+      "url": "https://scvnews.com/?blackhole=411b31f96c"
+    },
+    {
+      "type": "news",
+      "text": "What Does Masters of the Universe Failure Mean for Other  80s - Based Projects ? ",
+      "source": "thewrap.com",
+      "url": "https://www.thewrap.com/creative-content/movies/masters-of-the-universes-1980s-based-projects-analysis/"
+    },
+    {
+      "type": "news",
+      "text": " [ Box - office ] Beau d\u00e9marrage pour  Jim Queen , lovni queer qui talonne Disney et A24",
+      "source": "lesinrocks.com",
+      "url": "https://www.lesinrocks.com/cinema/box-office-beau-demarrage-pour-jim-queen-lovni-queer-qui-talonne-disney-et-a24-698093-19-06-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m3ri4oun9t7jke1tdinho819t1"
+    },
+    {
+      "type": "news",
+      "text": "Aurora , Texas May Have Been the Site of an Alien Crash in 1897",
+      "source": "kygl.com",
+      "url": "https://kygl.com/ixp/156/p/ufo-crash-aurora-texas-1897/"
+    },
+    {
+      "type": "news",
+      "text": "NTSB : GPS Jamming Active Before C90 Accident",
+      "source": "avweb.com",
+      "url": "https://avweb.com/flight-safety/accidents-ntsb/ntsb-gps-jamming-active-c90-accident/"
+    },
+    {
+      "type": "news",
+      "text": "Aurora , Texas May Have Been the Site of an Alien Crash in 1897",
+      "source": "us105fm.com",
+      "url": "https://us105fm.com/ixp/156/p/ufo-crash-aurora-texas-1897/"
     },
     {
       "type": "x",
-      "text": "ufo wiped off of Google maps But if you go to historical filter on a map to May 2, 2022 The black/gray craft has a pilot wearing a long cloth that hangs blow &amp; also wearing a helmet &amp; one flip",
+      "text": "Details Of The UFO Meetings From An Eye Witness | Episode 1341 | Perry S... https://t.co/ZWwMV4rk1r via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983520845193664"
+      "url": "https://x.com/i/web/status/2068019357792313643"
     },
     {
       "type": "x",
-      "text": "Another Trendsetter Material \ud83d\ude0c\ud83d\udcaf  UFO Mode From #Pluto Looks Interesting &amp; Vibee \ud83d\ude02\ud83d\udc4c  https://t.co/IAEIhV9WHl\u2026  Shabareesh Varma 's Lyrics &amp; Vishnu Vijay Vocals Cooked Well \ud83d\ude01\ud83d\udc4f  Looking Forward T",
+      "text": "@AshtonForbes That and Marine Michael Herrera's Indonesia ufo story about seeing a 300 foot craft and containers with people inside. Were they using this new tech for human trafficking? Is that why th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983444978643084"
+      "url": "https://x.com/i/web/status/2068019344152399983"
     },
     {
       "type": "x",
-      "text": "@FilmComment If based on reality of ufo lore, yes.",
+      "text": "Vall\u00e9e: After Capella, researchers are rebuilding incompatible small UAP databases. 'We've gone back 15 years.' Call for unified structure amid French Assembly debate. #UFO #UAP #Trinity #JacquesVall\u00e9",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983321406030138"
+      "url": "https://x.com/i/web/status/2068019328750883097"
     },
     {
       "type": "x",
-      "text": "Another Banger From Vishnu Vijay \ud83d\ude3b\ud83d\udd25   #Pluto Lyrical Video UFO Mode Out.. Check It Out\ud83d\ude3b\ud83d\udca5  https://t.co/HmrSLSRk0S https://t.co/JKaUQcd9QI",
+      "text": "@MiddleOfMayhem Steven, there is something I've been curious about. Early in your coverage of the UFO issue, you seemed to be legitimately curious and intrigued by the topic. Although you kept an obje",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983289001144476"
+      "url": "https://x.com/i/web/status/2068019234232295551"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7dThe history of humanity is filled with unexplained enigmas. From ancient cave drawings to modern military sightings, the evidence is everywhere.  Do you believe they are here, or is there a rational ",
+      "text": "all\u00e9e: BAASS assembled 30 investigators + IT experts for Capella. Heavy focus on medical/physiological/psychological impacts of UAP (ignored in Europe). 'We must continue exploiting this. #UFO #UAP #T",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067983250635567459"
+      "url": "https://x.com/i/web/status/2068019086076916056"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3703\r Issue Time: 2026 Jun 18 1507 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "x",
+      "text": "Vall\u00e9e: 'We have at least one non-human being with whom we are working to establish a common language.' Next step: communicate with the true 'controllers.' Patterns from Trinity onward. #UFO #UAP #Tri",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068018919609118808"
     },
     {
       "type": "seismic",
@@ -340,6 +394,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.7
+    },
+    {
+      "ts": "2026-06-19T17:13:55.646850Z",
+      "score": 29.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.3
     }
   ],
   "sources": [
