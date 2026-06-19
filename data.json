@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T20:46:49.529343Z",
-  "score": 30.8,
+  "generated_at": "2026-06-19T22:01:17.415595Z",
+  "score": 29.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 1.5,
+    "d1h": -2.6,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.7,
+    "social_chatter": 8.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 1.6
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "20:46",
+    "generated_utc": "22:01",
     "top_drivers": [
-      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.8,
-    "baseline_recent": 28.1,
+    "live_signal": 18.9,
+    "baseline_recent": 27.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
-    "gdelt_spike_pct": -88.20341600474724,
-    "x_last_hour": 179,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 147,
     "wiki_spike_pct": 3.067401735973668,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
@@ -57,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@RepLuna @RepEricBurlison @timburchett @PeteHegseth @DeptofWar @realDonaldTrump @Keir_Starmer @JohnHealey_MP @g_knapp @antonioguterres @coasttocoastam @peterthiel @elonmusk @sama @DARPA @ARIA_research",
+      "text": "@LinkerFX Exactly! That 'Heads up, UFO, brother!' line is iconic.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072970870772188"
+      "url": "https://x.com/i/web/status/2068091659196506200"
     },
     {
       "type": "x",
-      "text": "Amazingly once AI was publicly released and forcefully accepted we have a litany of \u201cufo files\u201d available for everyone\u2019s entertainment.",
+      "text": "The Portal Is Open: UFO Files, Alien Races &amp; The Galactic War We Never Knew About https://t.co/3I1d9LU0OS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072393625526495"
+      "url": "https://x.com/i/web/status/2068091452450820336"
     },
     {
       "type": "x",
-      "text": "https://t.co/OWWsLC5QwK via @zazzle Need a fun #PartyTheme ?  #UFO watch parties can be different.  ad affiliate",
+      "text": "@nypost He is not a UFO expert... he's a paid shill. He's stated as much. Get fucking rid of Steven Greenstreet NY Post he is literally on the payroll",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072381566918991"
+      "url": "https://x.com/i/web/status/2068091398687985952"
     },
     {
       "type": "x",
-      "text": "@MiddleOfMayhem Major intell officer of only nuclear bomber squadron in the world along with other high ranking figures can't tell difference between balsa wood and UFO. Makes major press announcement",
+      "text": "@WhitleyStrieber   I saw a little section about you in the UFO Journal at Barnes &amp; noble. https://t.co/7wh4S3u2DJ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072225815535826"
+      "url": "https://x.com/i/web/status/2068091319138861271"
     },
     {
       "type": "x",
-      "text": "\ud83c\udf38 looking completely hilarious and panicked as she gets comically beamed up by a UFO in a dramatic starry night illustration absolutely sends me \ud83d\ude02\u2728 https://t.co/jFbkT7TvrI",
+      "text": "6-19-26, Atlanta, GA : Cigar shaped UFO on ground, overgrown area.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072093770727670"
+      "url": "https://x.com/i/web/status/2068091228663820669"
     },
     {
       "type": "x",
-      "text": "@_halkyofu_ Or slowdown of someone throwing a clip or fastening device in the air and filming it fall back down claiming it to be a ufo. \ud83e\udd2a\ud83e\udd2a",
+      "text": "@LegacyProgramVP I think maybe they think the Lockheed RSA IIA contract, known as the Legacy Program, is way more than it is. Probably due to them not actually being a part of it, and listening to sto",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068072042516119909"
+      "url": "https://x.com/i/web/status/2068091139144716539"
     },
     {
       "type": "seismic",
@@ -354,6 +354,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 20.8
+    },
+    {
+      "ts": "2026-06-19T22:01:17.341583Z",
+      "score": 29.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
