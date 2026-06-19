@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T02:14:59.023958Z",
-  "score": 31.5,
+  "generated_at": "2026-06-19T07:31:19.666610Z",
+  "score": 27.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -7.9,
+    "d1h": -8.8,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.5,
+    "social_chatter": 4.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
-    "search_interest": 2.7,
+    "search_interest": 0.5,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 3.5
+    "seismic": 3.3,
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,73 +31,84 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "02:14",
+    "generated_utc": "07:31",
     "top_drivers": [
-      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 83 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +17% above baseline",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.6,
-    "baseline_recent": 29.8,
+    "live_signal": 16.0,
+    "baseline_recent": 29.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 143,
-    "wiki_spike_pct": 17.174169267240785,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "x_last_hour": 83,
+    "wiki_spike_pct": 3.067401735973668,
+    "earthquakes_24h": 2,
+    "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Not a big fan of the guy, but where he's right, he's right.\ud83d\udef8 \ud83d\udc47\ud83d\udc47\ud83d\udc47  Renowned scientist Neil deGrasse Tyson demands the government 'show the alien!'  https://t.co/CKlMXiVXXQ  #UFO #Aliens #disclosure",
+      "text": "Philadelphia \u2022 July 2015  A dark mass was filmed moving through the clouds above the city.  At first glance, it looks like an unusual cloud formation.  Then you notice something strange.  The object d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067793124768825662"
+      "url": "https://x.com/i/web/status/2067872511182950875"
     },
     {
       "type": "x",
-      "text": "@VICENews @Dan_Farah @Acrobat Shane Smith going through the fresh UAP files right before sitting down with Dan Farah is exactly the kind of deep dive we need",
+      "text": "@michaelshermer I agree the Roswell ufo crash didn\u2019t happen. But as usual you haven\u2019t studied the literature. Whatever came down at Roswell was no Mogul balloon.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067792652515541269"
+      "url": "https://x.com/i/web/status/2067872322220920920"
     },
     {
       "type": "x",
-      "text": "I am still studying the physics of TWO counter-rotating magnetic vortices, interacting with one another in three dimensions, to produce \"UFO flight\"?  Yet even after preliminary study, we can be CERTA",
+      "text": "@sosihuimask @VanceNate Out of fuel in Crimea &amp; cut off from the land bridge, gas rationing in Moscow &amp; in half a dozen other Russian oblasts &amp; growing, Taxi service suspended in Donetsk d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067792519157743696"
+      "url": "https://x.com/i/web/status/2067872197457121645"
     },
     {
       "type": "x",
-      "text": "Is Eric afraid he's one of us- the outsiders, the left-behinds, those to be wiped out?  It sounds like Eric knows Elon knows the only escape is via the UFO, with the chemical rockets being the front/f",
+      "text": "The attack on Moscow is not being seen on Russian Tv so much, but sure is online.  The UFO shaped fuel tank lid flying into the air, a meme sensation.  Today there are videos about that proport to sho",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067792494113513579"
+      "url": "https://x.com/i/web/status/2067872078536306895"
     },
     {
       "type": "x",
-      "text": "\u2018Disclosure Day\u2019 has arrived .  It doesn\u2019t involve little green men in a UAP but a United States VP saying the quite part out loud.  https://t.co/mNR57Me3wr",
+      "text": "@Nova4664 @SomieStuff to me UFO is as noticeably different as ship is",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067792329071898713"
+      "url": "https://x.com/i/web/status/2067871828186673306"
     },
     {
       "type": "x",
-      "text": "@laralogan @GoingRoguewLara @pstroybrewer Tucker said when news was slow, they would run UFO stories \ud83d\udc7d\ud83d\udef8",
+      "text": "@UAPWixy The use of the term UAP is not only innacurate but a sign of limited critical thinking...  if people actually sat down and thought about what this really meant and what implies... they wouldn",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067792143805235643"
+      "url": "https://x.com/i/web/status/2067871799719968796"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3703\r Issue Time: 2026 Jun 18 1507 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 136 km E of Petropavlovsk-Kamchatsky, Russia",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -314,6 +325,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 20.6
+    },
+    {
+      "ts": "2026-06-19T07:31:19.591866Z",
+      "score": 27.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.0
     }
   ],
   "sources": [
