@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T22:01:17.415595Z",
-  "score": 29.3,
+  "generated_at": "2026-06-19T23:07:16.434841Z",
+  "score": 30.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.6,
+    "d1h": 1.4,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 10.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
     "space_weather_alerts": 0.0,
     "seismic": 3.3,
-    "alien_variance": 1.7
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,25 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "22:01",
+    "generated_utc": "23:07",
     "top_drivers": [
-      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "Vidovita Brazilka otkrila datum masovne otmice koju \u0107e izvr\u0161iti vanzemaljaci na Svetskom prvenstvu 2026 . ",
+      "X/Twitter chatter: 168 UFO/UAP posts in the last hour",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
-    "baseline_recent": 27.9,
+    "live_signal": 20.6,
+    "baseline_recent": 27.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 147,
+    "x_last_hour": 168,
     "wiki_spike_pct": 3.067401735973668,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
@@ -56,40 +57,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@LinkerFX Exactly! That 'Heads up, UFO, brother!' line is iconic.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091659196506200"
+      "type": "news",
+      "text": "Vidovita Brazilka otkrila datum masovne otmice koju \u0107e izvr\u0161iti vanzemaljaci na Svetskom prvenstvu 2026 . ",
+      "source": "forum.krstarica.com",
+      "url": "https://forum.krstarica.com/threads/vidovita-brazilka-otkrila-datum-masovne-otmice-koju-ce-izvrsiti-vanzemaljaci-na-svetskom-prvenstvu-2026.1060076/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bsgtgpu023rtfmpnjuoemem180"
+    },
+    {
+      "type": "news",
+      "text": "Como os fen\u00f4menos UFO imitam cren\u00e7as e rituais religiosos - 19 / 06 / 2026 - Jo\u00e3o Pereira Coutinho",
+      "source": "folha.uol.com.br",
+      "url": "https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/06/como-os-fenomenos-ufo-imitam-crencas-e-rituais-religiosos.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sp7utdnuuesinc5uqq2o6jt712"
+    },
+    {
+      "type": "news",
+      "text": "SCVNews . com | Public Help Needed in Castaic Firearm Investigation",
+      "source": "scvnews.com",
+      "url": "https://scvnews.com/publics-help-needed-in-castaic-firearm-investigation/"
+    },
+    {
+      "type": "news",
+      "text": "SCVNews . com | Sheriff Tips for Electric Bike and Scooter Safety",
+      "source": "scvnews.com",
+      "url": "https://scvnews.com/sheriffs-tips-for-electric-bike-and-scooter-safety/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=27oah9s051ouu8i66n1eg62om2"
+    },
+    {
+      "type": "news",
+      "text": "Kirk Hammett Opens the Vault on a Lifetime of Legendary Guitars",
+      "source": "wrif.com",
+      "url": "https://wrif.com/2026/06/19/kirk-hammett-opens-the-vault-on-a-lifetime-of-legendary-guitars/"
+    },
+    {
+      "type": "news",
+      "text": "Zalew mem\u00f3w z lataj\u0105c\u0105 pokryw\u0105 w Moskwie . Internauci nie maj\u0105 lito\u015bci",
+      "source": "fakt.pl",
+      "url": "https://www.fakt.pl/wydarzenia/swiat/zalew-memow-z-latajaca-pokrywa-w-moskwie-internauci-nie-maja-litosci/zmmt3zp"
+    },
+    {
+      "type": "news",
+      "text": "Friday morning forecast : Mostly dry and hot",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/friday-morning-forecast-mostly-dry-and-hot/"
     },
     {
       "type": "x",
-      "text": "The Portal Is Open: UFO Files, Alien Races &amp; The Galactic War We Never Knew About https://t.co/3I1d9LU0OS",
+      "text": "\ud83e\udd2f 1967 UFO left man with radiation burns, gridlike sores &amp; unexplained chest trauma\u2014docs baffled despite hoax claims. Full AI deep-dive summary \ud83d\udd25 Worth watching? #UFO  Link in bio. https://t.co/C1",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091452450820336"
+      "url": "https://x.com/i/web/status/2068107558275952714"
     },
     {
       "type": "x",
-      "text": "@nypost He is not a UFO expert... he's a paid shill. He's stated as much. Get fucking rid of Steven Greenstreet NY Post he is literally on the payroll",
+      "text": "New Podcast  The Why Files Canada's Most Documented UFO Case | Falcon Lake  \ud83e\udd2f 1967: Man emerges from woods burned &amp; nauseous after glowing disc craft encounter\u2014radiation traces &amp; gridlike sore",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091398687985952"
+      "url": "https://x.com/i/web/status/2068107458145378783"
     },
     {
       "type": "x",
-      "text": "@WhitleyStrieber   I saw a little section about you in the UFO Journal at Barnes &amp; noble. https://t.co/7wh4S3u2DJ",
+      "text": "@SSManalysis @talkrealopinion The fact that it was a Russian fired weapon that made the Moscow UFO happen, not a Ukrainian drone.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091319138861271"
+      "url": "https://x.com/i/web/status/2068107268093071724"
     },
     {
       "type": "x",
-      "text": "6-19-26, Atlanta, GA : Cigar shaped UFO on ground, overgrown area.",
+      "text": "\u2b50NEW VIDEO!\u2b50 Something happened to people. Something they couldn't explain, couldn't forget, and in many cases, couldn't survive talking about publicly. Alien abduction was once the most electrifying ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091228663820669"
+      "url": "https://x.com/i/web/status/2068107185704301038"
     },
     {
       "type": "x",
-      "text": "@LegacyProgramVP I think maybe they think the Lockheed RSA IIA contract, known as the Legacy Program, is way more than it is. Probably due to them not actually being a part of it, and listening to sto",
+      "text": "You want to get the UFO proof?  Here's how you do it.  You have SecWar at POTUS command, send the military in to hit select targets simultaneously in the dead of night.  Above Top Secret planning.  Se",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068091139144716539"
+      "url": "https://x.com/i/web/status/2068106817897726264"
+    },
+    {
+      "type": "x",
+      "text": "Throwback Thursday: Guy Malone, in June 2005, told us legitimate UAP are non-physical craft.  Full episode at https://t.co/CIWG60zqMV, https://t.co/1MjItAnxxJ, or https://t.co/quDAQA9HBC. https://t.co",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068106690029887775"
     },
     {
       "type": "seismic",
@@ -361,6 +422,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-06-19T23:07:16.361243Z",
+      "score": 30.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 20.6
     }
   ],
   "sources": [
