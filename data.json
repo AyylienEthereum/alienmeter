@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T07:31:19.666610Z",
-  "score": 27.8,
+  "generated_at": "2026-06-19T11:53:55.746937Z",
+  "score": 29.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -8.8,
+    "d1h": -8.2,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.8,
+    "social_chatter": 5.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.2,
     "search_interest": 0.5,
     "space_weather_alerts": 1.2,
     "seismic": 3.3,
-    "alien_variance": 1.5
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 5,
     "date": "19.06.2026",
     "declassified": "19.06.26",
-    "generated_utc": "07:31",
+    "generated_utc": "11:53",
     "top_drivers": [
-      "X/Twitter chatter: 83 UFO/UAP posts in the last hour",
+      "Military jamming may have disrupted medical plane GPS before it crashed near Ruidoso",
+      "X/Twitter chatter: 90 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2008 JL24) passing Earth at 36.2 lunar distances"
     ],
@@ -41,56 +42,116 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.0,
-    "baseline_recent": 29.5,
+    "live_signal": 18.2,
+    "baseline_recent": 29.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 36.1917194877,
     "asteroid_name": "(2008 JL24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 83,
+    "gdelt_spike_pct": -89.30238589211619,
+    "x_last_hour": 90,
     "wiki_spike_pct": 3.067401735973668,
-    "earthquakes_24h": 2,
+    "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Philadelphia \u2022 July 2015  A dark mass was filmed moving through the clouds above the city.  At first glance, it looks like an unusual cloud formation.  Then you notice something strange.  The object d",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067872511182950875"
+      "type": "news",
+      "text": "Military jamming may have disrupted medical plane GPS before it crashed near Ruidoso",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/local_news/military-jamming-may-have-disrupted-medical-planes-gps-before-it-crashed-near-ruidoso/article_d517f4bb-cee2-5cea-a013-679b4f95bcb6.html"
+    },
+    {
+      "type": "news",
+      "text": "To Rosjanie wys\u0142ali  UFO  nad Moskw\u0119 . Spektakularna kompromitacja [ WIDEO ] ",
+      "source": "wiadomosci.onet.pl",
+      "url": "https://wiadomosci.onet.pl/swiat/to-rosjanie-wyslali-ufo-nad-moskwe-spektakularna-kompromitacja-wideo/rc5ystn"
+    },
+    {
+      "type": "news",
+      "text": "Prawda wysz\u0142a na jaw . Rosjanie sami wysadzili zbiornik w rafinerii",
+      "source": "tech.wp.pl",
+      "url": "https://tech.wp.pl/prawda-wyszla-na-jaw-rosjanie-sami-wysadzili-zbiornik-w-rafinerii,7298242769106976a"
+    },
+    {
+      "type": "news",
+      "text": "Hanson ambitions revolve around xenophobia and hate , unfortunately",
+      "source": "smh.com.au",
+      "url": "https://www.smh.com.au/national/nsw/hanson-s-ambitions-revolve-around-xenophobia-and-hate-unfortunately-20260619-p608a7.html"
+    },
+    {
+      "type": "news",
+      "text": "A febre das siglas em Wall Street : das FAANG \u00e0s MANGOS",
+      "source": "jornaleconomico.sapo.pt",
+      "url": "https://jornaleconomico.sapo.pt/noticias/a-febre-das-siglas-em-wall-street-das-faang-as-mangos/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg reveals unusual habit which has him sleeping just 5 hours a night",
+      "source": "mirror.co.uk",
+      "url": "https://www.mirror.co.uk/3am/celebrity-news/steven-spielberg-disclosure-day-ufos-37317564"
+    },
+    {
+      "type": "news",
+      "text": "Bradford local cinemas schedule newest showings for Saturday | Bradford Telegraph and Argus",
+      "source": "thetelegraphandargus.co.uk",
+      "url": "https://www.thetelegraphandargus.co.uk/news/26203875.bradford-local-cinemas-schedule-newest-showings-saturday/"
+    },
+    {
+      "type": "news",
+      "text": "Relay For Life features superheroes and everyday heroes",
+      "source": "wnypapers.com",
+      "url": "http://www.wnypapers.com/news/article/featured/2026/06/19/166391/relay-for-life-features-superheroes-and-everyday-heroes"
+    },
+    {
+      "type": "news",
+      "text": "Varga o  Dniu objawienia  Stevena Spielberga . Mia\u0142a by\u0107 sensacja , a jest fiasko",
+      "source": "newsweek.pl",
+      "url": "https://www.newsweek.pl/opinie/varga-o-dniu-objawienia-stevena-spielberga-miala-byc-sensacja-a-jest-fiasko/n4sdhr9"
+    },
+    {
+      "type": "news",
+      "text": "Great deals on Montessori - inspired kid toys",
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/shop-now/great-deals-on-montessori-inspired-kids-toys-c-22455644"
     },
     {
       "type": "x",
-      "text": "@michaelshermer I agree the Roswell ufo crash didn\u2019t happen. But as usual you haven\u2019t studied the literature. Whatever came down at Roswell was no Mogul balloon.",
+      "text": "NCT is remaking UFO Baby's ost? omg https://t.co/IqfcfHzMlu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067872322220920920"
+      "url": "https://x.com/i/web/status/2067938594963300645"
     },
     {
       "type": "x",
-      "text": "@sosihuimask @VanceNate Out of fuel in Crimea &amp; cut off from the land bridge, gas rationing in Moscow &amp; in half a dozen other Russian oblasts &amp; growing, Taxi service suspended in Donetsk d",
+      "text": "Samson Option will be used by Israel sooner than later and in reality it\u2019s probably what the elites are preparing for  Not some UFO invasion  Not some conspiracy thing   Just Israel launching nukes ev",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067872197457121645"
+      "url": "https://x.com/i/web/status/2067938534644662338"
     },
     {
       "type": "x",
-      "text": "The attack on Moscow is not being seen on Russian Tv so much, but sure is online.  The UFO shaped fuel tank lid flying into the air, a meme sensation.  Today there are videos about that proport to sho",
+      "text": "The thought of how America would actually be if we all just \u201cfollowed the plan\u201d or went full submissive for these twisted extreme lunatic conservatives, is horrifying.   I am so glad we all screamed o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067872078536306895"
+      "url": "https://x.com/i/web/status/2067938239357272221"
     },
     {
       "type": "x",
-      "text": "@Nova4664 @SomieStuff to me UFO is as noticeably different as ship is",
+      "text": "@Theveripost So, it's time for new alien sighting batch.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067871828186673306"
+      "url": "https://x.com/i/web/status/2067938077020987715"
     },
     {
       "type": "x",
-      "text": "@UAPWixy The use of the term UAP is not only innacurate but a sign of limited critical thinking...  if people actually sat down and thought about what this really meant and what implies... they wouldn",
+      "text": "@BrandonFugal @michaelshermer \ud83d\udd17 to UFO Files Release 1 document containing Maury Island information: https://t.co/0bljI29YZ5",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2067871799719968796"
+      "url": "https://x.com/i/web/status/2067937586354536843"
+    },
+    {
+      "type": "x",
+      "text": "@PeteKaliner That was the slowest moving UFO I've ever seen.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2067937563822723140"
     },
     {
       "type": "swpc",
@@ -100,13 +161,7 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 136 km E of Petropavlovsk-Kamchatsky, Russia",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "text": "Significant seismic event: 133 km ESE of Petropavlovsk-Kamchatsky, Russia",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -332,6 +387,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.0
+    },
+    {
+      "ts": "2026-06-19T11:53:55.677786Z",
+      "score": 29.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.2
     }
   ],
   "sources": [
