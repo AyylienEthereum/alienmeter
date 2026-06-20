@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-20T19:16:31.824678Z",
-  "score": 33.1,
+  "generated_at": "2026-06-20T20:48:29.705051Z",
+  "score": 33.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.4,
+    "d1h": 3.5,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.2,
+    "social_chatter": 9.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 6,
     "date": "20.06.2026",
     "declassified": "20.06.26",
-    "generated_utc": "19:16",
+    "generated_utc": "20:48",
     "top_drivers": [
-      "Muniz Sodr\u00e9 : N\u00e3o acreditar no que se v\u00ea - 20 / 06 / 2026 - Muniz Sodr\u00e9",
-      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
+      "  Nous navons pas de preuve de vie extraterrestre , souligne le directeur du Geipan , Fr\u00e9d\u00e9ric Courtade , invit\u00e9 du Parc Galea",
+      "X/Twitter chatter: 165 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -42,21 +42,33 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.5,
-    "baseline_recent": 27.0,
+    "live_signal": 25.5,
+    "baseline_recent": 26.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 138,
+    "x_last_hour": 165,
     "wiki_spike_pct": -4.458967278618752,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "  Nous navons pas de preuve de vie extraterrestre , souligne le directeur du Geipan , Fr\u00e9d\u00e9ric Courtade , invit\u00e9 du Parc Galea",
+      "source": "corsematin.com",
+      "url": "https://www.corsematin.com/article/societe/1059818322818214/nous-navons-pas-de-preuve-de-vie-extraterrestre-souligne-le-directeur-du-geipan-frederic-courtade-invite-du-parc-galea"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i8gddlj5l5evg16nrfr4aot477"
+    },
     {
       "type": "news",
       "text": "Muniz Sodr\u00e9 : N\u00e3o acreditar no que se v\u00ea - 20 / 06 / 2026 - Muniz Sodr\u00e9",
@@ -106,52 +118,40 @@
       "url": "https://www.hometownsource.com/sun_thisweek/free/rosemount-area-seniors-for-the-week-of-june-22-26/article_f4a25439-8672-4772-8ecd-1a48de94ae51.html"
     },
     {
-      "type": "news",
-      "text": "20 June 2026 \u2013 In Saner Thought",
-      "source": "lobotero.com",
-      "url": "https://lobotero.com/2026/06/20/"
-    },
-    {
-      "type": "news",
-      "text": "IST Saturday News Dump \u2013 20Jun26",
-      "source": "lobotero.com",
-      "url": "https://lobotero.com/2026/06/20/ist-saturday-news-dump-20jun26/"
+      "type": "x",
+      "text": "@DNIPulte Welcome! So what is your opinion on the legacy UFO crash retrieval and reverse engineering program that is being \"quarterbacked\" by the CIA?",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068435312984850436"
     },
     {
       "type": "x",
-      "text": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan F... https://t.co/9Nfqt3ASBb via @YouTube",
+      "text": "HOW TO INTAK A ST ELMO'S FIRE TO MAKE THIS SEAS ABLAZE BY THE LYRES  OF THE SEAS  432HZ AND MANY OTHERS FREQUENCY USING THIS HOLOGRAPHIC SCREEN INTO A CUBE, ROUND AS THE BOUND OF THIS LOVE I'LL GIVE Y",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412648576725005"
+      "url": "https://x.com/i/web/status/2068435159310090481"
     },
     {
       "type": "x",
-      "text": "@DrStevenGreer Greer, you are currently one of the ONLY UFO guys I trust still. I came to a lot of the same narrative as yours before I heard your points. So much of this disclosure is counter intelli",
+      "text": "@psionicasset What is the most interesting experience with a UAP you have ever had? Has there been a profound moment or exchange of information with the craft?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412633296912385"
+      "url": "https://x.com/i/web/status/2068435124748783790"
     },
     {
       "type": "x",
-      "text": "I was staring at the stars thinking it was a UFO\u2026 I'm high so high.",
+      "text": "@VettedPodcast @mufon @The_Astral_ @RedPandaKoala Mufon is a detached agency who only  see the phenomena as a 3D manifestation.  Your investigation of the phenomenon mocks a criminal investigation. Th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412631182917649"
+      "url": "https://x.com/i/web/status/2068435020616995055"
     },
     {
       "type": "x",
-      "text": "@ageofdisclosure Area 51: The Secret Base At The Center Of UFO Mysteries https://t.co/t4FekO1nZg",
+      "text": "Disclosure day meltdown https://t.co/O0DkeT4QvZ #uap #ufo #disclosure #aliens https://t.co/7z3ArBk9Ot",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412584148017241"
+      "url": "https://x.com/i/web/status/2068435015013114249"
     },
     {
       "type": "x",
-      "text": "I was the first one up to the spot with my truck and the last one out. I love and respect Bob and don\u2019t care to start any disagreements or drama. We did see UAP show up in the sky, and it was a succes",
+      "text": "@mickyrodg @UAPWixy Yes even though \u201cit was his job\u201d, for me it doesn\u2019t matter.  Since it\u2019s a fact that he has spread disinformation and muddied the waters within the UFO community, I now completely d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412298381901974"
-    },
-    {
-      "type": "x",
-      "text": "RUSSIAN UFO FILES - Decades long previously hidden files on UFO/ UAPs as \"conscious, living objects\". https://t.co/MHH0khOgv2  #UFOs #UFO #UAPs #Russia #Russian #sentient #consciousness #living #senti",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068412229264019654"
+      "url": "https://x.com/i/web/status/2068434733592113529"
     },
     {
       "type": "swpc",
@@ -505,6 +505,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.5
+    },
+    {
+      "ts": "2026-06-20T20:48:29.632246Z",
+      "score": 33.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.5
     }
   ],
   "sources": [
