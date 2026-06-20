@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-20T08:19:17.408246Z",
-  "score": 38.1,
+  "generated_at": "2026-06-20T10:56:44.900871Z",
+  "score": 28.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 8.8,
+    "d1h": -1.7,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "news_velocity": 10.3,
-    "social_chatter": 3.4,
+    "news_velocity": 0.0,
+    "social_chatter": 3.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.3
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 6,
     "date": "20.06.2026",
     "declassified": "20.06.26",
-    "generated_utc": "08:19",
+    "generated_utc": "10:56",
     "top_drivers": [
-      "News velocity +43% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 61 UFO/UAP posts in the last hour",
+      "Canal Boat Diaries",
+      "X/Twitter chatter: 66 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.6,
-    "baseline_recent": 27.3,
+    "live_signal": 18.6,
+    "baseline_recent": 27.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": 42.75100651641556,
-    "x_last_hour": 61,
+    "gdelt_spike_pct": -86.48002506141697,
+    "x_last_hour": 66,
     "wiki_spike_pct": -4.458967278618752,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@RaiseMachine2 @MiddleOfMayhem The confusion is the similar titles.i named a book by pflock and a book co-written by Charles Moore(NOT william Moore) with saler/ziegler called \"ufo crash at roswell\"",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068247238367916539"
+      "type": "news",
+      "text": "Canal Boat Diaries",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/b72c726a-e60b-5407-827d-7f8d816809fe/canal-boat-diaries"
+    },
+    {
+      "type": "news",
+      "text": " \u201e Az alist\u00e1li templom 32 \u00e9s f\u00e9l m\u00e9ter , vagyis ezek nyolcszor magasabbak lenn\u00e9nek  \u2013 sz\u00e9lmalomharcot folytatnak a telep\u00fcl\u00e9sek a Csall\u00f3k\u00f6zben ! ",
+      "source": "parameter.sk",
+      "url": "https://parameter.sk/1353543/az-alistali-templom-32-es-fel-meter-vagyis-ezek-nyolcszor-magasabbak-lennenek-szelmalomharcot-folytatnak-a-telepulesek-a-csallokozben/"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg : \u00ab Quando chiesi di dirigere un film di James Bond e dissero no \u00bb ",
+      "source": "unionesarda.it",
+      "url": "https://www.unionesarda.it/spettacoli/steven-spielberg-quando-mi-rifiutarono-per-dirigere-un-film-di-james-bond-b10o0hoc"
+    },
+    {
+      "type": "news",
+      "text": "From The UFO File",
+      "source": "internationaltimes.it",
+      "url": "https://internationaltimes.it/from-the-ufo-file/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8n1m4hsi0k596kmu9c30nobf24"
+    },
+    {
+      "type": "news",
+      "text": "Vitality and Magic",
+      "source": "internationaltimes.it",
+      "url": "https://internationaltimes.it/vitality-and-magic/"
+    },
+    {
+      "type": "news",
+      "text": "Military GPS Jamming Tied To Air - Ambulance Crash In New Mexico",
+      "source": "aero-news.net",
+      "url": "https://aero-news.net:443/index.cfm?do=main.textpost&id=48470EA3-472B-4923-9088-E3557B0D610B"
+    },
+    {
+      "type": "news",
+      "text": "Wer geistig arm ist , wird selig und kommt in den Himmel , sagt die Bibel",
+      "source": "watson.ch",
+      "url": "https://www.watson.ch/blogs/sektenblog/549963669-wer-geistig-arm-ist-wird-selig-und-kommt-in-den-himmel-sagt-die-bibel"
+    },
+    {
+      "type": "news",
+      "text": "Aeroporto Via alle audizioni dei Comuni",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-06-20/aeroporto-via-alle-audizioni-dei-comuni/19366792/"
+    },
+    {
+      "type": "news",
+      "text": "Hot and dry weekend ahead for New Mexico",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/hot-and-dry-weekend-ahead-for-new-mexico/"
     },
     {
       "type": "x",
-      "text": "1. \"You are fundamentally damaged\" + 2. \"You have superhuman potential inside you\" are the hooks that draw you in to UFO cults and new age spirituality. The cure to avoid the bait: 1. Get a therapist.",
+      "text": "@fibonacki Don\u2019t make the same mistake twice. $DISCLOSURE  is sitting early while UAP declassification odds hit 70% and the narrative keeps delivering.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068247195716071757"
+      "url": "https://x.com/i/web/status/2068286852524589561"
     },
     {
       "type": "x",
-      "text": "The Portal Is Open: UFO Files, Alien Races &amp; The Galactic War We Never K... https://t.co/etHfDex8yW via @YouTube",
+      "text": "THE ALIEN AUTOPSY SCANDAL EXPOSED  https://t.co/6BVkiqiooW  Royle Hypnotist interviews Spyros Melaris The Man Whose Creation Fooled the World  Are Alien's, UFO's &amp; UAP's Real  What happened at Ros",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068246875619406136"
+      "url": "https://x.com/i/web/status/2068286840415588526"
     },
     {
       "type": "x",
-      "text": "@GarryPNolan - I, like many in the UAP 'community', have some reservations about the board &amp; whether it's been set up to fail. That said, your response here is encouraging as is the inclusion of p",
+      "text": "THE ALIEN AUTOPSY SCANDAL EXPOSED   https://t.co/6BVkiqiooW  Royle Hypnotist interviews Spyros Melaris The Man Whose Creation Fooled the World  Are Alien's, UFO's &amp; UAP's Real  What happened at Ro",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068246453881889201"
+      "url": "https://x.com/i/web/status/2068286799290437713"
     },
     {
       "type": "x",
-      "text": "Left: UFO (2020-2022), by Brian Catling RA Right: Moscow Oil Refinery (2026) https://t.co/yDsBxwb4QY",
+      "text": "Billy Carson: \\\"We're Going To Discover That Not Only Do Other Beings Exist Within This 3rd Dimension, But Also That There Are Multi-Dimensional Beings\\\" \ud83d\udc7d He told Alex Jones it's going to be a big ye",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068246321040093632"
+      "url": "https://x.com/i/web/status/2068285423890157902"
     },
     {
       "type": "x",
-      "text": "Uap? Can anyone tell me what this is. East meadow by 10:45 https://t.co/zHJY1kujcP",
+      "text": "\u2b55 FOX News captured a glowing red orb flying steadily over the desert near Edwards AFB on June 15 during live coverage of the fatal B-52 crash. The object maintained constant speed &amp; altitude \u2014 qu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068246277125468313"
+      "url": "https://x.com/i/web/status/2068285392470659412"
+    },
+    {
+      "type": "x",
+      "text": "Apollo 16 captured a UFO on video during the moonwalk in the Rover. Only appears in one frame, look carefully.\ud83e\uddd0\ud83e\udd14 https://t.co/5nKYWhqhdC",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068285355925590091"
     },
     {
       "type": "swpc",
@@ -403,6 +463,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.6
+    },
+    {
+      "ts": "2026-06-20T10:56:44.830322Z",
+      "score": 28.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
     }
   ],
   "sources": [
