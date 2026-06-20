@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-20T14:40:44.959772Z",
-  "score": 30.4,
+  "generated_at": "2026-06-20T16:06:58.017328Z",
+  "score": 34.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -3.7,
+    "d1h": -4.1,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.3,
+    "social_chatter": 9.4,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 6,
     "date": "20.06.2026",
     "declassified": "20.06.26",
-    "generated_utc": "14:40",
+    "generated_utc": "16:06",
     "top_drivers": [
-      "20 June 2026 \u2013 In Saner Thought",
-      "X/Twitter chatter: 108 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 158 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.9,
-    "baseline_recent": 27.1,
+    "live_signal": 25.6,
+    "baseline_recent": 27.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 108,
+    "gdelt_spike_pct": -50.3281101203359,
+    "x_last_hour": 158,
     "wiki_spike_pct": -4.458967278618752,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "20 June 2026 \u2013 In Saner Thought",
-      "source": "lobotero.com",
-      "url": "https://lobotero.com/2026/06/20/"
-    },
-    {
-      "type": "news",
-      "text": "IST Saturday News Dump \u2013 20Jun26",
-      "source": "lobotero.com",
-      "url": "https://lobotero.com/2026/06/20/ist-saturday-news-dump-20jun26/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cfvr28cn5qt974s5ld5bmvqh67"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3v8498i8tdjogt3kc5h1chfg03"
-    },
-    {
-      "type": "news",
-      "text": "Is Astrid Stuth a Murderer ? - Nassau Weekly",
-      "source": "nassauweekly.com",
-      "url": "https://nassauweekly.com/astrid-stuth-murderer/"
-    },
-    {
-      "type": "news",
-      "text": "Cosmic Council : Trump creates UFO panel to be advised by Harvard Avi Loeb",
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/06/20/us-news/cosmic-council-trump-creates-ufo-panel-to-be-advised-by-harvards-avi-loeb/"
-    },
-    {
-      "type": "news",
-      "text": "Billard , Ovni , punchline \u2026 Les Agit\u00e9s du bocage , nos \u00e9chos et indiscr\u00e9tions des Herbiers \u00e0",
-      "source": "larochesuryon.maville.com",
-      "url": "https://larochesuryon.maville.com/actu/actudet_-billard-ovni-punchline...-les-agites-du-bocage-nos-echos-et-indiscretions-des-herbiers-a-montaigu-_fil-7370275_actu.Htm"
-    },
-    {
-      "type": "news",
-      "text": "  Not of the Natural World : Retired Rear Admiral Claims Undersea UFOs Are Operated by Non - Human Intelligence",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/not-natural-world-retired-rear-admiral-claims-undersea-ufos-are-operated-non-human-1803894"
-    },
-    {
-      "type": "news",
-      "text": "UFO Disclosure - Best of Coast to Coast AM - 6 / 19 / 26 | 960 WELI | Coast to Coast AM with George Noory",
-      "source": "960weli.iheart.com",
-      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-06-20-1100-the-best-of-coast-to-coas-ufo-disclosure-best-of-coast-to-coast-am-619/"
-    },
-    {
-      "type": "news",
-      "text": "Files Reveal China and Russia Retrieved Downed UAPs : It a Race to See Who Can Reverse Engineer First",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/files-reveal-china-russia-retrieved-downed-uaps-its-race-see-who-can-reverse-engineer-first-1803904"
+      "type": "x",
+      "text": "\u26a1\ufe0f Russia shells its own capital, and films it - How On Brand!  On the night of 17th to 18th June, Ukraine flew the largest swarm of drones at Moscow since the full-scale invasion began.   Russia's ow",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068364920459034961"
     },
     {
       "type": "x",
-      "text": "JonathanCaplanKC:\"Prince Philiphad theKings Counsel2 interviewpeople claimingalien abductions atBuckingham Palace&amp;report back2him\"  Accordingto thelongtime UAP researcher andKing'sCounsel thishapp",
+      "text": "@ProfAviLoeb @EVargasTV UAP challenge our epistemology long before they challenge our physics.  https://t.co/EtXxBUjpdQ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068343240026185799"
+      "url": "https://x.com/i/web/status/2068364873365336309"
     },
     {
       "type": "x",
-      "text": "@SicCoP1 @MrHustleMCR @kyle_ferriter @SafeAerospace @joerogan Well they are both UAP reported by US Navy F/A-18 of the SE coast of CONUS, albeit Grave's incidents were a few years before that one.   I",
+      "text": "We got GTA UFO Conspiracy easter eggs in WuWa!? https://t.co/T2oU7jnvWr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068342311226929459"
+      "url": "https://x.com/i/web/status/2068364831242019163"
     },
     {
       "type": "x",
-      "text": "@EndymionYT Ofcourse nothing will be done. Just look at what's happening with Epstein and UAP disclosure. They give us tidbits of info and hope we'll just forget about it over time.",
+      "text": "@GallaudetTim @Pewpew841 @GarryPNolan A lot of people are skeptical about this board and I can\u2019t blame them, somehow I\u2019m too This board can\u2019t forget the UAP whistleblowers who are, so far, not protect",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068341845659103592"
+      "url": "https://x.com/i/web/status/2068364623909400789"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8COVID YOUTUBE SPACE STATION UFO ROBOTIC VIRAL TREND BIOLAB 2026\ud83d\udef8 \ud83d\ude37WEAR A MASK\ud83d\ude37 \u2620\ufe0f\u274cCOVID IS NOT OVER\u274c\u2620\ufe0f  Learn to colonize worlds and universes with #Covid + #UFO, wiping out entire human races and re",
+      "text": "UFO \"blows up Rocket\" the Real World ... https://t.co/Pu88sgWVEE",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068341843826200647"
+      "url": "https://x.com/i/web/status/2068364448772079736"
     },
     {
       "type": "x",
-      "text": "#comics #ufotwitter #paranormal #paranormalromance #paranormalactivity #comicsgate #supernatural #ufos #ufox #ufo #ufosightings #ufosighting #ufotable Come see my The Cyberpunk Cosplayers livestream u",
+      "text": "Monsignor Stephen Rossetti, formerly the prominent chief exorcist and prominent psychologist for the Archdiocese of Washington, was removed from his position in June 2026. His dismissal followed contr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068341623071678531"
-    },
-    {
-      "type": "x",
-      "text": "@Truth_matters20 ''If we (the Apostles) or even an angel from Heaven comes preaching a different Jesus or a different Gospel, do not believe them and let them be accursed.'' Mohommed didn't listen. Jo",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068341261241593883"
+      "url": "https://x.com/i/web/status/2068364289702797355"
     },
     {
       "type": "swpc",
@@ -484,6 +423,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 20.9
+    },
+    {
+      "ts": "2026-06-20T16:06:57.943832Z",
+      "score": 34.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.6
     }
   ],
   "sources": [
