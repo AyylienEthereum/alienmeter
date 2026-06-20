@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T16:06:58.017328Z",
-  "score": 34.0,
+  "generated_at": "2026-06-20T17:46:48.844785Z",
+  "score": 35.4,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -4.1,
+    "d1h": 6.6,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.4,
+    "social_chatter": 10.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 6,
     "date": "20.06.2026",
     "declassified": "20.06.26",
-    "generated_utc": "16:06",
+    "generated_utc": "17:46",
     "top_drivers": [
-      "X/Twitter chatter: 158 UFO/UAP posts in the last hour",
+      "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u041d\u041f\u0417 - \u043e \u043a\u0430\u043a\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0437\u0430\u0432\u043e\u0434\u0430 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u044e\u0442 \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u044b\u0435 \u0444\u043e\u0442\u043e",
+      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -41,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.6,
+    "live_signal": 27.4,
     "baseline_recent": 27.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": -50.3281101203359,
-    "x_last_hour": 158,
+    "gdelt_spike_pct": -37.06226614218555,
+    "x_last_hour": 179,
     "wiki_spike_pct": -4.458967278618752,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "\u26a1\ufe0f Russia shells its own capital, and films it - How On Brand!  On the night of 17th to 18th June, Ukraine flew the largest swarm of drones at Moscow since the full-scale invasion began.   Russia's ow",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364920459034961"
+      "type": "news",
+      "text": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u041d\u041f\u0417 - \u043e \u043a\u0430\u043a\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0437\u0430\u0432\u043e\u0434\u0430 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u044e\u0442 \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u044b\u0435 \u0444\u043e\u0442\u043e",
+      "source": "gazeta.ua",
+      "url": "https://gazeta.ua/ru/articles/world-life/_moskovskij-npz-priostanovil-rabotu-posle-ataki-ukrainskih-bpla-genshtab-o-posledstviyah-porazheniya/1253129"
+    },
+    {
+      "type": "news",
+      "text": "Semifinales de la Liga Superior de Baloncesto traen cruces de alto calibre",
+      "source": "teletica.com",
+      "url": "https://www.teletica.com/baloncesto/semifinales-de-la-liga-superior-de-baloncesto-traen-cruces-de-alto-calibre_411999"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=777mm9m8sjvvlee3eib22h0ho2"
+    },
+    {
+      "type": "news",
+      "text": "If  Disclosure Day  Comes , How Can We Trust Evidence of UFOs ? ",
+      "source": "cnet.com",
+      "url": "https://www.cnet.com/culture/disclosure-day-how-will-we-trust-evidence-ufo/"
+    },
+    {
+      "type": "news",
+      "text": "Rosemount Area Seniors for the week of June 22 - 26",
+      "source": "hometownsource.com",
+      "url": "https://www.hometownsource.com/sun_thisweek/free/rosemount-area-seniors-for-the-week-of-june-22-26/article_f4a25439-8672-4772-8ecd-1a48de94ae51.html"
+    },
+    {
+      "type": "news",
+      "text": "20 June 2026 \u2013 In Saner Thought",
+      "source": "lobotero.com",
+      "url": "https://lobotero.com/2026/06/20/"
+    },
+    {
+      "type": "news",
+      "text": "IST Saturday News Dump \u2013 20Jun26",
+      "source": "lobotero.com",
+      "url": "https://lobotero.com/2026/06/20/ist-saturday-news-dump-20jun26/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cfvr28cn5qt974s5ld5bmvqh67"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3v8498i8tdjogt3kc5h1chfg03"
+    },
+    {
+      "type": "news",
+      "text": "Is Astrid Stuth a Murderer ? - Nassau Weekly",
+      "source": "nassauweekly.com",
+      "url": "https://nassauweekly.com/astrid-stuth-murderer/"
     },
     {
       "type": "x",
-      "text": "@ProfAviLoeb @EVargasTV UAP challenge our epistemology long before they challenge our physics.  https://t.co/EtXxBUjpdQ",
+      "text": "@ProfAviLoeb Some uap drones and actual ships..no Ai here..hv  many, many, many more. Call me\ud83e\udd14\ud83e\udef6\ud83d\udef8\ud83d\udd0d https://t.co/As7RCrIeRW",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364873365336309"
+      "url": "https://x.com/i/web/status/2068389924294852716"
     },
     {
       "type": "x",
-      "text": "We got GTA UFO Conspiracy easter eggs in WuWa!? https://t.co/T2oU7jnvWr",
+      "text": "@ENJU1123PIPI France had anime since the early 90. Berlusconi had a cartoon tv station and was buying anime because it was cheaper than european cartoons. The original popular ones were UFO Grandizer,",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364831242019163"
+      "url": "https://x.com/i/web/status/2068389865239052796"
     },
     {
       "type": "x",
-      "text": "@GallaudetTim @Pewpew841 @GarryPNolan A lot of people are skeptical about this board and I can\u2019t blame them, somehow I\u2019m too This board can\u2019t forget the UAP whistleblowers who are, so far, not protect",
+      "text": "- Grusch asserts a continuum from physical beings to plasmoid life. - Some witnesses describe conscious, telepathic plasma orbs. - Mainstream science generally regards plasma-based life as unproven. -",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364623909400789"
+      "url": "https://x.com/i/web/status/2068389766706368953"
     },
     {
       "type": "x",
-      "text": "UFO \"blows up Rocket\" the Real World ... https://t.co/Pu88sgWVEE",
+      "text": "Could plasma-based life constitute a real fourth domain of life?  David Grusch references a continuum between corporeal life and self-luminous plasmoid life, a claim that sits oddly beside mainstream ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364448772079736"
+      "url": "https://x.com/i/web/status/2068389764701499755"
     },
     {
       "type": "x",
-      "text": "Monsignor Stephen Rossetti, formerly the prominent chief exorcist and prominent psychologist for the Archdiocese of Washington, was removed from his position in June 2026. His dismissal followed contr",
+      "text": "@prairiebanana I have a question what will happen with the old UFO? Will this network be maintained or will everything be broadcast under the new contract?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068364289702797355"
+      "url": "https://x.com/i/web/status/2068389430440640644"
+    },
+    {
+      "type": "x",
+      "text": "@azrathetical UFO stuff sounds like a nice pivot \ud83d\ude06",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068389324794790309"
     },
     {
       "type": "swpc",
@@ -430,6 +491,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.6
+    },
+    {
+      "ts": "2026-06-20T17:46:48.769384Z",
+      "score": 35.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.4
     }
   ],
   "sources": [
