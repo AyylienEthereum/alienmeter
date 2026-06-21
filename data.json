@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-21T20:21:51.641520Z",
-  "score": 31.5,
+  "generated_at": "2026-06-21T21:52:11.636359Z",
+  "score": 31.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 7.2,
+    "d1h": 5.7,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.2,
+    "social_chatter": 8.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 7,
     "date": "21.06.2026",
     "declassified": "21.06.26",
-    "generated_utc": "20:21",
+    "generated_utc": "21:52",
     "top_drivers": [
-      "This 2 - Part Overlooked Sci - Fi Series Is The Unofficial Prequel To The X - Files",
-      "X/Twitter chatter: 139 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 135 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.9,
-    "baseline_recent": 26.2,
+    "live_signal": 23.1,
+    "baseline_recent": 26.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": -16.522911051212937,
-    "x_last_hour": 139,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 135,
     "wiki_spike_pct": -3.907017352395506,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "This 2 - Part Overlooked Sci - Fi Series Is The Unofficial Prequel To The X - Files",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/sci-fi-show-project-blue-book-unofficial-x-files-prequel/"
-    },
-    {
-      "type": "news",
-      "text": "A k\u00f6z\u00f6s vil\u00e1gv\u00e9ge",
-      "source": "nepszava.hu",
-      "url": "https://nepszava.hu/3326567_a-kozos-vilagvege"
-    },
-    {
-      "type": "news",
-      "text": "The Original Found Footage Horror Film Was So Controversial The Director Almost Went To Jail",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/cannibal-holocaust-original-found-footage-horror-movie/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=scsp5js7kruas0b5ue553d7ad1"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=56c783dl0b43kvoportgm1npn3"
-    },
-    {
-      "type": "news",
-      "text": "El fot\u00f3grafo que dice haber entrado a un OVNI reaparece con un mensaje urgente para la humanidad",
-      "source": "elgrafico.mx",
-      "url": "https://www.elgrafico.mx/opinion/yohanan-diaz-vargas/2026/06/21/el-fotografo-que-dice-haber-entrado-a-un-ovni-reaparece-con-un-mensaje-urgente-para-la-humanidad/"
-    },
-    {
-      "type": "news",
-      "text": "5 robottoni giapponesi assurdi che renderanno epica la tua Collezione",
-      "source": "everyeye.it",
-      "url": "https://www.everyeye.it/notizie/5-robottoni-giapponesi-assurdi-renderanno-epica-collezione-885570.html"
-    },
-    {
-      "type": "news",
-      "text": "  Reservoir Dogs  de Tarantino\u00a0 : un petit miracle du cinoche ind\u00e9pendant",
-      "source": "nouvelobs.com",
-      "url": "https://www.nouvelobs.com/teleobs/20260621.OBS116013/reservoir-dogs-de-tarantino-un-petit-miracle-du-cinoche-independant.html"
-    },
-    {
-      "type": "news",
-      "text": "Why New Mexico should view data centers as a security asset",
-      "source": "rrobserver.com",
-      "url": "https://www.rrobserver.com/opinion/why-new-mexico-should-view-data-centers-as-a-security-asset/3066430"
-    },
-    {
-      "type": "news",
-      "text": "Index - Mindek\u00f6zben - Nyitott kapcsolatban \u00e9l a h\u00e1zasp\u00e1r , de csak a feles\u00e9g randizik m\u00e1sokkal",
-      "source": "index.hu",
-      "url": "https://index.hu/mindekozben/poszt/2026/06/21/egyoldalu-monogamiaban-el-a-hazaspar-de-mukodik/"
+      "type": "x",
+      "text": "@elonmusk @Austen Go to Trump and ask Trump to provide all antigravity and declassify all UFO crashed craft.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068814148818141680"
     },
     {
       "type": "x",
-      "text": "@elonmusk @Austen Aircraft use aero lift, no GW needed. Idea: Surround craft with asymmetric high-voltage EM fields + plasma. Creates electrohydrodynamic (EHD) thrust via ion wind \u2014 effectively emulat",
+      "text": "@nic_moneypenny TTSA had materiel that they signed a contract with the Army over in 2019 for a Cooperative Research and Development Agreement (CRADA #19-15) with the U.S. Army Combat Capabilities Deve",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068791454042853762"
+      "url": "https://x.com/i/web/status/2068813858836504859"
     },
     {
       "type": "x",
-      "text": "@VettedPodcast \ud83e\udd29  Have you heard the rumor about Science Bob McGwier said, that he saw a UFO land on the ground at Contact in Desert ?  And he said he saw Aliens come out of the UFO craft that landed ",
+      "text": "Retired General McCasland could have exposed UFO secrets via the Whistleblower Act. His testimony would've ended the DOD's secrecy, especially with records now held by Lockheed Martin. The truth about",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068791328025018690"
+      "url": "https://x.com/i/web/status/2068813846920196467"
     },
     {
       "type": "x",
-      "text": "https://t.co/N5WePetsya  Banana is live now. If you have questions, come on to the stream. $PTGC and $UFO",
+      "text": "Because there\u2019s a Illumanti that run the damn world (for now) it\u2019s the FEDERAL RESERVE, it\u2019s BIG PHARMACY, ITS THE CIA, FBI , NSA, DARPA, PENTAGON, ITS THE UFO ILLUMINATI\u2026 they\u2019re everywhere, they can",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068791301718610413"
+      "url": "https://x.com/i/web/status/2068813824166371478"
     },
     {
       "type": "x",
-      "text": "This notion that there is a good deal of waste, fraud and abuse behind all this UAP secrecy is in keeping with my theory of what's going on. Sure, there are UAP, crashed craft and etc. But I submit th",
+      "text": "Grusch's alien claims and reactions from UAP whistleblowers | Backscroll https://t.co/vuTM3I9lEj via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068791064173941018"
+      "url": "https://x.com/i/web/status/2068813812971499618"
     },
     {
       "type": "x",
-      "text": "@UAPWixy There are no \u201cTall whites\u201d, the correct name is Pleiadian and they would NEVER do any weird thing to us! They oversee our planet since the beginning, guide us and keep us alive!   Ignorant pe",
+      "text": "Because there\u2019s a Illumanti that run the damn world (for now) it\u2019s the FEDERAL RESERVE, it\u2019s BIG PHARMACY, ITS THE CIA, FBI , NSA, DARPA, PENTAGON, ITS THE UFO ILLUMINATI\u2026 they\u2019re everywhere, they can",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068791009027506611"
-    },
-    {
-      "type": "x",
-      "text": "@BelinaLiz @SewellGActor ujst started a re watch of the UFO series \ud83d\ude03",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068790667074002982"
+      "url": "https://x.com/i/web/status/2068813757963264037"
     },
     {
       "type": "swpc",
@@ -582,6 +521,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.9
+    },
+    {
+      "ts": "2026-06-21T21:52:11.561508Z",
+      "score": 31.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.1
     }
   ],
   "sources": [
