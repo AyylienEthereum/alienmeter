@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-21T17:01:43.238904Z",
-  "score": 29.4,
+  "generated_at": "2026-06-21T18:49:05.864785Z",
+  "score": 26.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.7,
+    "d1h": -27.5,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.8,
+    "social_chatter": 8.2,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 7,
     "date": "21.06.2026",
     "declassified": "21.06.26",
-    "generated_utc": "17:01",
+    "generated_utc": "18:49",
     "top_drivers": [
-      "X/Twitter chatter: 131 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.0,
-    "baseline_recent": 26.5,
+    "live_signal": 16.2,
+    "baseline_recent": 26.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 131,
+    "gdelt_spike_pct": -12.759930915371328,
+    "x_last_hour": 138,
     "wiki_spike_pct": -3.907017352395506,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udea8 NEW INTERVIEW: Filmmaker Dean Alioto spent 8 years embedded with UFO abductees.  He shares shocking truths about alien hybrids and a U.S. Army Major's terrifying encounter.   Don't miss this! \ud83d\udc47 http",
+      "text": "A tale of two cities... or rather a U.S. State vs. remote country. But you wouldn't know it from these articles.  New Jersey ranks as the #1 state in the US for internet coverage and speed, whereas Pa",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068741109430292702"
+      "url": "https://x.com/i/web/status/2068768130378207545"
     },
     {
       "type": "x",
-      "text": "\ud83c\udfa8\u2728 Watch Me Paint a UFO Pixel by Pixel  Play Pixel Paint | https://t.co/cHmLNqxWu0  #newGame #dev #ColorPicked https://t.co/ubWB7GSp5e",
+      "text": "I think imma live in Plymouth and a UFO or UAP for the next 70,000+ days \ud83d\ude02\ud83d\ude02\ud83d\ude02",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068740730621968839"
+      "url": "https://x.com/i/web/status/2068767565216715212"
     },
     {
       "type": "x",
-      "text": "@EricLDaugh *The UFO and Aliens Deception Prophecy!*  https://t.co/yYtEvmv6bk  #ProphetElvisMbonye",
+      "text": "UFOs, Astrology, and Area 51: Unveiling Cosmic Connections from the 12/16/2018 Astrology of ET Disclosure Webinar \u2060 https://t.co/0uoBJq6nqJ\u2060 #astrology #ufo #area51 #uranusneptune https://t.co/VhUmPrY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068740682362093683"
+      "url": "https://x.com/i/web/status/2068767454440866217"
     },
     {
       "type": "x",
-      "text": "0% Deepfake (REAL)  This clip has been Ai tested as real  #Aliens  @nytimes @thesun @elonmusk @TuckerCarlson @rosscoulthart @NEWSMAX @rustyrockets @RepMTG @RepLuna @RepNancyMace @SenGillibrand @RepTim",
+      "text": "\u2026and both the lamestream media and the GOVERNMENTS of the world have been lying to humanity about UFOs / UAP for almost 80 years now \u203c\ufe0f  European World Cup Tourists SHOCKED After Finding Out THEY HAVE",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068740469249450099"
+      "url": "https://x.com/i/web/status/2068767346060341482"
     },
     {
       "type": "x",
-      "text": "Frequency shot or normal selfie \ud83e\udd33  \ud83d\udc7d\ud83d\udef8  #aliens #ufo https://t.co/t4tPbVofwg",
+      "text": "@Yankees The UAP hellfire isn't in the gifs. Do you think you or I are the hellfire &amp; UAP? You can't choose both. I can. https://t.co/hEsCulENxi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068740236662743410"
+      "url": "https://x.com/i/web/status/2068767138056163352"
     },
     {
       "type": "x",
-      "text": "We had a great time last night celebrating @TheHDAlliance founder Dan Harary's 70th birthday with a UFO cake from @CakeandArt https://t.co/Y8PDjyJuvu",
+      "text": "Red heifer reported wandering near Roswell crash site. Local UFO oracle classifies it as a Class II omen event.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068740177800143163"
+      "url": "https://x.com/i/web/status/2068766989288456641"
     },
     {
       "type": "neo",
@@ -488,6 +488,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.0
+    },
+    {
+      "ts": "2026-06-21T18:49:05.789816Z",
+      "score": 26.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.2
     }
   ],
   "sources": [
