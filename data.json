@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-21T07:06:56.748237Z",
-  "score": 24.7,
+  "generated_at": "2026-06-21T10:46:17.994125Z",
+  "score": 53.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "ROSWELL ENERGY",
+    "flavor": "they might be cooking",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": -9.2,
+    "d1h": 22.0,
     "d24h": 0.0,
-    "peak90": 51.5
+    "peak90": 53.8
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 4.3,
+    "news_velocity": 36.0,
+    "social_chatter": 5.4,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 7,
     "date": "21.06.2026",
     "declassified": "21.06.26",
-    "generated_utc": "07:06",
+    "generated_utc": "10:46",
     "top_drivers": [
-      "Trump Creates UFO Panel | Jet Radio 1400",
-      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
+      "News velocity +569% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 93 UFO/UAP posts in the last hour",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.9,
-    "baseline_recent": 26.7,
+    "live_signal": 51.3,
+    "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 75,
+    "gdelt_spike_pct": 568.7913927869831,
+    "x_last_hour": 93,
     "wiki_spike_pct": -3.907017352395506,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | Jet Radio 1400",
-      "source": "jetradio1400.iheart.com",
-      "url": "https://jetradio1400.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | NewsRadio WIOD",
-      "source": "wiod.iheart.com",
-      "url": "https://wiod.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | Talk 650 KSTE",
-      "source": "kste.iheart.com",
-      "url": "https://kste.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | Talk Radio 105 . 9",
-      "source": "knrs.iheart.com",
-      "url": "https://knrs.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | NewsRadio 1170 WWVA",
-      "source": "newsradio1170.iheart.com",
-      "url": "https://newsradio1170.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | Newsradio 600 KOGO",
-      "source": "kogo.iheart.com",
-      "url": "https://kogo.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | 94 . 5 WPTI",
-      "source": "945wpti.iheart.com",
-      "url": "https://945wpti.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel",
-      "source": "650keni.iheart.com",
-      "url": "https://650keni.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | KFYR 550 AM / 99 . 7 FM",
-      "source": "kfyr.iheart.com",
-      "url": "https://kfyr.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Creates UFO Panel | News Radio 101 . 9 Big WAAX",
-      "source": "1019bigwaax.iheart.com",
-      "url": "https://1019bigwaax.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+      "type": "x",
+      "text": "\ud83d\udea8James Franco \"I didn't choose this, he chose me\"  Referring to his alien friend James Franco talks to friends about the UFO hearings and insists this isn't about him, but about getting the word out. ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068646193907826780"
     },
     {
       "type": "x",
-      "text": "@DrBeaVillarroel @michaelshermer @NewsNation Vatican Library has 1.6 Million books, 70,000 handwritten manuscripts &amp; hundreds of thousands of other historical documents. Its huge, going back 12 ce",
+      "text": "Hello everyone! \u2600\ufe0f  Wishing you all a beautiful sunny Sunday.  Today, we continue our stories about the accessories from the collection. I hope you're enjoying these behind-the-scenes insights!  \"War ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068591219286950362"
+      "url": "https://x.com/i/web/status/2068645806932975779"
     },
     {
       "type": "x",
-      "text": "You think intelligent aliens likely exist somewhere because universe bIG!? there's more evidence of UFO and strange things in our skies that cannot be explained existing then there's of hypothetical i",
+      "text": "mysterious skin is good but the gay guy and the UFO retard are dualities of the same person. this is what dennis cooper gets really right",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068590883428078014"
+      "url": "https://x.com/i/web/status/2068645660610486506"
     },
     {
       "type": "x",
-      "text": "@BachirSoHumble Sorry but this is like watching basketball in the upper level in the very back row and swearing you seen the foul  This is as clear as those videos that swear they caught a ghost or UF",
+      "text": "Some Biblical based thinking on UFO/UAEs. ------- Lights in the Skies, Faith on the Ground  ... In recent weeks, the Department of War has continued releasing batches of unresolved UAP (UFO) files. Ma",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068590795230413107"
+      "url": "https://x.com/i/web/status/2068645074431287625"
     },
     {
       "type": "x",
-      "text": "@timburchett @realDonaldTrump Release the clear day time UAP photos videos",
+      "text": "@JohnBealCasual @pavelibarrameda @JeremyCorbell We have  4K live video of tornadoes, but UFO pictures/videos have only gotten more blurrier.  They\u2019ve even gone from physical objects to \u201cplasma orbs\u201d, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068590563436458320"
+      "url": "https://x.com/i/web/status/2068644945167012170"
     },
     {
       "type": "x",
-      "text": "@WhiteHouse Release some clear daytime ufo UAP sightings. Up close &amp; clear please",
+      "text": "Some Biblical based thinking on UFO/UAEs. ------- Lights in the Skies, Faith on the Ground  ... In recent weeks, the Department of War has continued releasing batches of unresolved UAP (UFO) files. Ma",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068590375997182311"
-    },
-    {
-      "type": "x",
-      "text": "\ud83d\udee1 Liquidity removed \u2014 $HEX / $UFO on PulseX V2  $74.5k (75.7% of the pool) was pulled from the HEX/UFO pair; reserves down to $23.9k.  UFO: 0x456548a9b56efbbd89ca0309edd17a9e20b04018  Pair: 0x2cabcba0",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068590120345767951"
+      "url": "https://x.com/i/web/status/2068644918730363269"
     },
     {
       "type": "neo",
@@ -521,6 +461,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.9
+    },
+    {
+      "ts": "2026-06-21T10:46:17.917448Z",
+      "score": 53.8,
+      "band": "ROSWELL ENERGY",
+      "i": 3,
+      "live": 51.3
     }
   ],
   "sources": [
