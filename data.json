@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-21T21:52:11.636359Z",
-  "score": 31.6,
+  "generated_at": "2026-06-21T23:06:37.113437Z",
+  "score": 32.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 5.7,
+    "d1h": 3.0,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.0,
+    "social_chatter": 6.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.4
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 7,
     "date": "21.06.2026",
     "declassified": "21.06.26",
-    "generated_utc": "21:52",
+    "generated_utc": "23:06",
     "top_drivers": [
-      "X/Twitter chatter: 135 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 112 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.1,
+    "live_signal": 24.1,
     "baseline_recent": 26.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 135,
+    "x_last_hour": 112,
     "wiki_spike_pct": -3.907017352395506,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@elonmusk @Austen Go to Trump and ask Trump to provide all antigravity and declassify all UFO crashed craft.",
+      "text": "@tupacabra They probably just wanted the land, so they came up with a hokey UFO story.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068814148818141680"
+      "url": "https://x.com/i/web/status/2068832724530430263"
     },
     {
       "type": "x",
-      "text": "@nic_moneypenny TTSA had materiel that they signed a contract with the Army over in 2019 for a Cooperative Research and Development Agreement (CRADA #19-15) with the U.S. Army Combat Capabilities Deve",
+      "text": "Shermer's old tweets called Grusch a top-tier bullshitter and a Heaven's Gate cosplayer. Petty. He's since apologized. Credit for owning the tone. Tom's reply? Straight to Shermer's 2014 allegations a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068813858836504859"
+      "url": "https://x.com/i/web/status/2068832665000968513"
     },
     {
       "type": "x",
-      "text": "Retired General McCasland could have exposed UFO secrets via the Whistleblower Act. His testimony would've ended the DOD's secrecy, especially with records now held by Lockheed Martin. The truth about",
+      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Underwater UFOs June 22, 1979 \u2014 Tuscan Archipelago, Italy 1/6:30 p.m. The owner of the Rainbow II yacht, his family, and the crew observe an ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068813846920196467"
+      "url": "https://x.com/i/web/status/2068832582746222852"
     },
     {
       "type": "x",
-      "text": "Because there\u2019s a Illumanti that run the damn world (for now) it\u2019s the FEDERAL RESERVE, it\u2019s BIG PHARMACY, ITS THE CIA, FBI , NSA, DARPA, PENTAGON, ITS THE UFO ILLUMINATI\u2026 they\u2019re everywhere, they can",
+      "text": "Had an awesome convo with @PrestonEDennett last night. Will drop on YouTube and Spotify soon! #Ufo https://t.co/0ZYGNEfaAr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068813824166371478"
+      "url": "https://x.com/i/web/status/2068832469944520823"
     },
     {
       "type": "x",
-      "text": "Grusch's alien claims and reactions from UAP whistleblowers | Backscroll https://t.co/vuTM3I9lEj via @YouTube",
+      "text": "@TheProjectUnity Is the halo a UFO? First glance at the pic.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068813812971499618"
+      "url": "https://x.com/i/web/status/2068832255405932962"
     },
     {
       "type": "x",
-      "text": "Because there\u2019s a Illumanti that run the damn world (for now) it\u2019s the FEDERAL RESERVE, it\u2019s BIG PHARMACY, ITS THE CIA, FBI , NSA, DARPA, PENTAGON, ITS THE UFO ILLUMINATI\u2026 they\u2019re everywhere, they can",
+      "text": "@ElijahForCA There's a silver lining. People could've been groomed to believe that there was UFO in the tail of Comet Hale-Bopp and believe that the world is inhumane and the only way out is by killin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068813757963264037"
+      "url": "https://x.com/i/web/status/2068832099893694677"
     },
     {
       "type": "swpc",
@@ -528,6 +528,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.1
+    },
+    {
+      "ts": "2026-06-21T23:06:37.038215Z",
+      "score": 32.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.1
     }
   ],
   "sources": [
