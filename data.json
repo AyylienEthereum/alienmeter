@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-21T02:05:06.759642Z",
-  "score": 33.6,
+  "generated_at": "2026-06-21T07:06:56.748237Z",
+  "score": 24.7,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 0.5,
+    "d1h": -9.2,
     "d24h": 0.0,
     "peak90": 51.5
   },
   "contributing_factors": {
-    "news_velocity": 3.6,
-    "social_chatter": 6.6,
+    "news_velocity": 0.0,
+    "social_chatter": 4.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,85 +31,126 @@
     "day": 7,
     "date": "21.06.2026",
     "declassified": "21.06.26",
-    "generated_utc": "02:05",
+    "generated_utc": "07:06",
     "top_drivers": [
-      "News velocity +15% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 113 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
+      "Trump Creates UFO Panel | Jet Radio 1400",
+      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.3,
+    "live_signal": 13.9,
     "baseline_recent": 26.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": 14.812701859639118,
-    "x_last_hour": 113,
-    "wiki_spike_pct": -4.751437996253755,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 75,
+    "wiki_spike_pct": -3.907017352395506,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "C. S. Lewis: The Space Trilogy: Out of the Silent Planet, Perelandra, plus a brand new full-cast BBC adaptation of That Hideous Strength Space planets ufo https://t.co/EzEFfbEjkC",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068515206569861345"
+      "type": "news",
+      "text": "Trump Creates UFO Panel | Jet Radio 1400",
+      "source": "jetradio1400.iheart.com",
+      "url": "https://jetradio1400.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | NewsRadio WIOD",
+      "source": "wiod.iheart.com",
+      "url": "https://wiod.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | Talk 650 KSTE",
+      "source": "kste.iheart.com",
+      "url": "https://kste.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | Talk Radio 105 . 9",
+      "source": "knrs.iheart.com",
+      "url": "https://knrs.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | NewsRadio 1170 WWVA",
+      "source": "newsradio1170.iheart.com",
+      "url": "https://newsradio1170.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | Newsradio 600 KOGO",
+      "source": "kogo.iheart.com",
+      "url": "https://kogo.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | 94 . 5 WPTI",
+      "source": "945wpti.iheart.com",
+      "url": "https://945wpti.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel",
+      "source": "650keni.iheart.com",
+      "url": "https://650keni.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | KFYR 550 AM / 99 . 7 FM",
+      "source": "kfyr.iheart.com",
+      "url": "https://kfyr.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
+    },
+    {
+      "type": "news",
+      "text": "Trump Creates UFO Panel | News Radio 101 . 9 Big WAAX",
+      "source": "1019bigwaax.iheart.com",
+      "url": "https://1019bigwaax.iheart.com/content/2026-06-21-trump-creates-ufo-panel/"
     },
     {
       "type": "x",
-      "text": "I put a lot more work into the Shader for my alien character and composited him into a spaceship. Digging into more advanced lighting and shading techniques has been fun and challenging! #3dart #alien",
+      "text": "@DrBeaVillarroel @michaelshermer @NewsNation Vatican Library has 1.6 Million books, 70,000 handwritten manuscripts &amp; hundreds of thousands of other historical documents. Its huge, going back 12 ce",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068515135627370856"
+      "url": "https://x.com/i/web/status/2068591219286950362"
     },
     {
       "type": "x",
-      "text": "Z shape #UFO #UAP just moment ago https://t.co/kRzW7efNJO",
+      "text": "You think intelligent aliens likely exist somewhere because universe bIG!? there's more evidence of UFO and strange things in our skies that cannot be explained existing then there's of hypothetical i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068515058867405102"
+      "url": "https://x.com/i/web/status/2068590883428078014"
     },
     {
       "type": "x",
-      "text": "@BuzzPatterson Buzz The name fits the man You ever been to space Buzz You ever seen a UAP",
+      "text": "@BachirSoHumble Sorry but this is like watching basketball in the upper level in the very back row and swearing you seen the foul  This is as clear as those videos that swear they caught a ghost or UF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068514710706663908"
+      "url": "https://x.com/i/web/status/2068590795230413107"
     },
     {
       "type": "x",
-      "text": "Full episode premieres Sunday, June 21 at 1:00 PM PT https://t.co/ks1Vqhak8h  #TheGoodTroubleShow #UAP #UFOs #AARO #SteveAspin",
+      "text": "@timburchett @realDonaldTrump Release the clear day time UAP photos videos",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068514652095725781"
+      "url": "https://x.com/i/web/status/2068590563436458320"
     },
     {
       "type": "x",
-      "text": "\ud83d\udd25 NEW: He saw a UFO in 1972. Fifty years later, it matched Bob Lazar's Area 51 craft exactly.  And Steve Aspin says alien abduction runs in his family: \"your mother, your grandmother, your great-grand",
+      "text": "@WhiteHouse Release some clear daytime ufo UAP sightings. Up close &amp; clear please",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068514650694746346"
+      "url": "https://x.com/i/web/status/2068590375997182311"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1506\r Issue Time: 2026 Jun 20 0407 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1505\r Issue Time: 2026 Jun 20 0406 UTC\r \r CANCEL ALERT: Type II Radio Emission  Cancel Se",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1504\r Issue Time: 2026 Jun 20 0403 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "x",
+      "text": "\ud83d\udee1 Liquidity removed \u2014 $HEX / $UFO on PulseX V2  $74.5k (75.7% of the pool) was pulled from the HEX/UFO pair; reserves down to $23.9k.  UFO: 0x456548a9b56efbbd89ca0309edd17a9e20b04018  Pair: 0x2cabcba0",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068590120345767951"
     },
     {
       "type": "neo",
@@ -473,6 +514,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.3
+    },
+    {
+      "ts": "2026-06-21T07:06:56.671477Z",
+      "score": 24.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.9
     }
   ],
   "sources": [
