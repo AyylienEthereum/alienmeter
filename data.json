@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-22T11:21:32.493243Z",
-  "score": 27.7,
+  "generated_at": "2026-06-22T16:10:36.106982Z",
+  "score": 35.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -3.9,
+    "d1h": 3.1,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.4,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 1.1,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 8,
     "date": "22.06.2026",
     "declassified": "22.06.26",
-    "generated_utc": "11:21",
+    "generated_utc": "16:10",
     "top_drivers": [
-      "Procure Space ETF ( UFO ) Adds SpaceX Following Historic Debut",
-      "X/Twitter chatter: 60 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 258 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
-      "Wikipedia UFO pageviews +7% above baseline"
+      "Wikipedia UFO pageviews +7% above baseline",
+      "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.2,
-    "baseline_recent": 25.9,
+    "live_signal": 28.3,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 60,
+    "x_last_hour": 258,
     "wiki_spike_pct": 7.161018168792917,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +58,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Procure Space ETF ( UFO ) Adds SpaceX Following Historic Debut",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/procure-space-etf-ufo-adds-spacex-following-historic-debut/"
-    },
-    {
-      "type": "news",
-      "text": "Space ETFs : How SpaceX Is Reshaping the Theme",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/space-etfs-how-spacex-is-reshaping-the-theme/"
-    },
-    {
-      "type": "news",
-      "text": "Un \u00e9t\u00e9 avec les fils Bach , # 2 : Carl Philipp Emanuel",
-      "source": "diapasonmag.fr",
-      "url": "https://www.diapasonmag.fr/histoire/un-ete-avec-les-fils-bach-2-carl-philipp-emanuel-64816.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pult9f7q2saoeabna38v9fg780"
-    },
-    {
-      "type": "news",
-      "text": "  Macie tydzie\u0144 . Ukraina szykuje kolejne  UFO . Putin ma powody do obaw",
-      "source": "wiadomosci.onet.pl",
-      "url": "https://wiadomosci.onet.pl/swiat/macie-tydzien-ukraina-szykuje-kolejne-ufo-putin-ma-powody-do-obaw/q4b9wjr"
-    },
-    {
-      "type": "news",
-      "text": "Girinvalle 2026 , il racconto di una festa che cambia",
-      "source": "varesenews.it",
-      "url": "https://www.varesenews.it/2026/06/girinvalle-2026/2613565/"
-    },
-    {
-      "type": "news",
-      "text": "Albuquerque banks , credit unions honored on Forbes 2026 best - in - state list",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/news/us-eagle-two-other-abq-credit-unions-honored-by-forbes/3067355"
-    },
-    {
-      "type": "news",
-      "text": "Come dovremmo comportarci se scoprissimo davvero gli alieni ? Le linee guida dellInternational Academy of Astronautics",
-      "source": "wired.it",
-      "url": "https://www.wired.it/article/come-dovremmo-comportarci-se-scoprissimo-davvero-alieni-linee-guida-international-academy-of-astronautics/"
-    },
-    {
-      "type": "news",
-      "text": "Extra :  Just Show the Alien  \u2026 Neil deGrasse Tyson on Pentagon UFO Files & AI",
-      "source": "radio.foxnews.com",
-      "url": "https://radio.foxnews.com/2026/06/21/extra-just-show-the-alien-neil-degrasse-tyson-on-pentagon-ufo-files-ai/"
-    },
-    {
-      "type": "news",
-      "text": "Phoebe Bridgers pop - up concert revives UFO lore",
-      "source": "dailyillini.com",
-      "url": "https://dailyillini.com/buzz-stories/buzz-features/2026/06/21/phoebe-bridgers-pop-up-concert-revives-ufo-lore/"
+      "type": "x",
+      "text": "Does anyone else find it interesting that the newly formed UAP Science Advisory Council includes several of the most well-known and respected figures from the UAP research and scientific anomaly commu",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069090626784632967"
     },
     {
       "type": "x",
-      "text": "@xprize @PeterDiamandis Minx Labrada's Mysterious World. A mob crew got so rich mining and buying Bitcoin they freed the whole family from tribute for good. So now? They hunt UFOs, ghosts, and Cryptid",
+      "text": "@RealSimpleAriel $UFO does this have a rebound chance this month or next?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069017800803230066"
+      "url": "https://x.com/i/web/status/2069090388330119395"
     },
     {
       "type": "x",
-      "text": "Aliens Create Unique Crop Circle.  UAPs are getting real crazy these days.  #aliens #cropcircle #uap https://t.co/htbVgb1KQw",
+      "text": "@BaronDestructo As much as I like the UFO Interceptor it can only carry one person and has no cargo capacity https://t.co/FaBnRPfKPV",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069017124543078842"
+      "url": "https://x.com/i/web/status/2069090319367307416"
     },
     {
       "type": "x",
-      "text": "This week has been tough im gonna summon a ufo to take me to mars for a month or something, space holiday",
+      "text": "@JeremyCorbell @GarryPNolan Does anyone else find it interesting that the newly formed UAP Science Advisory Council includes several of the most well-known and respected figures from the UAP research ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069015633421893937"
+      "url": "https://x.com/i/web/status/2069090179223106011"
     },
     {
       "type": "x",
-      "text": "@ageofdisclosure It really makes you wonder if he didn\u2019t have access to the UFO details at his level, who did exactly and was way beyond his knowledge \ud83e\udd14",
+      "text": "@The_Astral_ Why did you remove this? Isn\u2019t this the one that Bob talks about the UFO landing?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069015304429039691"
+      "url": "https://x.com/i/web/status/2069090089536233577"
     },
     {
       "type": "x",
-      "text": "This #ufo ...what do all it's lights do .?? Underneath https://t.co/8HHAscOYpn",
+      "text": "@I_D_Official \"Fravor witnessed a Tic-Tac object drop from 80,000\"  Uh.... no he didn't. The radar operators saw it on their radars.  I thought Dolan was supposed to be an expert on UFO event history.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069014810474455543"
-    },
-    {
-      "type": "x",
-      "text": "@OMGTheWhyFiles watching the most recent episode about Canada's Most Documented UFO Cast... was Art Bell taken out of the background photos?",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069014719508193289"
+      "url": "https://x.com/i/web/status/2069090017444778189"
     },
     {
       "type": "swpc",
@@ -617,6 +557,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.2
+    },
+    {
+      "ts": "2026-06-22T16:10:36.047314Z",
+      "score": 35.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.3
     }
   ],
   "sources": [
