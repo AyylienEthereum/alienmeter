@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-22T19:46:40.075172Z",
-  "score": 31.9,
+  "generated_at": "2026-06-22T21:58:26.385344Z",
+  "score": 29.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 0.6,
+    "d1h": -1.8,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.7,
+    "social_chatter": 11.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 1.1,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,79 +31,66 @@
     "day": 8,
     "date": "22.06.2026",
     "declassified": "22.06.26",
-    "generated_utc": "19:46",
+    "generated_utc": "21:58",
     "top_drivers": [
-      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "X/Twitter chatter: 184 UFO/UAP posts in the last hour",
       "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.6,
-    "baseline_recent": 25.9,
+    "live_signal": 19.9,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 179,
+    "gdelt_spike_pct": -56.92033822874944,
+    "x_last_hour": 184,
     "wiki_spike_pct": 7.161018168792917,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Latest UAP disclosures and questions about what the evidence really show... https://t.co/4rBhLuOEUu via @YouTube",
+      "text": "~~~\u201cJesus in a UFO Cult\u201d blends maximum cultural gravity with high-weirdness contrarian energy. That combo would likely score a **C**.~~~ I am elite baby, uh huh... what you got? (struts around like J",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144867523993754"
+      "url": "https://x.com/i/web/status/2069177932724269147"
     },
     {
       "type": "x",
-      "text": "@UAPLuigi @g_knapp Idk about the uap angle for \"christo-fascism\" tbh. Thiel is a homosexual, has a weird obsession with the antichrist, and a lot of the sphere is judeo-supremacists. I will say, that ",
+      "text": "@alfonslopeztena The huge circle of dead grass is from the UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144819138507048"
+      "url": "https://x.com/i/web/status/2069177878663548992"
     },
     {
       "type": "x",
-      "text": "#UFO #UFOx #ufosightings I was able to acquire a Diamond DP-KE137 antenna for my UFO Sensing Platform. This will be setup and deployed to automatically detect and confirm satellites as they fly over (",
+      "text": "@InterstellarUAP Yeah that\u2019s my go to for sharing with UAP newbs. Estimated 650-1300 feet across by Corbell.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144600057655667"
+      "url": "https://x.com/i/web/status/2069177799194075217"
     },
     {
       "type": "x",
-      "text": "UFO Disclosure, Simulation Theory, and Alien Bodies w Ron James https://t.co/jTu1MxxIt0",
+      "text": "THEY\u2019RE WATCHING US RIGHT NOW - Most Terrifying REAL UAP Witness Account... https://t.co/Izo5j4fmSo via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144420067512360"
+      "url": "https://x.com/i/web/status/2069177736451502512"
     },
     {
       "type": "x",
-      "text": "The Portal Is Open: UFO Files, Alien Races &amp; The Galactic War We Never Knew About https://t.co/nUndEjTPC7 I've watched this twice, very interesting info.",
+      "text": "@Ufosophy  https://t.co/h5AoQajIlq  Save this link if you like. Latest UAP - UFO file dump / For more documents from the past scroll down",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144310449381501"
+      "url": "https://x.com/i/web/status/2069177703543255161"
     },
     {
       "type": "x",
-      "text": "Ponds and Wonders: The Age of Disclosure: Who Actually Controls the U... https://t.co/oZUTHsmkm5 #UAPs #ufo #disclosure",
+      "text": "If only Joe Rogan @joerogan had taken Tom DeLonge more seriously in 2017 when he showed us the time warp fusion triangle craft technology and explained the Obama faction\u2019s plans for UFO disclosure. Lo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069144206195704040"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1507\r Issue Time: 2026 Jun 21 1951 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 319\r Issue Time: 2026 Jun 21 1948 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "url": "https://x.com/i/web/status/2069177622341501197"
     },
     {
       "type": "neo",
@@ -565,6 +552,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.6
+    },
+    {
+      "ts": "2026-06-22T21:58:26.340016Z",
+      "score": 29.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.9
     }
   ],
   "sources": [
