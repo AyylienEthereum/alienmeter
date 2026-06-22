@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T16:10:36.106982Z",
-  "score": 35.5,
+  "generated_at": "2026-06-22T19:46:40.075172Z",
+  "score": 31.9,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 3.1,
+    "d1h": 0.6,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 10.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 1.1,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 4.0
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 8,
     "date": "22.06.2026",
     "declassified": "22.06.26",
-    "generated_utc": "16:10",
+    "generated_utc": "19:46",
     "top_drivers": [
-      "X/Twitter chatter: 258 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -42,56 +42,56 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.3,
-    "baseline_recent": 25.8,
+    "live_signal": 23.6,
+    "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 258,
+    "x_last_hour": 179,
     "wiki_spike_pct": 7.161018168792917,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Does anyone else find it interesting that the newly formed UAP Science Advisory Council includes several of the most well-known and respected figures from the UAP research and scientific anomaly commu",
+      "text": "Latest UAP disclosures and questions about what the evidence really show... https://t.co/4rBhLuOEUu via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090626784632967"
+      "url": "https://x.com/i/web/status/2069144867523993754"
     },
     {
       "type": "x",
-      "text": "@RealSimpleAriel $UFO does this have a rebound chance this month or next?",
+      "text": "@UAPLuigi @g_knapp Idk about the uap angle for \"christo-fascism\" tbh. Thiel is a homosexual, has a weird obsession with the antichrist, and a lot of the sphere is judeo-supremacists. I will say, that ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090388330119395"
+      "url": "https://x.com/i/web/status/2069144819138507048"
     },
     {
       "type": "x",
-      "text": "@BaronDestructo As much as I like the UFO Interceptor it can only carry one person and has no cargo capacity https://t.co/FaBnRPfKPV",
+      "text": "#UFO #UFOx #ufosightings I was able to acquire a Diamond DP-KE137 antenna for my UFO Sensing Platform. This will be setup and deployed to automatically detect and confirm satellites as they fly over (",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090319367307416"
+      "url": "https://x.com/i/web/status/2069144600057655667"
     },
     {
       "type": "x",
-      "text": "@JeremyCorbell @GarryPNolan Does anyone else find it interesting that the newly formed UAP Science Advisory Council includes several of the most well-known and respected figures from the UAP research ",
+      "text": "UFO Disclosure, Simulation Theory, and Alien Bodies w Ron James https://t.co/jTu1MxxIt0",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090179223106011"
+      "url": "https://x.com/i/web/status/2069144420067512360"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Why did you remove this? Isn\u2019t this the one that Bob talks about the UFO landing?",
+      "text": "The Portal Is Open: UFO Files, Alien Races &amp; The Galactic War We Never Knew About https://t.co/nUndEjTPC7 I've watched this twice, very interesting info.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090089536233577"
+      "url": "https://x.com/i/web/status/2069144310449381501"
     },
     {
       "type": "x",
-      "text": "@I_D_Official \"Fravor witnessed a Tic-Tac object drop from 80,000\"  Uh.... no he didn't. The radar operators saw it on their radars.  I thought Dolan was supposed to be an expert on UFO event history.",
+      "text": "Ponds and Wonders: The Age of Disclosure: Who Actually Controls the U... https://t.co/oZUTHsmkm5 #UAPs #ufo #disclosure",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069090017444778189"
+      "url": "https://x.com/i/web/status/2069144206195704040"
     },
     {
       "type": "swpc",
@@ -102,12 +102,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 319\r Issue Time: 2026 Jun 21 1948 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 532\r Issue Time: 2026 Jun 21 1930 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -564,6 +558,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.3
+    },
+    {
+      "ts": "2026-06-22T19:46:40.001026Z",
+      "score": 31.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.6
     }
   ],
   "sources": [
