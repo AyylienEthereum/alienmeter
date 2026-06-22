@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-22T05:40:51.693749Z",
-  "score": 30.8,
+  "generated_at": "2026-06-22T11:21:32.493243Z",
+  "score": 27.7,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.7,
+    "d1h": -3.9,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.9,
+    "social_chatter": 3.4,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.1,
     "search_interest": 1.1,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,74 @@
     "day": 8,
     "date": "22.06.2026",
     "declassified": "22.06.26",
-    "generated_utc": "05:40",
+    "generated_utc": "11:21",
     "top_drivers": [
-      "Come dovremmo comportarci se scoprissimo davvero gli alieni ? Le linee guida dellInternational Academy of Astronautics",
-      "X/Twitter chatter: 68 UFO/UAP posts in the last hour",
+      "Procure Space ETF ( UFO ) Adds SpaceX Following Historic Debut",
+      "X/Twitter chatter: 60 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +7% above baseline"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.2,
-    "baseline_recent": 26.0,
+    "live_signal": 18.2,
+    "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 68,
+    "x_last_hour": 60,
     "wiki_spike_pct": 7.161018168792917,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Procure Space ETF ( UFO ) Adds SpaceX Following Historic Debut",
+      "source": "etftrends.com",
+      "url": "https://www.etftrends.com/thematic-investing-content-hub/procure-space-etf-ufo-adds-spacex-following-historic-debut/"
+    },
+    {
+      "type": "news",
+      "text": "Space ETFs : How SpaceX Is Reshaping the Theme",
+      "source": "etftrends.com",
+      "url": "https://www.etftrends.com/thematic-investing-content-hub/space-etfs-how-spacex-is-reshaping-the-theme/"
+    },
+    {
+      "type": "news",
+      "text": "Un \u00e9t\u00e9 avec les fils Bach , # 2 : Carl Philipp Emanuel",
+      "source": "diapasonmag.fr",
+      "url": "https://www.diapasonmag.fr/histoire/un-ete-avec-les-fils-bach-2-carl-philipp-emanuel-64816.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pult9f7q2saoeabna38v9fg780"
+    },
+    {
+      "type": "news",
+      "text": "  Macie tydzie\u0144 . Ukraina szykuje kolejne  UFO . Putin ma powody do obaw",
+      "source": "wiadomosci.onet.pl",
+      "url": "https://wiadomosci.onet.pl/swiat/macie-tydzien-ukraina-szykuje-kolejne-ufo-putin-ma-powody-do-obaw/q4b9wjr"
+    },
+    {
+      "type": "news",
+      "text": "Girinvalle 2026 , il racconto di una festa che cambia",
+      "source": "varesenews.it",
+      "url": "https://www.varesenews.it/2026/06/girinvalle-2026/2613565/"
+    },
+    {
+      "type": "news",
+      "text": "Albuquerque banks , credit unions honored on Forbes 2026 best - in - state list",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/us-eagle-two-other-abq-credit-unions-honored-by-forbes/3067355"
+    },
     {
       "type": "news",
       "text": "Come dovremmo comportarci se scoprissimo davvero gli alieni ? Le linee guida dellInternational Academy of Astronautics",
@@ -76,82 +118,40 @@
       "url": "https://dailyillini.com/buzz-stories/buzz-features/2026/06/21/phoebe-bridgers-pop-up-concert-revives-ufo-lore/"
     },
     {
-      "type": "news",
-      "text": "Chattahoochee Nature Center in Roswell to hold 50th anniversary celebration Wednesday",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/06/21/chattahoochee-nature-center-roswell-hold-50th-anniversary-celebration-wednesday/"
-    },
-    {
-      "type": "news",
-      "text": "Dia D : O filme de Steven Spielberg tem alguma base real ? Conhe\u00e7a os casos que inspiraram a hist\u00f3ria \u2013 JORNAL 24 HORAS",
-      "source": "jornal24horas.com.br",
-      "url": "https://jornal24horas.com.br/?p=49213"
-    },
-    {
-      "type": "news",
-      "text": "Dia D : O filme de Steven Spielberg tem alguma base real ? Conhe\u00e7a os casos que inspiraram a hist\u00f3ria",
-      "source": "tecmundo.com.br",
-      "url": "https://www.tecmundo.com.br/minha-serie/604057-dia-d-o-filme-de-steven-spielberg-tem-alguma-base-real-conheca-os-casos-que-inspiraram-a-historia.htm"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=085uvv7khpkl8qljvrh7hius24"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=slj6t2qm3ghriuc379vqvfad16"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=upghe5ufe57o9au56st6819kd5"
-    },
-    {
-      "type": "news",
-      "text": "This 2 - Part Overlooked Sci - Fi Series Is The Unofficial Prequel To The X - Files",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/sci-fi-show-project-blue-book-unofficial-x-files-prequel/"
+      "type": "x",
+      "text": "@xprize @PeterDiamandis Minx Labrada's Mysterious World. A mob crew got so rich mining and buying Bitcoin they freed the whole family from tribute for good. So now? They hunt UFOs, ghosts, and Cryptid",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069017800803230066"
     },
     {
       "type": "x",
-      "text": "Bob Lazar &amp; Joe Rogan Discuss &amp; Describes the Mini Interior of a Small Recovered UFO For 3 Foot Demonic Aliens A Vessel Used To Timetravel Within A 43 Year Time Span Satan Demons Fallen Angels",
+      "text": "Aliens Create Unique Crop Circle.  UAPs are getting real crazy these days.  #aliens #cropcircle #uap https://t.co/htbVgb1KQw",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068932030356681177"
+      "url": "https://x.com/i/web/status/2069017124543078842"
     },
     {
       "type": "x",
-      "text": "@Truthpole @matt_moebius He has God\u2019s given right to claims his contact, and it won\u2019t hurt anything except the narrative from ufo group to control absolutely evetything that is told.",
+      "text": "This week has been tough im gonna summon a ufo to take me to mars for a month or something, space holiday",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068931838421172403"
+      "url": "https://x.com/i/web/status/2069015633421893937"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc40 What if the strangest part of this video isn't the object...But when it started changing?  \ud83d\udccd SALENTO, ITALY \ud83d\udcc5 JANUARY 9, 2017 A man noticed a mysterious object in the sky and began recording.  Momen",
+      "text": "@ageofdisclosure It really makes you wonder if he didn\u2019t have access to the UFO details at his level, who did exactly and was way beyond his knowledge \ud83e\udd14",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068929474876350629"
+      "url": "https://x.com/i/web/status/2069015304429039691"
     },
     {
       "type": "x",
-      "text": "#UFO #ufotwitter #ufox #UAP  Witness drawing https://t.co/2FwDDQC7SU",
+      "text": "This #ufo ...what do all it's lights do .?? Underneath https://t.co/8HHAscOYpn",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068929144990343279"
+      "url": "https://x.com/i/web/status/2069014810474455543"
     },
     {
       "type": "x",
-      "text": "@Garage_Drag0n @robinhanson Its true that many aerospace skunkworks projects have had UFO cover stories in the past. Now, the very possibility that foreign state actors are deploying \"UFOs\" in America",
+      "text": "@OMGTheWhyFiles watching the most recent episode about Canada's Most Documented UFO Cast... was Art Bell taken out of the background photos?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068928627618816015"
-    },
-    {
-      "type": "x",
-      "text": "@JedSchuler @ArthurMacwaters @elonmusk you stopped calling me a dipshit and all that so would you like to take me seriously you or elon and ill be glad to tech them how to build a ufo or what ever els",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068928621377474858"
+      "url": "https://x.com/i/web/status/2069014719508193289"
     },
     {
       "type": "swpc",
@@ -610,6 +610,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.2
+    },
+    {
+      "ts": "2026-06-22T11:21:32.418799Z",
+      "score": 27.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.2
     }
   ],
   "sources": [
