@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T23:06:37.113437Z",
-  "score": 32.4,
+  "generated_at": "2026-06-22T00:22:19.682952Z",
+  "score": 31.3,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,30 +10,30 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 3.0,
+    "d1h": 5.0,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.6,
+    "social_chatter": 6.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 7,
-    "day": 7,
-    "date": "21.06.2026",
-    "declassified": "21.06.26",
-    "generated_utc": "23:06",
+    "number": 8,
+    "day": 8,
+    "date": "22.06.2026",
+    "declassified": "22.06.26",
+    "generated_utc": "00:22",
     "top_drivers": [
-      "X/Twitter chatter: 112 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.1,
+    "live_signal": 22.7,
     "baseline_recent": 26.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,8 +49,8 @@
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 112,
-    "wiki_spike_pct": -3.907017352395506,
+    "x_last_hour": 117,
+    "wiki_spike_pct": -4.396762471093496,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@tupacabra They probably just wanted the land, so they came up with a hokey UFO story.",
+      "text": "@MiddleOfMayhem My brother was REALLY into this stuff. I said I wouldn't tell him WHAT to believe, but convinced him to at least vett WHO to believe. Let's just say his scope and acceptance of UFO cla",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832724530430263"
+      "url": "https://x.com/i/web/status/2068851965946188270"
     },
     {
       "type": "x",
-      "text": "Shermer's old tweets called Grusch a top-tier bullshitter and a Heaven's Gate cosplayer. Petty. He's since apologized. Credit for owning the tone. Tom's reply? Straight to Shermer's 2014 allegations a",
+      "text": "@IBPIR24 It looks like the McMinville 1950 ufo (conning tower like structure) and the 1954  Rouen France ufo.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832665000968513"
+      "url": "https://x.com/i/web/status/2068851889500803564"
     },
     {
       "type": "x",
-      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Underwater UFOs June 22, 1979 \u2014 Tuscan Archipelago, Italy 1/6:30 p.m. The owner of the Rainbow II yacht, his family, and the crew observe an ",
+      "text": "@RepLuna @VP Ops no longer work in America. Sure, we engage with them. We\u2019ll egg the poster on, pretend to play the game, but we\u2019re all too awake now. Maybe in the UK but you can relax. Nobody takes t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832582746222852"
+      "url": "https://x.com/i/web/status/2068851664014946405"
     },
     {
       "type": "x",
-      "text": "Had an awesome convo with @PrestonEDennett last night. Will drop on YouTube and Spotify soon! #Ufo https://t.co/0ZYGNEfaAr",
+      "text": "@LDub7890 @kizu_skip if Deen did it today it would be basically similar to ufo work, the director from 2006 is no longer there, the designs would be based on modern takeuchi because that's what tm wan",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832469944520823"
+      "url": "https://x.com/i/web/status/2068851645685858390"
     },
     {
       "type": "x",
-      "text": "@TheProjectUnity Is the halo a UFO? First glance at the pic.",
+      "text": "@The_Astral_ Lmao elizondo is working for the people that hide ufo info. If you take him seriously you are part of the problem",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832255405932962"
+      "url": "https://x.com/i/web/status/2068851612416696796"
     },
     {
       "type": "x",
-      "text": "@ElijahForCA There's a silver lining. People could've been groomed to believe that there was UFO in the tail of Comet Hale-Bopp and believe that the world is inhumane and the only way out is by killin",
+      "text": "DragonKing Hear:  The Most Mysterious Man in UFO History - Tim Taylor https://t.co/gqMJJHotUp via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068832099893694677"
+      "url": "https://x.com/i/web/status/2068851397848641554"
     },
     {
       "type": "swpc",
@@ -535,6 +535,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.1
+    },
+    {
+      "ts": "2026-06-22T00:22:19.594662Z",
+      "score": 31.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.7
     }
   ],
   "sources": [
