@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T00:22:19.682952Z",
-  "score": 31.3,
+  "generated_at": "2026-06-22T05:40:51.693749Z",
+  "score": 30.8,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 5.0,
+    "d1h": -0.7,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.9,
+    "social_chatter": 3.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.1,
-    "search_interest": 0.0,
+    "search_interest": 1.1,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,127 @@
     "day": 8,
     "date": "22.06.2026",
     "declassified": "22.06.26",
-    "generated_utc": "00:22",
+    "generated_utc": "05:40",
     "top_drivers": [
-      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
+      "Come dovremmo comportarci se scoprissimo davvero gli alieni ? Le linee guida dellInternational Academy of Astronautics",
+      "X/Twitter chatter: 68 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
-      "NEO (2015 LM24) passing Earth at 18.1 lunar distances"
+      "Wikipedia UFO pageviews +7% above baseline"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.7,
-    "baseline_recent": 26.1,
+    "live_signal": 22.2,
+    "baseline_recent": 26.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 18.0772498866,
     "asteroid_name": "(2015 LM24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 117,
-    "wiki_spike_pct": -4.396762471093496,
+    "x_last_hour": 68,
+    "wiki_spike_pct": 7.161018168792917,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@MiddleOfMayhem My brother was REALLY into this stuff. I said I wouldn't tell him WHAT to believe, but convinced him to at least vett WHO to believe. Let's just say his scope and acceptance of UFO cla",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851965946188270"
+      "type": "news",
+      "text": "Come dovremmo comportarci se scoprissimo davvero gli alieni ? Le linee guida dellInternational Academy of Astronautics",
+      "source": "wired.it",
+      "url": "https://www.wired.it/article/come-dovremmo-comportarci-se-scoprissimo-davvero-alieni-linee-guida-international-academy-of-astronautics/"
+    },
+    {
+      "type": "news",
+      "text": "Extra :  Just Show the Alien  \u2026 Neil deGrasse Tyson on Pentagon UFO Files & AI",
+      "source": "radio.foxnews.com",
+      "url": "https://radio.foxnews.com/2026/06/21/extra-just-show-the-alien-neil-degrasse-tyson-on-pentagon-ufo-files-ai/"
+    },
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers pop - up concert revives UFO lore",
+      "source": "dailyillini.com",
+      "url": "https://dailyillini.com/buzz-stories/buzz-features/2026/06/21/phoebe-bridgers-pop-up-concert-revives-ufo-lore/"
+    },
+    {
+      "type": "news",
+      "text": "Chattahoochee Nature Center in Roswell to hold 50th anniversary celebration Wednesday",
+      "source": "atlantanewsfirst.com",
+      "url": "https://www.atlantanewsfirst.com/2026/06/21/chattahoochee-nature-center-roswell-hold-50th-anniversary-celebration-wednesday/"
+    },
+    {
+      "type": "news",
+      "text": "Dia D : O filme de Steven Spielberg tem alguma base real ? Conhe\u00e7a os casos que inspiraram a hist\u00f3ria \u2013 JORNAL 24 HORAS",
+      "source": "jornal24horas.com.br",
+      "url": "https://jornal24horas.com.br/?p=49213"
+    },
+    {
+      "type": "news",
+      "text": "Dia D : O filme de Steven Spielberg tem alguma base real ? Conhe\u00e7a os casos que inspiraram a hist\u00f3ria",
+      "source": "tecmundo.com.br",
+      "url": "https://www.tecmundo.com.br/minha-serie/604057-dia-d-o-filme-de-steven-spielberg-tem-alguma-base-real-conheca-os-casos-que-inspiraram-a-historia.htm"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=085uvv7khpkl8qljvrh7hius24"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=slj6t2qm3ghriuc379vqvfad16"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=upghe5ufe57o9au56st6819kd5"
+    },
+    {
+      "type": "news",
+      "text": "This 2 - Part Overlooked Sci - Fi Series Is The Unofficial Prequel To The X - Files",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/sci-fi-show-project-blue-book-unofficial-x-files-prequel/"
     },
     {
       "type": "x",
-      "text": "@IBPIR24 It looks like the McMinville 1950 ufo (conning tower like structure) and the 1954  Rouen France ufo.",
+      "text": "Bob Lazar &amp; Joe Rogan Discuss &amp; Describes the Mini Interior of a Small Recovered UFO For 3 Foot Demonic Aliens A Vessel Used To Timetravel Within A 43 Year Time Span Satan Demons Fallen Angels",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851889500803564"
+      "url": "https://x.com/i/web/status/2068932030356681177"
     },
     {
       "type": "x",
-      "text": "@RepLuna @VP Ops no longer work in America. Sure, we engage with them. We\u2019ll egg the poster on, pretend to play the game, but we\u2019re all too awake now. Maybe in the UK but you can relax. Nobody takes t",
+      "text": "@Truthpole @matt_moebius He has God\u2019s given right to claims his contact, and it won\u2019t hurt anything except the narrative from ufo group to control absolutely evetything that is told.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851664014946405"
+      "url": "https://x.com/i/web/status/2068931838421172403"
     },
     {
       "type": "x",
-      "text": "@LDub7890 @kizu_skip if Deen did it today it would be basically similar to ufo work, the director from 2006 is no longer there, the designs would be based on modern takeuchi because that's what tm wan",
+      "text": "\ud83d\udc40 What if the strangest part of this video isn't the object...But when it started changing?  \ud83d\udccd SALENTO, ITALY \ud83d\udcc5 JANUARY 9, 2017 A man noticed a mysterious object in the sky and began recording.  Momen",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851645685858390"
+      "url": "https://x.com/i/web/status/2068929474876350629"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Lmao elizondo is working for the people that hide ufo info. If you take him seriously you are part of the problem",
+      "text": "#UFO #ufotwitter #ufox #UAP  Witness drawing https://t.co/2FwDDQC7SU",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851612416696796"
+      "url": "https://x.com/i/web/status/2068929144990343279"
     },
     {
       "type": "x",
-      "text": "DragonKing Hear:  The Most Mysterious Man in UFO History - Tim Taylor https://t.co/gqMJJHotUp via @YouTube",
+      "text": "@Garage_Drag0n @robinhanson Its true that many aerospace skunkworks projects have had UFO cover stories in the past. Now, the very possibility that foreign state actors are deploying \"UFOs\" in America",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2068851397848641554"
+      "url": "https://x.com/i/web/status/2068928627618816015"
+    },
+    {
+      "type": "x",
+      "text": "@JedSchuler @ArthurMacwaters @elonmusk you stopped calling me a dipshit and all that so would you like to take me seriously you or elon and ill be glad to tech them how to build a ufo or what ever els",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2068928621377474858"
     },
     {
       "type": "swpc",
@@ -542,6 +603,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.7
+    },
+    {
+      "ts": "2026-06-22T05:40:51.619197Z",
+      "score": 30.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.2
     }
   ],
   "sources": [
