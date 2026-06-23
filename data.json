@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-23T14:42:28.805054Z",
-  "score": 24.5,
+  "generated_at": "2026-06-23T17:06:01.661924Z",
+  "score": 27.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.1,
+    "d1h": 6.7,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.2,
+    "social_chatter": 9.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,73 @@
     "day": 9,
     "date": "23.06.2026",
     "declassified": "23.06.26",
-    "generated_utc": "14:42",
+    "generated_utc": "17:06",
     "top_drivers": [
-      "One Day in America",
-      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
+      "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | WLLR - FM",
+      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
       "NEO (2018 MJ7) passing Earth at 53.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.0,
-    "baseline_recent": 24.7,
+    "live_signal": 18.5,
+    "baseline_recent": 24.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 53.6185563173,
     "asteroid_name": "(2018 MJ7)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 138,
+    "gdelt_spike_pct": -44.54244880546075,
+    "x_last_hour": 164,
     "wiki_spike_pct": -3.5505841221928125,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | WLLR - FM",
+      "source": "1037wllr.iheart.com",
+      "url": "https://1037wllr.iheart.com/featured/bobby-bones/content/2026-06-23-1119-the-bobby-bones-show-tues-pt-1-top-3-craziest-things-bobbys-seen-himse/"
+    },
+    {
+      "type": "news",
+      "text": "Yaz g\u00fcnd\u00f6n\u00fcm\u00fc",
+      "source": "kocaeligazetesi.com.tr",
+      "url": "https://www.kocaeligazetesi.com.tr/makale/28220551/seher-kece-turker/yaz-gundonumu"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0438 24 \u0438\u044e\u043d\u044f 2026 \u0433\u043e\u0434\u0430 : \u0438\u043c\u0435\u043d\u0438\u043d\u044b , \u043f\u0440\u0438\u043c\u0435\u0442\u044b",
+      "source": "korrespondent.net",
+      "url": "https://korrespondent.net/lifestyle/4888636-prazdnyky-24-yuinia-2026-hoda-ymenyny-prymety"
+    },
+    {
+      "type": "news",
+      "text": "Alien Invasion Survival : Louisiana Ranks Sixth In The Nation",
+      "source": "999ktdy.com",
+      "url": "https://999ktdy.com/ixp/33/p/ufos-louisiana-survivability-index/"
+    },
+    {
+      "type": "news",
+      "text": "Bradley Walsh tipped for unexpected new venture beyond The Chase",
+      "source": "hellomagazine.com",
+      "url": "https://www.hellomagazine.com/film/908950/bradley-walsh-tipped-for-huge-career-change-with-exciting-news/"
+    },
+    {
+      "type": "news",
+      "text": "UFO expert claims extraterrestrial arms race is underway",
+      "source": "femalefirst.co.uk",
+      "url": "http://www.femalefirst.co.uk/bizarre/ufo-expert-claims-extraterrestrial-arms-race-underway-1446396.html"
+    },
+    {
+      "type": "news",
+      "text": "Bradley Walsh : Out Of This World will see the star turn UFO investigator in new Sky History series",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/articles/bradley-walsh-out-of-this-world-star-turn-ufo-investigator-new-sky-history-series/"
+    },
     {
       "type": "news",
       "text": "One Day in America",
@@ -75,82 +117,40 @@
       "url": "https://973thedawg.com/ufos-louisiana-survivability-index/"
     },
     {
-      "type": "news",
-      "text": "Alien Autopsy creators explain how they fooled the world",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/world/alien-autopsy-creators-explain-how-they-fooled-the-world-c-22475058"
-    },
-    {
-      "type": "news",
-      "text": "Alien Invasion Survival : Louisiana Ranks Sixth In The Nation",
-      "source": "kpel965.com",
-      "url": "https://kpel965.com/ixp/33/p/ufos-louisiana-survivability-index/"
-    },
-    {
-      "type": "news",
-      "text": "\u0422\u0440\u0443\u0434 : Oracle \u0443\u0432\u043e\u043b\u0438\u043b\u0430 \u0438\u0437 - \u0437\u0430 \u0418\u0418 \u0431\u043e\u043b\u0435\u0435 20 \u0442\u044b\u0441\u044f\u0447 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432",
-      "source": "trud.ru",
-      "url": "https://www.trud.ru/article/23-06-2026/1815361_oracle_uvolila_iz-za_ii_bolee_20_tysjach_sotrudnikov.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=90k1oouupnt093bt34a9poo0o5"
-    },
-    {
-      "type": "news",
-      "text": "Drony z Ukrainy wy\u0142\u0105czaj\u0105 rafinerie , na stacjach brakuje \u2026 ",
-      "source": "nettg.pl",
-      "url": "https://nettg.pl/drony-z-ukrainy-wylaczaja-rafinerie-na-stacjach-brakuje-benzyny-tego-lenin-by-nie-wymyslil"
-    },
-    {
-      "type": "news",
-      "text": "Dibu Mart\u00ednez :  El dedo est\u00e1 perfecto  y de qui\u00e9n es el  m\u00e9rito  por las vallas invictas",
-      "source": "ole.com.ar",
-      "url": "https://www.ole.com.ar/seleccion/emilianomartinez-recuperacion-arquero-defensa_0_2kKKuvjOcj.html"
-    },
-    {
-      "type": "news",
-      "text": "\u092b\u094b\u0928 \u092a\u0930 \u0906\u092f\u093e \u0916\u094c\u092b\u0928\u093e\u0915 \u0905\u0932\u0930\u094d\u091f  \u0907\u0902\u0938\u093e\u0928\u094b\u0902 , \u0939\u092e \u0906 \u0917\u090f , \u092c\u094d\u0930\u093e\u091c\u0940\u0932 \u092e\u0947\u0902 \u0930\u093e\u0924\u092d\u0930 \u091a\u0930\u094d\u091a\u093e \u0915\u093e \u0935\u093f\u0937\u092f \u092c\u0928\u093e \u0938\u0902\u0926\u0947\u0936 \u2013 Sanjeevni Today",
-      "source": "sanjeevnitoday.com",
-      "url": "https://sanjeevnitoday.com/a-scary-alert-came-on-the-phone-we-humans-have-arrived-the-message-became-a-topic-of-discussion-throughout-the-night-in-brazil/"
+      "type": "x",
+      "text": "@richgel999 You have pre-existing film of UAP jellyfish, and now they show up in the middle of a flightpath in Iran. Lots of daylight here between the two events.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069466951345217572"
     },
     {
       "type": "x",
-      "text": "OK, according to the Handbook of UFO Religions, Biglino was fired by a Catholic publishing house, not the Vatican, because his translation worked veered into pseudo archaeology.   Biglino reportedly a",
+      "text": "@Bbmorg Oh take care my love that savors strongly of bitterness BTW get out of my feed, you're crowding out the usual UFO nuts I'd rather see",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069430559038747009"
+      "url": "https://x.com/i/web/status/2069466949877125563"
     },
     {
       "type": "x",
-      "text": "@DevilofScarlet_ Sending a UFO to take you back to the moon.",
+      "text": "UFO...You can hear the hum of the craft...Incident at Campo Largo. https://t.co/HXRFxNrDnA",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069430504047198426"
+      "url": "https://x.com/i/web/status/2069466939307516393"
     },
     {
       "type": "x",
-      "text": "The really popular UFO podcaster pro bros getting ready to go to their tech bro overseers bunker when shit hits the fan to be his new little pet bitch for eternity.... Only to find out what happens to",
+      "text": "\ud83d\udef8\"I Want believe\"\ud83d\udc7d #OMisterioDeVarginha #ETdeVarginha #UFO https://t.co/mpZCAlVXdd",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069430260991426729"
+      "url": "https://x.com/i/web/status/2069466798215356665"
     },
     {
       "type": "x",
-      "text": "Alliance Update: Israel \u2014 The Final Domino? Has Prophecy Reached Its Fulfillment Point? https://t.co/7tjIkch5nG #UFO #UFONews #ufodisclosure",
+      "text": "@nbcwashington Tucker lost some significant credibility a while ago due to his Antisemitic Associations and claims that the UAP phenomenon are Demons.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069430171829211169"
+      "url": "https://x.com/i/web/status/2069466540869865767"
     },
     {
       "type": "x",
-      "text": "Unknown Object seen flying near balochistan pakistan #alien #ufo https://t.co/ERFF2Z1Qkx",
+      "text": "@UAPDr @Go_Kick_Rocks88 Some ANONYMOUS ufo loon calls police with zero proof story. Implies he was killed because of big Trump admin documents coming out. Those documents come out, she was full of it,",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069430006158344220"
-    },
-    {
-      "type": "x",
-      "text": "@asimo3089 Love jailbreak, played it first time when u guys did the ufo update. The only reason I think I stuck and continued playing it was the community. The one issue right now are the exploiters. ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069429845143253222"
+      "url": "https://x.com/i/web/status/2069466510696042612"
     },
     {
       "type": "neo",
@@ -668,6 +668,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.0
+    },
+    {
+      "ts": "2026-06-23T17:06:01.587742Z",
+      "score": 27.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.5
     }
   ],
   "sources": [
