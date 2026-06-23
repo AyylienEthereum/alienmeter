@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-23T22:38:53.454774Z",
-  "score": 51.2,
+  "generated_at": "2026-06-23T23:40:57.075528Z",
+  "score": 26.6,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 26.7,
+    "d1h": -0.6,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
-    "social_chatter": 7.9,
+    "news_velocity": 0.0,
+    "social_chatter": 10.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,24 @@
     "day": 9,
     "date": "23.06.2026",
     "declassified": "23.06.26",
-    "generated_utc": "22:38",
+    "generated_utc": "23:40",
     "top_drivers": [
-      "Why I Joined the White House UAP Science Advisory Council",
-      "News velocity +335% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 134 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 179 UFO/UAP posts in the last hour",
       "NEO (2018 MJ7) passing Earth at 53.6 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 49.4,
-    "baseline_recent": 24.3,
+    "live_signal": 17.7,
+    "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 53.6185563173,
     "asteroid_name": "(2018 MJ7)",
-    "gdelt_spike_pct": 334.53506057586407,
-    "x_last_hour": 134,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 179,
     "wiki_spike_pct": -3.5505841221928125,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Why I Joined the White House UAP Science Advisory Council",
-      "source": "skeptic.com",
-      "url": "https://www.skeptic.com/michael-shermer-show/why-i-joined-the-white-house-uap-science-advisory-council/"
-    },
-    {
-      "type": "news",
-      "text": "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | 94 . 3 WKKJ",
-      "source": "wkkj.iheart.com",
-      "url": "https://wkkj.iheart.com/featured/bobby-bones/content/2026-06-23-1119-the-bobby-bones-show-tues-pt-1-top-3-craziest-things-bobbys-seen-himse/"
-    },
-    {
-      "type": "news",
-      "text": "Trump Says 6 People Have Been Arrested for Damaging the Reflecting Pool",
-      "source": "military.com",
-      "url": "https://www.military.com/trump-says-6-people-have-been-arrested-for-damaging-the-reflecting-pool"
-    },
-    {
-      "type": "news",
-      "text": "Official Concerned Fire Tragedy Could Happen in Town of Dickinson",
-      "source": "981thehawk.com",
-      "url": "https://981thehawk.com/ixp/499/p/dickinson-motel-fire-tragedy/"
-    },
-    {
-      "type": "news",
-      "text": "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | 97 . 9 is The BIG 98",
-      "source": "thebig98.iheart.com",
-      "url": "https://thebig98.iheart.com/featured/bobby-bones/content/2026-06-23-1119-the-bobby-bones-show-tues-pt-1-top-3-craziest-things-bobbys-seen-himse/"
-    },
-    {
-      "type": "news",
-      "text": "7 Facts About Area 51 : CIA Spy Planes , UFO Sightings & Cold War Secrets",
-      "source": "military.com",
-      "url": "https://www.military.com/7-things-americans-should-know-about-area-51-the-secretive-air-force-site"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nm716pjinteokpqp09b8nn37f6"
-    },
-    {
-      "type": "news",
-      "text": "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | 102 . 5 The Bull",
-      "source": "1025thebull.iheart.com",
-      "url": "https://1025thebull.iheart.com/featured/bobby-bones/content/2026-06-23-1119-the-bobby-bones-show-tues-pt-1-top-3-craziest-things-bobbys-seen-himse/"
-    },
-    {
-      "type": "news",
-      "text": "TUES PT 1 : \u00a0Top 3 Craziest Things Bobby Seen Himself ! \u00a0+ Lamest Things A Ma | 92 . 9 The Big Dog",
-      "source": "929thebigdog.iheart.com",
-      "url": "https://929thebigdog.iheart.com/featured/bobby-bones/content/2026-06-23-1119-the-bobby-bones-show-tues-pt-1-top-3-craziest-things-bobbys-seen-himse/"
-    },
-    {
-      "type": "news",
-      "text": "  E . T . phone home : Unistellar and the SETI Institute separate fact from fiction about extraterrestrial activity",
-      "source": "yubanet.com",
-      "url": "https://yubanet.com/life/e-t-phone-home-unistellar-and-the-seti-institute-separate-fact-from-fiction-about-extraterrestrial-activity/"
+      "type": "x",
+      "text": "Remember when weather balloons were blamed for UFO sightings by the government? Never A Straight Answer aka NASA.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069566181388750866"
     },
     {
       "type": "x",
-      "text": "Welcome to crazy town @RepSuhas   Following the $22m USG contract that a crazy UFO group procured a few years ago, the same group are back for more\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0  @LueElizondo (who was part of @disclosurefound) ",
+      "text": "@MiddleearthMixr And was the gatekeeper of the UAP Legacy Program.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069550581728018832"
+      "url": "https://x.com/i/web/status/2069566088703045840"
     },
     {
       "type": "x",
-      "text": "@peterthiel Still waiting on my Dialog secret society invite. I\u2019ve got an incredible PowerPoint presentation on how to use UFO disclosure to distract the sheeple from offering the world free energy an",
+      "text": "$313K \ud83d\udc0b in coordinated NO bets on 'Will the US confirm that aliens exist by June 30?' 5 wallets, same direction. Smart money or noise? #UFO https://t.co/HlBEUYsutD",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069550394565673273"
+      "url": "https://x.com/i/web/status/2069566006838923361"
     },
     {
       "type": "x",
-      "text": "The Pentagon just released its third batch of UAP files. 294 declassified documents since May. 1.7 billion hits on the DoD's UFO website.  JD Vance says the lights in the sky are demons. Tucker Carlso",
+      "text": "What if I could fly in a UFO with the military for free? Is that better than your stupid waste of money Bugatti?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069550149567762593"
+      "url": "https://x.com/i/web/status/2069565875380760853"
     },
     {
       "type": "x",
-      "text": "The Six Hours Missing From Highway 59  I stopped for gas outside Nacogdoches at 10:52 PM. The next thing I remember, the sun was coming up. My truck was 87 miles away. The security footage showed me l",
+      "text": "Declassified 1979 USAF Foreign Technology Division Translation on Advanced Soviet MHD Systems  #ufotwitter  It's a technical translation report (FTD-ID(RS)T-2264-77) produced by the U.S. Air Force's F",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069550146266837380"
+      "url": "https://x.com/i/web/status/2069565685886284030"
     },
     {
       "type": "x",
-      "text": "Our first woman president. #ufo #disclosure #president https://t.co/hxTgKccqxR",
+      "text": "What happened to Neil McCasland? The UFO General who vanished without a trace https://t.co/YGWYtEXJPP",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069549899780100336"
-    },
-    {
-      "type": "x",
-      "text": "@elonmusk HOW ELON STOLE CRASHED UFO TECH from ALIENS.Vivaris Capital registered alien captured ufo tech.  Apr 13'22 Musk  absorbed Vivaris Capital VICAN FUND to TESLA  B.Oct 17,'19 contract w/ ArmyCo",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069549865663914092"
+      "url": "https://x.com/i/web/status/2069565596803510302"
     },
     {
       "type": "neo",
@@ -697,6 +635,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 49.4
+    },
+    {
+      "ts": "2026-06-23T23:40:57.000760Z",
+      "score": 26.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.7
     }
   ],
   "sources": [
