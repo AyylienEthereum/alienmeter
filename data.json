@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T01:29:16.908624Z",
-  "score": 21.0,
+  "generated_at": "2026-06-23T05:43:54.695992Z",
+  "score": 22.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -14.5,
+    "d1h": -9.5,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.1,
+    "social_chatter": 4.6,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
-    "search_interest": 1.1,
+    "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,126 @@
     "day": 9,
     "date": "23.06.2026",
     "declassified": "23.06.26",
-    "generated_utc": "01:29",
+    "generated_utc": "05:43",
     "top_drivers": [
-      "X/Twitter chatter: 137 UFO/UAP posts in the last hour",
-      "Wikipedia UFO pageviews +7% above baseline",
+      "  Disclosure Day : Emily Blunt and Josh OConnor Unravel a Government Conspiracy | Film",
+      "X/Twitter chatter: 79 UFO/UAP posts in the last hour",
       "NEO (2018 MJ7) passing Earth at 53.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.8,
-    "baseline_recent": 25.6,
+    "live_signal": 11.8,
+    "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "C",
     "closest_asteroid_ld": 53.6185563173,
     "asteroid_name": "(2018 MJ7)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 137,
-    "wiki_spike_pct": 6.936135652311713,
+    "x_last_hour": 79,
+    "wiki_spike_pct": -3.5505841221928125,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@MiddleOfMayhem @ddeanjohnson @RepEricBurlison If you replace UFO Groups with any other number of special interest groups you just described how the system works. Not a refutation of your point.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069230887946887426"
+      "type": "news",
+      "text": "  Disclosure Day : Emily Blunt and Josh OConnor Unravel a Government Conspiracy | Film",
+      "source": "ithaca.com",
+      "url": "https://www.ithaca.com/entertainment/film/disclosure-day-emily-blunt-and-josh-oconnor-unravel-a-government-conspiracy/article_5301d96b-c6eb-4b56-aa00-0cb81de3798a.html"
+    },
+    {
+      "type": "news",
+      "text": "10 Puzzling Tales of Astronauts on Lunar and Planetary Missions",
+      "source": "listverse.com",
+      "url": "https://listverse.com/2023/01/27/10-puzzling-tales-of-astronauts-on-lunar-and-planetary-missions/"
+    },
+    {
+      "type": "news",
+      "text": "Monday evening forecast : Heat advisory takes effect tomorrow for Albuquerque",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/monday-evening-forecast-heat-advisory-takes-effect-tomorrow-for-albuquerque/"
+    },
+    {
+      "type": "news",
+      "text": "Eddy Cue accepts Entertainment Person of the Year Award at Cannes Lions",
+      "source": "9to5mac.com",
+      "url": "https://9to5mac.com/2026/06/22/eddy-cue-accepts-entertainment-person-of-the-year-award-at-cannes-lions/"
+    },
+    {
+      "type": "news",
+      "text": "TV star Bradley Walsh to host new UFO show",
+      "source": "femalefirst.co.uk",
+      "url": "http://www.femalefirst.co.uk/tv/news/star-bradley-walsh-host-new-ufo-show-1446359.html"
+    },
+    {
+      "type": "news",
+      "text": "Thunderstorms , fire weather await New Mexico this week as monsoon gets into swing",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/local_news/thunderstorms-fire-weather-await-new-mexico-this-week-as-monsoon-gets-into-swing/article_d01bc4da-a1de-45e4-b686-7ae6e4b98a0b.html"
+    },
+    {
+      "type": "news",
+      "text": "Momentul bizar care a declan\u0219at era \u201e farfuriilor zbur\u0103toare . Ce a v\u0103zut pe cer experimentatul pilot Kenneth Arnold",
+      "source": "adevarul.ro",
+      "url": "https://adevarul.ro/stil-de-viata/magazin/momentul-bizar-care-a-declansat-era-farfuriilor-2538201.html"
+    },
+    {
+      "type": "news",
+      "text": "  The Simpsons  -  Extreme Makeover : Homer Edition  Recap / Review",
+      "source": "laughingplace.com",
+      "url": "https://www.laughingplace.com/entertainment/simpsons-extreme-makeover-homer-edition-recap-review/"
+    },
+    {
+      "type": "news",
+      "text": "Pierwsz\u0105 nagrod\u0119 Konkursu Wyobra\u017a Sobie zdoby\u0142 Marcin Michalski za \u201e Scanboy . ",
+      "source": "rp.pl",
+      "url": "https://www.rp.pl/kultura/art44677581-konkurs-wyobraz-sobie-dwudziestolatek-ktory-utrzymuje-rodzine-cialem"
+    },
+    {
+      "type": "news",
+      "text": "Brad Pitt Biggest Action Movie of All Time Gets Major Sequel Update",
+      "source": "movieweb.com",
+      "url": "https://movieweb.com/brad-pitt-f1-sequel-update-bruckheimer/"
     },
     {
       "type": "x",
-      "text": "@B_Chaos_ @ToshiArte Not so lucky for the soldiers watching the UFO tho lol",
+      "text": "#collinselite Scene from my upcoming Feature film on #UFO #Disclosure #TheSoulTrap https://t.co/eLmVguC2lE",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069230686238884044"
+      "url": "https://x.com/i/web/status/2069294464213098956"
     },
     {
       "type": "x",
-      "text": "@oye_samia It's a pocket UFO",
+      "text": "California | September 2021  A disc-shaped object being transported on a truck near Edwards Air Force Base drew widespread attention after footage of it began circulating online.  Due to its unusual a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069230566256656406"
+      "url": "https://x.com/i/web/status/2069294378896728486"
     },
     {
       "type": "x",
-      "text": "THE AURORA TRIANGLE HUMAN ENGINEERED UFO \ud83d\udef8 TR-3B AIRCRAFT made by humans for humans. Stop being stupid and thinking we are not capable of making advanced technology. Give us the credit for once! The \u201c",
+      "text": "@ChrisKMellon @UAPGERB The harder we demand the Epstein files, the more likely they'll give us the UFO files.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069230562376831094"
+      "url": "https://x.com/i/web/status/2069294200936448335"
     },
     {
       "type": "x",
-      "text": "LEt\u2019s face it not a lot of people can say they have seen:  A Tall entity possibly from another dimension  A UFO up close and personal Experienced the 2022-2023 Breach  Had visions of a fully digitaliz",
+      "text": "@TifaniesweTs Quantum nanotechnology mecha suit Bluetooth connection to proto uap drones https://t.co/g1CvQww0IB",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069230183010218053"
+      "url": "https://x.com/i/web/status/2069294175200432453"
     },
     {
       "type": "x",
-      "text": "@Am_Blujay Turned him into an Alien and said UFO!!! U found out\ud83e\udd23",
+      "text": "@DrDavidMiano the #UAP phenomenon is very real! And it's a very well known ancient phenomenon. The historical records are very clear on what this is, and it's not aliens in the way people think. \ud83c\uddfb\ud83c\udde6 ht",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069229943192441050"
+      "url": "https://x.com/i/web/status/2069294138650984922"
+    },
+    {
+      "type": "x",
+      "text": "@ericweinstein It is a big club, and the uncompromised are not in it.  You wanna get to the bottom of the anti-gravitics business, solve the problem secretly, then publish open source. That'll teach '",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069294039002738904"
     },
     {
       "type": "neo",
@@ -573,6 +633,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.8
+    },
+    {
+      "ts": "2026-06-23T05:43:54.618590Z",
+      "score": 22.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.8
     }
   ],
   "sources": [
