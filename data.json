@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-23T19:19:39.863417Z",
-  "score": 31.4,
+  "generated_at": "2026-06-23T21:13:26.179229Z",
+  "score": 24.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 11.5,
+    "d1h": -2.0,
     "d24h": 0.0,
     "peak90": 53.8
   },
   "contributing_factors": {
-    "news_velocity": 7.2,
-    "social_chatter": 8.7,
+    "news_velocity": 0.0,
+    "social_chatter": 9.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.0
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 9,
     "date": "23.06.2026",
     "declassified": "23.06.26",
-    "generated_utc": "19:19",
+    "generated_utc": "21:13",
     "top_drivers": [
-      "News velocity +30% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 156 UFO/UAP posts in the last hour",
       "NEO (2018 MJ7) passing Earth at 53.6 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.9,
+    "live_signal": 14.5,
     "baseline_recent": 24.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 53.6185563173,
     "asteroid_name": "(2018 MJ7)",
-    "gdelt_spike_pct": 29.812530043262303,
-    "x_last_hour": 147,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 156,
     "wiki_spike_pct": -3.5505841221928125,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "TUE. 6/23/26: UFO Flight Risks and Cape Girardeau Crash w/ Todd Curtis &amp; Paul Blake Smith  Pilots, flight attendants, and passengers have reported encounters with UFOs for decades that have caused",
+      "text": "@DanielleElfStar @GluttonSloth @BillyKryzak The thread is debating interdimensional vs extraterrestrial explanations for UAP/entities.   BillyKryzak's post references Rep. Anna Paulina Luna saying som",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069500543933051206"
+      "url": "https://x.com/i/web/status/2069529181155737746"
     },
     {
       "type": "x",
-      "text": "An overview that we would have loved to see in animation. #\u30d0\u30ec\u30f3\u30c9\u30b9 #Barendos #UFO\u30ed\u30dc\u30b0\u30ec\u30f3\u30c0\u30a4\u30b6\u30fc\u5bfe\u30b0\u30ec\u30fc\u30c8\u30de\u30b8\u30f3\u30ac\u30fc #Goldorak #GreatMazinger #Goldrake #\u30b0\u30ec\u30f3\u30c0\u30a4\u30b6\u30fc #Grendizer #Mazinger #Anime https://t.co/3e5Oh8cNxk",
+      "text": "**NEW** Aldo Rebelo, former Brazilian Minister of Defense: \"The Varginha UFO Crash was REAL with Alien bodies recovered\" \ud83d\udc7d\ud83d\udef8\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\uddf7  \"There are statements from military personnel and others are maintained",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069500077022777782"
+      "url": "https://x.com/i/web/status/2069528816930717984"
     },
     {
       "type": "x",
-      "text": "How to scare your neighbors and cause new UAP sightings! https://t.co/7ji2ceKi7F",
+      "text": "@BrianRoemmele ashtar galactic command.   lol  how 1970s.  one can see the silver jumpsuits and tinsel hanging between the doors arches.;)   Pure 70s UFO cult meets Dr. Who",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069499787997565060"
+      "url": "https://x.com/i/web/status/2069528686160986216"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe I think that I know why Celebrities are relevant to the issue and why They even would genuinely know things and mock the audience.  I think that He knows things but us mocking The UFO lore ",
+      "text": "Occurrences at the Sanctuary recently\u2026. #ufo #orb #paranormal #spirit #ascension https://t.co/g4dYKCWszB",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069499661660963286"
+      "url": "https://x.com/i/web/status/2069528640069788122"
     },
     {
       "type": "x",
-      "text": "@Redwire $RDW isn\u2019t just building in space, it\u2019s building the backbone of the space economy. As a holding in the $UFO Procure Space ETF, it offers investors exposure to the infrastructure powering tom",
+      "text": "@cole_squires Everyone has assigned near-mythical abilities and unlimited resources to these secret programs\u2014and yet they can\u2019t stop unknowns from getting on YouTube? All they\u2019d have to do is monitor ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069499228586713458"
+      "url": "https://x.com/i/web/status/2069528478060552644"
     },
     {
       "type": "x",
-      "text": "@ufouapam Why are people in the UFO community, at least on X, seemingly invested in it being so commercially successful? In the same period it's having to compete with Backrooms, and Project Hail Mary",
+      "text": "@KsuKrysha @anarhist363 This time he used his super advanced Ufo to vanish! https://t.co/9BdhXghFgu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069499138069111252"
+      "url": "https://x.com/i/web/status/2069528436146671665"
     },
     {
       "type": "neo",
@@ -622,6 +621,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.9
+    },
+    {
+      "ts": "2026-06-23T21:13:26.103670Z",
+      "score": 24.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.5
     }
   ],
   "sources": [
