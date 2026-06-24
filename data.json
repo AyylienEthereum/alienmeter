@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T16:34:54.989543Z",
-  "score": 30.4,
+  "generated_at": "2026-06-24T18:22:57.807178Z",
+  "score": 36.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 2.1,
+    "d1h": 11.6,
     "d24h": 0.0,
     "peak90": 57.0
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.3,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 2.4,
     "seismic": 2.8,
-    "alien_variance": 1.5
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,56 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "16:34",
+    "generated_utc": "18:22",
     "top_drivers": [
-      "Bally Intralot : \u03a3\u03c4\u03bf 0 , 121 % \u03c4\u03bf \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03c4\u03b7\u03c2 Deutsche Bank",
-      "X/Twitter chatter: 189 UFO/UAP posts in the last hour",
+      "\u0421\u0430\u043c\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0438 \u0441\u0442\u0440\u0430\u0448\u043d\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u041d\u041b\u041e",
+      "X/Twitter chatter: 229 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.6,
+    "live_signal": 30.2,
     "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 189,
-    "wiki_spike_pct": -13.794309658557419,
+    "x_last_hour": 229,
+    "wiki_spike_pct": -15.431088815182163,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.59,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u0421\u0430\u043c\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0438 \u0441\u0442\u0440\u0430\u0448\u043d\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u041d\u041b\u041e",
+      "source": "5-tv.ru",
+      "url": "https://www.5-tv.ru/news/5075337/celovekaserica-idetskie-risunki-samye-pugausie-slucai-nabludenia-nlo-aii/"
+    },
+    {
+      "type": "news",
+      "text": "Identifican al ni\u00f1o hispano que muri\u00f3 tras ahogarse en piscina de Roswell",
+      "source": "telemundoatlanta.com",
+      "url": "https://www.telemundoatlanta.com/2026/06/24/identifican-al-nio-hispano-que-muri-tras-ahogarse-en-piscina-de-roswell/"
+    },
+    {
+      "type": "news",
+      "text": "\u039f\u03c1\u03b9\u03b1\u03ba\u03ad\u03c2 \u03b1\u03c0\u03ce\u03bb\u03b5\u03b9\u03b5\u03c2 \u03c3\u03b5 \u03a7\u0391\u039a \u03ba\u03b1\u03b9 Athex",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/stockwatch/17975764-%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%AD%CF%82-%CE%B1%CF%80%CF%8E%CE%BB%CE%B5%CE%B9%CE%B5%CF%82-%CF%83%CE%B5-%CF%87%CE%B1%CE%BA-%CE%BA%CE%B1%CE%B9-athex.html"
+    },
+    {
+      "type": "news",
+      "text": "  Sembrava una medusa . Il mistero dello sciame di droni visto dal pilota united states abbattuto in Iran",
+      "source": "ilgiornale.it",
+      "url": "https://www.ilgiornale.it/news/guerra/sembrava-medusa-mistero-dello-sciame-droni-visto-pilota-usa-2683771.html"
+    },
     {
       "type": "news",
       "text": "Bally Intralot : \u03a3\u03c4\u03bf 0 , 121 % \u03c4\u03bf \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03c4\u03b7\u03c2 Deutsche Bank",
@@ -93,64 +118,52 @@
       "url": "https://www.lacapital.com.ar/la-ciudad/ovnis-o-platos-voladores-el-termino-acunado-el-piloto-kennet-arnold-1947-n10265603.html"
     },
     {
-      "type": "news",
-      "text": "Dems rattled after progressive wave sweeps New York primaries and more top headlines",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/us/dems-rattled-after-progressive-wave-sweeps-new-york-primaries-more-top-headlines"
-    },
-    {
-      "type": "news",
-      "text": "Former Pentagon strategist says America is asking the wrong question about UAPs",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dmjrghlgnaq5nudsnm5flm0373"
-    },
-    {
-      "type": "news",
-      "text": "Who Is Bashar ? Extraterrestrial Expert Explains Channeling Claims During Mayim Bialik Podcast",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/darryl-anka-bashar-extraterrestrial-contact-podcast-1804734"
+      "type": "x",
+      "text": "@ThatEricAlper A hard one have to say UFO and Iron Maiden",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069848480198054110"
     },
     {
       "type": "x",
-      "text": "Tomorrow Thursday June 25th at 8pm #UFOTwitterWeek #UFO #UAP #UFOx https://t.co/SxCRTeVnpx",
+      "text": "Just for funsies, I tried using a mirror, a little water, and my phone light to see what I would get. The answer: Clearly a UFO, and possibly better than what we have seen in the tranches so far. \ud83d\ude02 #u",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069821486387401173"
+      "url": "https://x.com/i/web/status/2069848354784166134"
     },
     {
       "type": "x",
-      "text": "@EricLDaugh WHAT IS HILARIOUS IS...ONCE IT IS DRAINED...\"REPAIRED\"...REFILLED...&amp; IT IS FENCED &amp; GUARDED...&amp; THEN THE SAME THING \"MAGICALLY HAPPENS AGAIN\" FROM THE ORIGINALLY GRIFTED NO-BI",
+      "text": "@UAPWatchers Historical UAP \"Jellyfish\"... I wonder if this is similar to what they witnessed? https://t.co/WTojM3XODJ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069821448596660463"
+      "url": "https://x.com/i/web/status/2069848350262776058"
     },
     {
       "type": "x",
-      "text": "@paulsportal19 A Century of UFO Psyops Exposed Part 1: From War of the Worlds to Laurence Rockefeller's Disclosure Project https://t.co/CSb9w1MOhq",
+      "text": "@SPAINsider UFO?   DID SOMETHING OF SUCH HAPPENED RECENTLY?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069821378639835282"
+      "url": "https://x.com/i/web/status/2069848298815442970"
     },
     {
       "type": "x",
-      "text": "Sila Gonclaves says there\u2019s going to be a UFO mothership at the Brazil Scotland match today.   A fleet of alien spacecraft, including smaller ships and a giant UFO mothership will descend on the pitch",
+      "text": "Translation a crazy women from Brazil talks utter nonsense. She believes it but that's the joy of mental illness, I once thought I was Steve Jobs \ud83d\ude02 #ufo #scotlandvBrazil #ufoabduction https://t.co/oLW",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069821356389146715"
+      "url": "https://x.com/i/web/status/2069848199385260065"
     },
     {
       "type": "x",
-      "text": "@robinhanson While Republicans may well be more interested in UFO disclosure, your poll did not establish that.  Democrats and independents were free to opine that about Republicans.",
+      "text": "Wait @rosscoulthart... Don't tell me @RepEricBurlison actually grilled you about the bullsh*t giant UFO/alien spaceship you claim to know the location of? That would be hilarious if true! https://t.co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069821302072893880"
+      "url": "https://x.com/i/web/status/2069848176933437773"
     },
     {
-      "type": "x",
-      "text": "GOT EM! #Disclosure #UFO #HiddenKnowledge #ForbiddenHistory #AlternativeHistory #TheLiftedVeil  https://t.co/81ct1kcdVv   #LETSROLL https://t.co/HjrJRxUS3F",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069820822777131055"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2667\r Issue Time: 2026 Jun 24 1748 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5366\r Issue Time: 2026 Jun 24 1746 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "seismic",
@@ -751,6 +764,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.6
+    },
+    {
+      "ts": "2026-06-24T18:22:57.732807Z",
+      "score": 36.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.2
     }
   ],
   "sources": [
