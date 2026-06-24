@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T05:49:50.168320Z",
-  "score": 28.3,
+  "generated_at": "2026-06-24T08:58:09.246418Z",
+  "score": 24.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.3,
+    "d1h": -26.4,
     "d24h": 0.0,
     "peak90": 57.0
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.4,
+    "social_chatter": 4.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,65 +31,126 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "05:49",
+    "generated_utc": "08:58",
     "top_drivers": [
-      "X/Twitter chatter: 109 UFO/UAP posts in the last hour",
+      "RIGHT SPEAK : The Hype About Aliens , UAPs , And  Disclosure  Isnt What It Appears To Be : What if UAP Sightings and Alien Abduction Accounts arent Evidence of Extraterrestrial Life , but of Supernatu",
+      "X/Twitter chatter: 80 UFO/UAP posts in the last hour",
       "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.6,
-    "baseline_recent": 25.0,
+    "live_signal": 15.2,
+    "baseline_recent": 24.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 109,
-    "wiki_spike_pct": -3.6992577147348804,
+    "x_last_hour": 80,
+    "wiki_spike_pct": -15.431088815182163,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@FatiguedOne @GuntherEagleman @elonmusk Have to house the ufo program somewhere",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069659088498131271"
+      "type": "news",
+      "text": "RIGHT SPEAK : The Hype About Aliens , UAPs , And  Disclosure  Isnt What It Appears To Be : What if UAP Sightings and Alien Abduction Accounts arent Evidence of Extraterrestrial Life , but of Supernatu",
+      "source": "rightspeak.net",
+      "url": "http://www.rightspeak.net/2026/06/the-hype-about-aliens-uaps-and.html"
+    },
+    {
+      "type": "news",
+      "text": "\u03a4\u03bf Peaq \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03bd\u03ad\u03bf , \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03b9\u03ba\u03cc SUV \u03c4\u03b7\u03c2 Skoda",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/cnn-gr-ellada/17973491-%CF%84%CE%BF-peaq-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-%CE%BD%CE%AD%CE%BF-%CE%BC%CE%B5%CE%B3%CE%AC%CE%BB%CE%BF-%CE%B7%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%B9%CE%BA%CF%8C-suv-%CF%84%CE%B7%CF%82-skoda.html"
+    },
+    {
+      "type": "news",
+      "text": "\u03a4\u03bf Aphrodite Hills Resort \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03b9 \u03c4\u03bf \u03b1\u03bd\u03b1\u03bd\u03b5\u03c9\u03bc\u03ad\u03bd\u03bf The Racket Club",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/inbusiness-oikonomia/17973497-%CF%84%CE%BF-aphrodite-hills-resort-%CF%80%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%B9%CE%AC%CE%B6%CE%B5%CE%B9-%CF%84%CE%BF-%CE%B1%CE%BD%CE%B1%CE%BD%CE%B5%CF%89%CE%BC%CE%AD%CE%BD%CE%BF-the-racket-club.html"
+    },
+    {
+      "type": "news",
+      "text": "Test Hondy przez 100 tys . km . My\u015bla\u0142em , \u017ce to idealne auto , ale te progi ... ",
+      "source": "auto-swiat.pl",
+      "url": "https://www.auto-swiat.pl/uzywane/testy-dlugodystansowe/test-hondy-przez-100-tys-km-myslalem-ze-to-idealne-auto-ale-te-progi/p1469t6"
+    },
+    {
+      "type": "news",
+      "text": "K\u03b9 \u03ac\u03bb\u03bb\u03b1  \u03c8\u03ce\u03bd\u03b9\u03b1  \u03b1\u03c0\u03bf \u039a\u03cd\u03c0\u03c1\u03bf \u03bf \u03a4\u03b9\u03bc\u03bf\u03cd\u03c1 ! ",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/lemesos-blog/17973434-k%CE%B9-%CE%AC%CE%BB%CE%BB%CE%B1-%E2%80%9C%CF%88%CF%8E%CE%BD%CE%B9%CE%B1%E2%80%9D-%CE%B1%CF%80%CE%BF-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-%CE%BF-%CF%84%CE%B9%CE%BC%CE%BF%CF%8D%CF%81.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0391\u03c0\u03cc Startup \u03c3\u03b5 Global Player : \u0397 \u03bd\u03ad\u03b1 \u03c3\u03c5\u03bd\u03c4\u03b1\u03b3\u03ae \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/inbusiness-oikonomia/17973292-%CE%B1%CF%80%CF%8C-startup-%CF%83%CE%B5-global-player-%CE%B7-%CE%BD%CE%AD%CE%B1-%CF%83%CF%85%CE%BD%CF%84%CE%B1%CE%B3%CE%AE-%CE%B1%CE%BD%CE%AC%CF%80%CF%84%CF%85%CE%BE%CE%B7%CF%82.html"
+    },
+    {
+      "type": "news",
+      "text": "Cyprus to receive \u20ac9 . 2m for the 2025 wildfires following EP Committee approval",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/inbusiness-oikonomia/17973293-cyprus-to-receive-%E2%82%AC9-2m-for-the-2025-wildfires-following-ep-committee-approval.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jj0ff5mb8fnd1iqs9q837dd330"
+    },
+    {
+      "type": "news",
+      "text": "Da metalurgia ... ... \u00e0 venda de jornais . Sem deixar a terra ... ... o amor \u00e0 natureza . Sr . Antonio , que exemplo ! - 24 / 06 / 2026",
+      "source": "dgabc.com.br",
+      "url": "https://www.dgabc.com.br/Noticia/4330636/da-metalurgia-a-venda-de-jornais-sem-deixar-a-terra-o-amor-a-natureza-sr-antonio-que-exemplo-"
+    },
+    {
+      "type": "news",
+      "text": "Da metalurgia ... ... \u00e0 venda de jornais . Sem deixar a terra ... ... o amor \u00e0 natureza . Sr . Antonio , que exemplo ! - 24 / 06 / 2026",
+      "source": "dgabc.com.br",
+      "url": "https://www.dgabc.com.br/Noticia/4330636/da-metalurgia-a-venda-de-jornais-sem-deixar-a-terra-o-amor-a-natureza-sr-antonio-que-exemplo"
     },
     {
       "type": "x",
-      "text": "Would you kiss me ?  UFO-girl https://t.co/MrmwqrMw5e",
+      "text": "Was a UFO crash story in the Arctic a cover for recovering secret tech? Similar to Roswell, this theory suggests a deliberate misdirection by the government. #UFO #Conspiracy https://t.co/DaXJRLhF1K",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069658681994567815"
+      "url": "https://x.com/i/web/status/2069706434263097608"
     },
     {
       "type": "x",
-      "text": "New UFO Files Paint a \u2018Very Clear\u2019 Picture of Alien Contact, Researcher Claims  https://t.co/tCJIbtaVcO",
+      "text": "@LibertySwapFi Damn i need more ufo \ud83d\ude4f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069658212501012921"
+      "url": "https://x.com/i/web/status/2069705539756401045"
     },
     {
       "type": "x",
-      "text": "The \"U\" in UAP means unidentified. \"The pilot reported seeing Iranian drones\" -- seems pretty clearly identified to me. So, \"we don't know\" is absolutely a lie. We do know, the pilot said what it is. ",
+      "text": "#Bales2026FilmChallenge  Jun 24 - Making an Unexpected Friend  Jules (2023)  When a UFO crashes in his backyard in rural Pennsylvania. A lonely man befriends the mysterious alien, things get complicat",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069658194801312105"
+      "url": "https://x.com/i/web/status/2069705389323513990"
     },
     {
       "type": "x",
-      "text": "@GoGoDokukinoko good morning \u263a\ufe0f\ud83c\udf39 Do you believe on UFO ?",
+      "text": "@y0lloo \ud83d\udef8 The market is full of movement.  Very little of it deserves attention.  UFO scans through the noise to find what is truly worth watching.  \u26a1 Live Radar \ud83d\udcca Visual Analysis \ud83e\udde0 Market Intelligenc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069658021190365453"
+      "url": "https://x.com/i/web/status/2069704907674816724"
     },
     {
       "type": "x",
-      "text": "@Truthpole @mbattista25 I tried to summons a UAP first time ever cause I've heard that a thing and all I got was 2 big black birds that came and circled around the point I was focusing on.",
+      "text": "@terramysteria @Brian_MurrayGH Fascinating, yes ... One of the best investigated UFO cases in history and still no evidence that anything really happened. It is a story which has very much grown n the",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069657697394241787"
+      "url": "https://x.com/i/web/status/2069704904545902669"
+    },
+    {
+      "type": "x",
+      "text": "@FalconryFinance so high they call you UAP falconry finance",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069704463649317337"
     },
     {
       "type": "neo",
@@ -656,6 +717,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.6
+    },
+    {
+      "ts": "2026-06-24T08:58:09.169902Z",
+      "score": 24.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.2
     }
   ],
   "sources": [
