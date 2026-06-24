@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T14:14:51.387305Z",
-  "score": 28.9,
+  "generated_at": "2026-06-24T16:34:54.989543Z",
+  "score": 30.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -28.1,
+    "d1h": 2.1,
     "d24h": 0.0,
     "peak90": 57.0
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.1,
+    "social_chatter": 11.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
-    "seismic": 0.0,
-    "alien_variance": 1.0
+    "seismic": 2.8,
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,65 +31,132 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "14:14",
+    "generated_utc": "16:34",
     "top_drivers": [
-      "X/Twitter chatter: 169 UFO/UAP posts in the last hour",
+      "Bally Intralot : \u03a3\u03c4\u03bf 0 , 121 % \u03c4\u03bf \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03c4\u03b7\u03c2 Deutsche Bank",
+      "X/Twitter chatter: 189 UFO/UAP posts in the last hour",
       "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.6,
-    "baseline_recent": 24.7,
+    "live_signal": 22.6,
+    "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 169,
-    "wiki_spike_pct": -15.431088815182163,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "x_last_hour": 189,
+    "wiki_spike_pct": -13.794309658557419,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5.59,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "\ud83d\udea8 ALIENS LOADING IN MIAMI TODAY?! \ud83d\udc7d\ud83d\udef8 A Brazilian psychic with millions of followers is claiming a UFO mothership will appear over Hard Rock Stadium during Brazil vs Scotland and start abducting player",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069786272487387427"
+      "type": "news",
+      "text": "Bally Intralot : \u03a3\u03c4\u03bf 0 , 121 % \u03c4\u03bf \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03c4\u03b7\u03c2 Deutsche Bank",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/newmoney/17975496-bally%E2%80%99s-intralot-%CF%83%CF%84%CE%BF-0-121-%CF%84%CE%BF-%CF%80%CE%BF%CF%83%CE%BF%CF%83%CF%84%CF%8C-%CF%84%CE%B7%CF%82-deutsche-bank.html"
+    },
+    {
+      "type": "news",
+      "text": "\u03a0\u03c5\u03c1\u03ba\u03b1\u03b3\u03b9\u03ac \u03c3\u03c4\u03bf\u03bd \u039f\u03c1\u03c7\u03bf\u03bc\u03b5\u03bd\u03cc",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/skai-ellada/17975284-%CF%80%CF%85%CF%81%CE%BA%CE%B1%CE%B3%CE%B9%CE%AC-%CF%83%CF%84%CE%BF%CE%BD-%CE%BF%CF%81%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%8C.html"
+    },
+    {
+      "type": "news",
+      "text": "\u039e\u03b5\u03ba\u03af\u03bd\u03b7\u03c3\u03b5 \u03b7 \u03b4\u03af\u03ba\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c6\u03cc\u03bd\u03bf \u03c4\u03bf\u03c5 \u03b5\u03bb\u03b5\u03b3\u03ba\u03c4\u03ae",
+      "source": "cyprusnews.eu",
+      "url": "https://cyprusnews.eu/skai-ellada/17975279-%CE%BE%CE%B5%CE%BA%CE%AF%CE%BD%CE%B7%CF%83%CE%B5-%CE%B7-%CE%B4%CE%AF%CE%BA%CE%B7-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CF%86%CF%8C%CE%BD%CE%BF-%CF%84%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%BA%CF%84%CE%AE.html"
+    },
+    {
+      "type": "news",
+      "text": "10  80s Cult Classics That Still Feel Surprisingly Modern",
+      "source": "movieweb.com",
+      "url": "https://movieweb.com/1980s-cult-classic-movies-feel-modern/"
+    },
+    {
+      "type": "news",
+      "text": "James Franco Sparks Wild Alien Conspiracy Theories Over Cryptic TikToks :  It an ALIEN !!!! ",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/james-franco-sparks-wild-alien-conspiracy-theories-over-cryptic-tiktoks-its-alien-1804757"
+    },
+    {
+      "type": "news",
+      "text": "Ovnis o platos voladores : el t\u00e9rmino acu\u00f1ado por el piloto Kennet Arnold en 1947",
+      "source": "lacapital.com.ar",
+      "url": "https://www.lacapital.com.ar/la-ciudad/ovnis-o-platos-voladores-el-termino-acunado-el-piloto-kennet-arnold-1947-n10265603.html"
+    },
+    {
+      "type": "news",
+      "text": "Dems rattled after progressive wave sweeps New York primaries and more top headlines",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/us/dems-rattled-after-progressive-wave-sweeps-new-york-primaries-more-top-headlines"
+    },
+    {
+      "type": "news",
+      "text": "Former Pentagon strategist says America is asking the wrong question about UAPs",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dmjrghlgnaq5nudsnm5flm0373"
+    },
+    {
+      "type": "news",
+      "text": "Who Is Bashar ? Extraterrestrial Expert Explains Channeling Claims During Mayim Bialik Podcast",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/darryl-anka-bashar-extraterrestrial-contact-podcast-1804734"
     },
     {
       "type": "x",
-      "text": "@realannapaulina officials who are corrupt, arrest them, ya know stuff like this. This is how you start getting people back to the GOP and reinstall trust with we the people. Also release all UAP and ",
+      "text": "Tomorrow Thursday June 25th at 8pm #UFOTwitterWeek #UFO #UAP #UFOx https://t.co/SxCRTeVnpx",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069786269425496116"
+      "url": "https://x.com/i/web/status/2069821486387401173"
     },
     {
       "type": "x",
-      "text": "I want to remind people that this is an indistinct video of nothing that is an embarassment to every serious person who wants answers on the UFO phenomenon. https://t.co/7yxsfpoqEM",
+      "text": "@EricLDaugh WHAT IS HILARIOUS IS...ONCE IT IS DRAINED...\"REPAIRED\"...REFILLED...&amp; IT IS FENCED &amp; GUARDED...&amp; THEN THE SAME THING \"MAGICALLY HAPPENS AGAIN\" FROM THE ORIGINALLY GRIFTED NO-BI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069786109333106997"
+      "url": "https://x.com/i/web/status/2069821448596660463"
     },
     {
       "type": "x",
-      "text": "\u0e25\u0e2d\u0e07\u0e14\u0e39 \u0e46 AtHeart - Butterfly Doors , Shut UP Baby DONT Cry - Shapeshifter , Bittersweet ODD YOUTH - Babyface izna - METRONOME Heart of Woman - Lost in proof SAY MY NAME - UFO RESCENE - Busy Boy , Runaw",
+      "text": "@paulsportal19 A Century of UFO Psyops Exposed Part 1: From War of the Worlds to Laurence Rockefeller's Disclosure Project https://t.co/CSb9w1MOhq",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069786084427575722"
+      "url": "https://x.com/i/web/status/2069821378639835282"
     },
     {
       "type": "x",
-      "text": "@BobMcGwier_N4HY I want to remind people that this is an indistinct video of nothing that is an embarassment to every serious person who wants answers on the UFO phenomenon.",
+      "text": "Sila Gonclaves says there\u2019s going to be a UFO mothership at the Brazil Scotland match today.   A fleet of alien spacecraft, including smaller ships and a giant UFO mothership will descend on the pitch",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069786033005166625"
+      "url": "https://x.com/i/web/status/2069821356389146715"
     },
     {
       "type": "x",
-      "text": "1976 \ud83c\uddee\ud83c\uddf7 #ufox #uapx #ufotwitter  Pilot reported a UFO on radar that disabled his jet's communications and weapons systems before releasing smaller maneuvering objects. The case reached the DIA, CIA, a",
+      "text": "@robinhanson While Republicans may well be more interested in UFO disclosure, your poll did not establish that.  Democrats and independents were free to opine that about Republicans.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069785846832590890"
+      "url": "https://x.com/i/web/status/2069821302072893880"
+    },
+    {
+      "type": "x",
+      "text": "GOT EM! #Disclosure #UFO #HiddenKnowledge #ForbiddenHistory #AlternativeHistory #TheLiftedVeil  https://t.co/81ct1kcdVv   #LETSROLL https://t.co/HjrJRxUS3F",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069820822777131055"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 11 km N of Redwood Valley, CA",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -677,6 +744,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.6
+    },
+    {
+      "ts": "2026-06-24T16:34:54.914679Z",
+      "score": 30.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.6
     }
   ],
   "sources": [
