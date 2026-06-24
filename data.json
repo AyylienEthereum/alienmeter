@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T21:53:18.100729Z",
-  "score": 36.8,
+  "generated_at": "2026-06-24T23:01:22.739245Z",
+  "score": 64.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "ROSWELL ENERGY",
+    "flavor": "something in the air tonight",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": 7.9,
+    "d1h": 34.0,
     "d24h": 0.0,
-    "peak90": 57.0
+    "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
-    "seismic": 2.8,
-    "alien_variance": 2.7
+    "seismic": 3.5,
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,67 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "21:53",
+    "generated_utc": "23:01",
     "top_drivers": [
-      "X/Twitter chatter: 254 UFO/UAP posts in the last hour",
+      "News velocity +172% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 406 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.6,
+    "live_signal": 65.9,
     "baseline_recent": 24.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 254,
+    "gdelt_spike_pct": 172.48363447317328,
+    "x_last_hour": 406,
     "wiki_spike_pct": -15.431088815182163,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 5.59,
+    "earthquakes_24h": 3,
+    "max_quake_mag_24h": 7.1,
     "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "I better see a UFO tonight or I\u2019m gonna be extremely disappointed. #WorldCup #Brazil #Scotland",
+      "text": "what if UFO appeared and a martian gave a speech in the middle of this fifa game?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901651150848451"
+      "url": "https://x.com/i/web/status/2069918760375595283"
     },
     {
       "type": "x",
-      "text": "I\u2019m not aware of a single instance, or document, or release, or statement from the USG that overly or covertly insists that the UFO phenomena is definitely not supernatural.     In fact to the contrar",
+      "text": "The UFO appeared and brazenly stole Brazil's goal. https://t.co/b8wJ8HuJGe",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901614035644600"
+      "url": "https://x.com/i/web/status/2069918688606634098"
     },
     {
       "type": "x",
-      "text": "@thefrighthaven This is true. If we look at Dr. Lacatski's account when he entered a physical UFO. The craft did not have a propulsion system, Engine, Power source, no control systems and was larger o",
+      "text": "what if ..... we all really foun dout that aliens UFO exhist because of what happen355",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901575238169024"
+      "url": "https://x.com/i/web/status/2069918613969219895"
     },
     {
       "type": "x",
-      "text": "@iflymia LOL I knew when they pulled that stunt saying someone saw an alien in Miami, they\u2019re were going to pull some shady project blue beam UFO shit in Miami \ud83d\ude02",
+      "text": "I came to visit cuz u see me like a ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901510851334492"
+      "url": "https://x.com/i/web/status/2069918492627710297"
     },
     {
       "type": "x",
-      "text": "I recently published a short book about telepathic communication with UAPs, based on an essay I started in 2019 and never properly finished.  I\u2019m being honest: the published version was not what it sh",
+      "text": "June 24 is \u201cWorld UFO Day\u201d, so, Nue Houjuu is here !!  Wow! You're so lucky if you find a hidden UFO somewhere in the Kappa Hideout!! What does she have a mystery sign...? https://t.co/Ttl4yAefNx",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901473320968594"
+      "url": "https://x.com/i/web/status/2069918491294232801"
     },
     {
       "type": "x",
-      "text": "@JinoBeats the final ufo is so inconsistent, that spam was valid",
+      "text": "@Vybrance Can they broadcast from the UFO? \ud83e\udd23 https://t.co/jEDbn5CgZv",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069901467767476295"
+      "url": "https://x.com/i/web/status/2069918420855095545"
     },
     {
       "type": "swpc",
@@ -112,7 +113,13 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 11 km N of Redwood Valley, CA",
+      "text": "Significant seismic event: 35 km ENE of Kuji, Japan",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 28 km NW of Montalb\u00e1n, Venezuela",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -730,6 +737,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.6
+    },
+    {
+      "ts": "2026-06-24T23:01:22.666159Z",
+      "score": 64.4,
+      "band": "ROSWELL ENERGY",
+      "i": 3,
+      "live": 65.9
     }
   ],
   "sources": [
