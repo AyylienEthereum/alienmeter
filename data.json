@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T20:16:39.881956Z",
-  "score": 44.8,
+  "generated_at": "2026-06-24T21:53:18.100729Z",
+  "score": 36.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 18.7,
+    "d1h": 7.9,
     "d24h": 0.0,
     "peak90": 57.0
   },
   "contributing_factors": {
-    "news_velocity": 12.7,
+    "news_velocity": 0.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 2.8,
-    "alien_variance": 2.9
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "20:16",
+    "generated_utc": "21:53",
     "top_drivers": [
-      "Trump New UFO Adviser Says Files Are  Detective Story  That Can Be Resolved",
-      "News velocity +53% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 287 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3"
+      "X/Twitter chatter: 254 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
+      "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 41.0,
-    "baseline_recent": 24.7,
+    "live_signal": 30.6,
+    "baseline_recent": 24.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
-    "gdelt_spike_pct": 52.78785843507274,
-    "x_last_hour": 287,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 254,
     "wiki_spike_pct": -15.431088815182163,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.59,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Trump New UFO Adviser Says Files Are  Detective Story  That Can Be Resolved",
-      "source": "newsweek.com",
-      "url": "https://www.newsweek.com/trump-ufo-adviser-files-are-detective-story-loeb-12114391"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kugu92bhe530uh6bqoasd8s215"
-    },
-    {
-      "type": "news",
-      "text": "Dems rattled after progressive wave sweeps New York primaries and more top headlines",
-      "source": "wfmd.com",
-      "url": "https://www.wfmd.com/2026/06/24/dems-rattled-after-progressive-wave-sweeps-new-york-primaries-and-more-top-headlines/"
-    },
-    {
-      "type": "news",
-      "text": "Isabella havde l\u00e6rt af Christians fejl",
-      "source": "seoghoer.dk",
-      "url": "https://www.seoghoer.dk/kongelige/isabella-havde-laert-af-christians-fejl"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=94d2h0k9fcori1njn095ffeat6"
-    },
-    {
-      "type": "news",
-      "text": "Phoebe Bridgers announces new album  Lost Weekend  and release of first single",
-      "source": "nme.com",
-      "url": "https://www.nme.com/news/music/phoebe-bridgers-announces-new-album-lost-weekend-and-release-of-first-single-3952974"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=6tahvnqf16vckoo672l1fnoko0"
-    },
-    {
-      "type": "news",
-      "text": "\u0421\u0430\u043c\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0438 \u0441\u0442\u0440\u0430\u0448\u043d\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u041d\u041b\u041e",
-      "source": "5-tv.ru",
-      "url": "https://www.5-tv.ru/news/5075337/celovekaserica-idetskie-risunki-samye-pugausie-slucai-nabludenia-nlo-aii/"
-    },
-    {
-      "type": "news",
-      "text": "Identifican al ni\u00f1o hispano que muri\u00f3 tras ahogarse en piscina de Roswell",
-      "source": "telemundoatlanta.com",
-      "url": "https://www.telemundoatlanta.com/2026/06/24/identifican-al-nio-hispano-que-muri-tras-ahogarse-en-piscina-de-roswell/"
-    },
-    {
-      "type": "news",
-      "text": "\u039f\u03c1\u03b9\u03b1\u03ba\u03ad\u03c2 \u03b1\u03c0\u03ce\u03bb\u03b5\u03b9\u03b5\u03c2 \u03c3\u03b5 \u03a7\u0391\u039a \u03ba\u03b1\u03b9 Athex",
-      "source": "cyprusnews.eu",
-      "url": "https://cyprusnews.eu/stockwatch/17975764-%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%AD%CF%82-%CE%B1%CF%80%CF%8E%CE%BB%CE%B5%CE%B9%CE%B5%CF%82-%CF%83%CE%B5-%CF%87%CE%B1%CE%BA-%CE%BA%CE%B1%CE%B9-athex.html"
+      "type": "x",
+      "text": "I better see a UFO tonight or I\u2019m gonna be extremely disappointed. #WorldCup #Brazil #Scotland",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069901651150848451"
     },
     {
       "type": "x",
-      "text": "Ahh damn the UFO won\u2019t be able to get low enough \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f\ud83d\ude2c\ud83d\ude02 https://t.co/9qK194KD25",
+      "text": "I\u2019m not aware of a single instance, or document, or release, or statement from the USG that overly or covertly insists that the UFO phenomena is definitely not supernatural.     In fact to the contrar",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069877328180543634"
+      "url": "https://x.com/i/web/status/2069901614035644600"
     },
     {
       "type": "x",
-      "text": "@DailyLoud So we\u2019ve gone from VAR controversies to extraterrestrial substitutions? \ud83d\ude2d  If aliens really pull up during Brazil vs Scotland tonight, I\u2019m backing Brazil to still keep possession \u2014 unless t",
+      "text": "@thefrighthaven This is true. If we look at Dr. Lacatski's account when he entered a physical UFO. The craft did not have a propulsion system, Engine, Power source, no control systems and was larger o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069877216523989272"
+      "url": "https://x.com/i/web/status/2069901575238169024"
     },
     {
       "type": "x",
-      "text": "red dead 1 might be the only rockstar game i 100% complete lol. who knew putting the side content into challenges that make you interact with the game's mechanics is more fun than collecting 200 fuck-",
+      "text": "@iflymia LOL I knew when they pulled that stunt saying someone saw an alien in Miami, they\u2019re were going to pull some shady project blue beam UFO shit in Miami \ud83d\ude02",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069877143685783936"
+      "url": "https://x.com/i/web/status/2069901510851334492"
     },
     {
       "type": "x",
-      "text": "@CAPArgento__ Sorry love, family tea will have to wait. Scotland vs Brazil is on, and I need to see whether Neymar finishes the match or gets beamed up by a UFO.\u201d",
+      "text": "I recently published a short book about telepathic communication with UAPs, based on an essay I started in 2019 and never properly finished.  I\u2019m being honest: the published version was not what it sh",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069877051402629223"
+      "url": "https://x.com/i/web/status/2069901473320968594"
     },
     {
       "type": "x",
-      "text": "UFO John Travolta and the like claiming they can summon UFO with their very special brains I guess is hurting the UFO topic massively and unless they can bring forward some evidence they should be lef",
+      "text": "@JinoBeats the final ufo is so inconsistent, that spam was valid",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069877012148203757"
-    },
-    {
-      "type": "x",
-      "text": "Congratulations to everyone filling your bags down here. And especially to the new people.  Let's gooo!  #Crypto #PassiveIncome $pTGC $UFO #PulseChain https://t.co/lPVKOJAVGq",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069876903645962748"
+      "url": "https://x.com/i/web/status/2069901467767476295"
     },
     {
       "type": "swpc",
@@ -784,6 +723,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 41.0
+    },
+    {
+      "ts": "2026-06-24T21:53:18.025661Z",
+      "score": 36.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.6
     }
   ],
   "sources": [
