@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T11:46:12.055654Z",
-  "score": 26.1,
+  "generated_at": "2026-06-24T14:14:51.387305Z",
+  "score": 28.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
+    "d1h": -28.1,
     "d24h": 0.0,
     "peak90": 57.0
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.4,
+    "social_chatter": 10.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 10,
     "date": "24.06.2026",
     "declassified": "24.06.26",
-    "generated_utc": "11:46",
+    "generated_utc": "14:14",
     "top_drivers": [
-      "Former Pentagon strategist says America is asking the wrong question about UAPs",
-      "X/Twitter chatter: 109 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 169 UFO/UAP posts in the last hour",
       "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.0,
-    "baseline_recent": 24.8,
+    "live_signal": 20.6,
+    "baseline_recent": 24.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 21.7629322268,
     "asteroid_name": "(2014 NV63)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 109,
+    "x_last_hour": 169,
     "wiki_spike_pct": -15.431088815182163,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Former Pentagon strategist says America is asking the wrong question about UAPs",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dmjrghlgnaq5nudsnm5flm0373"
-    },
-    {
-      "type": "news",
-      "text": "Who Is Bashar ? Extraterrestrial Expert Explains Channeling Claims During Mayim Bialik Podcast",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/darryl-anka-bashar-extraterrestrial-contact-podcast-1804734"
-    },
-    {
-      "type": "news",
-      "text": "UFO Expert Says UAP Whistleblowers Are Just  Conspiracy People , Alien Talks Are  Getting Very Redundant  ",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/neil-degrasse-tyson-debunks-ufo-myths-1804706"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Baba Vanga prophecy of  alien invasion at sporting event  revived by self - styled psychic -  I saw so much screaming . UFO UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/06/baba-vangas-prophecy-of-alien-invasion.html"
-    },
-    {
-      "type": "news",
-      "text": "This flying solar - powered platform could deliver better internet from the air",
-      "source": "technologyreview.com",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
-    },
-    {
-      "type": "news",
-      "text": "Oggetti volanti non identificati : Valmalenco osservata speciale",
-      "source": "laprovinciaunicatv.it",
-      "url": "https://www.laprovinciaunicatv.it/stories/sondrio/sondrio-e-cintura/oggetti-volanti-non-identificati-valmalenco-osservata-speciale-o_3895244_11/"
-    },
-    {
-      "type": "news",
-      "text": "Ingrid Alexandra og Sverre Magnus heier p\u00e5 Norge i VM hyller mamma",
-      "source": "seher.no",
-      "url": "https://www.seher.no/kongelig/hyllet-mamma-pa-tribunen/84804894"
-    },
-    {
-      "type": "news",
-      "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bf\u03bc\u03ac\u03b4\u03b1 \u03c0\u03bf\u03b9\u03bd\u03b9\u03ba\u03ce\u03bd \u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03c4\u03ce\u03bd",
-      "source": "cyprusnews.eu",
-      "url": "https://cyprusnews.eu/stockwatch/17974191-%CE%AD%CF%81%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%BF%CE%B9%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CE%BD%CE%B1%CE%BA%CF%81%CE%B9%CF%84%CF%8E%CE%BD.html"
-    },
-    {
-      "type": "news",
-      "text": "\u039b\u03bf\u03cd\u03c6\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae : \u0393\u03b1\u03c1\u03af\u03b4\u03b5\u03c2 \u03c3\u03c4\u03bf \u0391\u03b9\u03b3\u03b1\u03af\u03bf",
-      "source": "cyprusnews.eu",
-      "url": "https://cyprusnews.eu/skai-ellada/17974170-%CE%BB%CE%BF%CF%8D%CF%86%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%B3%CE%B1%CF%81%CE%AF%CE%B4%CE%B5%CF%82-%CF%83%CF%84%CE%BF-%CE%B1%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF.html"
+      "type": "x",
+      "text": "\ud83d\udea8 ALIENS LOADING IN MIAMI TODAY?! \ud83d\udc7d\ud83d\udef8 A Brazilian psychic with millions of followers is claiming a UFO mothership will appear over Hard Rock Stadium during Brazil vs Scotland and start abducting player",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2069786272487387427"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8 Pilot Kenneth Arnold reports seeing nine unusual objects flying near Mount Rainier, Washington. The press coins the term \"flying saucers.\" UFO culture is born. #OnThisDay",
+      "text": "@realannapaulina officials who are corrupt, arrest them, ya know stuff like this. This is how you start getting people back to the GOP and reinstall trust with we the people. Also release all UAP and ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069748850936496504"
+      "url": "https://x.com/i/web/status/2069786269425496116"
     },
     {
       "type": "x",
-      "text": "@Gabe_Trust How can this be a turning point? It's  just a light.  It shows nothing!  Blurry nonsense!!  I despise the UFO community these days.",
+      "text": "I want to remind people that this is an indistinct video of nothing that is an embarassment to every serious person who wants answers on the UFO phenomenon. https://t.co/7yxsfpoqEM",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069748676365328800"
+      "url": "https://x.com/i/web/status/2069786109333106997"
     },
     {
       "type": "x",
-      "text": "#ufo #uap Wasn\u2019t expecting to be gaslit by Bob. https://t.co/2il7vNiKfp",
+      "text": "\u0e25\u0e2d\u0e07\u0e14\u0e39 \u0e46 AtHeart - Butterfly Doors , Shut UP Baby DONT Cry - Shapeshifter , Bittersweet ODD YOUTH - Babyface izna - METRONOME Heart of Woman - Lost in proof SAY MY NAME - UFO RESCENE - Busy Boy , Runaw",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069748431782908209"
+      "url": "https://x.com/i/web/status/2069786084427575722"
     },
     {
       "type": "x",
-      "text": "@TheTNHoller @RepTimBurchett \"Oh look, a UFO!!! Back later, dag gummit...\"",
+      "text": "@BobMcGwier_N4HY I want to remind people that this is an indistinct video of nothing that is an embarassment to every serious person who wants answers on the UFO phenomenon.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069748088172925324"
+      "url": "https://x.com/i/web/status/2069786033005166625"
     },
     {
       "type": "x",
-      "text": "@Polymarket How do ask it to look for UAP programs?  @claudeai maybe next time take a peek for us. Please",
+      "text": "1976 \ud83c\uddee\ud83c\uddf7 #ufox #uapx #ufotwitter  Pilot reported a UFO on radar that disabled his jet's communications and weapons systems before releasing smaller maneuvering objects. The case reached the DIA, CIA, a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069747943746207755"
-    },
-    {
-      "type": "x",
-      "text": "@Kagan_M_Dunlap So Jellyfish UAP? Or UAV in the \"formation\" of a jellyfish (whatever that means)?",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069747511728992544"
+      "url": "https://x.com/i/web/status/2069785846832590890"
     },
     {
       "type": "neo",
@@ -731,6 +670,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.0
+    },
+    {
+      "ts": "2026-06-24T14:14:51.313878Z",
+      "score": 28.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.6
     }
   ],
   "sources": [
