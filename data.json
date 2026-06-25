@@ -1,97 +1,102 @@
 {
-  "generated_at": "2026-06-24T23:01:22.739245Z",
-  "score": 64.4,
+  "generated_at": "2026-06-25T00:21:50.384871Z",
+  "score": 40.3,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 34.0,
+    "d1h": 3.9,
     "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 4.5,
+    "asteroid_approach": 6.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
-    "seismic": 3.5,
-    "alien_variance": 1.3
+    "space_weather_alerts": 4.8,
+    "seismic": 3.8,
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 10,
-    "day": 10,
-    "date": "24.06.2026",
-    "declassified": "24.06.26",
-    "generated_utc": "23:01",
+    "number": 11,
+    "day": 11,
+    "date": "25.06.2026",
+    "declassified": "25.06.26",
+    "generated_utc": "00:21",
     "top_drivers": [
-      "News velocity +172% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 406 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
-      "NEO (2014 NV63) passing Earth at 21.8 lunar distances"
+      "X/Twitter chatter: 415 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
+      "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 65.9,
-    "baseline_recent": 24.9,
+    "live_signal": 34.7,
+    "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 21.7629322268,
-    "asteroid_name": "(2014 NV63)",
-    "gdelt_spike_pct": 172.48363447317328,
-    "x_last_hour": 406,
-    "wiki_spike_pct": -15.431088815182163,
-    "earthquakes_24h": 3,
-    "max_quake_mag_24h": 7.1,
-    "swpc_alerts_24h": 3
+    "closest_asteroid_ld": 6.6719679654,
+    "asteroid_name": "152637 (1997 NC1)",
+    "gdelt_spike_pct": null,
+    "x_last_hour": 415,
+    "wiki_spike_pct": -15.924142378718484,
+    "earthquakes_24h": 4,
+    "max_quake_mag_24h": 7.5,
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "what if UFO appeared and a martian gave a speech in the middle of this fifa game?",
+      "text": "@EnigmasEnX When is the next gov ufo drop?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918760375595283"
+      "url": "https://x.com/i/web/status/2069939011968266679"
     },
     {
       "type": "x",
-      "text": "The UFO appeared and brazenly stole Brazil's goal. https://t.co/b8wJ8HuJGe",
+      "text": "Where the fuck was my UFO mothership lady https://t.co/de4SRmHZmX",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918688606634098"
+      "url": "https://x.com/i/web/status/2069939006666666323"
     },
     {
       "type": "x",
-      "text": "what if ..... we all really foun dout that aliens UFO exhist because of what happen355",
+      "text": "@sentdefender How could he tell they were \u201cIranian drones\u201d We\u2019ve heard of jellyfish UAP.  Not alien.  Let\u2019s keep it real",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918613969219895"
+      "url": "https://x.com/i/web/status/2069938996768043351"
     },
     {
       "type": "x",
-      "text": "I came to visit cuz u see me like a ufo",
+      "text": "@RepLuna @realannapaulina Please stay focused on UAP pressure.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918492627710297"
+      "url": "https://x.com/i/web/status/2069938981689757845"
     },
     {
       "type": "x",
-      "text": "June 24 is \u201cWorld UFO Day\u201d, so, Nue Houjuu is here !!  Wow! You're so lucky if you find a hidden UFO somewhere in the Kappa Hideout!! What does she have a mystery sign...? https://t.co/Ttl4yAefNx",
+      "text": "@Scavino47 @DanScavino @WhiteHouse What time are the UFO fleet flying in Dan?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918491294232801"
+      "url": "https://x.com/i/web/status/2069938943747907672"
     },
     {
       "type": "x",
-      "text": "@Vybrance Can they broadcast from the UFO? \ud83e\udd23 https://t.co/jEDbn5CgZv",
+      "text": "@JeremyCorbell @g_knapp @MichaelLazovsk3 @WeaponizedPod I would encourage you to engage in some good faith conversation with the UFO community on this issue of leaking vs. provocation. If there is a g",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2069918420855095545"
+      "url": "https://x.com/i/web/status/2069938727967658303"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5367\r Issue Time: 2026 Jun 24 2354 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -106,12 +111,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5366\r Issue Time: 2026 Jun 24 1746 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 35 km ENE of Kuji, Japan",
       "source": "USGS",
@@ -119,13 +118,13 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 28 km NW of Montalb\u00e1n, Venezuela",
+      "text": "Significant seismic event: 23 km SE of Yumare, Venezuela",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
-      "text": "NEO (2014 NV63) passing at 21.76 LD (~134m, 14.3 km/s)",
+      "text": "NEO 152637 (1997 NC1) passing at 6.67 LD (~1585m, 8.9 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -744,6 +743,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 65.9
+    },
+    {
+      "ts": "2026-06-25T00:21:50.313722Z",
+      "score": 40.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 34.7
     }
   ],
   "sources": [
