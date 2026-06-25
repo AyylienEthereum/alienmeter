@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T13:25:50.458254Z",
-  "score": 37.6,
+  "generated_at": "2026-06-25T15:59:43.601060Z",
+  "score": 40.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.7,
+    "d1h": 2.7,
     "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.3,
+    "social_chatter": 10.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 3.2
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "13:25",
+    "generated_utc": "15:59",
     "top_drivers": [
-      "X/Twitter chatter: 108 UFO/UAP posts in the last hour",
+      "Star Trek legend William Shatner plots all star heavy metal concert to boldly go where no other musician has gone before",
+      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 9",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,56 +42,116 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 31.2,
-    "baseline_recent": 25.6,
+    "live_signal": 34.3,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -17.769206713228396,
-    "x_last_hour": 108,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 176,
     "wiki_spike_pct": -9.19531819179633,
-    "earthquakes_24h": 4,
+    "earthquakes_24h": 3,
     "max_quake_mag_24h": 7.5,
     "swpc_alerts_24h": 9
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Watts moor funny:  watching shit pranks on facebook reels  or watching peeps go to Govt for Truth &amp; Transparency?  #UFOx #UFOTwitter #UFOTwitterWeek ... Watch live: UFO experts, lawmakers speak at",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070136268055343463"
+      "type": "news",
+      "text": "Star Trek legend William Shatner plots all star heavy metal concert to boldly go where no other musician has gone before",
+      "source": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/music/star-trek-legend-william-shatner-37348311"
+    },
+    {
+      "type": "news",
+      "text": "These 8 Items Could Get You Arrested at Any Airport in Texas",
+      "source": "q1077.com",
+      "url": "https://q1077.com/ixp/156/p/8-items-arrested-texas-airport/"
+    },
+    {
+      "type": "news",
+      "text": "Punjab & Haryana High Court Denies Bail To Accused In NIA Case Relating To Murder Of Shaurya Chakra Awardee Balwinder Singh Sandhu",
+      "source": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/shaurya-chakra-awardee-balwinder-singh-sandhu-murder-nia-probe-no-bail-uapa-538922"
+    },
+    {
+      "type": "news",
+      "text": "Empresas familiares s\u00e3o suspeitas de fraude na coleta de lixo no RS",
+      "source": "g1.globo.com",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/25/mp-faz-operacao-contra-grupo-que-mantem-contratos-de-coleta-de-lixo-em-15-cidades-do-rs.ghtml"
+    },
+    {
+      "type": "news",
+      "text": "Premi\u00e8res images GIGN : 2 ans apr\u00e8s Largo Winch 3 , Tomer Sisley renoue avec laction pour une s\u00e9rie Netflix r\u00e9alis\u00e9e par un sp\u00e9cialiste du genre",
+      "source": "allocine.fr",
+      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000210384.html"
+    },
+    {
+      "type": "news",
+      "text": "Brazil Match Alien Threat : Psychic Claims Reptilian Mothership Will Descend in Miami",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/brazil-match-alien-threat-psychic-claims-reptilian-mothership-will-descend-miami-1805019"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=6djqml8ctb3qea7c290edu9g31"
+    },
+    {
+      "type": "news",
+      "text": "Britsk\u00fd mar\u0161\u00e1l : Situace Rus\u016f je zoufal\u00e1 . Jako u N\u011bmc\u016f za druh\u00e9 sv\u011btov\u00e9 v\u00e1lky | ParlamentniListy . cz \u2013 politika ze v\u0161ech stran",
+      "source": "parlamentnilisty.cz",
+      "url": "https://www.parlamentnilisty.cz/arena/monitor/Britsky-marsal-Situace-Rusu-je-zoufala-Jako-u-Nemcu-za-druhe-svetove-valky-793241"
+    },
+    {
+      "type": "news",
+      "text": "SIA Jammu Conducts Search At Beerwah Residence In UAPA Case Investigation",
+      "source": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/sia-jammu-conducts-search-at-beerwah-residence-in-uapa-case-investigation/"
+    },
+    {
+      "type": "news",
+      "text": "Vinicius pone a bailar a Brasil",
+      "source": "lanzadigital.com",
+      "url": "https://www.lanzadigital.com/deportes/vinicius-pone-a-bailar-a-brasil/"
     },
     {
       "type": "x",
-      "text": "If a UAP is truly interacting with our physical world, then it should not only be seen. It should be measurable through the imprint it leaves in the surrounding environment.",
+      "text": "@KirbyInformer Need the ufo ones so bad",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070135957332852912"
+      "url": "https://x.com/i/web/status/2070174990377402530"
     },
     {
       "type": "x",
-      "text": "@mnsibley @DolioJ But...we didn't get the UFO during the soccer game.",
+      "text": "For more than 75 years, the subject of UFOs \u2014 now formally known as UAP (Unidentified Anomalous Phenomena) \u2014 has been buried under secrecy and official denial.  Until now.  From the New York Times' la",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070135889737466331"
+      "url": "https://x.com/i/web/status/2070174825591578913"
     },
     {
       "type": "x",
-      "text": "@ShamsCharania what does this have to do with ufo disclosure",
+      "text": "@EricBurlison It sticks out like a sore thumb that there's not been a single UFO crash telegram published yet.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070135840932520219"
+      "url": "https://x.com/i/web/status/2070174510901342400"
     },
     {
       "type": "x",
-      "text": "LIVE, Disclosure Forum 2026, Humanity at the Edge of Discovery, Kennedy Caucus Room. Opening Remarks by Christopher Mellon, American fmr. Department of Defense. #UFO #UfoX #Disclosure #DisclosureForum",
+      "text": "@EricBurlison In 1952, the USAF did not specifically hold a briefing for MIT scientists about UFOs. Instead, Air Force Intelligence held the largest military press conference in history, prompted by t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070135641464074270"
+      "url": "https://x.com/i/web/status/2070173827267543209"
     },
     {
       "type": "x",
-      "text": "@NWGABurns UAP data will continue to come out. I have personally witnessed something unexplainable and my daughter as my witness. Demons do in fact exist. Most of our government are Natural men living",
+      "text": "In 1952, the USAF did not specifically hold a briefing for MIT scientists about UFOs. Instead, Air Force Intelligence held the largest military press conference in history, prompted by the 1952 Washin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070135481098985541"
+      "url": "https://x.com/i/web/status/2070173751266717997"
+    },
+    {
+      "type": "x",
+      "text": "@Mr_J_Washington @planethunter56 bc i clicked on one ufo post and now the algo keeps filling my feed with bs ufo garbage",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070173628583297170"
     },
     {
       "type": "swpc",
@@ -778,6 +839,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 31.2
+    },
+    {
+      "ts": "2026-06-25T15:59:43.526721Z",
+      "score": 40.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 34.3
     }
   ],
   "sources": [
