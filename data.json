@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T11:07:55.772781Z",
-  "score": 36.3,
+  "generated_at": "2026-06-25T13:25:50.458254Z",
+  "score": 37.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -28.1,
+    "d1h": -2.7,
     "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.8,
+    "social_chatter": 6.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 2.0
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "11:07",
+    "generated_utc": "13:25",
     "top_drivers": [
-      "X/Twitter chatter: 99 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 108 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 9",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.5,
+    "live_signal": 31.2,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -15.609802014370434,
-    "x_last_hour": 99,
+    "gdelt_spike_pct": -17.769206713228396,
+    "x_last_hour": 108,
     "wiki_spike_pct": -9.19531819179633,
     "earthquakes_24h": 4,
     "max_quake_mag_24h": 7.5,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Meet UFO  \"The handy vehicle and right hand of the Space Princess, which is just as well because the Space Princess is left handed and UFO is clumsy as hell.\" https://t.co/GgmSS3ZI3f",
+      "text": "Watts moor funny:  watching shit pranks on facebook reels  or watching peeps go to Govt for Truth &amp; Transparency?  #UFOx #UFOTwitter #UFOTwitterWeek ... Watch live: UFO experts, lawmakers speak at",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070101446914453985"
+      "url": "https://x.com/i/web/status/2070136268055343463"
     },
     {
       "type": "x",
-      "text": "@PolymarketSport Scotland? Beer \ud83c\udf7a and ufo \ud83d\udef8 should be fun",
+      "text": "If a UAP is truly interacting with our physical world, then it should not only be seen. It should be measurable through the imprint it leaves in the surrounding environment.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070100773640278525"
+      "url": "https://x.com/i/web/status/2070135957332852912"
     },
     {
       "type": "x",
-      "text": "Watch live: Washington talks UFOs at UAP Disclosure Forum.. https://t.co/g0kxlWjaRC",
+      "text": "@mnsibley @DolioJ But...we didn't get the UFO during the soccer game.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070100357573657032"
+      "url": "https://x.com/i/web/status/2070135889737466331"
     },
     {
       "type": "x",
-      "text": "The DEV DIGITAL UFO High Bay Light delivers powerful illumination, energy efficiency, and long-lasting durability for demanding applications.  \ud83c\udf10 https://t.co/RFKINBM9FK \ud83d\udcde +91 96624 24588  #IndustrialL",
+      "text": "@ShamsCharania what does this have to do with ufo disclosure",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070100321440034870"
+      "url": "https://x.com/i/web/status/2070135840932520219"
     },
     {
       "type": "x",
-      "text": "#Children #Kids #Family #History #STEMKids #Adventure #CuriousKids  Titanic. UFO sightings. Ancient disasters. Brave heroes. The real world is more amazing than fiction. These true stories will inspir",
+      "text": "LIVE, Disclosure Forum 2026, Humanity at the Edge of Discovery, Kennedy Caucus Room. Opening Remarks by Christopher Mellon, American fmr. Department of Defense. #UFO #UfoX #Disclosure #DisclosureForum",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070099800272289886"
+      "url": "https://x.com/i/web/status/2070135641464074270"
     },
     {
       "type": "x",
-      "text": "Robert Salas presented testimony about a nuclear missile facility experiencing a UAP shutdown event in 1975. The missiles were disabled while the UAP was overhead. The Air Force initially denied it, t",
+      "text": "@NWGABurns UAP data will continue to come out. I have personally witnessed something unexplainable and my daughter as my witness. Demons do in fact exist. Most of our government are Natural men living",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070099534349238516"
+      "url": "https://x.com/i/web/status/2070135481098985541"
     },
     {
       "type": "swpc",
@@ -771,6 +771,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.5
+    },
+    {
+      "ts": "2026-06-25T13:25:50.385321Z",
+      "score": 37.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 31.2
     }
   ],
   "sources": [
