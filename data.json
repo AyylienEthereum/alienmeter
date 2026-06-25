@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T04:42:36.862719Z",
-  "score": 37.4,
+  "generated_at": "2026-06-25T08:04:51.562769Z",
+  "score": 34.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -7.4,
+    "d1h": -2.6,
     "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.2,
+    "social_chatter": 4.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 1.0
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "04:42",
+    "generated_utc": "08:04",
     "top_drivers": [
-      "Roswell opens new public safety headquarters",
-      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 79 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 7",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.9,
+    "live_signal": 26.8,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719679654,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -17.730911523106826,
-    "x_last_hour": 138,
+    "gdelt_spike_pct": -82.87152600081464,
+    "x_last_hour": 79,
     "wiki_spike_pct": -9.19531819179633,
     "earthquakes_24h": 4,
     "max_quake_mag_24h": 7.5,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Roswell opens new public safety headquarters",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/06/24/roswell-opens-new-public-safety-headquarters/"
-    },
-    {
-      "type": "news",
-      "text": "Gol annullato a Vinicius Jr e proteste di Ancelotti nella partita Brasile - Scozia",
-      "source": "notizie.it",
-      "url": "https://www.notizie.it/gol-annullato-a-vinicius-jr-e-proteste-di-ancelotti-nella-partita-brasile-scozia/"
-    },
-    {
-      "type": "news",
-      "text": " \u00bf Neymar y Vin\u00edcius J\u00fanior , abducidos por ovnis en el partido Brasil vs . Escocia ?: la  profec\u00eda  de la vidente V\u00f3 Bahiana",
-      "source": "pronto.com.ar",
-      "url": "https://www.pronto.com.ar/espectaculos/2026/6/24/neymar-vinicius-junior-abducidos-por-ovnis-en-el-partido-brasil-vs-escocia-la-profecia-de-la-vidente-vo-bahiana-280222.html"
-    },
-    {
-      "type": "news",
-      "text": "Con doblete de Vinicius , Brasil gole\u00f3 a Escocia y termin\u00f3 primera en su grupo",
-      "source": "laopinion.co",
-      "url": "https://laopinion.co:443/mundial-2026/con-doblete-de-vinicius-brasil-goleo-escocia-y-termino-primera-en-su-grupo"
-    },
-    {
-      "type": "news",
-      "text": "Brasil sonr\u00ede por partida doble tras golear a Escocia y el regreso de Neymar",
-      "source": "diarioeldia.cl",
-      "url": "https://www.diarioeldia.cl/noticias/2026/06/24/142417-brasil-sonrie-por-partida-doble-tras-golear-a-escocia-y-el-regreso-de-neymar"
-    },
-    {
-      "type": "news",
-      "text": "Brasil abduce a Escocia con Vin\u00edcius",
-      "source": "europapress.es",
-      "url": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-brasil-abduce-escocia-vinicius-20260625022233.html"
-    },
-    {
-      "type": "news",
-      "text": "El origen de la supuesta aparici\u00f3n de un Ovni en el Mundial 2026",
-      "source": "13.cl",
-      "url": "https://www.13.cl/ar13/noticias/la-viral-prediccion-de-un-ovni-en-el-mundial-2026-que-puso-los-ojos-sobre-brasil-vs"
-    },
-    {
-      "type": "news",
-      "text": " \u00bf Qu\u00e9 pas\u00f3 con la predicci\u00f3n de la abducci\u00f3n de Vin\u00edcius y Neymar durante el partido ? ",
-      "source": "expreso.ec",
-      "url": "https://www.expreso.ec/deportes/copa-mundial-de-futbol/paso-prediccion-abduccion-vinicius-neymar-partido-286966.html"
-    },
-    {
-      "type": "news",
-      "text": "Psychic with 24M Followers Said Aliens Would Abduct Players During Scotland and Brazil World Cup Game - Is Everyone Okay ? ",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/viral-alien-invasion-prophecy-world-cup-1804905"
-    },
-    {
-      "type": "news",
-      "text": "Alberto Ortega : \u00ab Antes , lo raro era , simplemente , lo diferente \u00bb ",
-      "source": "abc.es",
-      "url": "https://www.abc.es/play/television/noticias/alberto-ortega-raro-era-simplemente-diferente-20260617015628-nt.html"
+      "type": "x",
+      "text": "Sources: PBS, 2026-05-04, \"Trump drops hints of what's coming in new batch of UFO files set for release\", https://t.co/UEwdBXQhbS  BBC, 2026-02-20, \"Trump directs US government to prepare release of f",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070055496292425812"
     },
     {
       "type": "x",
-      "text": "It\u2019s a real #UFO and a non biological entity caught on a can!!!!! \ud83d\udc4d\ud83d\udc7d\ud83d\udef8 https://t.co/edMHbiHiID",
+      "text": "The base case is still No. Recent UAP file releases stay inside the safer language: unresolved, unexplained, no position on origin. That is not the same as confirming aliens.  The edge is in the trigg",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070004339176096024"
+      "url": "https://x.com/i/web/status/2070055494857916644"
     },
     {
       "type": "x",
-      "text": "@AA_Gabriel1111 Brazilian psychic was a masonic fraud that stole the idea from \"The Tomorrow War\" movie...\u270d\ufe0f and today is \"UFO day\"   simulation distractions aka Masonic Theater.  Did not watch https:",
+      "text": "The State Investigation Agency (SIA) on Thursday conducted a search operation at a residence in the Beerwah area of central Kashmir's Budgam district in connection with an ongoing investigation under ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070004229276627304"
+      "url": "https://x.com/i/web/status/2070055164732723609"
     },
     {
       "type": "x",
-      "text": "If you don\u2019t have a UAP assigned too you, you\u2019re not going hard enough   Just saying \ud83e\udebd https://t.co/JdUa9uDevk",
+      "text": "\ud83d\udc31\ud83d\udef8 Cat vs UFO... Who wins? \ud83d\udc40  An ordinary cat. An unexpected alien encounter. Things escalate FAST. \ud83d\ude80\ud83d\udd25  Watch until the end and tell me... who do you think won? \ud83d\udc47  https://t.co/2EJdSluUvZ  #Cat #UFO #",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070004029342834734"
+      "url": "https://x.com/i/web/status/2070055007307604465"
     },
     {
       "type": "x",
-      "text": "Matchday 14 had EVERYTHING: Bosnia kept breathing, Morocco-Haiti went full chaos mode, Brazil welcomed Neymar back, Mexico gave Ochoa one last curtain call, South Africa made history, and somewhere ou",
+      "text": "The filing system worked perfectly. Nothing survived. \ud83d\udef8  $UFO https://t.co/gfzexP9ldL https://t.co/awqkJIgmvb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070003320819699719"
+      "url": "https://x.com/i/web/status/2070053647820497207"
     },
     {
       "type": "x",
-      "text": "@timesofindia #ALIENS \ud83d\udc7d   #ALIENS \ud83d\udc7d   #ALIENS \ud83d\udc7d  \u2022 Many Different types of Viruses (Corona, Hanta, Ebola)  \u2022 World War  \u2022 Earthquakes  All these definitely 100% done by Alien  \ud83d\udc7d #Aliens  \ud83d\udef8 #ufos \ud83d\udc7d #al",
+      "text": "@BuzzingPop The psychic probably just saw a rogue clearance from a Scotland defender and mistook it for a UFO. \u26bd\ufe0f\ud83d\ude80",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070003294639120624"
-    },
-    {
-      "type": "x",
-      "text": "@phalse_prophet @maniaUFO The still in the post is from old \"Unexplained Mysteries\" footage (YouTube/TV stock). No recent news reports, videos, or verified sightings match the \"shape-changing craft ov",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070003209158987872"
+      "url": "https://x.com/i/web/status/2070052489018179811"
     },
     {
       "type": "swpc",
@@ -818,6 +757,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.9
+    },
+    {
+      "ts": "2026-06-25T08:04:51.488444Z",
+      "score": 34.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.8
     }
   ],
   "sources": [
