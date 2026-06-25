@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T18:14:52.959127Z",
-  "score": 42.5,
+  "generated_at": "2026-06-25T20:24:07.469922Z",
+  "score": 35.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 8.3,
-    "d24h": -9.0,
+    "d1h": -0.5,
+    "d24h": 19.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.9,
+    "social_chatter": 10.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 0.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 3.7
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,143 +31,82 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "18:14",
+    "generated_utc": "20:24",
     "top_drivers": [
-      "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
-      "X/Twitter chatter: 198 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 7",
+      "X/Twitter chatter: 167 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 8",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 37.3,
-    "baseline_recent": 25.7,
+    "live_signal": 28.6,
+    "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "A",
     "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -25.452983933471586,
-    "x_last_hour": 198,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 167,
     "wiki_spike_pct": -9.19531819179633,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 7.5,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 8
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
-      "source": "kdhlradio.com",
-      "url": "https://kdhlradio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
-    },
-    {
-      "type": "news",
-      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
-      "source": "squatchrocks.com",
-      "url": "https://squatchrocks.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=au6fojr4sbgje081ha5aordvn5"
-    },
-    {
-      "type": "news",
-      "text": "UFO POV on Blaze : full details and when it on",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/e6142b8a-f591-5275-98b4-c9ee1025f5b9/ufo-pov"
-    },
-    {
-      "type": "news",
-      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
-      "source": "power96radio.com",
-      "url": "https://power96radio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
-    },
-    {
-      "type": "news",
-      "text": "Why The Simpsons Decided To Kill Off Maude Flanders",
-      "source": "tvline.com",
-      "url": "https://www.tvline.com/2198404/why-the-simpsons-kill-off-maude-flanders/"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/0b3cd396-801f-50d5-9da8-bda372115683/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
-      "source": "krforadio.com",
-      "url": "https://krforadio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
-    },
-    {
-      "type": "news",
-      "text": "Star Trek legend William Shatner plots all star heavy metal concert to boldly go where no other musician has gone before",
-      "source": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/music/star-trek-legend-william-shatner-37348311"
-    },
-    {
-      "type": "news",
-      "text": "These 8 Items Could Get You Arrested at Any Airport in Texas",
-      "source": "q1077.com",
-      "url": "https://q1077.com/ixp/156/p/8-items-arrested-texas-airport/"
+      "type": "x",
+      "text": "UFO Contactee Billy Meier - Dictator Franco of Spain's Death https://t.co/BnM2qgyLHP",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070241567382614038"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8 The hardest decision for an intelligent system...  isn't knowing when to publish.  It's knowing when to stay silent.  That's why we changed the philosophy behind UFO.  If the system doesn't find a g",
+      "text": "@MizzMisanthrope We must continue our efforts m Merry, maybe it will pay ! \ud83d\ude01 Thanks to be here with all of us.  We can end UAP secrecy \ud83d\udc4d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208894945636838"
+      "url": "https://x.com/i/web/status/2070241446196547697"
     },
     {
       "type": "x",
-      "text": "A more accurate description of the downed F15 would be a \"HeckleFish\" formation rather than comparing it to the debunked @JeremyCorbell  \"JellyFish\" UFO.  #ufox #uapx https://t.co/H6hXMvi4bG https://t",
+      "text": "#ThrowbackThursday  10 years ago, unit trust funds were not widely known by the public, but they existed and were quietly creating opportunities for smart investors.  Over 8 years ago, UAP Financial S",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208843678699991"
+      "url": "https://x.com/i/web/status/2070241204151931032"
     },
     {
       "type": "x",
-      "text": "@elonmusk @Landeur \"Why drill into the skull for a brain chip? We can weave neural nano-wires right into a traditional Turban. A Cyber Turban that reads brainwaves externally without surgery. Future t",
+      "text": "A Hiker Vanishes.. Livestock  Mutilated.. Environmental Cause or Something...Else?  Learn More - https://t.co/qVv0RQAl44  #iartg #asmsg #CattleMutilation #Phenomenon #hiking #camping #HikerMissing #Na",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208809046532096"
+      "url": "https://x.com/i/web/status/2070241148975686037"
     },
     {
       "type": "x",
-      "text": "@SeanMcCarthyCom @realKalos Check out Mirage Men on YouTube, about how the CIA promotes UFO conspiracism to cover up clandestine operations",
+      "text": "@Wsstalkback On break this week Frieren, Kaihen no Mahoutsukai, You're the Morning Star and Maou-jou Lead next week for a new series titled Musai no Shoukanshi by UFO Nomura",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208808333230287"
+      "url": "https://x.com/i/web/status/2070240876345839999"
     },
     {
       "type": "x",
-      "text": "@elonmusk @CathieDWood \"Why drill into the skull for a brain chip? We can weave neural nano-wires right into a traditional Turban. A Cyber Turban that reads brainwaves externally without surgery. Futu",
+      "text": "I was abducted by a UFO and they told me that they\u2019re here looking for Bionicles",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208686396760409"
+      "url": "https://x.com/i/web/status/2070240840845533277"
     },
     {
-      "type": "x",
-      "text": "I'm not loving this whistleblower protection part of the UAP panel.   (1) The langauge. It's not administrative blowback or an administrative oopsie - it's retaliation.   (2) The harm. The fear is not",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070208561183879563"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2668\r Issue Time: 2026 Jun 25 1941 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5369\r Issue Time: 2026 Jun 25 1939 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2243\r Issue Time: 2026 Jun 25 0847 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5368\r Issue Time: 2026 Jun 25 0846 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2028\r Issue Time: 2026 Jun 25 0356 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -853,6 +792,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 37.3
+    },
+    {
+      "ts": "2026-06-25T20:24:07.396106Z",
+      "score": 35.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.6
     }
   ],
   "sources": [
