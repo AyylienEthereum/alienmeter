@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T21:59:58.521397Z",
-  "score": 37.8,
+  "generated_at": "2026-06-25T23:23:11.576212Z",
+  "score": 34.9,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 0.2,
-    "d24h": 16.2,
+    "d1h": -5.2,
+    "d24h": 7.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "social_chatter": 6.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
-    "seismic": 3.8,
-    "alien_variance": 0.5
+    "seismic": 0.0,
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "21:59",
+    "generated_utc": "23:23",
     "top_drivers": [
-      "Beyond Fermi Paradox XVIII : What if We Make Contact ? ",
-      "X/Twitter chatter: 152 UFO/UAP posts in the last hour",
+      "These 8 Items Could Get You Arrested at Any Airport in Texas",
+      "X/Twitter chatter: 116 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 8",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 31.2,
+    "live_signal": 27.4,
     "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
@@ -50,13 +50,67 @@
     "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 152,
+    "x_last_hour": 116,
     "wiki_spike_pct": -9.19531819179633,
-    "earthquakes_24h": 3,
-    "max_quake_mag_24h": 7.5,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 8
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "These 8 Items Could Get You Arrested at Any Airport in Texas",
+      "source": "ksfa860.com",
+      "url": "https://ksfa860.com/ixp/156/p/8-items-arrested-texas-airport/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tilkq2n180mo5heqf7u05q34a1"
+    },
+    {
+      "type": "news",
+      "text": "If  Disclosure Day  Didnt Do It for You , Maybe Consider Steven Spielberg Meaner Alien Epic",
+      "source": "collider.com",
+      "url": "https://collider.com/war-of-the-worlds-steven-spielberg-alien-epic/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8fk7ctucrrm6ffuat0oql050c5"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m0qkgnrgueqaoponlfqkgcd965"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=92n8t2o5648076svct7g843n80"
+    },
+    {
+      "type": "news",
+      "text": "\u0422\u0440\u0443\u0434 : \u0414\u0443\u0431 \u0420\u043e\u0431\u0438\u043d \u0413\u0443\u0434\u0430 \u0443\u0441\u0442\u0430\u043b \u0437\u0435\u043b\u0435\u043d\u0435\u0442\u044c",
+      "source": "trud.ru",
+      "url": "https://www.trud.ru/article/26-06-2026/1816391_dub_robin_guda_ustal_zelenet.html"
+    },
+    {
+      "type": "news",
+      "text": "US Forecast",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/us-forecast/article_71c6f7e3-f651-5278-b122-4715ea77c5df.html"
+    },
+    {
+      "type": "news",
+      "text": "Ahoy Comics Adopts Matt Kindt Anti - A . I . 100 % Human - Made Certification",
+      "source": "bleedingcool.com",
+      "url": "https://bleedingcool.com/comics/ahoy-comics-adopts-matt-kindt-anti-a-i-100-human-made-certification/"
+    },
     {
       "type": "news",
       "text": "Beyond Fermi Paradox XVIII : What if We Make Contact ? ",
@@ -64,94 +118,40 @@
       "url": "https://www.universetoday.com/articles/beyond-fermis-paradox-xviii-what-if-we-make-contact"
     },
     {
-      "type": "news",
-      "text": "Presumed innocent",
-      "source": "taosnews.com",
-      "url": "https://www.taosnews.com/opinion/editorials/presumed-innocent/article_7133297b-97e6-5360-bdbb-74c49c6369d7.html"
-    },
-    {
-      "type": "news",
-      "text": "Blunt Disclosure : Is Steven Spielberg Disclosure Day a Flop or a Hit at the Box Office ? ",
-      "source": "flickeringmyth.com",
-      "url": "https://www.flickeringmyth.com/blunt-disclosure-is-steven-spielbergs-disclosure-day-a-flop-or-a-hit-at-the-box-office/"
-    },
-    {
-      "type": "news",
-      "text": "500 Piedi | Topolino a caccia di alieni",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-06-25/500-piedi-topolino-a-caccia-di-alieni/19389427/"
-    },
-    {
-      "type": "news",
-      "text": "Latest Articles",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/tag/*/index?more=4385405"
-    },
-    {
-      "type": "news",
-      "text": "Two new reports highlight obstacles to containing US measles outbreaks",
-      "source": "cidrap.umn.edu",
-      "url": "https://www.cidrap.umn.edu/measles/two-new-reports-highlight-obstacles-containing-us-measles-outbreaks"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kqj351shgpsobjbca5u6bebbm1"
-    },
-    {
-      "type": "news",
-      "text": "Happy Hands Quilt Club set for July 8",
-      "source": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/community/happy-hands-quilt-club-set-for-july-8/article_c7184aed-6e25-4457-aa88-6bdbb6072c73.html"
-    },
-    {
-      "type": "news",
-      "text": "Toy Story 5 Dominates the Box Office and Disney+",
-      "source": "themarysue.com",
-      "url": "https://www.themarysue.com/toy-story-5-box-office-streaming-success/"
-    },
-    {
-      "type": "news",
-      "text": "All Subway Surfers Characters : Full List , Outfits & How to Unlock",
-      "source": "powerupgaming.co.uk",
-      "url": "https://powerupgaming.co.uk/2026/06/25/all-subway-surfers-characters-full-list-outfits-how-to-unlock/"
+      "type": "x",
+      "text": "@PelleyDm Right! In order for them to get that press release out on the first place, they had to go it approved through so many chains of command. And to think these guys are so stupid that they just ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070286365292388703"
     },
     {
       "type": "x",
-      "text": "@TehMikeDev A friend sent me the reddit thread it was on, the car driving off the cliff cracked me up \ud83d\ude02  Love the UFO &amp; joke endings, its great to have a new fun ending. Thank you!",
+      "text": "@Felipe4Evr Baldias Sphere: Don't forget about @jaimemaussan1's VINDICTIVENESS towards the #BaldiasSphere and its researchers due to a CONFLICT OF INTERESTS\ud83d\udc49labeling that orb a hoax WITHOUT PRESENTING",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265704566214772"
+      "url": "https://x.com/i/web/status/2070285964103303635"
     },
     {
       "type": "x",
-      "text": "\ud83d\udcfa \"Poppy Crop Circle | Etchilhampton Hill, nr Devizes, Wiltshire | Reported 24/06/26\"  \ud83d\udd17 https://t.co/VzivhFig36  \u2b55\ufe0f\ud83c\udf3e\ud83c\udf3a Etchilhampton Hill, near Devizes, Wiltshire UK \ud83c\uddec\ud83c\udde7 \ud83d\uddd3\ufe0f June 24, 2026  \ud83d\udcdd \" New crop ",
+      "text": "I\u2019m thinking about the theory that there are around 1 billion aliens who have taken on human form through a hybrid program #uap #aliens https://t.co/bYSt0vgS0e",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265682076598604"
+      "url": "https://x.com/i/web/status/2070285816069230912"
     },
     {
       "type": "x",
-      "text": "The Merkabah Light Vehicle. Captured by Pete Slattery in 2016 during an experience.  #ascension #merkabah #ufo #paranormal #disclosure https://t.co/TjiSLg7k0n",
+      "text": "\ud83c\udf15\ud83d\udef8 The Apollo 17 crew saw a UFO / it was a REAL solid object on the Moon.  December 1972: Final Apollo crew (Cernan, Evans, Schmitt) reported bright tumbling fragments \u201clike Fourth of July fireworks,\u201d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265611335422317"
+      "url": "https://x.com/i/web/status/2070285787426664720"
     },
     {
       "type": "x",
-      "text": "@BENZOTOOIE Definitely something of the first UFO: Enemy Unknown. Open the Skyranger door and a Sectoid out in the shadows drops one of your dudes. Then sparking a chain reaction where your squaddies ",
+      "text": "@UFOApocalypse There is a possibility of a truth and reality. #UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265589214409171"
+      "url": "https://x.com/i/web/status/2070285640889975092"
     },
     {
       "type": "x",
-      "text": "I need one of those UFO fair rides at home to stretch my back out",
+      "text": "@AbbottEddi5270 This video is not new. It originates from a 2016 YouTube video uploaded by the channel thirdphaseofmoon (a long-running UFO/paranormal content channel)",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265432204886508"
-    },
-    {
-      "type": "x",
-      "text": "@realannapaulina You literally left the uap meeting earlier to take a recess and fill 2 drinks an never came back",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070265390689571224"
+      "url": "https://x.com/i/web/status/2070285584698868022"
     },
     {
       "type": "swpc",
@@ -170,18 +170,6 @@
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2243\r Issue Time: 2026 Jun 25 0847 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 30 km ENE of Kuji, Japan",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 28 km SE of Yumare, Venezuela",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -867,6 +855,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 31.2
+    },
+    {
+      "ts": "2026-06-25T23:23:11.501462Z",
+      "score": 34.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.4
     }
   ],
   "sources": [
