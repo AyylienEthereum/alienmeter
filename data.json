@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T15:59:43.601060Z",
-  "score": 40.1,
+  "generated_at": "2026-06-25T18:14:52.959127Z",
+  "score": 42.5,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 2.7,
-    "d24h": 0.0,
+    "d1h": 8.3,
+    "d24h": -9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.5,
+    "social_chatter": 11.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 2.1
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,80 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "15:59",
+    "generated_utc": "18:14",
     "top_drivers": [
-      "Star Trek legend William Shatner plots all star heavy metal concert to boldly go where no other musician has gone before",
-      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 9",
+      "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
+      "X/Twitter chatter: 198 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 7",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 34.3,
+    "live_signal": 37.3,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 176,
+    "gdelt_spike_pct": -25.452983933471586,
+    "x_last_hour": 198,
     "wiki_spike_pct": -9.19531819179633,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 7.5,
-    "swpc_alerts_24h": 9
+    "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
+      "source": "kdhlradio.com",
+      "url": "https://kdhlradio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
+    },
+    {
+      "type": "news",
+      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
+      "source": "squatchrocks.com",
+      "url": "https://squatchrocks.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=au6fojr4sbgje081ha5aordvn5"
+    },
+    {
+      "type": "news",
+      "text": "UFO POV on Blaze : full details and when it on",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/e6142b8a-f591-5275-98b4-c9ee1025f5b9/ufo-pov"
+    },
+    {
+      "type": "news",
+      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
+      "source": "power96radio.com",
+      "url": "https://power96radio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
+    },
+    {
+      "type": "news",
+      "text": "Why The Simpsons Decided To Kill Off Maude Flanders",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2198404/why-the-simpsons-kill-off-maude-flanders/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/0b3cd396-801f-50d5-9da8-bda372115683/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "Minnesota Timberwolves Trade Away Naz Reid For LaMello Ball",
+      "source": "krforadio.com",
+      "url": "https://krforadio.com/ixp/164/p/naz-reid-traded-minnesota-timberwolves/"
+    },
     {
       "type": "news",
       "text": "Star Trek legend William Shatner plots all star heavy metal concert to boldly go where no other musician has gone before",
@@ -70,88 +118,40 @@
       "url": "https://q1077.com/ixp/156/p/8-items-arrested-texas-airport/"
     },
     {
-      "type": "news",
-      "text": "Punjab & Haryana High Court Denies Bail To Accused In NIA Case Relating To Murder Of Shaurya Chakra Awardee Balwinder Singh Sandhu",
-      "source": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/shaurya-chakra-awardee-balwinder-singh-sandhu-murder-nia-probe-no-bail-uapa-538922"
-    },
-    {
-      "type": "news",
-      "text": "Empresas familiares s\u00e3o suspeitas de fraude na coleta de lixo no RS",
-      "source": "g1.globo.com",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/25/mp-faz-operacao-contra-grupo-que-mantem-contratos-de-coleta-de-lixo-em-15-cidades-do-rs.ghtml"
-    },
-    {
-      "type": "news",
-      "text": "Premi\u00e8res images GIGN : 2 ans apr\u00e8s Largo Winch 3 , Tomer Sisley renoue avec laction pour une s\u00e9rie Netflix r\u00e9alis\u00e9e par un sp\u00e9cialiste du genre",
-      "source": "allocine.fr",
-      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000210384.html"
-    },
-    {
-      "type": "news",
-      "text": "Brazil Match Alien Threat : Psychic Claims Reptilian Mothership Will Descend in Miami",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/brazil-match-alien-threat-psychic-claims-reptilian-mothership-will-descend-miami-1805019"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=6djqml8ctb3qea7c290edu9g31"
-    },
-    {
-      "type": "news",
-      "text": "Britsk\u00fd mar\u0161\u00e1l : Situace Rus\u016f je zoufal\u00e1 . Jako u N\u011bmc\u016f za druh\u00e9 sv\u011btov\u00e9 v\u00e1lky | ParlamentniListy . cz \u2013 politika ze v\u0161ech stran",
-      "source": "parlamentnilisty.cz",
-      "url": "https://www.parlamentnilisty.cz/arena/monitor/Britsky-marsal-Situace-Rusu-je-zoufala-Jako-u-Nemcu-za-druhe-svetove-valky-793241"
-    },
-    {
-      "type": "news",
-      "text": "SIA Jammu Conducts Search At Beerwah Residence In UAPA Case Investigation",
-      "source": "dailyexcelsior.com",
-      "url": "https://www.dailyexcelsior.com/sia-jammu-conducts-search-at-beerwah-residence-in-uapa-case-investigation/"
-    },
-    {
-      "type": "news",
-      "text": "Vinicius pone a bailar a Brasil",
-      "source": "lanzadigital.com",
-      "url": "https://www.lanzadigital.com/deportes/vinicius-pone-a-bailar-a-brasil/"
+      "type": "x",
+      "text": "\ud83d\udef8 The hardest decision for an intelligent system...  isn't knowing when to publish.  It's knowing when to stay silent.  That's why we changed the philosophy behind UFO.  If the system doesn't find a g",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070208894945636838"
     },
     {
       "type": "x",
-      "text": "@KirbyInformer Need the ufo ones so bad",
+      "text": "A more accurate description of the downed F15 would be a \"HeckleFish\" formation rather than comparing it to the debunked @JeremyCorbell  \"JellyFish\" UFO.  #ufox #uapx https://t.co/H6hXMvi4bG https://t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070174990377402530"
+      "url": "https://x.com/i/web/status/2070208843678699991"
     },
     {
       "type": "x",
-      "text": "For more than 75 years, the subject of UFOs \u2014 now formally known as UAP (Unidentified Anomalous Phenomena) \u2014 has been buried under secrecy and official denial.  Until now.  From the New York Times' la",
+      "text": "@elonmusk @Landeur \"Why drill into the skull for a brain chip? We can weave neural nano-wires right into a traditional Turban. A Cyber Turban that reads brainwaves externally without surgery. Future t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070174825591578913"
+      "url": "https://x.com/i/web/status/2070208809046532096"
     },
     {
       "type": "x",
-      "text": "@EricBurlison It sticks out like a sore thumb that there's not been a single UFO crash telegram published yet.",
+      "text": "@SeanMcCarthyCom @realKalos Check out Mirage Men on YouTube, about how the CIA promotes UFO conspiracism to cover up clandestine operations",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070174510901342400"
+      "url": "https://x.com/i/web/status/2070208808333230287"
     },
     {
       "type": "x",
-      "text": "@EricBurlison In 1952, the USAF did not specifically hold a briefing for MIT scientists about UFOs. Instead, Air Force Intelligence held the largest military press conference in history, prompted by t",
+      "text": "@elonmusk @CathieDWood \"Why drill into the skull for a brain chip? We can weave neural nano-wires right into a traditional Turban. A Cyber Turban that reads brainwaves externally without surgery. Futu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070173827267543209"
+      "url": "https://x.com/i/web/status/2070208686396760409"
     },
     {
       "type": "x",
-      "text": "In 1952, the USAF did not specifically hold a briefing for MIT scientists about UFOs. Instead, Air Force Intelligence held the largest military press conference in history, prompted by the 1952 Washin",
+      "text": "I'm not loving this whistleblower protection part of the UAP panel.   (1) The langauge. It's not administrative blowback or an administrative oopsie - it's retaliation.   (2) The harm. The fear is not",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070173751266717997"
-    },
-    {
-      "type": "x",
-      "text": "@Mr_J_Washington @planethunter56 bc i clicked on one ufo post and now the algo keeps filling my feed with bs ufo garbage",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070173628583297170"
+      "url": "https://x.com/i/web/status/2070208561183879563"
     },
     {
       "type": "swpc",
@@ -846,6 +846,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 34.3
+    },
+    {
+      "ts": "2026-06-25T18:14:52.883541Z",
+      "score": 42.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 37.3
     }
   ],
   "sources": [
