@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T08:04:51.562769Z",
-  "score": 34.2,
+  "generated_at": "2026-06-25T11:07:55.772781Z",
+  "score": 36.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.6,
+    "d1h": -28.1,
     "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.6,
+    "social_chatter": 5.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.8,
-    "alien_variance": 0.5
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,82 +31,82 @@
     "day": 11,
     "date": "25.06.2026",
     "declassified": "25.06.26",
-    "generated_utc": "08:04",
+    "generated_utc": "11:07",
     "top_drivers": [
-      "X/Twitter chatter: 79 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 7",
+      "X/Twitter chatter: 99 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 9",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.8,
-    "baseline_recent": 25.5,
+    "live_signal": 29.5,
+    "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 6.6719679654,
+    "closest_asteroid_ld": 6.6719660593,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -82.87152600081464,
-    "x_last_hour": 79,
+    "gdelt_spike_pct": -15.609802014370434,
+    "x_last_hour": 99,
     "wiki_spike_pct": -9.19531819179633,
     "earthquakes_24h": 4,
     "max_quake_mag_24h": 7.5,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 9
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Sources: PBS, 2026-05-04, \"Trump drops hints of what's coming in new batch of UFO files set for release\", https://t.co/UEwdBXQhbS  BBC, 2026-02-20, \"Trump directs US government to prepare release of f",
+      "text": "Meet UFO  \"The handy vehicle and right hand of the Space Princess, which is just as well because the Space Princess is left handed and UFO is clumsy as hell.\" https://t.co/GgmSS3ZI3f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070055496292425812"
+      "url": "https://x.com/i/web/status/2070101446914453985"
     },
     {
       "type": "x",
-      "text": "The base case is still No. Recent UAP file releases stay inside the safer language: unresolved, unexplained, no position on origin. That is not the same as confirming aliens.  The edge is in the trigg",
+      "text": "@PolymarketSport Scotland? Beer \ud83c\udf7a and ufo \ud83d\udef8 should be fun",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070055494857916644"
+      "url": "https://x.com/i/web/status/2070100773640278525"
     },
     {
       "type": "x",
-      "text": "The State Investigation Agency (SIA) on Thursday conducted a search operation at a residence in the Beerwah area of central Kashmir's Budgam district in connection with an ongoing investigation under ",
+      "text": "Watch live: Washington talks UFOs at UAP Disclosure Forum.. https://t.co/g0kxlWjaRC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070055164732723609"
+      "url": "https://x.com/i/web/status/2070100357573657032"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc31\ud83d\udef8 Cat vs UFO... Who wins? \ud83d\udc40  An ordinary cat. An unexpected alien encounter. Things escalate FAST. \ud83d\ude80\ud83d\udd25  Watch until the end and tell me... who do you think won? \ud83d\udc47  https://t.co/2EJdSluUvZ  #Cat #UFO #",
+      "text": "The DEV DIGITAL UFO High Bay Light delivers powerful illumination, energy efficiency, and long-lasting durability for demanding applications.  \ud83c\udf10 https://t.co/RFKINBM9FK \ud83d\udcde +91 96624 24588  #IndustrialL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070055007307604465"
+      "url": "https://x.com/i/web/status/2070100321440034870"
     },
     {
       "type": "x",
-      "text": "The filing system worked perfectly. Nothing survived. \ud83d\udef8  $UFO https://t.co/gfzexP9ldL https://t.co/awqkJIgmvb",
+      "text": "#Children #Kids #Family #History #STEMKids #Adventure #CuriousKids  Titanic. UFO sightings. Ancient disasters. Brave heroes. The real world is more amazing than fiction. These true stories will inspir",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070053647820497207"
+      "url": "https://x.com/i/web/status/2070099800272289886"
     },
     {
       "type": "x",
-      "text": "@BuzzingPop The psychic probably just saw a rogue clearance from a Scotland defender and mistook it for a UFO. \u26bd\ufe0f\ud83d\ude80",
+      "text": "Robert Salas presented testimony about a nuclear missile facility experiencing a UAP shutdown event in 1975. The missiles were disabled while the UAP was overhead. The Air Force initially denied it, t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070052489018179811"
+      "url": "https://x.com/i/web/status/2070099534349238516"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2243\r Issue Time: 2026 Jun 25 0847 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5368\r Issue Time: 2026 Jun 25 0846 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2028\r Issue Time: 2026 Jun 25 0356 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2242\r Issue Time: 2026 Jun 25 0341 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2242\r Issue Time: 2026 Jun 25 0338 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -764,6 +764,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.8
+    },
+    {
+      "ts": "2026-06-25T11:07:55.698913Z",
+      "score": 36.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.5
     }
   ],
   "sources": [
