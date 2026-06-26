@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T21:40:03.279069Z",
-  "score": 43.4,
+  "generated_at": "2026-06-26T22:49:25.329015Z",
+  "score": 39.9,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 4.0,
-    "d24h": 7.5,
+    "d1h": -3.1,
+    "d24h": 6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 7.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 8.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 3.8
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 12,
     "date": "26.06.2026",
     "declassified": "26.06.26",
-    "generated_utc": "21:40",
+    "generated_utc": "22:49",
     "top_drivers": [
-      "Every Time Barack Obama Has Clapped Back At Trump",
-      "X/Twitter chatter: 146 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +176% above baseline"
+      "Wikipedia UFO pageviews +176% above baseline",
+      "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 38.0,
-    "baseline_recent": 26.5,
+    "live_signal": 33.4,
+    "baseline_recent": 26.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719626361,
     "asteroid_name": "152637 (1997 NC1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 146,
+    "x_last_hour": 119,
     "wiki_spike_pct": 175.78729830697085,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.5,
@@ -58,100 +58,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Every Time Barack Obama Has Clapped Back At Trump",
-      "source": "blackamericaweb.com",
-      "url": "https://blackamericaweb.com/2026/06/25/every-time-barack-obama-has-clapped-back-at-trump/"
-    },
-    {
-      "type": "news",
-      "text": "\u0422\u0440\u0443\u0434 : \u041f\u0443\u0442\u0438\u043d \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043b \u0437\u0430\u043a\u043e\u043d \u043e \u0448\u0442\u0440\u0430\u0444\u0430\u0445 \u0437\u0430 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u044e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0447\u0435\u0440\u0435\u0437 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b",
-      "source": "trud.ru",
-      "url": "https://www.trud.ru/article/26-06-2026/1816851_putin_podpisal_zakon_o_shtrafax_za_avtorizatsiju_polzovatelej_cherez_inostrannye_servisy.html"
-    },
-    {
-      "type": "news",
-      "text": "Midyear Symposium : Making a Strategic Home for Thematic ETFs",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/midyear-symposium-making-a-strategic-home-for-thematic-etfs/"
-    },
-    {
-      "type": "news",
-      "text": "De n . \u00ba 2 para 3 . Rui Tavares \u00e9 o mestre da ilus\u00e3o pol\u00edtica ? \u2013 Observador",
-      "source": "observador.pt",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/de-n-o-2-para-3-rui-tavares-e-o-mestre-da-ilusao-politica/"
-    },
-    {
-      "type": "news",
-      "text": "Iowans Hear the World Hum : What Is This Mysterious Sound ? ",
-      "source": "kdat.com",
-      "url": "https://kdat.com/ixp/676/p/iowa-world-hum/"
-    },
-    {
-      "type": "news",
-      "text": "Iowans Hear the World Hum : What Is This Mysterious Sound ? ",
-      "source": "koel.com",
-      "url": "https://koel.com/ixp/676/p/iowa-world-hum/"
-    },
-    {
-      "type": "news",
-      "text": "I Noticed The Word  Alien  Is Never Used In Disclosure Day , And There Is A Reason Why",
-      "source": "cinemablend.com",
-      "url": "https://www.cinemablend.com/movies/i-noticed-disclosure-day-never-says-alien-reason-why-david-koepp"
-    },
-    {
-      "type": "news",
-      "text": "The Proof Is Out There",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/d649e1ad-2250-5c0e-9452-69b89c40c133/the-proof-is-out-there"
-    },
-    {
-      "type": "news",
-      "text": "ARCHITETTI - Il dialogo sullarchitettura contemporanea sbarca a Messina : nel weekend Mario Cucinella",
-      "source": "scomunicando.it",
-      "url": "https://www.scomunicando.it/notizie/architetti-il-dialogo-sullarchitettura-contemporanea-sbarca-a-messina-nel-weekend-mario-cucinella/"
-    },
-    {
-      "type": "news",
-      "text": "Every Time Barack Obama Has Clapped Back At Trump",
-      "source": "tvone.tv",
-      "url": "https://tvone.tv/1964728/every-time-barack-obama-has-clapped-back-at-trump/"
+      "type": "x",
+      "text": "Note to self: Never buy gravastar UFO switches again",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070640524315259203"
     },
     {
       "type": "x",
-      "text": "\ud83d\ude80 $CONTACT - This token is FIRE!  Diamond Hands community holding strong! \ud83d\udc8e\ud83d\ude4c The UFO is ready \u2014 join the crew and let\u2019s fly to the moon!  CA: GkDYHiWxdkWXEJ3nGVyhFqQtYTqp4ggfQKqWpWpLpump  TG: https://",
+      "text": "@FoxNews The cancer isn't so-called communism, it is a billionaire class that has captured our government, a media machine profiting from manufactured division, and a political class that answers to d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622897865920721"
+      "url": "https://x.com/i/web/status/2070639981329023293"
     },
     {
       "type": "x",
-      "text": "@RepAndreCarson Get  UAP whistleblower protections in place and declassify everything you can...4 years...David Grusch's testimony...enough stalling and fucking about - be a leader and get  transparen",
+      "text": "UFO ANTIGRAVITY FOR BEGINNERS:  a strong magnetic field B directly sources spacetime curvature through the EM stress-energy tensor.    R\u2070\u2070 \u221d B\u00b2    Integrate that curvature along the ship and you get a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622874478485721"
+      "url": "https://x.com/i/web/status/2070639895467487574"
     },
     {
       "type": "x",
-      "text": "@MHuntington7 @EricBurlison A UFO story doesn\u2019t have evidence, but this Colares case does, which includes photographs of the UFOs and burn marks.",
+      "text": "Large car-sized drone spotted in Las Vegas, NV #drone #vegas #ufo #pelican https://t.co/NkVvM1KCtG via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622763270705155"
+      "url": "https://x.com/i/web/status/2070639838026698936"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8A massive \"Triangle\" shaped UFO OR a TR-3B is filmed in night vision &amp; you can clearly see the whole thing power up &amp; disappear...    Is this the video?    IYKYK... https://t.co/nWyc9GGC33",
+      "text": "@realannapaulina @America250 @FoxNews @pdoocy Love your work Ma'am, polite reminder to continue releasing the UFO/UAP documents, and get us Disclosure before the end of the year.  Polymarket amirite.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622583264067780"
+      "url": "https://x.com/i/web/status/2070639824848003493"
     },
     {
       "type": "x",
-      "text": "@Only_Ryan02 @EricBurlison Lacatski says shit.  And Colares from 1977 is not an investigation of UFOs, but a UFO story. Hashing cold cases is not a scientific investigation.",
+      "text": "@tailgatejones @wiel_jade @AdamKinzinger @LueElizondo **tailgatejones** Some of Lue Elizondo\u2019s specific claims have been shown false:  - Presented a \u201cmothership\u201d UFO photo supposedly taken from the US",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622322663342403"
-    },
-    {
-      "type": "x",
-      "text": "Relavant action for today: $QQQ -1.47%  $SPY -0.71% $IWM -0.43% Biotech &amp; Healthcare \ud83d\udfe2 Regional Banks \ud83d\udfe2 Cibersecurity \ud83d\udfe2 $IGV $ARKG $XLV $ARKW $CIBR $UFO $FROG $ATEX $BFLY $BB $SNOW $DDOG \ud83d\udd25",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070622196238610908"
+      "url": "https://x.com/i/web/status/2070639676914888884"
     },
     {
       "type": "swpc",
@@ -925,6 +865,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 38.0
+    },
+    {
+      "ts": "2026-06-26T22:49:25.253601Z",
+      "score": 39.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 33.4
     }
   ],
   "sources": [
