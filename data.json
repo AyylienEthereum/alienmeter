@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T14:12:58.348922Z",
-  "score": 31.2,
+  "generated_at": "2026-06-27T15:39:49.621318Z",
+  "score": 30.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
@@ -11,19 +11,19 @@
   },
   "deltas": {
     "d1h": -0.9,
-    "d24h": -10.0,
+    "d24h": -7.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.9,
+    "social_chatter": 6.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 2.2
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "14:12",
+    "generated_utc": "15:39",
     "top_drivers": [
-      "X/Twitter chatter: 85 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 106 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.3,
+    "live_signal": 21.8,
     "baseline_recent": 26.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -52.222966467116,
-    "x_last_hour": 85,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 106,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "50 Insane Facts About Pentagon UFO Files Release You NEED to KNOW https://t.co/qdv4qxamFh via @YouTube",
+      "text": "@ufouapam I love it. Reminds me of those cool retro encyclopedias. Great collection of UAP events.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070872870650286174"
+      "url": "https://x.com/i/web/status/2070894766665924676"
     },
     {
       "type": "x",
-      "text": "@TheSCIF A Plumber who thinks he knows about Microwave systems? \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 Supporters in alternative/UFO/conspiracy circles see him as a credible insider exposing hidden tech",
+      "text": "You know why we have all the UFO releases right now, Epstein files, I ran war, all these distractions? It\u2019s because if that wasn\u2019t going on, people would be blowing up all the data centers right now! ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070872791394713876"
+      "url": "https://x.com/i/web/status/2070894528475578408"
     },
     {
       "type": "x",
-      "text": "Video released from the Department of war shows a UAP coming out of a cl... https://t.co/mRJZfVhMa2 via @YouTube",
+      "text": "I\u2019ve stated all along. \ud83d\udc47\ud83c\udffe\ud83d\udc47\ud83c\udffe  It\u2019s all connected. The wars, the church being used, UAP Disclosure\u2026.all of it.   The entire Trump platform was anchored in listening to alternative voices.   What\u2019s the i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070872700675850689"
+      "url": "https://x.com/i/web/status/2070894122735649060"
     },
     {
       "type": "x",
-      "text": "@mariawirth1 @IamPraveenMohan Afghan cave mistery is rumoured US govt recovered this same bell shaped UFO",
+      "text": "Man Shot at a UFO, Then Filmed Its Shocking Landing! The Footage Is Unbe... https://t.co/JBCnPEo4gD via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070872381464392004"
+      "url": "https://x.com/i/web/status/2070894081681613201"
     },
     {
       "type": "x",
-      "text": "The Fort Dix McGuire alien UFO incident   #UAP #UFO #Alien #Biologic recovery #FortDixMcGuireAlien   https://t.co/o4HvbJEt1u",
+      "text": "the Video of the UAP Rainbow Communication, the United States Government does not have this Technology, \"they're still living in the Stone Age\" ... NEXT ... https://t.co/BUID1dqs35 https://t.co/T49SN7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070872168452259995"
+      "url": "https://x.com/i/web/status/2070893823006589340"
     },
     {
       "type": "x",
-      "text": "Chris Mellon will be the keynote speaker in Toronto at the Scientific Coalition for UAP Studied (SCU) Conference this July. Info and registration here: https://t.co/3IweU8MsDG https://t.co/i9HCs4mjDC",
+      "text": "@SnazzyLabs look up Look up when it's dark and see a UFO That's the purpose of the glass roof",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070871780378513675"
+      "url": "https://x.com/i/web/status/2070893670992085256"
     },
     {
       "type": "swpc",
@@ -914,6 +914,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.3
+    },
+    {
+      "ts": "2026-06-27T15:39:49.563452Z",
+      "score": 30.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.8
     }
   ],
   "sources": [
