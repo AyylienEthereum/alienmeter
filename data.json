@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T00:00:01.214626Z",
-  "score": 40.4,
+  "generated_at": "2026-06-27T03:59:53.954267Z",
+  "score": 30.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -4.3,
-    "d24h": 9.8,
+    "d1h": -9.0,
+    "d24h": 6.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.3,
+    "social_chatter": 5.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
-    "search_interest": 8.0,
+    "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 1.4
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,127 +31,66 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "00:00",
+    "generated_utc": "03:59",
     "top_drivers": [
-      "I saw unreleased UFO files at a secret meeting in the Tennessee mountains . We prayed after seeing what these  humanoid being did ... the world is not prepared",
-      "X/Twitter chatter: 140 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 88 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +197% above baseline"
+      "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 34.0,
-    "baseline_recent": 26.7,
+    "live_signal": 21.5,
+    "baseline_recent": 26.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719626361,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 140,
-    "wiki_spike_pct": 196.64578542542225,
+    "gdelt_spike_pct": -48.604682468184684,
+    "x_last_hour": 88,
+    "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.5,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "I saw unreleased UFO files at a secret meeting in the Tennessee mountains . We prayed after seeing what these  humanoid being did ... the world is not prepared",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15920379/ufo-files-tennessee-mountains-aliens.html"
-    },
-    {
-      "type": "news",
-      "text": "Every Time Barack Obama Has Clapped Back At Trump",
-      "source": "blackamericaweb.com",
-      "url": "https://blackamericaweb.com/2026/06/25/every-time-barack-obama-has-clapped-back-at-trump/"
-    },
-    {
-      "type": "news",
-      "text": "\u0422\u0440\u0443\u0434 : \u041f\u0443\u0442\u0438\u043d \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043b \u0437\u0430\u043a\u043e\u043d \u043e \u0448\u0442\u0440\u0430\u0444\u0430\u0445 \u0437\u0430 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u044e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0447\u0435\u0440\u0435\u0437 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b",
-      "source": "trud.ru",
-      "url": "https://www.trud.ru/article/26-06-2026/1816851_putin_podpisal_zakon_o_shtrafax_za_avtorizatsiju_polzovatelej_cherez_inostrannye_servisy.html"
-    },
-    {
-      "type": "news",
-      "text": "Midyear Symposium : Making a Strategic Home for Thematic ETFs",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/midyear-symposium-making-a-strategic-home-for-thematic-etfs/"
-    },
-    {
-      "type": "news",
-      "text": "De n . \u00ba 2 para 3 . Rui Tavares \u00e9 o mestre da ilus\u00e3o pol\u00edtica ? \u2013 Observador",
-      "source": "observador.pt",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/de-n-o-2-para-3-rui-tavares-e-o-mestre-da-ilusao-politica/"
-    },
-    {
-      "type": "news",
-      "text": "Iowans Hear the World Hum : What Is This Mysterious Sound ? ",
-      "source": "kdat.com",
-      "url": "https://kdat.com/ixp/676/p/iowa-world-hum/"
-    },
-    {
-      "type": "news",
-      "text": "Iowans Hear the World Hum : What Is This Mysterious Sound ? ",
-      "source": "koel.com",
-      "url": "https://koel.com/ixp/676/p/iowa-world-hum/"
-    },
-    {
-      "type": "news",
-      "text": "I Noticed The Word  Alien  Is Never Used In Disclosure Day , And There Is A Reason Why",
-      "source": "cinemablend.com",
-      "url": "https://www.cinemablend.com/movies/i-noticed-disclosure-day-never-says-alien-reason-why-david-koepp"
-    },
-    {
-      "type": "news",
-      "text": "The Proof Is Out There",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/d649e1ad-2250-5c0e-9452-69b89c40c133/the-proof-is-out-there"
-    },
-    {
-      "type": "news",
-      "text": "ARCHITETTI - Il dialogo sullarchitettura contemporanea sbarca a Messina : nel weekend Mario Cucinella",
-      "source": "scomunicando.it",
-      "url": "https://www.scomunicando.it/notizie/architetti-il-dialogo-sullarchitettura-contemporanea-sbarca-a-messina-nel-weekend-mario-cucinella/"
+      "type": "x",
+      "text": "Earth may have been seeding Venus with microbes for billions of years: study. #ufo  #uap  https://t.co/BXmA0eWBow",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070718675460473175"
     },
     {
       "type": "x",
-      "text": "We\u2019ve all felt that something is off, like a mask slipping in real-time. It\u2019s not ships in the sky, it\u2019s a silent replacement happening right in front of us.Grab HUSH to see the full evidence: https:/",
+      "text": "@TheSCIF You guys gotta get out from under the rock since the 1950s they had reverse engineered  alien https://t.co/TWDrQ6V5zc they have a fleet of them and they're using them to traffic women and chi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070658209132462365"
+      "url": "https://x.com/i/web/status/2070718638961684572"
     },
     {
       "type": "x",
-      "text": "@memizon Nice, definitely don\u2019t see too many Japanese UFO zines from that era come up for sale. If I ever make it back to Japan, I\u2019m definitely going to be hunting for them.",
+      "text": "The UFO Wizard Reveals What He's Learned https://t.co/HPSFE6av6A",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070657939757736102"
+      "url": "https://x.com/i/web/status/2070718599480889806"
     },
     {
       "type": "x",
-      "text": "@DanThomasESPN Have either of them ever seen a ghost/ufo/etc?\ud83d\udc7b\ud83d\udc7d",
+      "text": "We spent the weekend in one of the most unique Airbnb\ud83d\udef8 An actual UFO-shaped house! \ud83d\udc7d We stayed overnight in this rare house, and enjoyed a backyard BBQ using our favorite ultra-compact camping gear\ud83c\udf56 h",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070657819460653305"
+      "url": "https://x.com/i/web/status/2070718594229342313"
     },
     {
       "type": "x",
-      "text": "\ud83c\udf37\ud83d\udd4a\ud83c\udf37\u0627\u0644\u0644\u0647 \u063a\u0644\u0628\ud83c\udf37\ud83d\udd4a\ud83c\udf37 Going after whistleblowers? Eg. Like UAP scientists in a Disclosure managed by same congress/senate insider-Trading w MIC corps who funded their rise in politics? /using ur $ for #DataC",
+      "text": "@EnigmasEnX The quality of the video is low, the ufo \ud83d\udef8 video resolution would stretch the light of the ufo, look close the smoke cloud is moving at the same speed as the ufo and there is a 3 second fe",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070657481269756037"
+      "url": "https://x.com/i/web/status/2070717839569277328"
     },
     {
       "type": "x",
-      "text": "@Iran but what is that ufo looking thing on the side , and when did this happen 6/26/26",
+      "text": "Dark Journalist &amp; Gigi Young: Loving The Alien Missing Scientists UFO Di... https://t.co/mKfDIGrWYd via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070657332095189204"
-    },
-    {
-      "type": "x",
-      "text": "@IanCarrollShow \ud83c\udf37\ud83d\udd4a\ud83c\udf37\u0627\u0644\u0644\u0647 \u063a\u0644\u0628\ud83c\udf37\ud83d\udd4a\ud83c\udf37 Going after whistleblowers? Eg. Like UAP scientists in a Disclosure managed by same congress/senate insider-Trading w MIC corps who funded their rise in politics? /using",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070657326600589508"
+      "url": "https://x.com/i/web/status/2070717132912935306"
     },
     {
       "type": "swpc",
@@ -933,6 +872,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 34.0
+    },
+    {
+      "ts": "2026-06-27T03:59:53.879387Z",
+      "score": 30.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.5
     }
   ],
   "sources": [
