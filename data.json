@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T15:39:49.621318Z",
-  "score": 30.8,
+  "generated_at": "2026-06-27T16:45:58.137383Z",
+  "score": 34.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -0.9,
-    "d24h": -7.5,
+    "d1h": 0.3,
+    "d24h": -4.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.2,
+    "social_chatter": 7.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 0.4
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "15:39",
+    "generated_utc": "16:45",
     "top_drivers": [
-      "X/Twitter chatter: 106 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 127 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.8,
-    "baseline_recent": 26.6,
+    "live_signal": 26.7,
+    "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 106,
-    "wiki_spike_pct": -23.31685393258427,
+    "x_last_hour": 127,
+    "wiki_spike_pct": -15.941802683910325,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
     "swpc_alerts_24h": 1
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@ufouapam I love it. Reminds me of those cool retro encyclopedias. Great collection of UAP events.",
+      "text": "\ud83d\udea8Filmmaker Dean Alioto spent 8 years with alien abductees &amp; here\u2019s the terrifying truth about the NHI \"hybrid program\": https://t.co/aUuLueBeF7 #ufo #uap #hybrids #NHI https://t.co/UUHC3xi10R",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070894766665924676"
+      "url": "https://x.com/i/web/status/2070911150473019831"
     },
     {
       "type": "x",
-      "text": "You know why we have all the UFO releases right now, Epstein files, I ran war, all these distractions? It\u2019s because if that wasn\u2019t going on, people would be blowing up all the data centers right now! ",
+      "text": "UFO - Shut down a nuclear missile site. https://t.co/l6HVgaB3vf",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070894528475578408"
+      "url": "https://x.com/i/web/status/2070910875997712506"
     },
     {
       "type": "x",
-      "text": "I\u2019ve stated all along. \ud83d\udc47\ud83c\udffe\ud83d\udc47\ud83c\udffe  It\u2019s all connected. The wars, the church being used, UAP Disclosure\u2026.all of it.   The entire Trump platform was anchored in listening to alternative voices.   What\u2019s the i",
+      "text": "Ufology-Parapsychology: 16 ALIEN ABDUCTION &amp; UFO Cases &amp; Signs You've Been Abducted! https://t.co/HOjngt6lHp via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070894122735649060"
+      "url": "https://x.com/i/web/status/2070910669642146095"
     },
     {
       "type": "x",
-      "text": "Man Shot at a UFO, Then Filmed Its Shocking Landing! The Footage Is Unbe... https://t.co/JBCnPEo4gD via @YouTube",
+      "text": "Four sightings. Zero answers.  My new retro UFO/alien tee series is live on Redbubble:  CLASSIFICATION UNKNOWN NOTHING TO REPORT PROBABLY NOTHING STATUS UNRESOLVED Wear the evidence. Or deny everythin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070894081681613201"
+      "url": "https://x.com/i/web/status/2070910660578312610"
     },
     {
       "type": "x",
-      "text": "the Video of the UAP Rainbow Communication, the United States Government does not have this Technology, \"they're still living in the Stone Age\" ... NEXT ... https://t.co/BUID1dqs35 https://t.co/T49SN7",
+      "text": "@Borg_Cryptos UFO Defense Systems &amp; Earthquake Reinforcing Steel Mfg",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070893823006589340"
+      "url": "https://x.com/i/web/status/2070910625652388115"
     },
     {
       "type": "x",
-      "text": "@SnazzyLabs look up Look up when it's dark and see a UFO That's the purpose of the glass roof",
+      "text": "#books made into #films #filmcommunity #subscribe #filmmakers #indieauthor of #scifi #fiction #comedy #horror #mystery #ufo #aliens #NeoNoir #LGBT #erotica #Indienanimation  produced by #authors #game",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070893670992085256"
+      "url": "https://x.com/i/web/status/2070910575446471150"
     },
     {
       "type": "swpc",
@@ -921,6 +921,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.8
+    },
+    {
+      "ts": "2026-06-27T16:45:58.064326Z",
+      "score": 34.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.7
     }
   ],
   "sources": [
