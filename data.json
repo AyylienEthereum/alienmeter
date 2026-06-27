@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T09:28:55.596943Z",
-  "score": 31.7,
+  "generated_at": "2026-06-27T11:11:42.557732Z",
+  "score": 34.3,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -8.2,
-    "d24h": -3.4,
+    "d1h": -6.1,
+    "d24h": -2.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.4,
+    "social_chatter": 4.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 0.9
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "09:28",
+    "generated_utc": "11:11",
     "top_drivers": [
-      "X/Twitter chatter: 76 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 83 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.8,
+    "live_signal": 26.2,
     "baseline_recent": 26.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 6.6719626361,
+    "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 76,
+    "gdelt_spike_pct": -46.88,
+    "x_last_hour": 83,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.5,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@nontpnonjo @PeteAlonSoCrazy @stephen_housman @DanJRossOne @MickMilee \"Could\" be the important word there. Christians claiming demons inspired other religions is as compelling as Islam claiming jinn i",
+      "text": "Something Is Off with the New UFO Files.. The Alien Coverup Continues. https://t.co/ODr0Gvq4Jf via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070800780433797602"
+      "url": "https://x.com/i/web/status/2070826532474405193"
     },
     {
       "type": "x",
-      "text": "Today in UFO History - Newspaper Photographer Shoots 50ft of 16mm film of Large Disc  June 27, 1950 \u2014 Louisville, KY #ufotwitter #ufox #uaptwitter #uapx https://t.co/S6lDIRmova",
+      "text": "The Problem with the UFO/NHI Disclosure Process. https://t.co/gs5pMkwe36",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070800706744013096"
+      "url": "https://x.com/i/web/status/2070826524811370941"
     },
     {
       "type": "x",
-      "text": "#UFO_Sightings_Daily  -  #UFO Over #Redondo_Beach, #California June 11 .  -  https://t.co/Z9j8WzQdO2 via @YouTube",
+      "text": "\ud83d\udd17 Timeline of Modern UAP &amp; National Security: Subterranean discovery + Gen. McCasland + Avi Loeb https://t.co/jz4T6yuFdR",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070800001505063294"
+      "url": "https://x.com/i/web/status/2070826221844172876"
     },
     {
       "type": "x",
-      "text": "@Meepulous77 @Helldivers_NOW Yes, you have.  Because you only have 5 rounds before run out.  Why waste an Orb Laser or a Rail shot + long cooldown when i can call artillery upon an Easy Target like a ",
+      "text": "\ud83d\udea8 A US company owns this remote property. Located near one of our sensitive western military sites, it went under active security around April 2024\u2014complete with a newly erected guard shack. On the pr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070799843111362576"
+      "url": "https://x.com/i/web/status/2070826217905746220"
     },
     {
       "type": "x",
-      "text": "I Snuck Into A Secret Cult Compound\u2026 (Part 1) The UFO House. If like Cult compounds, bunkers ,statues  and crazy cult people clip for you! @manuraven74 @CrossingUNStyle @PeterCrespo10 @Kaylan_TX_ @the",
+      "text": "Aped into $UAP at just $2.4K MCAP inside my alpha TG \ud83d\udc40  Now it\u2019s sitting at $328K MCAP \ud83d\ude80  That\u2019s a massive 32x move for the early callers \ud83d\udd25  That\u2019s exactly what my TG is built for \u2014 early entries with",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070799441360294212"
+      "url": "https://x.com/i/web/status/2070825819941839349"
     },
     {
       "type": "x",
-      "text": "Air Force Intelligence Officer George Filer Said an Alien Was Shot at Fort Dix and Found Dead at McGuire  *Historical Cases  Retired Air Force intelligence officer and pilot George Filer III said an u",
+      "text": "@overclassifiedx President Trump is making a tremendous move in support of disclosure. He has turned out to be a powerful ally. Many of the videos that have been released would still be hidden if not ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070799237441314827"
+      "url": "https://x.com/i/web/status/2070825486096167093"
     },
     {
       "type": "swpc",
@@ -905,6 +905,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.8
+    },
+    {
+      "ts": "2026-06-27T11:11:42.483412Z",
+      "score": 34.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.2
     }
   ],
   "sources": [
