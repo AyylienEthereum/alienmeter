@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T11:11:42.557732Z",
-  "score": 34.3,
+  "generated_at": "2026-06-27T12:18:49.969774Z",
+  "score": 31.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -6.1,
-    "d24h": -2.0,
+    "d1h": 0.9,
+    "d24h": -7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.8,
+    "social_chatter": 4.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 3.2,
-    "alien_variance": 3.9
+    "seismic": 2.1,
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "11:11",
+    "generated_utc": "12:18",
     "top_drivers": [
-      "X/Twitter chatter: 83 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,56 +41,56 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.2,
+    "live_signal": 22.7,
     "baseline_recent": 26.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -46.88,
-    "x_last_hour": 83,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 78,
     "wiki_spike_pct": -23.31685393258427,
-    "earthquakes_24h": 2,
-    "max_quake_mag_24h": 6.5,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 4.2,
     "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Something Is Off with the New UFO Files.. The Alien Coverup Continues. https://t.co/ODr0Gvq4Jf via @YouTube",
+      "text": "@Mrgunsngear Maybe they thought the floating logo was a pretend ufo like I did. I\u2019m never calling it uap or whatever the hell btw.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070826532474405193"
+      "url": "https://x.com/i/web/status/2070844169036136745"
     },
     {
       "type": "x",
-      "text": "The Problem with the UFO/NHI Disclosure Process. https://t.co/gs5pMkwe36",
+      "text": "https://t.co/qgIHeLNr5S Ears ufo?..",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070826524811370941"
+      "url": "https://x.com/i/web/status/2070843866228642013"
     },
     {
       "type": "x",
-      "text": "\ud83d\udd17 Timeline of Modern UAP &amp; National Security: Subterranean discovery + Gen. McCasland + Avi Loeb https://t.co/jz4T6yuFdR",
+      "text": "@EnragedKaiser37 I would LOVE to get my hands on \u201cUfo e Alieni in Italia\u201d, such a  wealth of unique NHI encounters there. One of my dream projects is to write such a book (or at least a report) on Bal",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070826221844172876"
+      "url": "https://x.com/i/web/status/2070843764357153142"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 A US company owns this remote property. Located near one of our sensitive western military sites, it went under active security around April 2024\u2014complete with a newly erected guard shack. On the pr",
+      "text": "Bipartisan UFO disclosure legislation has now been filed in both chambers of Congress. Please contact your elected officials and ask for their support.  https://t.co/g3zZc9evQp",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070826217905746220"
+      "url": "https://x.com/i/web/status/2070843668508840405"
     },
     {
       "type": "x",
-      "text": "Aped into $UAP at just $2.4K MCAP inside my alpha TG \ud83d\udc40  Now it\u2019s sitting at $328K MCAP \ud83d\ude80  That\u2019s a massive 32x move for the early callers \ud83d\udd25  That\u2019s exactly what my TG is built for \u2014 early entries with",
+      "text": "'5\u2b50\ufe0f- \"Connor's Gambit\" by @Z_Gottlieb is an exhilarating science fiction novel that takes readers on a thrilling journey beyond Earth's boundaries.'  https://t.co/TT4WiFjHFP  #UFO #scifi #aliens #ali",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070825819941839349"
+      "url": "https://x.com/i/web/status/2070843598661149046"
     },
     {
       "type": "x",
-      "text": "@overclassifiedx President Trump is making a tremendous move in support of disclosure. He has turned out to be a powerful ally. Many of the videos that have been released would still be hidden if not ",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/lrsyNlFq6u  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070825486096167093"
+      "url": "https://x.com/i/web/status/2070843592025768029"
     },
     {
       "type": "swpc",
@@ -107,12 +107,6 @@
     {
       "type": "seismic",
       "text": "Significant seismic event: 27 km WNW of Hope, Alaska",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 34 km WSW of Sarangani, Philippines",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -912,6 +906,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.2
+    },
+    {
+      "ts": "2026-06-27T12:18:49.895284Z",
+      "score": 31.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.7
     }
   ],
   "sources": [
