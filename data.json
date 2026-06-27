@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T21:37:02.121126Z",
-  "score": 33.2,
+  "generated_at": "2026-06-27T22:43:29.643001Z",
+  "score": 33.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -7.2,
+    "d1h": 0.4,
+    "d24h": -5.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.9,
+    "social_chatter": 6.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 2.8
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "21:37",
+    "generated_utc": "22:43",
     "top_drivers": [
       "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
-      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 111 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -42,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.9,
-    "baseline_recent": 26.6,
+    "live_signal": 25.5,
+    "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 117,
+    "gdelt_spike_pct": -8.396587416096857,
+    "x_last_hour": 111,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
@@ -119,39 +119,39 @@
     },
     {
       "type": "x",
-      "text": "Remnants of internal bleeding in the armpits of #nazcamummies \"Luisa.\"  #Science #History #historyfactsdaily #Biology #Medicine #Peru #Nazca #Palpa #Mexico #Alien #alientwt #UAP #disclosure #disclosur",
+      "text": "@UAPReportingCnt New category of UFO:  A.S.H. - Antigrav Sky Hook",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984657743524292"
+      "url": "https://x.com/i/web/status/2071001341720424587"
     },
     {
       "type": "x",
-      "text": "@inversewire @WorldNews_X_ Blue check noted, congrats!   That Area 51 hangar UFO clip looks like solid CGI to me \u2014 too crisp, symmetrical, and dramatically lit for a genuine leak. Real restricted-area",
+      "text": "@TheOtherKinds @maniaUFO You're right. This exact image circulated in early 2023 right after the Alaska high-altitude object shootdown (later assessed as likely a civilian balloon). It's been reposted",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984542731600209"
+      "url": "https://x.com/i/web/status/2071001293355663511"
     },
     {
       "type": "x",
-      "text": "@MHuntington7 I mean you can even follow Grusch's learning process to an extent. You can tell after he reads a book like UFOs and Nukes, then he went on podcast talking about UFOs and Nukes (and the b",
+      "text": "@UAPDr @grok Does this video in the post\u2014the jellyfish UFO\u2014show signs of being CGI or AI-generated?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984475706806352"
+      "url": "https://x.com/i/web/status/2071000978145292694"
     },
     {
       "type": "x",
-      "text": "@TaraBull After President Trump released the UFO Files, I stopped believing that this thing was just a balloon.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bor cloud\ud83d\ude02",
+      "text": "This is an interesting report worth hearing, but the reporter feels compelled to hedge her bets:   \"...though many of us are still waiting for definitive proof of life beyond Earth,\" she said.  This \"",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984450096460258"
+      "url": "https://x.com/i/web/status/2071000780287697110"
     },
     {
       "type": "x",
-      "text": "@MenthaReuniclus - \u201c KINDA.  I\u2019M A UFO-ASS LOOKIN MOFO, AND BECAUSE OF JACKASS-  *Pointing to it\u2019s right side* NOW I LOOK LIKE SOME SORTA FRAUD. \u201c https://t.co/dhSdkf6EtV",
+      "text": "Grand Theft UFO: Vice City Edition Loading Screen https://t.co/QLgkTseHiz",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984413827973311"
+      "url": "https://x.com/i/web/status/2071000432508301509"
     },
     {
       "type": "x",
-      "text": "Before the 2024 election Trump had a 47 on his hat conducting the train to MAGADONIA\ud83d\udc47  There's a 'classic' UFO book called \"Passport to Magadonia\"  A David Wilcock vid from 7-7-24 looked into this con",
+      "text": "@cosmos4u @AdamFrank4 Oh no, not the UFO propagandist who's literal job it is to cover-up the topic. Yall are fn boring Inquisitionists.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070984402012688388"
+      "url": "https://x.com/i/web/status/2071000355023028627"
     },
     {
       "type": "swpc",
@@ -1017,6 +1017,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.9
+    },
+    {
+      "ts": "2026-06-27T22:43:29.568809Z",
+      "score": 33.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.5
     }
   ],
   "sources": [
