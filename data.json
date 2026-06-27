@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T06:57:44.843656Z",
-  "score": 32.1,
+  "generated_at": "2026-06-27T09:28:55.596943Z",
+  "score": 31.7,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -11.3,
-    "d24h": 0.0,
+    "d1h": -8.2,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.6,
+    "social_chatter": 4.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 2.5
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "06:57",
+    "generated_utc": "09:28",
     "top_drivers": [
-      "X/Twitter chatter: 79 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "X/Twitter chatter: 76 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.4,
+    "live_signal": 22.8,
     "baseline_recent": 26.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719626361,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -39.02783650821481,
-    "x_last_hour": 79,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 76,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.5,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@realhonestash @RealCandaceO @baroncoleman So many idiots think they are ballistics experts.  Here let me educate you. When a .30cal round is traveling at supersonic speed. What do you suppose happens",
+      "text": "@nontpnonjo @PeteAlonSoCrazy @stephen_housman @DanJRossOne @MickMilee \"Could\" be the important word there. Christians claiming demons inspired other religions is as compelling as Islam claiming jinn i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070763218981552512"
+      "url": "https://x.com/i/web/status/2070800780433797602"
     },
     {
       "type": "x",
-      "text": "Attention $UAP Family! YOUR vote matters!  Less than 100 votes are needed to list $UAP on the Moonshot Top 100 Leaderboard.  - Listing ID: 6612  Every vote counts - Moonshot would be huge for communit",
+      "text": "Today in UFO History - Newspaper Photographer Shoots 50ft of 16mm film of Large Disc  June 27, 1950 \u2014 Louisville, KY #ufotwitter #ufox #uaptwitter #uapx https://t.co/S6lDIRmova",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070762720337510402"
+      "url": "https://x.com/i/web/status/2070800706744013096"
     },
     {
       "type": "x",
-      "text": "the UFO catcher knew i\u2019m an ape \ud83e\udd8d\ud83c\udf4c https://t.co/9fZMQShfqf",
+      "text": "#UFO_Sightings_Daily  -  #UFO Over #Redondo_Beach, #California June 11 .  -  https://t.co/Z9j8WzQdO2 via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070762532789493898"
+      "url": "https://x.com/i/web/status/2070800001505063294"
     },
     {
       "type": "x",
-      "text": "Aren't they cute?  They look like Asians.  Like Filipinos... uh.... now that I say this, the family during the 911 Las vegas UFO incident were... Filipinos... https://t.co/gmd1D3c3RQ",
+      "text": "@Meepulous77 @Helldivers_NOW Yes, you have.  Because you only have 5 rounds before run out.  Why waste an Orb Laser or a Rail shot + long cooldown when i can call artillery upon an Easy Target like a ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070762356070593016"
+      "url": "https://x.com/i/web/status/2070799843111362576"
     },
     {
       "type": "x",
-      "text": "'5\u2b50\ufe0f- \"Connor's Gambit\" by @Z_Gottlieb is an exhilarating science fiction novel that takes readers on a thrilling journey beyond Earth's boundaries.'  https://t.co/I1ZudgnRGX  #UFO #scifi #aliens #ali",
+      "text": "I Snuck Into A Secret Cult Compound\u2026 (Part 1) The UFO House. If like Cult compounds, bunkers ,statues  and crazy cult people clip for you! @manuraven74 @CrossingUNStyle @PeterCrespo10 @Kaylan_TX_ @the",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070761810714574897"
+      "url": "https://x.com/i/web/status/2070799441360294212"
     },
     {
       "type": "x",
-      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
+      "text": "Air Force Intelligence Officer George Filer Said an Alien Was Shot at Fort Dix and Found Dead at McGuire  *Historical Cases  Retired Air Force intelligence officer and pilot George Filer III said an u",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070761808420282821"
+      "url": "https://x.com/i/web/status/2070799237441314827"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3705\r Issue Time: 2026 Jun 27 0713 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -892,6 +898,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.4
+    },
+    {
+      "ts": "2026-06-27T09:28:55.523898Z",
+      "score": 31.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.8
     }
   ],
   "sources": [
