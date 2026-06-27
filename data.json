@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T12:18:49.969774Z",
-  "score": 31.6,
+  "generated_at": "2026-06-27T14:12:58.348922Z",
+  "score": 31.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": -7.1,
+    "d1h": -0.9,
+    "d24h": -10.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.5,
+    "social_chatter": 4.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 1.8
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,76 +31,70 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "12:18",
+    "generated_utc": "14:12",
     "top_drivers": [
-      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "X/Twitter chatter: 85 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.7,
-    "baseline_recent": 26.7,
+    "live_signal": 22.3,
+    "baseline_recent": 26.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 78,
+    "gdelt_spike_pct": -52.222966467116,
+    "x_last_hour": 85,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@Mrgunsngear Maybe they thought the floating logo was a pretend ufo like I did. I\u2019m never calling it uap or whatever the hell btw.",
+      "text": "50 Insane Facts About Pentagon UFO Files Release You NEED to KNOW https://t.co/qdv4qxamFh via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070844169036136745"
+      "url": "https://x.com/i/web/status/2070872870650286174"
     },
     {
       "type": "x",
-      "text": "https://t.co/qgIHeLNr5S Ears ufo?..",
+      "text": "@TheSCIF A Plumber who thinks he knows about Microwave systems? \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 Supporters in alternative/UFO/conspiracy circles see him as a credible insider exposing hidden tech",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070843866228642013"
+      "url": "https://x.com/i/web/status/2070872791394713876"
     },
     {
       "type": "x",
-      "text": "@EnragedKaiser37 I would LOVE to get my hands on \u201cUfo e Alieni in Italia\u201d, such a  wealth of unique NHI encounters there. One of my dream projects is to write such a book (or at least a report) on Bal",
+      "text": "Video released from the Department of war shows a UAP coming out of a cl... https://t.co/mRJZfVhMa2 via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070843764357153142"
+      "url": "https://x.com/i/web/status/2070872700675850689"
     },
     {
       "type": "x",
-      "text": "Bipartisan UFO disclosure legislation has now been filed in both chambers of Congress. Please contact your elected officials and ask for their support.  https://t.co/g3zZc9evQp",
+      "text": "@mariawirth1 @IamPraveenMohan Afghan cave mistery is rumoured US govt recovered this same bell shaped UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070843668508840405"
+      "url": "https://x.com/i/web/status/2070872381464392004"
     },
     {
       "type": "x",
-      "text": "'5\u2b50\ufe0f- \"Connor's Gambit\" by @Z_Gottlieb is an exhilarating science fiction novel that takes readers on a thrilling journey beyond Earth's boundaries.'  https://t.co/TT4WiFjHFP  #UFO #scifi #aliens #ali",
+      "text": "The Fort Dix McGuire alien UFO incident   #UAP #UFO #Alien #Biologic recovery #FortDixMcGuireAlien   https://t.co/o4HvbJEt1u",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070843598661149046"
+      "url": "https://x.com/i/web/status/2070872168452259995"
     },
     {
       "type": "x",
-      "text": "'...exhilarating science fiction novel...'  https://t.co/lrsyNlFq6u  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
+      "text": "Chris Mellon will be the keynote speaker in Toronto at the Scientific Coalition for UAP Studied (SCU) Conference this July. Info and registration here: https://t.co/3IweU8MsDG https://t.co/i9HCs4mjDC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070843592025768029"
+      "url": "https://x.com/i/web/status/2070871780378513675"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3705\r Issue Time: 2026 Jun 27 0713 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3704\r Issue Time: 2026 Jun 26 1406 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -913,6 +907,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.7
+    },
+    {
+      "ts": "2026-06-27T14:12:58.272434Z",
+      "score": 31.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.3
     }
   ],
   "sources": [
