@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T03:59:53.954267Z",
-  "score": 30.7,
+  "generated_at": "2026-06-27T06:57:44.843656Z",
+  "score": 32.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -9.0,
-    "d24h": 6.3,
+    "d1h": -11.3,
+    "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.1,
+    "social_chatter": 4.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 0.1
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "03:59",
+    "generated_utc": "06:57",
     "top_drivers": [
-      "X/Twitter chatter: 88 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 79 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,62 +41,68 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.5,
-    "baseline_recent": 26.8,
+    "live_signal": 23.4,
+    "baseline_recent": 26.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719626361,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -48.604682468184684,
-    "x_last_hour": 88,
+    "gdelt_spike_pct": -39.02783650821481,
+    "x_last_hour": 79,
     "wiki_spike_pct": -23.31685393258427,
-    "earthquakes_24h": 1,
+    "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.5,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Earth may have been seeding Venus with microbes for billions of years: study. #ufo  #uap  https://t.co/BXmA0eWBow",
+      "text": "@realhonestash @RealCandaceO @baroncoleman So many idiots think they are ballistics experts.  Here let me educate you. When a .30cal round is traveling at supersonic speed. What do you suppose happens",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070718675460473175"
+      "url": "https://x.com/i/web/status/2070763218981552512"
     },
     {
       "type": "x",
-      "text": "@TheSCIF You guys gotta get out from under the rock since the 1950s they had reverse engineered  alien https://t.co/TWDrQ6V5zc they have a fleet of them and they're using them to traffic women and chi",
+      "text": "Attention $UAP Family! YOUR vote matters!  Less than 100 votes are needed to list $UAP on the Moonshot Top 100 Leaderboard.  - Listing ID: 6612  Every vote counts - Moonshot would be huge for communit",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070718638961684572"
+      "url": "https://x.com/i/web/status/2070762720337510402"
     },
     {
       "type": "x",
-      "text": "The UFO Wizard Reveals What He's Learned https://t.co/HPSFE6av6A",
+      "text": "the UFO catcher knew i\u2019m an ape \ud83e\udd8d\ud83c\udf4c https://t.co/9fZMQShfqf",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070718599480889806"
+      "url": "https://x.com/i/web/status/2070762532789493898"
     },
     {
       "type": "x",
-      "text": "We spent the weekend in one of the most unique Airbnb\ud83d\udef8 An actual UFO-shaped house! \ud83d\udc7d We stayed overnight in this rare house, and enjoyed a backyard BBQ using our favorite ultra-compact camping gear\ud83c\udf56 h",
+      "text": "Aren't they cute?  They look like Asians.  Like Filipinos... uh.... now that I say this, the family during the 911 Las vegas UFO incident were... Filipinos... https://t.co/gmd1D3c3RQ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070718594229342313"
+      "url": "https://x.com/i/web/status/2070762356070593016"
     },
     {
       "type": "x",
-      "text": "@EnigmasEnX The quality of the video is low, the ufo \ud83d\udef8 video resolution would stretch the light of the ufo, look close the smoke cloud is moving at the same speed as the ufo and there is a 3 second fe",
+      "text": "'5\u2b50\ufe0f- \"Connor's Gambit\" by @Z_Gottlieb is an exhilarating science fiction novel that takes readers on a thrilling journey beyond Earth's boundaries.'  https://t.co/I1ZudgnRGX  #UFO #scifi #aliens #ali",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070717839569277328"
+      "url": "https://x.com/i/web/status/2070761810714574897"
     },
     {
       "type": "x",
-      "text": "Dark Journalist &amp; Gigi Young: Loving The Alien Missing Scientists UFO Di... https://t.co/mKfDIGrWYd via @YouTube",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070717132912935306"
+      "url": "https://x.com/i/web/status/2070761808420282821"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3704\r Issue Time: 2026 Jun 26 1406 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 27 km WNW of Hope, Alaska",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "seismic",
@@ -879,6 +885,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.5
+    },
+    {
+      "ts": "2026-06-27T06:57:44.768336Z",
+      "score": 32.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.4
     }
   ],
   "sources": [
