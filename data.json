@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T17:47:50.510001Z",
-  "score": 33.3,
+  "generated_at": "2026-06-27T19:11:01.394851Z",
+  "score": 39.4,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": -5.1,
+    "d1h": 8.2,
+    "d24h": 3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 8.5,
+    "news_velocity": 7.7,
+    "social_chatter": 9.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 1.3
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "17:47",
+    "generated_utc": "19:11",
     "top_drivers": [
-      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
+      "News velocity +32% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 155 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,16 +42,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.0,
+    "live_signal": 32.8,
     "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -34.03629536921151,
-    "x_last_hour": 143,
-    "wiki_spike_pct": -23.31685393258427,
+    "gdelt_spike_pct": 32.158138659022676,
+    "x_last_hour": 155,
+    "wiki_spike_pct": -15.941802683910325,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
     "swpc_alerts_24h": 1
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@CJHandmer @TheRealBuzz *That's glare from the room lights, not a couple of \"ufo\" anomalies.  Obvious, just cutting off eager speculators from derailing it's relevance.",
+      "text": "In case something happens to me, I asked The VINE what the Scientists knew that made them lose their lives. And The VINE said: \"They all knew that ELON MUSK was putting a million satellites into orbit",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070927031546572886"
+      "url": "https://x.com/i/web/status/2070947912897433781"
     },
     {
       "type": "x",
-      "text": "@hyres_william @UAPJames You realize this was way before those files right? Harry Reid was heavily involved in this and he died over a decade ago.   Why did Chuck Schumer introduce a bill for UAP disc",
+      "text": "@MiddleOfMayhem People believe Avi Loeb's space turd was an alien ship. Humanity deserves a reset, where the herd is thinned of retards. If society collapses the UFO experts will be some of the first ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070926946909737301"
+      "url": "https://x.com/i/web/status/2070947815103066244"
     },
     {
       "type": "x",
-      "text": "The Other 'Disclosure Project'  Why #CTPisDisclosure   (https://t.co/b533f5iyJi) #newscience #postquantum #postphysics #propulsionsystems #UFOtruth #UAP #UAPs #UFO #UFOs #viral #trending   #space #spa",
+      "text": "I was playing 99 nights in the forest new update when I finished the UFO I got no clipped while collecting the aliens body https://t.co/IO9sd7PXGn",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070926900139118881"
+      "url": "https://x.com/i/web/status/2070947699516440770"
     },
     {
       "type": "x",
-      "text": "BREAKING: PILOT SAW UFO SWARM THEN CRASHED https://t.co/lI0GPjRps2 via @YouTube",
+      "text": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | Nati... https://t.co/llEkWexrBs via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070926890047566026"
+      "url": "https://x.com/i/web/status/2070947609162748399"
     },
     {
       "type": "x",
-      "text": "UFO  Ultimate Floating Object! https://t.co/rfRczgEsII",
+      "text": "@ArSaint_Martin @PierreHenriet @HenrietPierre Good to see a parliamentary focus. France\u2019s GEIPAN setup under CNES has always been a unique model\u2014treating UAP data as public science rather than intelli",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070926529937489926"
+      "url": "https://x.com/i/web/status/2070947571636252939"
     },
     {
       "type": "x",
-      "text": "- 74 million narrowband signals were considered. - Most candidates were identified as Earth-based interference or satellites. - No signals matched extraterrestrial technology after thorough checks. - ",
+      "text": "@ddeanjohnson @disclosureorg On the contrary, I believe your input would be extremely appropriate and valuable to post here, or on your own blog.   You have insights that most don\u2019t. I\u2019ve been followi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070926495086764287"
+      "url": "https://x.com/i/web/status/2070947562383634616"
     },
     {
       "type": "swpc",
@@ -935,6 +936,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.0
+    },
+    {
+      "ts": "2026-06-27T19:11:01.319795Z",
+      "score": 39.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.8
     }
   ],
   "sources": [
