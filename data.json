@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T22:43:29.643001Z",
-  "score": 33.7,
+  "generated_at": "2026-06-27T23:42:46.025417Z",
+  "score": 30.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.4,
-    "d24h": -5.7,
+    "d1h": -8.8,
+    "d24h": -6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.5,
+    "social_chatter": 6.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 3.8
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "22:43",
+    "generated_utc": "23:42",
     "top_drivers": [
-      "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
-      "X/Twitter chatter: 111 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 105 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.5,
+    "live_signal": 21.5,
     "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -8.396587416096857,
-    "x_last_hour": 111,
+    "gdelt_spike_pct": -82.61816506460598,
+    "x_last_hour": 105,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
-      "source": "elmundo.es",
-      "url": "https://www.elmundo.es/cataluna/2026/06/27/6a4013f6e85ece4f128b459e.html"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/6b30dc44-ee7b-5c68-bdfe-feeb4b5507cc/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "The Proof Is Out There",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/ed3cdeae-2d75-55f0-a2d2-7d509d3f66b0/the-proof-is-out-there"
-    },
-    {
-      "type": "news",
-      "text": "Sara Curtis | Record italiano era lobiettivo dellanno contenta di farlo a Roma",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-06-27/sara-curtis-record-italiano-era-lobiettivo-dellanno-contenta-di-farlo-a-roma/19396876/"
-    },
-    {
-      "type": "news",
-      "text": "Box Office :  Supergirl  Opening in Second Place Behind  Toy Story 5  ",
-      "source": "hollywoodreporter.com",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-supergirl-toy-story-5-1236632101/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=de946a5kn1d19kr407o5v4iin7"
-    },
-    {
-      "type": "news",
-      "text": " Disclosure Day  : pourquoi la ( potentielle ) d\u00e9couverte dune vie extraterrestre ne sera pas un blockbuster hollywoodien",
-      "source": "theconversation.com",
-      "url": "https://theconversation.com/disclosure-day-pourquoi-la-potentielle-decouverte-dune-vie-extraterrestre-ne-sera-pas-un-blockbuster-hollywoodien-286069"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ucu5qldm4hvjr0oo1l405qvm43"
-    },
-    {
-      "type": "news",
-      "text": "The Vampire Diaries Cast : Where Are They Now ? ",
-      "source": "tvline.com",
-      "url": "https://www.tvline.com/2201727/the-vampire-diaries-cast-actors-now/"
-    },
-    {
-      "type": "news",
-      "text": "La prorettrice dellUniversit\u00e0 di Bologna : \u00ab LAteneo vale 1 , 2 miliardi per la citt\u00e0 . Non siamo un problema , ma unidendit\u00e0 da valorizzare \u00bb ",
-      "source": "corrieredibologna.corriere.it",
-      "url": "https://corrieredibologna.corriere.it/notizie/cronaca/26_giugno_27/la-prorettrice-dell-universita-di-bologna-l-ateneo-vale-1-2-miliardi-per-la-citta-non-siamo-un-problema-ma-un-idendita-da-55c268f0-14a8-45d9-8560-d6b582ed3xlk.shtml"
+      "type": "x",
+      "text": "@WhistlingMike @Enzo_Cyrille It was great meeting you. Thanks for coming out to Kansas UFO Day and sitting in on the presentation. Hope to see you again down the road! @Enzo_Cyrille it was great to me",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071015801960718831"
     },
     {
       "type": "x",
-      "text": "@UAPReportingCnt New category of UFO:  A.S.H. - Antigrav Sky Hook",
+      "text": "The Soviet Union Built UFO-Shaped Circuses. Now You Can Fold One. https://t.co/q65otaPg8d https://t.co/AQ4XXP3F4L",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071001341720424587"
+      "url": "https://x.com/i/web/status/2071015620469248004"
     },
     {
       "type": "x",
-      "text": "@TheOtherKinds @maniaUFO You're right. This exact image circulated in early 2023 right after the Alaska high-altitude object shootdown (later assessed as likely a civilian balloon). It's been reposted",
+      "text": "Have a wishbone instead of collarbones like humans &amp; human-like tridactyls.   One unlike any bird.  #Science #History #historyfactsdaily #Biology #Medicine #Peru #Nazca #Palpa #Mexico #nazcamummie",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071001293355663511"
+      "url": "https://x.com/i/web/status/2071015503783424414"
     },
     {
       "type": "x",
-      "text": "@UAPDr @grok Does this video in the post\u2014the jellyfish UFO\u2014show signs of being CGI or AI-generated?",
+      "text": "SHADO UFO Gerry Anderson - Episodes 1 to 4 Graphics updated https://t.co/eROcPYiVcF via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071000978145292694"
+      "url": "https://x.com/i/web/status/2071015502873231738"
     },
     {
       "type": "x",
-      "text": "This is an interesting report worth hearing, but the reporter feels compelled to hedge her bets:   \"...though many of us are still waiting for definitive proof of life beyond Earth,\" she said.  This \"",
+      "text": "#UFOx #UFO #ufosightings This might be a good test of any type of telepathy or quantum psionic connection where there are claims off affecting random number distributions. Essentially the Maxwell-Bolt",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071000780287697110"
+      "url": "https://x.com/i/web/status/2071015494724030658"
     },
     {
       "type": "x",
-      "text": "Grand Theft UFO: Vice City Edition Loading Screen https://t.co/QLgkTseHiz",
+      "text": "We went from this (1965) to a constant, ever increasing, presence revealing itself day &amp; night that everyone believes are just \"satellites\" and/or \"secret tech\" There is no proof of either claim: ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071000432508301509"
-    },
-    {
-      "type": "x",
-      "text": "@cosmos4u @AdamFrank4 Oh no, not the UFO propagandist who's literal job it is to cover-up the topic. Yall are fn boring Inquisitionists.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071000355023028627"
+      "url": "https://x.com/i/web/status/2071015337538331116"
     },
     {
       "type": "swpc",
@@ -1024,6 +963,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.5
+    },
+    {
+      "ts": "2026-06-27T23:42:45.951484Z",
+      "score": 30.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.5
     }
   ],
   "sources": [
