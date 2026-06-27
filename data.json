@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-27T20:19:42.054936Z",
-  "score": 32.0,
+  "generated_at": "2026-06-27T21:37:02.121126Z",
+  "score": 33.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": -6.0,
+    "d1h": -1.4,
+    "d24h": -7.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.6,
+    "social_chatter": 6.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 1.5
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 13,
     "date": "27.06.2026",
     "declassified": "27.06.26",
-    "generated_utc": "20:19",
+    "generated_utc": "21:37",
     "top_drivers": [
-      "X/Twitter chatter: 112 UFO/UAP posts in the last hour",
+      "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
+      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.3,
+    "live_signal": 24.9,
     "baseline_recent": 26.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 6.6719655925,
     "asteroid_name": "152637 (1997 NC1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 112,
+    "x_last_hour": 117,
     "wiki_spike_pct": -23.31685393258427,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@ChrisKMellon What better way to keep the UFO grift going by elevating something fictional and non-existent to a 'national security issue' level.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070965116871565466"
+      "type": "news",
+      "text": "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
+      "source": "elmundo.es",
+      "url": "https://www.elmundo.es/cataluna/2026/06/27/6a4013f6e85ece4f128b459e.html"
+    },
+    {
+      "type": "news",
+      "text": "UFOs : The Lost Evidence",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/6b30dc44-ee7b-5c68-bdfe-feeb4b5507cc/ufos-the-lost-evidence"
+    },
+    {
+      "type": "news",
+      "text": "The Proof Is Out There",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/ed3cdeae-2d75-55f0-a2d2-7d509d3f66b0/the-proof-is-out-there"
+    },
+    {
+      "type": "news",
+      "text": "Sara Curtis | Record italiano era lobiettivo dellanno contenta di farlo a Roma",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-06-27/sara-curtis-record-italiano-era-lobiettivo-dellanno-contenta-di-farlo-a-roma/19396876/"
+    },
+    {
+      "type": "news",
+      "text": "Box Office :  Supergirl  Opening in Second Place Behind  Toy Story 5  ",
+      "source": "hollywoodreporter.com",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-supergirl-toy-story-5-1236632101/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=de946a5kn1d19kr407o5v4iin7"
+    },
+    {
+      "type": "news",
+      "text": " Disclosure Day  : pourquoi la ( potentielle ) d\u00e9couverte dune vie extraterrestre ne sera pas un blockbuster hollywoodien",
+      "source": "theconversation.com",
+      "url": "https://theconversation.com/disclosure-day-pourquoi-la-potentielle-decouverte-dune-vie-extraterrestre-ne-sera-pas-un-blockbuster-hollywoodien-286069"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ucu5qldm4hvjr0oo1l405qvm43"
+    },
+    {
+      "type": "news",
+      "text": "The Vampire Diaries Cast : Where Are They Now ? ",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2201727/the-vampire-diaries-cast-actors-now/"
+    },
+    {
+      "type": "news",
+      "text": "La prorettrice dellUniversit\u00e0 di Bologna : \u00ab LAteneo vale 1 , 2 miliardi per la citt\u00e0 . Non siamo un problema , ma unidendit\u00e0 da valorizzare \u00bb ",
+      "source": "corrieredibologna.corriere.it",
+      "url": "https://corrieredibologna.corriere.it/notizie/cronaca/26_giugno_27/la-prorettrice-dell-universita-di-bologna-l-ateneo-vale-1-2-miliardi-per-la-citta-non-siamo-un-problema-ma-un-idendita-da-55c268f0-14a8-45d9-8560-d6b582ed3xlk.shtml"
     },
     {
       "type": "x",
-      "text": "Massive UFO spotted flying over Yellowstone National Park before \u2018bursting into a fireball and speeding out of sight\u2019 june 7 2017https://www.thesun.ie/news/1636809/massive-ufo-spotted-flying-over-yell",
+      "text": "Remnants of internal bleeding in the armpits of #nazcamummies \"Luisa.\"  #Science #History #historyfactsdaily #Biology #Medicine #Peru #Nazca #Palpa #Mexico #Alien #alientwt #UAP #disclosure #disclosur",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070965098022305823"
+      "url": "https://x.com/i/web/status/2070984657743524292"
     },
     {
       "type": "x",
-      "text": "Kids now trade swatters for mini rockets, launching flies like tiny satellites for the sheer joy of seeing a buzzing UFO disappear.",
+      "text": "@inversewire @WorldNews_X_ Blue check noted, congrats!   That Area 51 hangar UFO clip looks like solid CGI to me \u2014 too crisp, symmetrical, and dramatically lit for a genuine leak. Real restricted-area",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070965080980668455"
+      "url": "https://x.com/i/web/status/2070984542731600209"
     },
     {
       "type": "x",
-      "text": "Channeling/ fairy abduction / ufo abduction may be related. https://t.co/832RQ557xV",
+      "text": "@MHuntington7 I mean you can even follow Grusch's learning process to an extent. You can tell after he reads a book like UFOs and Nukes, then he went on podcast talking about UFOs and Nukes (and the b",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070964952492564662"
+      "url": "https://x.com/i/web/status/2070984475706806352"
     },
     {
       "type": "x",
-      "text": "@Essex_Patriot As long as I get all of my Thunderbirds dinky toys back and UFO too; basically my collection as a child. The models were made in England in the late 60\u2019s. Great quality",
+      "text": "@TaraBull After President Trump released the UFO Files, I stopped believing that this thing was just a balloon.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bor cloud\ud83d\ude02",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070964907739107599"
+      "url": "https://x.com/i/web/status/2070984450096460258"
     },
     {
       "type": "x",
-      "text": "Finished the rest of Ancient Aliens S21, from \"The Legacy of J. Allen Hynek\" to \"Japan's Alien City.\" Some eps were surprisingly educational. \"Aliens in Our Midst\" was intriguing, as it provided updat",
+      "text": "@MenthaReuniclus - \u201c KINDA.  I\u2019M A UFO-ASS LOOKIN MOFO, AND BECAUSE OF JACKASS-  *Pointing to it\u2019s right side* NOW I LOOK LIKE SOME SORTA FRAUD. \u201c https://t.co/dhSdkf6EtV",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2070964851837374543"
+      "url": "https://x.com/i/web/status/2070984413827973311"
+    },
+    {
+      "type": "x",
+      "text": "Before the 2024 election Trump had a 47 on his hat conducting the train to MAGADONIA\ud83d\udc47  There's a 'classic' UFO book called \"Passport to Magadonia\"  A David Wilcock vid from 7-7-24 looked into this con",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2070984402012688388"
     },
     {
       "type": "swpc",
@@ -949,6 +1010,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.3
+    },
+    {
+      "ts": "2026-06-27T21:37:02.046739Z",
+      "score": 33.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.9
     }
   ],
   "sources": [
