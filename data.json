@@ -1,96 +1,157 @@
 {
-  "generated_at": "2026-06-27T23:42:46.025417Z",
-  "score": 30.6,
+  "generated_at": "2026-06-28T01:52:41.445000Z",
+  "score": 27.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -8.8,
-    "d24h": -6.0,
+    "d1h": -4.7,
+    "d24h": -10.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.2,
+    "social_chatter": 5.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 6.9,
+    "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.1,
-    "alien_variance": 0.1
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 13,
-    "day": 13,
-    "date": "27.06.2026",
-    "declassified": "27.06.26",
-    "generated_utc": "23:42",
+    "number": 14,
+    "day": 14,
+    "date": "28.06.2026",
+    "declassified": "28.06.26",
+    "generated_utc": "01:52",
     "top_drivers": [
-      "X/Twitter chatter: 105 UFO/UAP posts in the last hour",
+      "Madonna revela que grabar una canci\u00f3n con su hija Lourdes Leon fue una experiencia  muy sanadora  ",
+      "X/Twitter chatter: 96 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "NEO 152637 (1997 NC1) passing Earth at 6.7 lunar distances"
+      "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.5,
+    "live_signal": 17.3,
     "baseline_recent": 26.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 6.6719655925,
-    "asteroid_name": "152637 (1997 NC1)",
-    "gdelt_spike_pct": -82.61816506460598,
-    "x_last_hour": 105,
-    "wiki_spike_pct": -23.31685393258427,
+    "closest_asteroid_ld": 61.0134132523,
+    "asteroid_name": "(2015 VH66)",
+    "gdelt_spike_pct": -82.72665992585102,
+    "x_last_hour": 96,
+    "wiki_spike_pct": -23.773562814658707,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.2,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@WhistlingMike @Enzo_Cyrille It was great meeting you. Thanks for coming out to Kansas UFO Day and sitting in on the presentation. Hope to see you again down the road! @Enzo_Cyrille it was great to me",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015801960718831"
+      "type": "news",
+      "text": "Madonna revela que grabar una canci\u00f3n con su hija Lourdes Leon fue una experiencia  muy sanadora  ",
+      "source": "elnacional.com.do",
+      "url": "https://elnacional.com.do/fama-y-vida/farandula/madonna-revela-grabar-cancion-hija-lourdes-leon-experiencia-sanadora_574506.html"
+    },
+    {
+      "type": "news",
+      "text": "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
+      "source": "elmundo.es",
+      "url": "https://www.elmundo.es/cataluna/2026/06/27/6a4013f6e85ece4f128b459e.html"
+    },
+    {
+      "type": "news",
+      "text": "UFOs : The Lost Evidence",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/6b30dc44-ee7b-5c68-bdfe-feeb4b5507cc/ufos-the-lost-evidence"
+    },
+    {
+      "type": "news",
+      "text": "The Proof Is Out There",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/ed3cdeae-2d75-55f0-a2d2-7d509d3f66b0/the-proof-is-out-there"
+    },
+    {
+      "type": "news",
+      "text": "Sara Curtis | Record italiano era lobiettivo dellanno contenta di farlo a Roma",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-06-27/sara-curtis-record-italiano-era-lobiettivo-dellanno-contenta-di-farlo-a-roma/19396876/"
+    },
+    {
+      "type": "news",
+      "text": "Box Office :  Supergirl  Opening in Second Place Behind  Toy Story 5  ",
+      "source": "hollywoodreporter.com",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-supergirl-toy-story-5-1236632101/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=de946a5kn1d19kr407o5v4iin7"
+    },
+    {
+      "type": "news",
+      "text": " Disclosure Day  : pourquoi la ( potentielle ) d\u00e9couverte dune vie extraterrestre ne sera pas un blockbuster hollywoodien",
+      "source": "theconversation.com",
+      "url": "https://theconversation.com/disclosure-day-pourquoi-la-potentielle-decouverte-dune-vie-extraterrestre-ne-sera-pas-un-blockbuster-hollywoodien-286069"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ucu5qldm4hvjr0oo1l405qvm43"
+    },
+    {
+      "type": "news",
+      "text": "The Vampire Diaries Cast : Where Are They Now ? ",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2201727/the-vampire-diaries-cast-actors-now/"
     },
     {
       "type": "x",
-      "text": "The Soviet Union Built UFO-Shaped Circuses. Now You Can Fold One. https://t.co/q65otaPg8d https://t.co/AQ4XXP3F4L",
+      "text": "@danjpatterson @brandilwells @1Starofthenorth **No, this isn't happening in Washington, DC right now.**  The video (from a TikTok account) shows clusters of bright lights in the night sky. These are a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015620469248004"
+      "url": "https://x.com/i/web/status/2071049030650507424"
     },
     {
       "type": "x",
-      "text": "Have a wishbone instead of collarbones like humans &amp; human-like tridactyls.   One unlike any bird.  #Science #History #historyfactsdaily #Biology #Medicine #Peru #Nazca #Palpa #Mexico #nazcamummie",
+      "text": "@Pontifex I saw a UFO. The sky was very grey that day and my background was very Green  I did not mean this: https://t.co/xGs7t6CuyQ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015503783424414"
+      "url": "https://x.com/i/web/status/2071048995712237752"
     },
     {
       "type": "x",
-      "text": "SHADO UFO Gerry Anderson - Episodes 1 to 4 Graphics updated https://t.co/eROcPYiVcF via @YouTube",
+      "text": "We read all 53 of the Pentagon's new UAP files.  6 federal agents saw an orange \"mother orb\" spawn red orbs near a sensitive site. AARO blamed ~60% on flares; the rest it can't explain.  No aliens. No",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015502873231738"
+      "url": "https://x.com/i/web/status/2071048979182227901"
     },
     {
       "type": "x",
-      "text": "#UFOx #UFO #ufosightings This might be a good test of any type of telepathy or quantum psionic connection where there are claims off affecting random number distributions. Essentially the Maxwell-Bolt",
+      "text": "The Kofu Incident: Japan\u2019s Roswell? \ud83d\udef8   NEW EPISODE - Supernatural Japan  Apple Podcasts: https://t.co/9fzNZqhIr8  A big shout out to the boys at @GrveYrdPodcast   #Japan #Japanese #history #ufo #UAP ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015494724030658"
+      "url": "https://x.com/i/web/status/2071048867072889239"
     },
     {
       "type": "x",
-      "text": "We went from this (1965) to a constant, ever increasing, presence revealing itself day &amp; night that everyone believes are just \"satellites\" and/or \"secret tech\" There is no proof of either claim: ",
+      "text": "@merrylynn06 @CRIXUSwasHERE No worries in the 1400 AD UFO \ud83d\udef8 eliminated half of the population \ud83d\udc4d\ud83d\ude4c\ud83d\udc7d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071015337538331116"
+      "url": "https://x.com/i/web/status/2071048794557305069"
+    },
+    {
+      "type": "x",
+      "text": "@GBC_Press Good !!!  Keep up the great work, and .... (special request) PLEASE ENSURE THAT LEGAL FULL DISCLOSURE  OF UFO AND SECRET RECOVERY PROGRAMS IS EXPEDITED.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071048785262735711"
     },
     {
       "type": "swpc",
@@ -106,7 +167,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO 152637 (1997 NC1) passing at 6.67 LD (~1585m, 8.9 km/s) \u2014 PHA",
+      "text": "NEO (2015 VH66) passing at 61.01 LD (~586m, 25.6 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -970,6 +1031,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.5
+    },
+    {
+      "ts": "2026-06-28T01:52:41.370598Z",
+      "score": 27.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.3
     }
   ],
   "sources": [
