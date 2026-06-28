@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T09:33:22.861606Z",
-  "score": 21.3,
+  "generated_at": "2026-06-28T11:24:12.729480Z",
+  "score": 22.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -12.4,
-    "d24h": -10.2,
+    "d1h": -7.9,
+    "d24h": -5.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 2.5,
+    "social_chatter": 3.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "09:33",
+    "generated_utc": "11:24",
     "top_drivers": [
-      "X/Twitter chatter: 45 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "X/Twitter chatter: 62 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.7,
-    "baseline_recent": 26.3,
+    "live_signal": 11.6,
+    "baseline_recent": 26.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 45,
+    "gdelt_spike_pct": -36.76977694079324,
+    "x_last_hour": 62,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Former Canadian Defense Minister Paul Hellyer Said a Document Mentioned 20 Extraterrestrial Species From Different Star Systems  *Discussion  Former Canadian Minister of National Defence Paul Hellyer ",
+      "text": "@Chip_Kute1997 @X_Pu_Pu The presents keep raining on the @Orbiter_Finance Asian crew! No UFO Pilot gets left behind  Congrats and lets celebrate @X_Pu_Pu genius initiative!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071164953105465823"
+      "url": "https://x.com/i/web/status/2071192820317122778"
     },
     {
       "type": "x",
-      "text": "Stardust Ranch https://t.co/jmZ510UIpb #TheTruthIsOutThere #space #universe #ufo #uap #ovni #ufox #uapx #ovnix #ufotwitter #uaptwitter  #ovnitwitter #macclesfield #music #synth #ambient #film #soundsc",
+      "text": "@FELibrary_ The febanagi sequence is used by Victor Schauberger during WWII to build Forellenturbinen and the HANEBU I and HANEBU II anti-gravity UFO by The NAZIS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071164926421237893"
+      "url": "https://x.com/i/web/status/2071191657601520121"
     },
     {
       "type": "x",
-      "text": "@maniaUFO I saw this maybe a week ago \u2013 check out \u201cSan Antonio UAP lights\u201d or something similar on TikTok \u2013 there\u2019s a bunch of different videos from folks",
+      "text": "Recent Nevada UFO sighting adds to decades of unexplained cases.. https://t.co/MrZcJAQaXK",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071164447952105745"
+      "url": "https://x.com/i/web/status/2071191364633502096"
     },
     {
       "type": "x",
-      "text": "really quick one tbh i will fix it later but just in case anyone wants it imma put it on ufo lel",
+      "text": "10 UFO Documentaries Based on Real Government Files.. https://t.co/tfVrgShp7l",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071164233270583381"
+      "url": "https://x.com/i/web/status/2071191096219123850"
     },
     {
       "type": "x",
-      "text": "@bkseatpassenger They've been around.  Google: UAP Dementors.  They have been caught flying high in the sky around planes and places of turmoil (California fires).",
+      "text": "@0xDoraSol @X_Pu_Pu @bitget Congrats on the @Orbiter_Finance finance new gear!  Like a true UFO Pilot, @X_Pu_Pu takes very good care of the ones who take very good care of her",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071163747503071387"
+      "url": "https://x.com/i/web/status/2071191065848152417"
     },
     {
       "type": "x",
-      "text": "\ud835\udc11\ud835\udc1e\ud835\udc1a\ud835\udc25 \ud835\udc28\ud835\udc2b \ud835\udc0d\ud835\udc28\ud835\udc2d \ud835\udc11\ud835\udc1e\ud835\udc1a\ud835\udc25? \ud835\udc04\ud835\udc0f. \ud835\udfd0: \ud835\udc03\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc28 \ud835\udc05\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc21 \ud835\udc14\ud835\udc05\ud835\udc0e\ud835\udc2c, \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc1f\ud835\udc28\ud835\udc28\ud835\udc2d \ud835\udc12\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c &amp; \ud835\udc12\ud835\udc24\ud835\udc22\ud835\udc27\ud835\udc30\ud835\udc1a\ud835\udc25\ud835\udc24\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc28\ud835\udc2c https://t.co/zVAwQtpSf1 New UFO drops, the strongest Bigfoot clips, Skinwalker weirdness, and Rake encounters ",
+      "text": "UFO Over Fairbanks, Alaska 1970s.. https://t.co/WgvnEDvhHe via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071163657292050654"
+      "url": "https://x.com/i/web/status/2071190581062078678"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1114\r Issue Time: 2026 Jun 28 1041 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -985,6 +991,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.7
+    },
+    {
+      "ts": "2026-06-28T11:24:12.654844Z",
+      "score": 22.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.6
     }
   ],
   "sources": [
