@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T01:52:41.445000Z",
-  "score": 27.3,
+  "generated_at": "2026-06-28T06:12:32.706041Z",
+  "score": 26.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -4.7,
-    "d24h": -10.2,
+    "d1h": -7.2,
+    "d24h": -11.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.6,
+    "social_chatter": 4.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
-    "seismic": 2.1,
-    "alien_variance": 3.4
+    "space_weather_alerts": 2.4,
+    "seismic": 0.0,
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,50 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "01:52",
+    "generated_utc": "06:12",
     "top_drivers": [
-      "Madonna revela que grabar una canci\u00f3n con su hija Lourdes Leon fue una experiencia  muy sanadora  ",
-      "X/Twitter chatter: 96 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.3,
-    "baseline_recent": 26.5,
+    "live_signal": 15.7,
+    "baseline_recent": 26.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
-    "gdelt_spike_pct": -82.72665992585102,
-    "x_last_hour": 96,
-    "wiki_spike_pct": -23.773562814658707,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 4.2,
-    "swpc_alerts_24h": 1
+    "gdelt_spike_pct": null,
+    "x_last_hour": 78,
+    "wiki_spike_pct": -24.47964357874322,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5rjjiqbh15vu2g0731tgp4smb7"
+    },
+    {
+      "type": "news",
+      "text": "New Mexico is on the road again",
+      "source": "travel.yahoo.com",
+      "url": "https://travel.yahoo.com/guides/articles/mexico-road-again-030300925.html"
+    },
+    {
+      "type": "news",
+      "text": "AEW Collision 6 / 27 Results - Three Titles On The Line , Mone & Athena Vs . Hyan & World",
+      "source": "wrestlinginc.com",
+      "url": "https://www.wrestlinginc.com/2203255/aew-collision-june-27-results/"
+    },
     {
       "type": "news",
       "text": "Madonna revela que grabar una canci\u00f3n con su hija Lourdes Leon fue una experiencia  muy sanadora  ",
@@ -100,70 +118,52 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=de946a5kn1d19kr407o5v4iin7"
     },
     {
-      "type": "news",
-      "text": " Disclosure Day  : pourquoi la ( potentielle ) d\u00e9couverte dune vie extraterrestre ne sera pas un blockbuster hollywoodien",
-      "source": "theconversation.com",
-      "url": "https://theconversation.com/disclosure-day-pourquoi-la-potentielle-decouverte-dune-vie-extraterrestre-ne-sera-pas-un-blockbuster-hollywoodien-286069"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ucu5qldm4hvjr0oo1l405qvm43"
-    },
-    {
-      "type": "news",
-      "text": "The Vampire Diaries Cast : Where Are They Now ? ",
-      "source": "tvline.com",
-      "url": "https://www.tvline.com/2201727/the-vampire-diaries-cast-actors-now/"
+      "type": "x",
+      "text": "im drunk af yall where UFO at https://t.co/w5I4RTp1aY",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071114184050241580"
     },
     {
       "type": "x",
-      "text": "@danjpatterson @brandilwells @1Starofthenorth **No, this isn't happening in Washington, DC right now.**  The video (from a TikTok account) shows clusters of bright lights in the night sky. These are a",
+      "text": "#ufotwitter #ufox #uapx UFO disclosure: Details emerge on \u2018Invasion of Washington\u2019 tape https://t.co/69GljlJkiF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071049030650507424"
+      "url": "https://x.com/i/web/status/2071114134985253067"
     },
     {
       "type": "x",
-      "text": "@Pontifex I saw a UFO. The sky was very grey that day and my background was very Green  I did not mean this: https://t.co/xGs7t6CuyQ",
+      "text": "Here\u2019s another comparison picture #alien #UFO #UAP #Phenomenon  (This is what\u2019s hidden in Leonardo da Vinci\u2019s Salvatore Mundi!) https://t.co/ZH2jsjknq1",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071048995712237752"
+      "url": "https://x.com/i/web/status/2071113990223114630"
     },
     {
       "type": "x",
-      "text": "We read all 53 of the Pentagon's new UAP files.  6 federal agents saw an orange \"mother orb\" spawn red orbs near a sensitive site. AARO blamed ~60% on flares; the rest it can't explain.  No aliens. No",
+      "text": "UFO researcher warns latest disclosure push may be a government 'dead en... https://t.co/bgPfmYkG9a via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071048979182227901"
+      "url": "https://x.com/i/web/status/2071113806307315954"
     },
     {
       "type": "x",
-      "text": "The Kofu Incident: Japan\u2019s Roswell? \ud83d\udef8   NEW EPISODE - Supernatural Japan  Apple Podcasts: https://t.co/9fzNZqhIr8  A big shout out to the boys at @GrveYrdPodcast   #Japan #Japanese #history #ufo #UAP ",
+      "text": "@bkseatpassenger Similar to munich recorded from plane uap",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071048867072889239"
+      "url": "https://x.com/i/web/status/2071113748132036814"
     },
     {
       "type": "x",
-      "text": "@merrylynn06 @CRIXUSwasHERE No worries in the 1400 AD UFO \ud83d\udef8 eliminated half of the population \ud83d\udc4d\ud83d\ude4c\ud83d\udc7d",
+      "text": "#dragon #ufo Chinese netizens take photos of the dragon. https://t.co/uGrB5GWLLi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071048794557305069"
+      "url": "https://x.com/i/web/status/2071113523233759674"
     },
     {
-      "type": "x",
-      "text": "@GBC_Press Good !!!  Keep up the great work, and .... (special request) PLEASE ENSURE THAT LEGAL FULL DISCLOSURE  OF UFO AND SECRET RECOVERY PROGRAMS IS EXPEDITED.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071048785262735711"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3706\r Issue Time: 2026 Jun 28 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3705\r Issue Time: 2026 Jun 27 0713 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 27 km WNW of Hope, Alaska",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -1038,6 +1038,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.3
+    },
+    {
+      "ts": "2026-06-28T06:12:32.662907Z",
+      "score": 26.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.7
     }
   ],
   "sources": [
