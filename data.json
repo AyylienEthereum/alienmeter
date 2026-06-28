@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T06:12:32.706041Z",
-  "score": 26.0,
+  "generated_at": "2026-06-28T09:33:22.861606Z",
+  "score": 21.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.2,
-    "d24h": -11.3,
+    "d1h": -12.4,
+    "d24h": -10.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.5,
+    "social_chatter": 2.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,137 +31,70 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "06:12",
+    "generated_utc": "09:33",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "X/Twitter chatter: 45 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.7,
-    "baseline_recent": 26.4,
+    "live_signal": 9.7,
+    "baseline_recent": 26.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 78,
+    "x_last_hour": 45,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5rjjiqbh15vu2g0731tgp4smb7"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico is on the road again",
-      "source": "travel.yahoo.com",
-      "url": "https://travel.yahoo.com/guides/articles/mexico-road-again-030300925.html"
-    },
-    {
-      "type": "news",
-      "text": "AEW Collision 6 / 27 Results - Three Titles On The Line , Mone & Athena Vs . Hyan & World",
-      "source": "wrestlinginc.com",
-      "url": "https://www.wrestlinginc.com/2203255/aew-collision-june-27-results/"
-    },
-    {
-      "type": "news",
-      "text": "Madonna revela que grabar una canci\u00f3n con su hija Lourdes Leon fue una experiencia  muy sanadora  ",
-      "source": "elnacional.com.do",
-      "url": "https://elnacional.com.do/fama-y-vida/farandula/madonna-revela-grabar-cancion-hija-lourdes-leon-experiencia-sanadora_574506.html"
-    },
-    {
-      "type": "news",
-      "text": "Ciudadanos , veinte a\u00f1os del nacimiento de una revuelta c\u00edvica contra el nacionalismo",
-      "source": "elmundo.es",
-      "url": "https://www.elmundo.es/cataluna/2026/06/27/6a4013f6e85ece4f128b459e.html"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/6b30dc44-ee7b-5c68-bdfe-feeb4b5507cc/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "The Proof Is Out There",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/ed3cdeae-2d75-55f0-a2d2-7d509d3f66b0/the-proof-is-out-there"
-    },
-    {
-      "type": "news",
-      "text": "Sara Curtis | Record italiano era lobiettivo dellanno contenta di farlo a Roma",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-06-27/sara-curtis-record-italiano-era-lobiettivo-dellanno-contenta-di-farlo-a-roma/19396876/"
-    },
-    {
-      "type": "news",
-      "text": "Box Office :  Supergirl  Opening in Second Place Behind  Toy Story 5  ",
-      "source": "hollywoodreporter.com",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-supergirl-toy-story-5-1236632101/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=de946a5kn1d19kr407o5v4iin7"
+      "type": "x",
+      "text": "Former Canadian Defense Minister Paul Hellyer Said a Document Mentioned 20 Extraterrestrial Species From Different Star Systems  *Discussion  Former Canadian Minister of National Defence Paul Hellyer ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071164953105465823"
     },
     {
       "type": "x",
-      "text": "im drunk af yall where UFO at https://t.co/w5I4RTp1aY",
+      "text": "Stardust Ranch https://t.co/jmZ510UIpb #TheTruthIsOutThere #space #universe #ufo #uap #ovni #ufox #uapx #ovnix #ufotwitter #uaptwitter  #ovnitwitter #macclesfield #music #synth #ambient #film #soundsc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071114184050241580"
+      "url": "https://x.com/i/web/status/2071164926421237893"
     },
     {
       "type": "x",
-      "text": "#ufotwitter #ufox #uapx UFO disclosure: Details emerge on \u2018Invasion of Washington\u2019 tape https://t.co/69GljlJkiF",
+      "text": "@maniaUFO I saw this maybe a week ago \u2013 check out \u201cSan Antonio UAP lights\u201d or something similar on TikTok \u2013 there\u2019s a bunch of different videos from folks",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071114134985253067"
+      "url": "https://x.com/i/web/status/2071164447952105745"
     },
     {
       "type": "x",
-      "text": "Here\u2019s another comparison picture #alien #UFO #UAP #Phenomenon  (This is what\u2019s hidden in Leonardo da Vinci\u2019s Salvatore Mundi!) https://t.co/ZH2jsjknq1",
+      "text": "really quick one tbh i will fix it later but just in case anyone wants it imma put it on ufo lel",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071113990223114630"
+      "url": "https://x.com/i/web/status/2071164233270583381"
     },
     {
       "type": "x",
-      "text": "UFO researcher warns latest disclosure push may be a government 'dead en... https://t.co/bgPfmYkG9a via @YouTube",
+      "text": "@bkseatpassenger They've been around.  Google: UAP Dementors.  They have been caught flying high in the sky around planes and places of turmoil (California fires).",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071113806307315954"
+      "url": "https://x.com/i/web/status/2071163747503071387"
     },
     {
       "type": "x",
-      "text": "@bkseatpassenger Similar to munich recorded from plane uap",
+      "text": "\ud835\udc11\ud835\udc1e\ud835\udc1a\ud835\udc25 \ud835\udc28\ud835\udc2b \ud835\udc0d\ud835\udc28\ud835\udc2d \ud835\udc11\ud835\udc1e\ud835\udc1a\ud835\udc25? \ud835\udc04\ud835\udc0f. \ud835\udfd0: \ud835\udc03\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc28 \ud835\udc05\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc21 \ud835\udc14\ud835\udc05\ud835\udc0e\ud835\udc2c, \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc1f\ud835\udc28\ud835\udc28\ud835\udc2d \ud835\udc12\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c &amp; \ud835\udc12\ud835\udc24\ud835\udc22\ud835\udc27\ud835\udc30\ud835\udc1a\ud835\udc25\ud835\udc24\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc28\ud835\udc2c https://t.co/zVAwQtpSf1 New UFO drops, the strongest Bigfoot clips, Skinwalker weirdness, and Rake encounters ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071113748132036814"
-    },
-    {
-      "type": "x",
-      "text": "#dragon #ufo Chinese netizens take photos of the dragon. https://t.co/uGrB5GWLLi",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071113523233759674"
+      "url": "https://x.com/i/web/status/2071163657292050654"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3706\r Issue Time: 2026 Jun 28 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3705\r Issue Time: 2026 Jun 27 0713 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1045,6 +978,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.7
+    },
+    {
+      "ts": "2026-06-28T09:33:22.786674Z",
+      "score": 21.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.7
     }
   ],
   "sources": [
