@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T14:44:59.707940Z",
-  "score": 25.5,
+  "generated_at": "2026-06-28T15:58:28.285599Z",
+  "score": 24.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": -6.4,
+    "d1h": 2.8,
+    "d24h": -5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.0,
+    "social_chatter": 6.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "14:44",
+    "generated_utc": "15:58",
     "top_drivers": [
-      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 104 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.3,
-    "baseline_recent": 26.0,
+    "live_signal": 13.6,
+    "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 103,
+    "x_last_hour": 104,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Alien sighting at 2:31 am, on a nearby forest. Was luckily recorded by a campist #art #alienart #youngartist https://t.co/DHib4Gf1wS",
+      "text": "@Countcristo44 Right a UFO. They did call me St Thomas. I will have to see it and touch it with my own hands to believe anything posted on a screen. But yeah drones can be UFO's I mean right ?!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071243398145593506"
+      "url": "https://x.com/i/web/status/2071261783889777000"
     },
     {
       "type": "x",
-      "text": "@RC_Balance @LeonaAngelaVII Get him a ufo he\u2019s gonna need it",
+      "text": "@eThirty_Three @CaptKylePatriot That's a TikTok clip (neda8ghahremani) showing clusters of bright lights/orbs in a cloudy night sky, captioned as UAPs over DC.  No news, radar data, or official report",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071243396337852622"
+      "url": "https://x.com/i/web/status/2071261763190841582"
     },
     {
       "type": "x",
-      "text": "@jamescfox They were never disregarded as science fiction by me!  I (as well as many others, I'm sure) have known of their existence from the first time I ever heard of a \"UFO\" and that was a very lon",
+      "text": "@wow36932525 @Producer_Meagan @rosscoulthart @NewsNation @LueElizondo Lue being a part of the legacy program is not, in my view, some big gotcha moment.    It means he has the institutional knowledge ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071243321851412758"
+      "url": "https://x.com/i/web/status/2071261662502646011"
     },
     {
       "type": "x",
-      "text": "@TaraBull holy shit thats a ufo",
+      "text": "Christopher Mellon wasn't a #UFO enthusiast. He was a former Minority Staff Director of the Senate Intelligence Committee. Sen. Reed was a member of the #SSCI . #Mellon applied twenty years of Hill ex",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071242736489873670"
+      "url": "https://x.com/i/web/status/2071261480318796236"
     },
     {
       "type": "x",
-      "text": "Im gonnajumpp out of the ufo when the aliens cone to get me to maximize tue danage i do when i commit suicide so when i jump out of rhe ufo ill frefall back to earth wait no cuz gravity wait guys sorr",
+      "text": "100 years old former Israeli air force commander calls up Vallee in 2021 in the context of contemporary UFO incidents in Israel. Vallee writes the guy is \"One of the men I most respect in the world\" h",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071242256669905286"
+      "url": "https://x.com/i/web/status/2071261365696639295"
     },
     {
       "type": "x",
-      "text": "@UAPReportingCnt A lot of these UFO personalities really aren't interested in relaying any type of truth.  Greer rubs elbows with Maussan, which to me, tells us everything we need to know.  Very well ",
+      "text": "Definitely proud about the Mammoth in Air Pure Ufo https://t.co/eEWvn9dkL6",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071242200394998072"
+      "url": "https://x.com/i/web/status/2071261095906431216"
     },
     {
       "type": "swpc",
@@ -1012,6 +1012,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.3
+    },
+    {
+      "ts": "2026-06-28T15:58:28.212150Z",
+      "score": 24.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.6
     }
   ],
   "sources": [
