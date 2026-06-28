@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T18:19:18.704031Z",
-  "score": 30.7,
+  "generated_at": "2026-06-28T19:52:57.222955Z",
+  "score": 29.5,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 6.9,
-    "d24h": -0.1,
+    "d1h": 4.0,
+    "d24h": 0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.2,
+    "social_chatter": 9.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,17 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "18:19",
+    "generated_utc": "19:52",
     "top_drivers": [
-      "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "X/Twitter chatter: 187 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 158 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.1,
+    "live_signal": 20.6,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +49,7 @@
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 187,
+    "x_last_hour": 158,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "dailygazette.com",
-      "url": "https://www.dailygazette.com/the_recorder/ap/national/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box/article_30a1fe71-aac9-5f61-b25a-e9082f0b9beb.html"
-    },
-    {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "news-gazette.com",
-      "url": "https://www.news-gazette.com/news/nation-world/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box/article_47bc04a7-e4db-57fb-b574-139301dc6722.html"
-    },
-    {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "dailygazette.com",
-      "url": "https://www.dailygazette.com/hv360/ap/national/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box/article_30a1fe71-aac9-5f61-b25a-e9082f0b9beb.html"
-    },
-    {
-      "type": "news",
-      "text": " \u00bf Las pel\u00edculas de extraterrestres nos preparan para un contacto real ? Esto dice Internet",
-      "source": "excelsior.com.mx",
-      "url": "https://www.excelsior.com.mx/espectaculos/peliculas-extraterrestres-preparan-para-contacto-real-esto-dice-internet"
-    },
-    {
-      "type": "news",
-      "text": "This might be your new favourite podcast ... ",
-      "source": "rte.ie",
-      "url": "https://www.rte.ie/entertainment/2026/0627/1580659-this-might-be-your-new-favourite-podcast/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0mvau3smoj1665jplpp2nkb0h2"
-    },
-    {
-      "type": "news",
-      "text": "Demisha Roswell makes Diamond League debut in Paris",
-      "source": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/06/28/demisha-roswell-makes-diamond-league-debut-paris/"
-    },
-    {
-      "type": "news",
-      "text": "El legendario OVNI estrena nueva propuesta musical  Despertar  ",
-      "source": "hoy.com.do",
-      "url": "https://hoy.com.do/vivir/alegria/musica/legendario-ovni-estrena-nueva-propuesta-musical-despertar_1092683.html"
-    },
-    {
-      "type": "news",
-      "text": "Chuck Schumer Is Getting Back on His UFO Bullshit",
-      "source": "jezebel.com",
-      "url": "https://www.jezebel.com/chuck-schumer-is-getting-back-on-his-ufo-bullshit"
-    },
-    {
-      "type": "news",
-      "text": "\u05e9\u05de\u05e2\u05d5 \u05e8\u05e2\u05e9\u05d9\u05dd  \u05d0\u05e4\u05d5\u05e7\u05dc\u05d9\u05e4\u05d8\u05d9\u05d9\u05dd  \u05de\u05db\u05d9\u05d5\u05d5\u05df \u05d4\u05d4\u05e8 \u2013 \u05d5\u05de\u05e6\u05d0\u05d5 \u05e9\u05d3\u05d4 \u05e8\u05de\u05e7\u05d5\u05dc\u05d9\u05dd \u05e1\u05d5\u05dc\u05d0\u05e8\u05d9\u05d9\u05dd",
-      "source": "13tv.co.il",
-      "url": "https://13tv.co.il/item/from-the-web-2/articles/j2gyl-905240335/?pid=7&refc=903284948"
+      "type": "x",
+      "text": "Coulthart\u2019s message to Elizondo:  \u201cI\u2019ve spoken to people in the legacy program who knew Lue \u2014 Lue, I know a lot of people and they know you. I know you can\u2019t speak about the role that you\u2019ve held with",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071320833016959199"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ @disclosurefound That's a fair question and im going to shape it into a slightly different dimension and some may not agree, but I\u2019d separate the award from the wider narrative fight here",
+      "text": "Danny Sheehan on bringing in the spiritual, metaphysical, and consciousness components that experiencers are well aware of into the Disclosure conversation:  On a Zoom happening now\u2014alongside Sara Nel",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071297345644359971"
+      "url": "https://x.com/i/web/status/2071320817711906909"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8Ross Coulthart Says a Pentagon Faction Is Trying to Put UFO Disclosure Back in the Box  Ross Coulthart has made one of his most direct claims yet about the battle taking place behind the scenes over ",
+      "text": "@UAPJames I don't understand why Ross Coulthart is courting Louis Elizondo or believes he is a credible source of information. Why don't these UFO journalists ask people who actually possess the infor",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071297299158909205"
+      "url": "https://x.com/i/web/status/2071320343659098327"
     },
     {
       "type": "x",
-      "text": "@uBF2fV1cVQxRjQo All the UFO/Alien accounts on X really need to start vetting these videos. Lol. 99% are fake ass fuck",
+      "text": "Mr. Coulthart,  Like many others, I appreciate your continued work on UAP transparency and that you answered my question during this week\u2019s Reality Check Q&amp;A.  That said, I\u2019m still stuck on someth",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071297227327152200"
+      "url": "https://x.com/i/web/status/2071320020978663564"
     },
     {
       "type": "x",
-      "text": "Former Canadian defense minister Paul Hellyer has been a whistleblower for decades in the alien/UFO field https://t.co/9JaJwOx7uB",
+      "text": "\ud83d\udd25 DEMONIC UFO: The Felixstowe Fire Demon (1965) On the night of September 20, 1965, in the quiet coastal town of Felixstowe, Suffolk, three young people had an encounter that still chills researchers ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071297063246295186"
+      "url": "https://x.com/i/web/status/2071319852585832508"
     },
     {
       "type": "x",
-      "text": "UFO of the past week in the Netherlands https://t.co/ADjc2EgU5B",
+      "text": "@rand_longevity &amp; its quite obvious. UFO, AI &amp; wars have been the talk but biotech is really moving to a realm thats gonna catch a lot of people off guard.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071296969385943165"
-    },
-    {
-      "type": "x",
-      "text": "So the way to do it is to create a church, then as pastor to declare that the UFO you capture is a house of worship so that you need not pay taxes on it or the bounty of that worship (aka space piracy",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071296924926591365"
+      "url": "https://x.com/i/web/status/2071319829366124949"
     },
     {
       "type": "swpc",
@@ -1094,6 +1033,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.1
+    },
+    {
+      "ts": "2026-06-28T19:52:57.148027Z",
+      "score": 29.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.6
     }
   ],
   "sources": [
