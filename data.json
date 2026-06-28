@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T12:53:14.048731Z",
-  "score": 23.8,
+  "generated_at": "2026-06-28T14:44:59.707940Z",
+  "score": 25.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.5,
-    "d24h": -5.5,
+    "d1h": -0.5,
+    "d24h": -6.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.7,
+    "social_chatter": 6.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "12:53",
+    "generated_utc": "14:44",
     "top_drivers": [
-      "X/Twitter chatter: 65 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.1,
-    "baseline_recent": 26.1,
+    "live_signal": 15.3,
+    "baseline_recent": 26.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 65,
+    "x_last_hour": 103,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "The Disclosure Day Spielberg movie cemented the notion that this UAP thing is demonic in nature. It was a cheap and lazy film clearly demonstrating this global elite effort to undermine God and any no",
+      "text": "Alien sighting at 2:31 am, on a nearby forest. Was luckily recorded by a campist #art #alienart #youngartist https://t.co/DHib4Gf1wS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214770510823441"
+      "url": "https://x.com/i/web/status/2071243398145593506"
     },
     {
       "type": "x",
-      "text": "@BrockRiddickIFB When phone cams became common I was just waiting for better UFO footage than the vague crap we got so far. But, no.",
+      "text": "@RC_Balance @LeonaAngelaVII Get him a ufo he\u2019s gonna need it",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214658426421612"
+      "url": "https://x.com/i/web/status/2071243396337852622"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8I've watched this clip more times than I can count, and it still makes me stop for a second.  It was reportedly filmed by a military fighter jet in 2011 and has resurfaced after the recent UAP hearin",
+      "text": "@jamescfox They were never disregarded as science fiction by me!  I (as well as many others, I'm sure) have known of their existence from the first time I ever heard of a \"UFO\" and that was a very lon",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214531318317565"
+      "url": "https://x.com/i/web/status/2071243321851412758"
     },
     {
       "type": "x",
-      "text": "UFO \u2261 Alien Spaceship \u2261 Faster-than-light Gravitational Wave Spaceship https://t.co/ly6YG34xzp",
+      "text": "@TaraBull holy shit thats a ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214509008847182"
+      "url": "https://x.com/i/web/status/2071242736489873670"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP Tucker simply needs to step into @FiringRoom1 for 2 hours if he wants to hear and see the truth about USA UAP EM FIELD WEAPONS.  Ditto for Rogan and the rest.  YOUR GREATEST STREAMING",
+      "text": "Im gonnajumpp out of the ufo when the aliens cone to get me to maximize tue danage i do when i commit suicide so when i jump out of rhe ufo ill frefall back to earth wait no cuz gravity wait guys sorr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214276878938523"
+      "url": "https://x.com/i/web/status/2071242256669905286"
     },
     {
       "type": "x",
-      "text": "\u2728The 2007 California 'Dragonfly Drone/UFO'\ud83d\udcab Is this case accepted as debunked / a CGI hoax? \ud83e\udd14 #UFO #HighStrangeness #UAP https://t.co/LAwymXbSM4",
+      "text": "@UAPReportingCnt A lot of these UFO personalities really aren't interested in relaying any type of truth.  Greer rubs elbows with Maussan, which to me, tells us everything we need to know.  Very well ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071214134411096294"
+      "url": "https://x.com/i/web/status/2071242200394998072"
     },
     {
       "type": "swpc",
@@ -1005,6 +1005,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.1
+    },
+    {
+      "ts": "2026-06-28T14:44:59.629648Z",
+      "score": 25.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.3
     }
   ],
   "sources": [
