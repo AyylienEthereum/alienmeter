@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T15:58:28.285599Z",
-  "score": 24.1,
+  "generated_at": "2026-06-28T17:14:58.902104Z",
+  "score": 31.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": -5.0,
+    "d1h": 8.7,
+    "d24h": -1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 6.1,
+    "news_velocity": 6.9,
+    "social_chatter": 8.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,26 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "15:58",
+    "generated_utc": "17:14",
     "top_drivers": [
-      "X/Twitter chatter: 104 UFO/UAP posts in the last hour",
+      "News velocity +29% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 142 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.6,
-    "baseline_recent": 25.9,
+    "live_signal": 23.0,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 104,
+    "gdelt_spike_pct": 28.78342947037232,
+    "x_last_hour": 142,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@Countcristo44 Right a UFO. They did call me St Thomas. I will have to see it and touch it with my own hands to believe anything posted on a screen. But yeah drones can be UFO's I mean right ?!",
+      "text": "Every official publication keeps burying the same fan-made fantasy while confirming and asserting that Hikaru was never Duke Fleed\u2019s love interest.  From Japanese material like Gosaku Ota\u2019s manga to G",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261783889777000"
+      "url": "https://x.com/i/web/status/2071281116011528423"
     },
     {
       "type": "x",
-      "text": "@eThirty_Three @CaptKylePatriot That's a TikTok clip (neda8ghahremani) showing clusters of bright lights/orbs in a cloudy night sky, captioned as UAPs over DC.  No news, radar data, or official report",
+      "text": "i need that ufo charm of my kutchi baby https://t.co/wrrWAJUH2S",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261763190841582"
+      "url": "https://x.com/i/web/status/2071280761664155841"
     },
     {
       "type": "x",
-      "text": "@wow36932525 @Producer_Meagan @rosscoulthart @NewsNation @LueElizondo Lue being a part of the legacy program is not, in my view, some big gotcha moment.    It means he has the institutional knowledge ",
+      "text": "@TheProjectUnity   $100.00 wager that in (2) years many will still be stuck on the UFO topic.  And many in the core circle will still be saying \"Disclosure  is right around the corner\" while those on ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261662502646011"
+      "url": "https://x.com/i/web/status/2071280644903285032"
     },
     {
       "type": "x",
-      "text": "Christopher Mellon wasn't a #UFO enthusiast. He was a former Minority Staff Director of the Senate Intelligence Committee. Sen. Reed was a member of the #SSCI . #Mellon applied twenty years of Hill ex",
+      "text": "@MasterVril A lot of UAP leaders were open to fascism as a counter to communism during the 30s. The war and especially conscription debate had created a palpable sense that segments of the population ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261480318796236"
+      "url": "https://x.com/i/web/status/2071280436928725141"
     },
     {
       "type": "x",
-      "text": "100 years old former Israeli air force commander calls up Vallee in 2021 in the context of contemporary UFO incidents in Israel. Vallee writes the guy is \"One of the men I most respect in the world\" h",
+      "text": "@The_Astral_ Yall need to use baselines more.  Think about the level of classified program activity, timespan of focus, and financial investment.... of something you know is not real.  Like dragons Or",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261365696639295"
+      "url": "https://x.com/i/web/status/2071280355361825197"
     },
     {
       "type": "x",
-      "text": "Definitely proud about the Mammoth in Air Pure Ufo https://t.co/eEWvn9dkL6",
+      "text": "Ross Coulthart Q&amp;A: 'We\u2019ve got to stop this bloody nonsense:' Coulthart on UFO infighting ... https://t.co/Fl9S6h1chf",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071261095906431216"
+      "url": "https://x.com/i/web/status/2071280266123903030"
     },
     {
       "type": "swpc",
@@ -1019,6 +1020,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.6
+    },
+    {
+      "ts": "2026-06-28T17:14:58.823638Z",
+      "score": 31.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.0
     }
   ],
   "sources": [
