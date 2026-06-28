@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T21:59:48.146451Z",
-  "score": 25.5,
+  "generated_at": "2026-06-28T23:09:41.305512Z",
+  "score": 27.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.9,
-    "d24h": -6.3,
+    "d1h": -3.0,
+    "d24h": -6.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.6,
+    "social_chatter": 7.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 14,
     "date": "28.06.2026",
     "declassified": "28.06.26",
-    "generated_utc": "21:59",
+    "generated_utc": "23:09",
     "top_drivers": [
-      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 130 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.6,
-    "baseline_recent": 25.7,
+    "live_signal": 18.4,
+    "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 61.0134132523,
     "asteroid_name": "(2015 VH66)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 129,
+    "x_last_hour": 130,
     "wiki_spike_pct": -24.47964357874322,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "1 of 4. For everyone who follows the campaign for Disclosure of the UFO/UAP/non-human intelligence [NHI] coverup since 1947, Gerb and Ross\u2019s posts below are 100% essential reading.   (\u2018In a nutshell\u2019 ",
+      "text": "@Aikya09728080 @Real_JFK_Jr_ No, not real.   That's modern CGI of a fictional alien (with Spanish/English subs), not declassified Project Blue Book footage or any military interview.   Official Blue B",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352807673012304"
+      "url": "https://x.com/i/web/status/2071370312877252796"
     },
     {
       "type": "x",
-      "text": "@Lord_SubZero84 The holographic theory, when combined with Penrose and Hammeroff's Orchestrated Objective Reduction theory begins to construct a larger model where microtubules become the structure in",
+      "text": "I just got some documents from a unknown   Its some kind of wireless data network beyond nano tech   It looks like technology taken from the Roswell crash on how particles interact on the haul of a UF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352653486145556"
+      "url": "https://x.com/i/web/status/2071370262105165996"
     },
     {
       "type": "x",
-      "text": "They can't seem to come up with credible UFO, &amp; ALIEN evidence on said subject, does the government have it? Yes! But they fear that it's going to take God out of the picture, meaning he doesn't e",
+      "text": "Experts claim there's a secret tape of 'Invasion of Washington' UFO meeting - and public will soon hear it https://t.co/OTQBo6s66v https://t.co/MJFSWR81sV",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352519930855657"
+      "url": "https://x.com/i/web/status/2071370137530232853"
     },
     {
       "type": "x",
-      "text": "oh scary ufo \ud83d\udef8\ud83d\udc7d https://t.co/fH9V2sfkca",
+      "text": "@MichaelSalla George Adamski, a prominent 1950s UFO contactee, claimed to have encountered benevolent, human like ETs from Venus, Mars, and Saturn, whom he dubbed the Space Brothers.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352501098389646"
+      "url": "https://x.com/i/web/status/2071370111659749441"
     },
     {
       "type": "x",
-      "text": "Fun fact. You can absolutely scare yourself with your own game \ud83d\udc7d  #IndieDev #HorrorGame #UFO https://t.co/doeqNG9H4S",
+      "text": "@PIXLFETISH DUDE i remember wanting to get the ufo ending so bad so i could use the light saber but i zoned out on one part and missed my chance and it annoyed me so bad i gave up",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352381690798527"
+      "url": "https://x.com/i/web/status/2071370052071555094"
     },
     {
       "type": "x",
-      "text": "@caramel_ufo OMGGG HI UFO it's been so long",
+      "text": "@RedPandaKoala But I\u2019ve heard you use that term \u201cshaping the narrative\u201d since time immemorial.  I simply aim to know what you think Elizondo has been harping on that is such a bold departure from UFO ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071352068913144285"
+      "url": "https://x.com/i/web/status/2071370032228016599"
     },
     {
       "type": "swpc",
@@ -1054,6 +1054,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.6
+    },
+    {
+      "ts": "2026-06-28T23:09:41.229473Z",
+      "score": 27.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.4
     }
   ],
   "sources": [
