@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T09:58:34.773142Z",
-  "score": 25.8,
+  "generated_at": "2026-06-29T14:06:20.661516Z",
+  "score": 26.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -5.9,
+    "d1h": -1.6,
+    "d24h": -4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.5,
+    "social_chatter": 7.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,76 +31,131 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "09:58",
+    "generated_utc": "14:06",
     "top_drivers": [
-      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office \u2013 Butler Eagle",
+      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.1,
-    "baseline_recent": 25.5,
+    "live_signal": 16.5,
+    "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 78,
+    "x_last_hour": 129,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Experts claim there's a secret tape of 'Invasion of Washington' UFO meeting -- and public will soon hear it https://t.co/Y8KqQBb7ka",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533619387269333"
+      "type": "news",
+      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office \u2013 Butler Eagle",
+      "source": "butlereagle.com",
+      "url": "https://www.butlereagle.com/20260629/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box-office/"
+    },
+    {
+      "type": "news",
+      "text": " \u201e \u0421\u0443\u043f\u0435\u0440\u0433\u044a\u0440\u043b  \u043d\u0435 \u0443\u0441\u043f\u044f \u0434\u0430 \u043d\u0430\u0434\u0432\u0438\u0435 \u201e \u0418\u0433\u0440\u0430\u0442\u0430 \u043d\u0430 \u0438\u0433\u0440\u0430\u0447\u043a\u0438\u0442\u0435 5  \u0432 \u0431\u043e\u043a\u0441\u043e\u0444\u0438\u0441\u0430",
+      "source": "investor.bg",
+      "url": "https://www.investor.bg/a/555-izkustvo-i-kultura/432778-supergarl-ne-uspya-da-nadvie-igrata-na-igrachkite-5-v-boksofisa"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=otavl2bpufllcrqjp863l4dh41"
+    },
+    {
+      "type": "news",
+      "text": "Carneiro desafia Governo a fazer  invers\u00e3o de marcha  e acusa - o de  manobras ideol\u00f3gicas  com o Chega",
+      "source": "dn.pt",
+      "url": "https://www.dn.pt/pol%C3%ADtica/carneiro-desafia-governo-a-fazer-inverso-de-marcha-e-acusa-o-de-manobras-ideolgicas-com-o-chega"
+    },
+    {
+      "type": "news",
+      "text": "  Extraterrestrial Arms Race Underway : Russia and China Scramble to Reverse - Engineer Crashed Alien Spaceships",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/extraterrestrial-arms-race-russia-china-1805660"
+    },
+    {
+      "type": "news",
+      "text": "Ju\u00e1rez y su Laberinto del Quinto Sol",
+      "source": "diario.mx",
+      "url": "https://diario.mx/opinion/2026/jun/28/juarez-y-su-laberinto-del-quinto-sol-1125096.html"
+    },
+    {
+      "type": "news",
+      "text": "Uri Geller believes science can explain existence of ghosts",
+      "source": "femalefirst.co.uk",
+      "url": "http://www.femalefirst.co.uk/bizarre/uri-geller-believes-science-can-explain-existence-ghosts-1446683.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO - J\u00e4ger Hans - Werner Peiniger : \u201e Jeden zweiten Tag eine Meldung  ",
+      "source": "express.de",
+      "url": "https://www.express.de:443/panorama/ufo-jaeger-hans-werner-peiniger-jeden-zweiten-tag-eine-meldung-1313830"
+    },
+    {
+      "type": "news",
+      "text": "Williams races to podium finish at Paris Diamond League",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/06/29/williams-races-podium-finish-paris-diamond-league/"
+    },
+    {
+      "type": "news",
+      "text": "New Mexico campus security guard lawsuit claims he was forced from job for Charlie Kirk post",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/local_news/new-mexico-campus-security-guards-lawsuit-claims-he-was-forced-from-job-for-charlie-kirk/article_93af1160-dad5-42ea-a06c-0c015170650b.html"
     },
     {
       "type": "x",
-      "text": "\ud83c\udf0d Listen via Radio  UFO Radio FM 92.1  Chen Shan Mei Radio (Taichung) FM 89.9  Voice of Southern Taiwan FM 103.9 \ud83c\udf0d UFO Radio Online Streaming App  iOS \ud83d\udc49 https://t.co/MCWCCA8kUc  Android \ud83d\udc49 https://t.co",
+      "text": "Steven Greer says Lue Elizondo has been appointed to the National Security Council staff to work on the UFO topic.  Is this the position Ross Coulthart was referring to? \ud83d\ude33 https://t.co/U8GeBjL0QN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533601582350789"
+      "url": "https://x.com/i/web/status/2071595745979834658"
     },
     {
       "type": "x",
-      "text": "UFO Day brings spooky family fun to Buckhannon https://t.co/2Cvlfz039A",
+      "text": "@NiecyOKeeffe This should be included with the next UFO release. Definitely some kinda spacers involved there.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533550340558963"
+      "url": "https://x.com/i/web/status/2071595741823287524"
     },
     {
       "type": "x",
-      "text": "Another anomaly of the world.  #1203 Periodic Silent Luminous Aerial Object Appearance and Local Environmental Transformation Incident in the Rila Mountains, Bulgaria  In the early hours of April 12, ",
+      "text": "@TheProjectUnity @UAPGERB @rosscoulthart Jay - I\u2019m curious to hear your take on what you think Elizondo\u2019s exact purpose has been since 2017.  Is it just pure misinfo and disinfo to confuse and splinte",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533483294589327"
+      "url": "https://x.com/i/web/status/2071595649439502524"
     },
     {
       "type": "x",
-      "text": "@strawluvrant hovering ufo readyy ka!",
+      "text": "@FolkBestiary Aren\u2019t those some interesting markings on that ufo.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533474100711847"
+      "url": "https://x.com/i/web/status/2071595119187210441"
     },
     {
       "type": "x",
-      "text": "Declassified Pentagon UFO files detail mysterious 1947 incident in West Rindge | New Hampshire Public Radio https://t.co/ECkb8A80aV",
+      "text": "Ufology-Parapsychology: 16 ALIEN ABDUCTION &amp; UFO Cases &amp; Signs You've Been Abducted! https://t.co/9bhRkkvk9i via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071533434569453674"
+      "url": "https://x.com/i/web/status/2071595029550780853"
+    },
+    {
+      "type": "x",
+      "text": "I\u2019ll willing to consider your starting thesis so now let\u2019s flesh it out :  what misinformation and or disinformation about UAP has Elizondo spread?  Be as precise and specific as you can. https://t.co",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071595012656177252"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3707\r Issue Time: 2026 Jun 29 0502 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1114\r Issue Time: 2026 Jun 28 1041 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1082,6 +1137,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.1
+    },
+    {
+      "ts": "2026-06-29T14:06:20.588377Z",
+      "score": 26.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.5
     }
   ],
   "sources": [
