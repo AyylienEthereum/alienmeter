@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-29T22:20:13.717208Z",
-  "score": 27.8,
+  "generated_at": "2026-06-29T23:33:29.538991Z",
+  "score": 28.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": -6.1,
+    "d1h": 0.9,
+    "d24h": -3.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.3,
+    "social_chatter": 7.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.4
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "22:20",
+    "generated_utc": "23:33",
     "top_drivers": [
-      "X/Twitter chatter: 123 UFO/UAP posts in the last hour",
+      "La teoria del complotto dei laser nel cielo e il terremoto in Venezuela",
+      "X/Twitter chatter: 126 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
+    "live_signal": 19.1,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 123,
+    "x_last_hour": 126,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@PapiTrumpo Please consider filming Commander Ashtar shooting a belt-fed machine gun at watermelons, cantaloupes, and honeydew melons for the DOW UAP files.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071720298001424659"
+      "type": "news",
+      "text": "La teoria del complotto dei laser nel cielo e il terremoto in Venezuela",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-06-29/la-teoria-del-complotto-dei-laser-nel-cielo-e-il-terremoto-in-venezuela/19403886/"
+    },
+    {
+      "type": "news",
+      "text": "2026\u5e74\u4e2d\u56fd\u4fdd\u9f84\u7403\u5de1\u56de\u8d5b\u987a\u5229\u843d\u5e55 - \u534e\u4fa8\u7f51",
+      "source": "chinesepress.com",
+      "url": "https://www.chinesepress.com/archives/175520"
+    },
+    {
+      "type": "news",
+      "text": "Brace for a blast Canada Day in Sault Ste . Marie",
+      "source": "timminspress.com",
+      "url": "https://www.timminspress.com/news/brace-for-a-blast-canada-day"
+    },
+    {
+      "type": "news",
+      "text": "Three days of patriotic fun planned at Marietta Square",
+      "source": "mdjonline.com",
+      "url": "https://www.mdjonline.com/news/local/three-days-of-patriotic-fun-planned-at-marietta-square/article_e6d20a79-80c8-4c8b-bcf8-d3910fc1acf9.html"
+    },
+    {
+      "type": "news",
+      "text": "PS atr\u00e1s dos desiludidos e a pedir  invers\u00e3o de marcha  \u00e0 AD \u2013 Observador",
+      "source": "observador.pt",
+      "url": "https://observador.pt/2026/06/29/ps-tenta-recuperar-desiludidos-sem-pressa-e-estende-a-mao-ao-psd-invertam-a-marcha/"
+    },
+    {
+      "type": "news",
+      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
+      "source": "newsday.com",
+      "url": "https://www.newsday.com/entertainment/supergirl-toy-story-5-box-office-k13969"
+    },
+    {
+      "type": "news",
+      "text": "Hay un platillo volante navegando por un r\u00edo de Vietnam . Lo ha construido un youtuber en su patio con arena , chatarra y fibra de vidrio",
+      "source": "xataka.com",
+      "url": "https://www.xataka.com/movilidad/hay-platillo-volante-navegando-rio-vietnam-ha-construido-youtuber-su-patio-arena-chatarra-fibra-vidrio"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1no7kcnnjknto368kh99sepkn7"
+    },
+    {
+      "type": "news",
+      "text": "Santos Silva :  H\u00e1 um pecado original na forma de governar  \u2013 Observador",
+      "source": "observador.pt",
+      "url": "https://observador.pt/programas/explicador/santos-silva-ha-um-pecado-original-na-forma-de-governar/"
+    },
+    {
+      "type": "news",
+      "text": "New Era Energy & Digital ( NASDAQ : NUAI ) Shares Down 6 . 8 % \u2013 What Next ? ",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13489684/new-era-energy-digital-nasdaqnuai-shares-down-6-8-whats-next.html"
     },
     {
       "type": "x",
-      "text": "@virtuallyself sucks u have a ufo",
+      "text": "Was the girlfriend an alien? She split funny!   Wrong answers only in the comments; make us laugh! \ud83e\udd23\ud83e\udd23\ud83e\udd23  #aliens #movies #ufo https://t.co/OA1JZGRh5x",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071720167772434441"
+      "url": "https://x.com/i/web/status/2071736907986301229"
     },
     {
       "type": "x",
-      "text": "@cryptofergani You're completely sleeping on the UFO phenomena and the alien show that comes after it \ud83d\ude34  I shall keep reminding you till the day you finally respond, either tell me shut up or become i",
+      "text": "Can we see $100-$125 before Friday ?? $RKLB $ASTS $SPCX $UFO $TSLA https://t.co/HUi7rx0DCd https://t.co/DKBRvl6s0b",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071720048444518833"
+      "url": "https://x.com/i/web/status/2071736824058589217"
     },
     {
       "type": "x",
-      "text": "@uBF2fV1cVQxRjQo It\u2019s HAARP not UFO.",
+      "text": "#auspol #qldpol One of these images is completely absurd, untrue, and cannot possibly be believed by any human being over the age of 5. The other is actual footage of the abominable snowman or \u2018Yeti\u2019 ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071719960489898240"
+      "url": "https://x.com/i/web/status/2071736805607854453"
     },
     {
       "type": "x",
-      "text": "UFO NEWS ~ All the details you need to know about the first Disclosure Foundation forum on Capitol Hill, where lawmakers pushed UFO whistleblower immunity, revived the UAP Disclosure Act, and surfaced",
+      "text": "Exclusive: Hear UAP Science Advisory Council Chairman Avi Loeb and Director of the Office of Science and Technology Policy Hal Puthoff speak at the Disclosure Foundation Forum in Washington, D.C. http",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071719863140385177"
+      "url": "https://x.com/i/web/status/2071736501776400492"
     },
     {
       "type": "x",
-      "text": "The Truth About the Disappearance of Malaysia Airlines Flight 370   They say this is the video    On March 8, 2014, it vanished from radar,   And even now, Malaysia Airlines Flight 370 has never been ",
+      "text": "@3Awesomenessx15 It's to symbolise Geno being Dark Voyager's Master.  The Imagined Order logo spray representing Geno and the UFO spray representing Dark Voyager.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071719819486085218"
+      "url": "https://x.com/i/web/status/2071736478481121333"
+    },
+    {
+      "type": "x",
+      "text": "Tom DeLonge seriously suggested back in 2020 that aliens may have been present at the birth of Jesus Christ, and that the Star of Bethlehem might not have been a star at all, but a UFO or some kind of",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071736194560376945"
     },
     {
       "type": "swpc",
@@ -1111,6 +1172,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-06-29T23:33:29.462382Z",
+      "score": 28.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.1
     }
   ],
   "sources": [
