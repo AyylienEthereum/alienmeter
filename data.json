@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-29T14:06:20.661516Z",
-  "score": 26.1,
+  "generated_at": "2026-06-29T17:12:36.219981Z",
+  "score": 27.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.6,
-    "d24h": -4.3,
+    "d1h": -1.7,
+    "d24h": -6.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "14:06",
+    "generated_utc": "17:12",
     "top_drivers": [
-      "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office \u2013 Butler Eagle",
       "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
@@ -42,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.5,
-    "baseline_recent": 25.4,
+    "live_signal": 17.8,
+    "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -44.058695892023096,
     "x_last_hour": 129,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office \u2013 Butler Eagle",
-      "source": "butlereagle.com",
-      "url": "https://www.butlereagle.com/20260629/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box-office/"
-    },
-    {
-      "type": "news",
-      "text": " \u201e \u0421\u0443\u043f\u0435\u0440\u0433\u044a\u0440\u043b  \u043d\u0435 \u0443\u0441\u043f\u044f \u0434\u0430 \u043d\u0430\u0434\u0432\u0438\u0435 \u201e \u0418\u0433\u0440\u0430\u0442\u0430 \u043d\u0430 \u0438\u0433\u0440\u0430\u0447\u043a\u0438\u0442\u0435 5  \u0432 \u0431\u043e\u043a\u0441\u043e\u0444\u0438\u0441\u0430",
-      "source": "investor.bg",
-      "url": "https://www.investor.bg/a/555-izkustvo-i-kultura/432778-supergarl-ne-uspya-da-nadvie-igrata-na-igrachkite-5-v-boksofisa"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=otavl2bpufllcrqjp863l4dh41"
-    },
-    {
-      "type": "news",
-      "text": "Carneiro desafia Governo a fazer  invers\u00e3o de marcha  e acusa - o de  manobras ideol\u00f3gicas  com o Chega",
-      "source": "dn.pt",
-      "url": "https://www.dn.pt/pol%C3%ADtica/carneiro-desafia-governo-a-fazer-inverso-de-marcha-e-acusa-o-de-manobras-ideolgicas-com-o-chega"
-    },
-    {
-      "type": "news",
-      "text": "  Extraterrestrial Arms Race Underway : Russia and China Scramble to Reverse - Engineer Crashed Alien Spaceships",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/extraterrestrial-arms-race-russia-china-1805660"
-    },
-    {
-      "type": "news",
-      "text": "Ju\u00e1rez y su Laberinto del Quinto Sol",
-      "source": "diario.mx",
-      "url": "https://diario.mx/opinion/2026/jun/28/juarez-y-su-laberinto-del-quinto-sol-1125096.html"
-    },
-    {
-      "type": "news",
-      "text": "Uri Geller believes science can explain existence of ghosts",
-      "source": "femalefirst.co.uk",
-      "url": "http://www.femalefirst.co.uk/bizarre/uri-geller-believes-science-can-explain-existence-ghosts-1446683.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO - J\u00e4ger Hans - Werner Peiniger : \u201e Jeden zweiten Tag eine Meldung  ",
-      "source": "express.de",
-      "url": "https://www.express.de:443/panorama/ufo-jaeger-hans-werner-peiniger-jeden-zweiten-tag-eine-meldung-1313830"
-    },
-    {
-      "type": "news",
-      "text": "Williams races to podium finish at Paris Diamond League",
-      "source": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/06/29/williams-races-podium-finish-paris-diamond-league/"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico campus security guard lawsuit claims he was forced from job for Charlie Kirk post",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/news/local_news/new-mexico-campus-security-guards-lawsuit-claims-he-was-forced-from-job-for-charlie-kirk/article_93af1160-dad5-42ea-a06c-0c015170650b.html"
+      "type": "x",
+      "text": "Tell me what are these if not a UFO - 44 https://t.co/c5z1tzOr45",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071642871074336862"
     },
     {
       "type": "x",
-      "text": "Steven Greer says Lue Elizondo has been appointed to the National Security Council staff to work on the UFO topic.  Is this the position Ross Coulthart was referring to? \ud83d\ude33 https://t.co/U8GeBjL0QN",
+      "text": "@The_Astral_ I feel bad for the people on UFO x who engage their entire life into this. It\u2019s a crazy world out there.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595745979834658"
+      "url": "https://x.com/i/web/status/2071642581717725197"
     },
     {
       "type": "x",
-      "text": "@NiecyOKeeffe This should be included with the next UFO release. Definitely some kinda spacers involved there.",
+      "text": "Tell me what are these if not a UFO - 43 https://t.co/KxYz0yF5k7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595741823287524"
+      "url": "https://x.com/i/web/status/2071642468437930147"
     },
     {
       "type": "x",
-      "text": "@TheProjectUnity @UAPGERB @rosscoulthart Jay - I\u2019m curious to hear your take on what you think Elizondo\u2019s exact purpose has been since 2017.  Is it just pure misinfo and disinfo to confuse and splinte",
+      "text": "@TruthTrumpPost The most important event of World History will be when you come out will full disclosure about UAP. Be the best president there ever was and tell the world. Be a Great President.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595649439502524"
+      "url": "https://x.com/i/web/status/2071642244008800502"
     },
     {
       "type": "x",
-      "text": "@FolkBestiary Aren\u2019t those some interesting markings on that ufo.",
+      "text": "Did a giant jellyfish UFO bring down an American fighter jet? - YouTube https://t.co/pBlswjXxHO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595119187210441"
+      "url": "https://x.com/i/web/status/2071642016476287282"
     },
     {
       "type": "x",
-      "text": "Ufology-Parapsychology: 16 ALIEN ABDUCTION &amp; UFO Cases &amp; Signs You've Been Abducted! https://t.co/9bhRkkvk9i via @YouTube",
+      "text": "@GallaudetTim @CNN @CNNSitRoom @wolfblitzer @PamelaBrownCNN You guys don't even try to hide it, this whole bullshit UFO endeavor is for clicks and cash",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595029550780853"
-    },
-    {
-      "type": "x",
-      "text": "I\u2019ll willing to consider your starting thesis so now let\u2019s flesh it out :  what misinformation and or disinformation about UAP has Elizondo spread?  Be as precise and specific as you can. https://t.co",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071595012656177252"
+      "url": "https://x.com/i/web/status/2071642009773695465"
     },
     {
       "type": "swpc",
@@ -1144,6 +1083,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.5
+    },
+    {
+      "ts": "2026-06-29T17:12:36.145140Z",
+      "score": 27.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.8
     }
   ],
   "sources": [
