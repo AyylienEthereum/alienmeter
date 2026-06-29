@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-29T05:10:29.638278Z",
-  "score": 28.5,
+  "generated_at": "2026-06-29T09:58:34.773142Z",
+  "score": 25.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": -0.3,
+    "d1h": 0.3,
+    "d24h": -5.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.5,
+    "social_chatter": 4.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "05:10",
+    "generated_utc": "09:58",
     "top_drivers": [
-      "Secret UFO tape discovered after 70 years may reveal hidden details about  Invasion of Washington  ",
-      "X/Twitter chatter: 111 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
@@ -42,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.5,
+    "live_signal": 16.1,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +49,7 @@
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 111,
+    "x_last_hour": 78,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Secret UFO tape discovered after 70 years may reveal hidden details about  Invasion of Washington  ",
-      "source": "thenews.com.pk",
-      "url": "https://www.thenews.com.pk/latest/1407474-secret-ufo-tape-discovered-after-70-years-may-reveal-hidden-details-about-invasion-of-washington"
-    },
-    {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "mymotherlode.com",
-      "url": "https://mymotherlode.com/entertainment/10959326/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box-office.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n3nchescd9u9l580k7jvmksq73"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2jqu8ud5g4gbcvljmhrbd794s7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=aclks76cb5u6cfn5pqn860j7u0"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g44jktfte2814n9ickcv8etb16"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9qst432ohq825gfkvscpc4b2o7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ho9rk2fvs24j8u5q0e4o7e7427"
-    },
-    {
-      "type": "news",
-      "text": "  Supergirl  no match for  Toy Story 5  at box office",
-      "source": "cp24.com",
-      "url": "https://www.cp24.com/news/entertainment/2026/06/28/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box-office/"
-    },
-    {
-      "type": "news",
-      "text": "  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "chicagotribune.com",
-      "url": "https://www.chicagotribune.com/2026/06/28/toy-story-5-box-office/"
+      "type": "x",
+      "text": "Experts claim there's a secret tape of 'Invasion of Washington' UFO meeting -- and public will soon hear it https://t.co/Y8KqQBb7ka",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071533619387269333"
     },
     {
       "type": "x",
-      "text": "US astronaut on seeing a UFO fleet, landing footage &amp; sending letter to ... https://t.co/1I47IzJ4yI via @YouTube",
+      "text": "\ud83c\udf0d Listen via Radio  UFO Radio FM 92.1  Chen Shan Mei Radio (Taichung) FM 89.9  Voice of Southern Taiwan FM 103.9 \ud83c\udf0d UFO Radio Online Streaming App  iOS \ud83d\udc49 https://t.co/MCWCCA8kUc  Android \ud83d\udc49 https://t.co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071461203747258650"
+      "url": "https://x.com/i/web/status/2071533601582350789"
     },
     {
       "type": "x",
-      "text": "@prairiebanana It'll be good to see updates. When does the new UFO contract go live? Also do you stream on YouTube? Need a summary for the long video lol \ud83d\ude04",
+      "text": "UFO Day brings spooky family fun to Buckhannon https://t.co/2Cvlfz039A",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071461198189736173"
+      "url": "https://x.com/i/web/status/2071533550340558963"
     },
     {
       "type": "x",
-      "text": "@FantasticMrFaux @un1versalist A documentary called The Age of Disclosure just dropped. It interviews a bunch of ex-government and military people who say the US hid alien craft and bodies for decades",
+      "text": "Another anomaly of the world.  #1203 Periodic Silent Luminous Aerial Object Appearance and Local Environmental Transformation Incident in the Rila Mountains, Bulgaria  In the early hours of April 12, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071460921944228094"
+      "url": "https://x.com/i/web/status/2071533483294589327"
     },
     {
       "type": "x",
-      "text": "The Epstein coverup/Iran distraction war/UFO files and Mossad/CIA psyops didn't work, so now they want to keep running cover for the whole global elite Epstein class by accelerating America's turning ",
+      "text": "@strawluvrant hovering ufo readyy ka!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071460711193075763"
+      "url": "https://x.com/i/web/status/2071533474100711847"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d Episode 3 drops Wednesday! We\u2019re diving into the world of alien encounters, from Nordic Aliens to other mysterious visitors, and asking what these stories could really mean. \u2615 Link in bio. #CryptidC",
+      "text": "Declassified Pentagon UFO files detail mysterious 1947 incident in West Rindge | New Hampshire Public Radio https://t.co/ECkb8A80aV",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071460643488579671"
-    },
-    {
-      "type": "x",
-      "text": "My 2021 tweet.  Lue in 2021:  \"In front of my wife, [Clapper] said, 'Look, I'm really glad, Lue, you were doing this. I'm really glad you had a UFO program, it's something that we should have done.'\" ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071460439540838477"
+      "url": "https://x.com/i/web/status/2071533434569453674"
     },
     {
       "type": "swpc",
@@ -1136,6 +1075,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.5
+    },
+    {
+      "ts": "2026-06-29T09:58:34.699444Z",
+      "score": 25.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.1
     }
   ],
   "sources": [
