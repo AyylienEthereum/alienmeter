@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-06-28T23:09:41.305512Z",
-  "score": 27.7,
+  "generated_at": "2026-06-29T00:19:20.175084Z",
+  "score": 28.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.0,
-    "d24h": -6.4,
+    "d1h": -0.7,
+    "d24h": -9.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.7,
+    "social_chatter": 8.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 0.0,
+    "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.3
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 14,
-    "day": 14,
-    "date": "28.06.2026",
-    "declassified": "28.06.26",
-    "generated_utc": "23:09",
+    "number": 15,
+    "day": 15,
+    "date": "29.06.2026",
+    "declassified": "29.06.26",
+    "generated_utc": "00:19",
     "top_drivers": [
-      "X/Twitter chatter: 130 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 142 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
-      "NEO (2015 VH66) passing Earth at 61.0 lunar distances"
+      "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.4,
+    "live_signal": 19.9,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 61.0134132523,
-    "asteroid_name": "(2015 VH66)",
+    "closest_asteroid_ld": 37.5552617377,
+    "asteroid_name": "(2005 NE21)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 130,
-    "wiki_spike_pct": -24.47964357874322,
+    "x_last_hour": 142,
+    "wiki_spike_pct": -24.870466321243523,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@Aikya09728080 @Real_JFK_Jr_ No, not real.   That's modern CGI of a fictional alien (with Spanish/English subs), not declassified Project Blue Book footage or any military interview.   Official Blue B",
+      "text": "@Alladdin1983 Is there a reason for the UFO/Sasquatch quality of the video?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370312877252796"
+      "url": "https://x.com/i/web/status/2071387942853963952"
     },
     {
       "type": "x",
-      "text": "I just got some documents from a unknown   Its some kind of wireless data network beyond nano tech   It looks like technology taken from the Roswell crash on how particles interact on the haul of a UF",
+      "text": "@Ne_c_he @Leooweb3 @gemsentry $CONTACT keeps evolving. \ud83d\ude80 Strong community. Active roadmap. Team building every day. The experiment continues. \ud83d\udc7d\ud83d\udc9a  CA: GkDYHiWxdkWXEJ3nGVyhFqQtYTqp4ggfQKqWpWpLpump  Tele",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370262105165996"
+      "url": "https://x.com/i/web/status/2071387832988700818"
     },
     {
       "type": "x",
-      "text": "Experts claim there's a secret tape of 'Invasion of Washington' UFO meeting - and public will soon hear it https://t.co/OTQBo6s66v https://t.co/MJFSWR81sV",
+      "text": "@AshtonForbes \ud83c\udfaf still waiting for that high definition, video and pictures of these UFO craft Elizondo!  He is such a fraud! Shove that national security up your rectum!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370137530232853"
+      "url": "https://x.com/i/web/status/2071387729724649974"
     },
     {
       "type": "x",
-      "text": "@MichaelSalla George Adamski, a prominent 1950s UFO contactee, claimed to have encountered benevolent, human like ETs from Venus, Mars, and Saturn, whom he dubbed the Space Brothers.",
+      "text": "@Leooweb3 $CONTACT keeps evolving. \ud83d\ude80 Strong community. Active roadmap. Team building every day. The experiment continues. \ud83d\udc7d\ud83d\udc9a  CA: GkDYHiWxdkWXEJ3nGVyhFqQtYTqp4ggfQKqWpWpLpump  Telegram: https://t.co/C",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370111659749441"
+      "url": "https://x.com/i/web/status/2071387657494724896"
     },
     {
       "type": "x",
-      "text": "@PIXLFETISH DUDE i remember wanting to get the ufo ending so bad so i could use the light saber but i zoned out on one part and missed my chance and it annoyed me so bad i gave up",
+      "text": "@richgel999 Essentially isn\u2019t actually, though.  I\u2019m just so tired of the secrecy and I\u2019ve grown to hate everyone who presently or has in the past worked on the UFO program.  They\u2019re all bad people un",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370052071555094"
+      "url": "https://x.com/i/web/status/2071387431010460037"
     },
     {
       "type": "x",
-      "text": "@RedPandaKoala But I\u2019ve heard you use that term \u201cshaping the narrative\u201d since time immemorial.  I simply aim to know what you think Elizondo has been harping on that is such a bold departure from UFO ",
+      "text": "THE HEMP TEMPLE REVERER \u2014 \"The Camo-Weave of Waters and Thunder\"  We build a living temple of hemp, woven with reverting intakes that turn thunder into dew, rivers into drains, and rains into coherent",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071370032228016599"
+      "url": "https://x.com/i/web/status/2071387372000780788"
     },
     {
       "type": "swpc",
@@ -106,7 +106,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2015 VH66) passing at 61.01 LD (~586m, 25.6 km/s)",
+      "text": "NEO (2005 NE21) passing at 37.56 LD (~336m, 11.2 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -1061,6 +1061,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.4
+    },
+    {
+      "ts": "2026-06-29T00:19:20.099806Z",
+      "score": 28.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.9
     }
   ],
   "sources": [
