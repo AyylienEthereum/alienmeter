@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T21:07:17.221182Z",
-  "score": 25.1,
+  "generated_at": "2026-06-29T22:20:13.717208Z",
+  "score": 27.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.7,
-    "d24h": -8.0,
+    "d1h": 1.7,
+    "d24h": -6.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.9,
+    "social_chatter": 7.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.2
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "21:07",
+    "generated_utc": "22:20",
     "top_drivers": [
-      "PS atr\u00e1s dos desiludidos e a pedir  invers\u00e3o de marcha  \u00e0 AD \u2013 Observador",
-      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 123 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.3,
-    "baseline_recent": 25.3,
+    "live_signal": 18.9,
+    "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 117,
+    "x_last_hour": 123,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "PS atr\u00e1s dos desiludidos e a pedir  invers\u00e3o de marcha  \u00e0 AD \u2013 Observador",
-      "source": "observador.pt",
-      "url": "https://observador.pt/2026/06/29/ps-tenta-recuperar-desiludidos-sem-pressa-e-estende-a-mao-ao-psd-invertam-a-marcha/"
-    },
-    {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "newsday.com",
-      "url": "https://www.newsday.com/entertainment/supergirl-toy-story-5-box-office-k13969"
-    },
-    {
-      "type": "news",
-      "text": "Hay un platillo volante navegando por un r\u00edo de Vietnam . Lo ha construido un youtuber en su patio con arena , chatarra y fibra de vidrio",
-      "source": "xataka.com",
-      "url": "https://www.xataka.com/movilidad/hay-platillo-volante-navegando-rio-vietnam-ha-construido-youtuber-su-patio-arena-chatarra-fibra-vidrio"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1no7kcnnjknto368kh99sepkn7"
-    },
-    {
-      "type": "news",
-      "text": "Santos Silva :  H\u00e1 um pecado original na forma de governar  \u2013 Observador",
-      "source": "observador.pt",
-      "url": "https://observador.pt/programas/explicador/santos-silva-ha-um-pecado-original-na-forma-de-governar/"
-    },
-    {
-      "type": "news",
-      "text": "New Era Energy & Digital ( NASDAQ : NUAI ) Shares Down 6 . 8 % \u2013 What Next ? ",
-      "source": "tickerreport.com",
-      "url": "https://www.tickerreport.com/banking-finance/13489684/new-era-energy-digital-nasdaqnuai-shares-down-6-8-whats-next.html"
-    },
-    {
-      "type": "news",
-      "text": "Brace for a blast Canada Day in Sault Ste . Marie",
-      "source": "saultstar.com",
-      "url": "https://www.saultstar.com:443/news/brace-for-a-blast-canada-day"
-    },
-    {
-      "type": "news",
-      "text": "Brace for a blast Canada Day in Sault Ste . Marie",
-      "source": "northernnews.ca",
-      "url": "https://www.northernnews.ca:443/news/brace-for-a-blast-canada-day"
-    },
-    {
-      "type": "news",
-      "text": "Indie Films Are Turning to Roadshow Releases When Distribution Fails",
-      "source": "indiewire.com",
-      "url": "https://www.indiewire.com/news/business/indie-films-roadshow-releases-distribution-1235202133/"
-    },
-    {
-      "type": "news",
-      "text": "In blow to DC Studios ,  Supergirl  is no match for  Toy Story 5  at box office",
-      "source": "mvariety.com",
-      "url": "https://www.mvariety.com/lifestyle/in-blow-to-dc-studios-supergirl-is-no-match-for-toy-story-5-at-box-office/article_ddc2b68e-e879-48ed-b368-4c716ef26780.html"
+      "type": "x",
+      "text": "@PapiTrumpo Please consider filming Commander Ashtar shooting a belt-fed machine gun at watermelons, cantaloupes, and honeydew melons for the DOW UAP files.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071720298001424659"
     },
     {
       "type": "x",
-      "text": "@Jenny_1884 The UFO conversation going in the USA, you might want to start paying attention.  The world is not a normal place. https://t.co/aUQqvysRi7",
+      "text": "@virtuallyself sucks u have a ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701981744222372"
+      "url": "https://x.com/i/web/status/2071720167772434441"
     },
     {
       "type": "x",
-      "text": "The strange story of Mantell UFO incident, in 60 seconds.  An Air Force Captain Died Chasing This Object YT: @WitnessArchives [AI-narrated] https://t.co/XkBLBQiDoz",
+      "text": "@cryptofergani You're completely sleeping on the UFO phenomena and the alien show that comes after it \ud83d\ude34  I shall keep reminding you till the day you finally respond, either tell me shut up or become i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701934336004259"
+      "url": "https://x.com/i/web/status/2071720048444518833"
     },
     {
       "type": "x",
-      "text": "@MPSebar @elon Groovy interstellar soul! \"Do The Flying Saucer\" nails that 1967 Motor City swing with alien dance moves and zero abductions. Perfect soundtrack for the current UFO buzz. AI Northern So",
+      "text": "@uBF2fV1cVQxRjQo It\u2019s HAARP not UFO.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701656819872254"
+      "url": "https://x.com/i/web/status/2071719960489898240"
     },
     {
       "type": "x",
-      "text": "DoD Memories 2008: There is a long history of near-space communication balloons being reported as \"UFOs\". Platforms like SkySat float at altitudes double that of airliners, reflect sunlight intensely ",
+      "text": "UFO NEWS ~ All the details you need to know about the first Disclosure Foundation forum on Capitol Hill, where lawmakers pushed UFO whistleblower immunity, revived the UAP Disclosure Act, and surfaced",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701641942765912"
+      "url": "https://x.com/i/web/status/2071719863140385177"
     },
     {
       "type": "x",
-      "text": "@RedPandaKoala @KermDawgENT My impression is that the term was created to seperate   the efforts by AAWSAP/AATIP and the notion of posited earlier DoD UFO programs (the legacy ones) that AAWSAP was in",
+      "text": "The Truth About the Disappearance of Malaysia Airlines Flight 370   They say this is the video    On March 8, 2014, it vanished from radar,   And even now, Malaysia Airlines Flight 370 has never been ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701476871647303"
-    },
-    {
-      "type": "x",
-      "text": "@Orbiter_Finance Having the infrastructure ready so we, UFO Pilots, can fly in and out of those warp-gates before everyone else  @Orbiter_Finance knows how to play the cross-chain game. Right place, r",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071701300098617494"
+      "url": "https://x.com/i/web/status/2071719819486085218"
     },
     {
       "type": "swpc",
@@ -1165,6 +1104,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.3
+    },
+    {
+      "ts": "2026-06-29T22:20:13.643976Z",
+      "score": 27.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
