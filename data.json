@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-29T17:12:36.219981Z",
-  "score": 27.1,
+  "generated_at": "2026-06-29T19:15:25.109060Z",
+  "score": 30.2,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -1.7,
-    "d24h": -6.9,
+    "d1h": 1.7,
+    "d24h": -5.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.6,
+    "social_chatter": 10.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 15,
     "date": "29.06.2026",
     "declassified": "29.06.26",
-    "generated_utc": "17:12",
+    "generated_utc": "19:15",
     "top_drivers": [
-      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 180 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2005 NE21) passing Earth at 37.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.8,
+    "live_signal": 21.8,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 37.5552617377,
     "asteroid_name": "(2005 NE21)",
-    "gdelt_spike_pct": -44.058695892023096,
-    "x_last_hour": 129,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 180,
     "wiki_spike_pct": -19.38165193979148,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Tell me what are these if not a UFO - 44 https://t.co/c5z1tzOr45",
+      "text": "@UAPWatchers @DawnDawny23 @UAPWATCHER I think there's a lot to see out in space, on Earth, on Mars etc. More than we get to see. The UAP videos from the US government are nice, but just the tip of the",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642871074336862"
+      "url": "https://x.com/i/web/status/2071673821304705360"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ I feel bad for the people on UFO x who engage their entire life into this. It\u2019s a crazy world out there.",
+      "text": "@Dan_Furman No to UFO. Terrible. UCF is fine and not that confusing.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642581717725197"
+      "url": "https://x.com/i/web/status/2071673754774601996"
     },
     {
       "type": "x",
-      "text": "Tell me what are these if not a UFO - 43 https://t.co/KxYz0yF5k7",
+      "text": "New episode just dropped. Covering the civilian witnesses' stories of the Rendlesham UFO.  https://t.co/THTXbN9ili",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642468437930147"
+      "url": "https://x.com/i/web/status/2071673669416337902"
     },
     {
       "type": "x",
-      "text": "@TruthTrumpPost The most important event of World History will be when you come out will full disclosure about UAP. Be the best president there ever was and tell the world. Be a Great President.",
+      "text": "@grok can you take the sparkle from the top of the ufo in the first picture and add it to the same spot on the second picture https://t.co/SAAzxJyYjB",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642244008800502"
+      "url": "https://x.com/i/web/status/2071673646297612547"
     },
     {
       "type": "x",
-      "text": "Did a giant jellyfish UFO bring down an American fighter jet? - YouTube https://t.co/pBlswjXxHO",
+      "text": "$UFO Procure Space ETF isn\u2019t just rockets and defense. It\u2019s also names like $SIDU @Sidus Space which focuses on a more integrated approach: combining hardware, space-based data, and AI-driven analytic",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642016476287282"
+      "url": "https://x.com/i/web/status/2071673555813810343"
     },
     {
       "type": "x",
-      "text": "@GallaudetTim @CNN @CNNSitRoom @wolfblitzer @PamelaBrownCNN You guys don't even try to hide it, this whole bullshit UFO endeavor is for clicks and cash",
+      "text": "@ArcyloOfficial @NatureUnedited Does the ufo have beer on tap?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071642009773695465"
+      "url": "https://x.com/i/web/status/2071672943717875830"
     },
     {
       "type": "swpc",
@@ -1090,6 +1090,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.8
+    },
+    {
+      "ts": "2026-06-29T19:15:25.039128Z",
+      "score": 30.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.8
     }
   ],
   "sources": [
