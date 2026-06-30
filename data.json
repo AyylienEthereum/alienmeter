@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T20:27:30.573165Z",
-  "score": 38.1,
+  "generated_at": "2026-06-30T21:55:43.536811Z",
+  "score": 35.2,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,13 +10,13 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 10.1,
-    "d24h": 11.8,
+    "d1h": -0.2,
+    "d24h": 3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 3.5,
-    "social_chatter": 12.0,
+    "news_velocity": 0.0,
+    "social_chatter": 11.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
@@ -31,83 +31,82 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "20:27",
+    "generated_utc": "21:55",
     "top_drivers": [
-      "News velocity +15% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 217 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 10",
+      "X/Twitter chatter: 195 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 16",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.1,
+    "live_signal": 28.3,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": 14.722481680765146,
-    "x_last_hour": 217,
+    "gdelt_spike_pct": -78.60948357181766,
+    "x_last_hour": 195,
     "wiki_spike_pct": -23.453220909809694,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 10
+    "swpc_alerts_24h": 16
   },
   "ticker": [
     {
       "type": "x",
-      "text": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | Nati... https://t.co/CDCLhWNvDk via @YouTube https://t.co/3rQZhTqOg3",
+      "text": "@BenjaminHorva13 @GoldBoxRPGGuy @TheUfoJoe @lesliekean @jaketapper Considering that is itself the NHI and UFO disclosure everyone is waiting for, we all do. Presumably we wouldn't hear it from them, b",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072054306639876176"
+      "url": "https://x.com/i/web/status/2072076467551310183"
     },
     {
       "type": "x",
-      "text": "UFO Whistleblower: The Files They Never Released | Hang Out with Sean Hannity Luis Elizondo and Tim Burchett... https://t.co/5c35UMRd4F via CC: @RepEricBurlison  @thomaslfessler",
+      "text": "@TheUfoJoe So it is ok for him to say that ufo Crash Retrieval programs exist ?  So he is not breaking his NDA, by just acknowledging that ufo Crash Retrieval Programs exist ?  \ud83e\udd14",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072054228038652284"
+      "url": "https://x.com/i/web/status/2072076373527593444"
     },
     {
       "type": "x",
-      "text": "@benstreeet My UFO enthusiast friends are talking about going back to polaroids for photo evidence.  \ud83e\udd14",
+      "text": "\ud83e\udde0 ALIEN FACT: On Aug 15, 1977, a radio telescope picked up a 72-second signal from deep space so strong an astronomer circled it and wrote \"Wow!\" on the printout. It has never been explained or heard ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072054217716486355"
+      "url": "https://x.com/i/web/status/2072076199765962836"
     },
     {
       "type": "x",
-      "text": "@SaraBondink @RepEricBurlison \ud83e\udd29\ud83d\udc4d Yes.  We need to get to SEE,  the UFO Crash Retrieval Programs  and Reverse Engineering programs !",
+      "text": "\ud83d\udea8 The Pentagon just released its 3rd batch of UFO files \u2014 and it's full of unexplained \"mysterious orb\" sightings. No alien confirmation, but no explanation either. The files are public. The questions",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072054097537069393"
+      "url": "https://x.com/i/web/status/2072076133579764160"
     },
     {
       "type": "x",
-      "text": "Michael Cera is GG Allin.  Woody Allen directing. Pam Bondi &amp; Steve Buscemi in the cast.  This is the most unhinged UFO Studios biopic yet.  First look + leaked set footage \ud83d\udc47 https://t.co/6eUGpZMR",
+      "text": "@richgel999 \"The best\" remember can tell all the current released evidence is birds / balloons / drones etc none of them look like something non-human in technology.  The recent UAP releases is making",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072054067845853529"
+      "url": "https://x.com/i/web/status/2072076056274575630"
     },
     {
       "type": "x",
-      "text": "@ShaneFrakes Id be happy to send you a copy of mine.    \u201cThey Say\u201d think Clancey or Jack Carr with UAP Mixed in.    Warning Orbit is first person, salty language &amp; Military humor. https://t.co/ar3",
+      "text": "So um.. I set up a tv in the ufo for the numbers to watch cartoons on it!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072053958344921331"
+      "url": "https://x.com/i/web/status/2072075919305449742"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2244\r Issue Time: 2026 Jun 30 1943 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
+      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 712\r Issue Time: 2026 Jun 30 2109 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5372\r Issue Time: 2026 Jun 30 1946 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1508\r Issue Time: 2026 Jun 30 2107 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2669\r Issue Time: 2026 Jun 30 1711 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 919\r Issue Time: 2026 Jun 30 2106 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jun ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1187,6 +1186,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.1
+    },
+    {
+      "ts": "2026-06-30T21:55:43.462886Z",
+      "score": 35.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.3
     }
   ],
   "sources": [
