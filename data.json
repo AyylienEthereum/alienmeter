@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T16:35:47.768975Z",
-  "score": 35.1,
+  "generated_at": "2026-06-30T18:24:08.252104Z",
+  "score": 37.0,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 6.8,
-    "d24h": 9.2,
+    "d1h": -5.4,
+    "d24h": 7.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.9,
+    "social_chatter": 11.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.6
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "16:35",
+    "generated_utc": "18:24",
     "top_drivers": [
-      "\u0427\u0435\u043c \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u0431\u044b\u043b \u0422\u0443\u043d\u0433\u0443\u0441\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0435\u043e\u0440\u0438\u0442",
-      "X/Twitter chatter: 182 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 6",
+      "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "X/Twitter chatter: 190 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 8",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.3,
+    "live_signal": 30.7,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -50,124 +50,124 @@
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 182,
-    "wiki_spike_pct": -23.453220909809694,
+    "x_last_hour": 190,
+    "wiki_spike_pct": -22.865873524862554,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 8
   },
   "ticker": [
     {
       "type": "news",
-      "text": "\u0427\u0435\u043c \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u0431\u044b\u043b \u0422\u0443\u043d\u0433\u0443\u0441\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0435\u043e\u0440\u0438\u0442",
-      "source": "info.sibnet.ru",
-      "url": "https://info.sibnet.ru/article/698753/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=fc4d9fd6-cf73-75f8-3404-a03b9a8dd5bd"
     },
     {
       "type": "news",
-      "text": "At the Disclosure Forum with Anna Paulina Luna and a Room Full of UFO Enthusiasts",
-      "source": "vanityfair.com",
-      "url": "https://www.vanityfair.com/story/disclosure-forum-uap-capitol-hill"
+      "text": "26 Maine Towns With The Most Reported UFO Sightings",
+      "source": "wcyy.com",
+      "url": "https://wcyy.com/maine-towns-ufo-aliens-sightings-2026/"
     },
     {
       "type": "news",
-      "text": "White teacher gets new life for race discrimination suit",
-      "source": "cities929.com",
-      "url": "https://www.cities929.com/2026/06/29/white-teacher-gets-new-life-for-race-discrimination-suit/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=12a6ec3f-ffb6-f5a6-e4de-61846b03f7ca"
     },
     {
       "type": "news",
-      "text": "Napoli ecco la prima uscita | confermato incontro tra Manna e il club di Serie A",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-06-30/napoli-ecco-la-prima-uscita-confermato-incontro-tra-manna-e-il-club-di-serie-a/19406648/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=84070514-9dda-e8bb-69db-ca2a8fee82df"
     },
     {
       "type": "news",
-      "text": "Els sanitaris que lluiten per les persones sense llar del barri m\u00e9s pobre de Palma :  Persones amb feina dormen entre cartrons  ",
-      "source": "eldiario.es",
-      "url": "https://www.eldiario.es/illes-balears/cat/els-sanitaris-lluiten-per-les-persones-sense-llar-barri-mes-pobre-palma-persones-amb-feina-dormen-cartrons_1_13343744.html"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c5f15974-f17b-0b9d-6ff0-1efad0f1a2c7"
     },
     {
       "type": "news",
-      "text": "Hyperspecific : Electronic Music for June Reviewed by Ja\u0161a Bu\u017einel",
-      "source": "thequietus.com",
-      "url": "https://thequietus.com/quietus-reviews/electronic/electroncic-music-review-techno-ai-lifted-jonas-gruska-el-ponto/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=f500eb1c-99a0-be99-2ab1-052fa52498bd"
     },
     {
       "type": "news",
-      "text": "12 Famous Car Designers Every Gearhead Should Know",
-      "source": "jalopnik.com",
-      "url": "https://www.jalopnik.com/2203063/famous-car-designers-every-gearhead-should-know/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=e8953b00-5399-2dcf-d1f7-e06c2c8682bc"
     },
     {
       "type": "news",
-      "text": "Spielberg new alien film is hopeful and human - Lifestyle",
-      "source": "namibian.com.na",
-      "url": "https://www.namibian.com.na/spielbergs-new-alien-film-is-hopeful-and-human/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c3345668-24b8-5c6e-631b-959fae991c94"
     },
     {
       "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m1r23kc7r85f8iairb73uop974"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=947e0fcf-cc46-bb18-5c5f-16bc55f98bb3"
     },
     {
       "type": "news",
-      "text": "Memory of Princess Mumbi , de Damien Hauser",
-      "source": "africultures.com",
-      "url": "https://africultures.com/memory-of-princess-mumbi-de-damien-hauser-16792/"
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=643e3958-e065-6a3a-2cc0-674a4b34ce1d"
     },
     {
       "type": "x",
-      "text": "@TheProjectUnity What\u2019s even crazier, he\u2019s former DNI and still trying to prevent UFO disclosure from happening\u2026. The current DNI needs to have this fuckfqce charged with tampering with witnesses",
+      "text": "Denzel Washington warns we are fighting against supernatural forces superior to us \ud83d\udc7d \ud83d\udc7e  The Hollywood legend says evil powers are influencing the industry from experience \ud83d\udfe5 \ud83e\ude78  #UAP #UFO #Disclosure ht",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995964882047336"
+      "url": "https://x.com/i/web/status/2072023258602369234"
     },
     {
       "type": "x",
-      "text": "Not going to the Roswell UFO festival this week?  Then come to #Nipclub's UFO pawty this thursday.  The fun starts at 4pm EDT https://t.co/TMdJoV6TGP Pls RT @tjs12145 @psiangelic @tweetingtruman @Slin",
+      "text": "@seanhannity UFO whistleblower files dropping? \ud83d\udc40\ud83d\udef8 This is going to be fascinating. \ud83d\udd25",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995953364496833"
+      "url": "https://x.com/i/web/status/2072023226406801762"
     },
     {
       "type": "x",
-      "text": "Our image and perception of God is wrong. We have been worshipping \u2018one\u2019, not \u2018the many\u2019.... Article: https://t.co/5faQOvXWlV #\ud835\udc1b\ud835\udc22\ud835\udc1b\ud835\udc25\ud835\udc1e #\ud835\udc23\ud835\udc1e\ud835\udc2c\ud835\udc2e\ud835\udc2c #\ud835\udc20\ud835\udc28\ud835\udc1d #\ud835\udc1a\ud835\udc27\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2c #\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2c #\ud835\udc2e\ud835\udc1f\ud835\udc28 #\ud835\udc1e\ud835\udc31\ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1a\ud835\udc25 #\ud835\udc2e\ud835\udc1f\ud835\udc28\ud835\udc2c #co",
+      "text": "@seanhannity New episode on UFO whistleblowers \u2014 and the files they never released. \ud83d\udef8\ud83d\udc40 This is the kind of content that sparks serious curiosity. Can't wait to dive in. \ud83d\udd25",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995879494496473"
+      "url": "https://x.com/i/web/status/2072023192332382356"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP And to think he might be the head of the UFO disclosure committee! He has an NDA and will prevent so much shit form being released\u2026 he\u2019s compromised imo",
+      "text": "@UAPWatchers The French UFO timeline is interesting \ud83e\udd14   \u2022 2007 France becomes the first country to publicly open its UFO archives.  \u2022 Absolutely nothing for 19 years.  \u2022 2026 France has it's first UAP",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995636581310909"
+      "url": "https://x.com/i/web/status/2072023191044620695"
     },
     {
       "type": "x",
-      "text": "Wayyyy ITM now.. $RKLB  $ASTS $UFO https://t.co/s1q0BsUQEF https://t.co/Fa90OiwB64",
+      "text": "We are a sponsor for McMinnville\u2019s UFO Fest, an out-of-this-world festival where we reconnect with old friends and bring new earthling buddies into orbit. \ud83d\udc7d Read more about our partnership with the Mc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995521909281257"
+      "url": "https://x.com/i/web/status/2072023155829330335"
     },
     {
       "type": "x",
-      "text": "Elizondo and Tthe UAP Disclosure Psy-Op https://t.co/pNVGKuSH0x?",
+      "text": "NEW EPISODE: UFO Whistleblower: The Files They Never Released [WATCH]  https://t.co/iav3IdaZbd",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071995505429590109"
+      "url": "https://x.com/i/web/status/2072022919111135493"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2669\r Issue Time: 2026 Jun 30 1711 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARPX1\r Serial Number: 627\r Issue Time: 2026 Jun 30 1636 UTC\r \r CANCEL WARNING: Proton 10MeV Integral Flux above",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARPX1\r Serial Number: 626\r Issue Time: 2026 Jun 30 1600 UTC\r \r WARNING: Proton 10MeV Integral Flux above 10pfu ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 320\r Issue Time: 2026 Jun 30 1340 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 320\r Issue Time: 2026 Jun 30 1332 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1233,6 +1233,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.3
+    },
+    {
+      "ts": "2026-06-30T18:24:08.178575Z",
+      "score": 37.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.7
     }
   ],
   "sources": [
