@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T05:55:49.701610Z",
-  "score": 28.3,
+  "generated_at": "2026-06-30T09:23:20.846957Z",
+  "score": 42.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 3.2,
-    "d24h": -5.3,
+    "d1h": 14.6,
+    "d24h": 17.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 5.7,
+    "news_velocity": 19.0,
+    "social_chatter": 3.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,127 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "05:55",
+    "generated_utc": "09:23",
     "top_drivers": [
-      "X/Twitter chatter: 98 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
-      "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +79% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 66 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.6,
+    "live_signal": 37.7,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 98,
-    "wiki_spike_pct": -19.74798646582497,
+    "gdelt_spike_pct": 79.24933105127401,
+    "x_last_hour": 66,
+    "wiki_spike_pct": -23.453220909809694,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "If Lue Elizondo becomes UAP Czar.   Would you be upset if, from then on, you needed to go through an accredited course with credentials (and peer review) to talk about UAP phenomena?    Otherwise, you",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071834462527144014"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tt8dv7dg7g6fr747gmg1oj3703"
+    },
+    {
+      "type": "news",
+      "text": "Josep Guijarro , uno de los mayores especialistas en fen\u00f3meno OVNI :  Vi algo que me demoli\u00f3 la experiencia  ",
+      "source": "elconfidencial.com",
+      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-06-30/josep-guijarro-mayores-especialistas-ovni-vi-algo-demolio-experiencia-1qrt_4374521/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pcto1760i024ghga6lnpsj68v2"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3nao4eplg8pn65bnpcnlrg3473"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4m30i54mh12421atdian492ea0"
+    },
+    {
+      "type": "news",
+      "text": "\u041c\u0430\u0442\u044c \u0441 \u0434\u043e\u0447\u0435\u0440\u044c\u044e \u043d\u0430\u0448\u043b\u0438 \u043d\u0435\u0447\u0442\u043e \u043d\u0435\u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u043e\u0435",
+      "source": "lenta.ru",
+      "url": "https://lenta.ru/news/2026/06/30/mat-s-docheryu-nashli-nechto-neob-yasnimoe/"
+    },
+    {
+      "type": "news",
+      "text": "Los sanitarios que luchan por los sintecho del barrio m\u00e1s pobre de Palma :  Personas con trabajo duermen entre cartones  ",
+      "source": "eldiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/sanitarios-luchan-sintecho-barrio-pobre-palma-personas-trabajo-duermen-cartones_1_13342510.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=l5aqb3dv8fv33h1s844adprgs1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=s9tkiqttdb3k53h28skip99430"
+    },
+    {
+      "type": "news",
+      "text": "Pixel Scroll 6 / 29 / 26 My Avatar Told Me That I Was Right Out Of My Heads",
+      "source": "file770.com",
+      "url": "https://file770.com/pixel-scroll-6-29-26-my-avatar-told-me/comment-page-1/"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d More real UFO cases on the record:  \ud83d\udef8 Socorro, NM 1964 \u2014 a cop watched it land \ud83d\udd06 Levelland, TX 1957 \u2014 car engines died as it passed \u2708\ufe0f Tehran, Iran 1976 \u2014 jets lost power near the object \ud83c\udf30 Kecksburg",
+      "text": "\u2b55 Rep Anna Paulina Luna.  Comment on Florida UAP Hotspot / Bradenton Sightings.  (Fox News Clip, June 28, 2026) During a Fox News segment at the Great American State Fair (touring Florida\u2019s booth), sh",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071833801659990243"
+      "url": "https://x.com/i/web/status/2071887079299076332"
     },
     {
       "type": "x",
-      "text": "If Lue Elizondo becomes UAP Czar.   Would you be upset if, from then on, you needed to go through an accredited course with credentials (and peer review) to talk about UAP phenomena?    Otherwise, you",
+      "text": "@GrantLavac @LueElizondo Even if technically legal, the idea that the he, as a contractor for the US government monitored civilian UFO enthusiasts\u2014many of whom are merely curious citizens\u2014raises very ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071833588396429338"
+      "url": "https://x.com/i/web/status/2071886999657587070"
     },
     {
       "type": "x",
-      "text": "What is it?  #ufo #brazil #itu #ovini #sunset https://t.co/gYXhVrSU3c",
+      "text": "@khloekir @UAPWatchers I believe they still only investigate them if there were part of a UFO sighting such as a landing.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071833410000314593"
+      "url": "https://x.com/i/web/status/2071886907835814146"
     },
     {
       "type": "x",
-      "text": "\ud83c\udf0d\ud83c\uddfb\ud83c\uddea\ud83d\udef8 A UFO theory has also emerged regarding the earthquake in Venezuela.  According to the claim, several unidentified flying objects were seen in the sky moments before the earthquake, allegedly emi",
+      "text": "The loudest voices aren't always the clearest signals. \ud83d\udce1  $UFO #disclosute #UFO https://t.co/CozCt1U8Qh https://t.co/xeS5gMjFJe",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071833378798854218"
+      "url": "https://x.com/i/web/status/2071886829544976879"
     },
     {
       "type": "x",
-      "text": "\ud83c\udf0d\ud83c\uddfb\ud83c\uddea\ud83d\udef8 A UFO theory has also emerged regarding the earthquake in Venezuela.   According to the claim, several unidentified flying objects were seen in the sky moments before the earthquake, allegedly em",
+      "text": "Crypto trader TJR explains how he made massive multiples during Solana Summer and reveals the strategy that turned thousands into instant 10 to 20x returns  \"was it bitcoin because i know we talked ab",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071833212159193533"
+      "url": "https://x.com/i/web/status/2071886762075410782"
+    },
+    {
+      "type": "x",
+      "text": "@WiserSab32754 Actually- even I forget the connecting of the dots but the sunglasses  \ud83d\ude0e directly related to    The blinding light     I wrote about the blinding light.  It was about UFOs - being able ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071886717494472752"
     },
     {
       "type": "swpc",
@@ -1132,6 +1193,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.6
+    },
+    {
+      "ts": "2026-06-30T09:23:20.773574Z",
+      "score": 42.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 37.7
     }
   ],
   "sources": [
