@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T01:37:17.234821Z",
-  "score": 30.5,
+  "generated_at": "2026-06-30T05:55:49.701610Z",
+  "score": 28.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -1.5,
+    "d1h": 3.2,
+    "d24h": -5.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.4,
+    "social_chatter": 5.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.9
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "01:37",
+    "generated_utc": "05:55",
     "top_drivers": [
-      "X/Twitter chatter: 126 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 98 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.3,
+    "live_signal": 19.6,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 126,
+    "x_last_hour": 98,
     "wiki_spike_pct": -19.74798646582497,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,43 +58,43 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Bruh. I tried catching it on video rn. Just saw a UFO blink hardcore as it was streaking across the sky multiple times and now more are appearing. I'll try to catch as many as possible on video. It's ",
+      "text": "If Lue Elizondo becomes UAP Czar.   Would you be upset if, from then on, you needed to go through an accredited course with credentials (and peer review) to talk about UAP phenomena?    Otherwise, you",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769821134413916"
+      "url": "https://x.com/i/web/status/2071834462527144014"
     },
     {
       "type": "x",
-      "text": "Sorry but I call BS to time-lines. Only people living under a rock are not aware of the current UAP buzz and they probably wouldn't get the disclosure memo, anyway.   The worst outcome for society is ",
+      "text": "\ud83d\udc7d More real UFO cases on the record:  \ud83d\udef8 Socorro, NM 1964 \u2014 a cop watched it land \ud83d\udd06 Levelland, TX 1957 \u2014 car engines died as it passed \u2708\ufe0f Tehran, Iran 1976 \u2014 jets lost power near the object \ud83c\udf30 Kecksburg",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769745033187506"
+      "url": "https://x.com/i/web/status/2071833801659990243"
     },
     {
       "type": "x",
-      "text": "According to a credible source Lou Elizondo will be the official White House UFO/UAP czar. Some people aren\u2019t happy. https://t.co/vZ4XuP95md",
+      "text": "If Lue Elizondo becomes UAP Czar.   Would you be upset if, from then on, you needed to go through an accredited course with credentials (and peer review) to talk about UAP phenomena?    Otherwise, you",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769625071632885"
+      "url": "https://x.com/i/web/status/2071833588396429338"
     },
     {
       "type": "x",
-      "text": "@kellychasemedia As Grand Inquisitor of the UAP Phenomenon, I can assure that my intentions are pure, and I demand you take down this post",
+      "text": "What is it?  #ufo #brazil #itu #ovini #sunset https://t.co/gYXhVrSU3c",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769536794403164"
+      "url": "https://x.com/i/web/status/2071833410000314593"
     },
     {
       "type": "x",
-      "text": "ONLY!! on UFO RadioX. https://t.co/vT59oV8phu #ufotwitter",
+      "text": "\ud83c\udf0d\ud83c\uddfb\ud83c\uddea\ud83d\udef8 A UFO theory has also emerged regarding the earthquake in Venezuela.  According to the claim, several unidentified flying objects were seen in the sky moments before the earthquake, allegedly emi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769310490456356"
+      "url": "https://x.com/i/web/status/2071833378798854218"
     },
     {
       "type": "x",
-      "text": "@historydefined What looks like a modern UFO cult actually followed the ancient pattern of reading signs in the heavens as a call to ascend https://t.co/iW5PQWlbRY",
+      "text": "\ud83c\udf0d\ud83c\uddfb\ud83c\uddea\ud83d\udef8 A UFO theory has also emerged regarding the earthquake in Venezuela.   According to the claim, several unidentified flying objects were seen in the sky moments before the earthquake, allegedly em",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071769008450265096"
+      "url": "https://x.com/i/web/status/2071833212159193533"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3707\r Issue Time: 2026 Jun 29 0502 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3708\r Issue Time: 2026 Jun 30 0459 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1125,6 +1125,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.3
+    },
+    {
+      "ts": "2026-06-30T05:55:49.624806Z",
+      "score": 28.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.6
     }
   ],
   "sources": [
