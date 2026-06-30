@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T18:24:08.252104Z",
-  "score": 37.0,
+  "generated_at": "2026-06-30T20:27:30.573165Z",
+  "score": 38.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -5.4,
-    "d24h": 7.6,
+    "d1h": 10.1,
+    "d24h": 11.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 11.4,
+    "news_velocity": 3.5,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,143 +31,83 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "18:24",
+    "generated_utc": "20:27",
     "top_drivers": [
-      "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "X/Twitter chatter: 190 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 8",
+      "News velocity +15% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 217 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 10",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.7,
-    "baseline_recent": 25.1,
+    "live_signal": 32.1,
+    "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 190,
-    "wiki_spike_pct": -22.865873524862554,
+    "gdelt_spike_pct": 14.722481680765146,
+    "x_last_hour": 217,
+    "wiki_spike_pct": -23.453220909809694,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 10
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=fc4d9fd6-cf73-75f8-3404-a03b9a8dd5bd"
-    },
-    {
-      "type": "news",
-      "text": "26 Maine Towns With The Most Reported UFO Sightings",
-      "source": "wcyy.com",
-      "url": "https://wcyy.com/maine-towns-ufo-aliens-sightings-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=12a6ec3f-ffb6-f5a6-e4de-61846b03f7ca"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=84070514-9dda-e8bb-69db-ca2a8fee82df"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c5f15974-f17b-0b9d-6ff0-1efad0f1a2c7"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=f500eb1c-99a0-be99-2ab1-052fa52498bd"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=e8953b00-5399-2dcf-d1f7-e06c2c8682bc"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c3345668-24b8-5c6e-631b-959fae991c94"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=947e0fcf-cc46-bb18-5c5f-16bc55f98bb3"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=643e3958-e065-6a3a-2cc0-674a4b34ce1d"
+      "type": "x",
+      "text": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | Nati... https://t.co/CDCLhWNvDk via @YouTube https://t.co/3rQZhTqOg3",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2072054306639876176"
     },
     {
       "type": "x",
-      "text": "Denzel Washington warns we are fighting against supernatural forces superior to us \ud83d\udc7d \ud83d\udc7e  The Hollywood legend says evil powers are influencing the industry from experience \ud83d\udfe5 \ud83e\ude78  #UAP #UFO #Disclosure ht",
+      "text": "UFO Whistleblower: The Files They Never Released | Hang Out with Sean Hannity Luis Elizondo and Tim Burchett... https://t.co/5c35UMRd4F via CC: @RepEricBurlison  @thomaslfessler",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072023258602369234"
+      "url": "https://x.com/i/web/status/2072054228038652284"
     },
     {
       "type": "x",
-      "text": "@seanhannity UFO whistleblower files dropping? \ud83d\udc40\ud83d\udef8 This is going to be fascinating. \ud83d\udd25",
+      "text": "@benstreeet My UFO enthusiast friends are talking about going back to polaroids for photo evidence.  \ud83e\udd14",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072023226406801762"
+      "url": "https://x.com/i/web/status/2072054217716486355"
     },
     {
       "type": "x",
-      "text": "@seanhannity New episode on UFO whistleblowers \u2014 and the files they never released. \ud83d\udef8\ud83d\udc40 This is the kind of content that sparks serious curiosity. Can't wait to dive in. \ud83d\udd25",
+      "text": "@SaraBondink @RepEricBurlison \ud83e\udd29\ud83d\udc4d Yes.  We need to get to SEE,  the UFO Crash Retrieval Programs  and Reverse Engineering programs !",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072023192332382356"
+      "url": "https://x.com/i/web/status/2072054097537069393"
     },
     {
       "type": "x",
-      "text": "@UAPWatchers The French UFO timeline is interesting \ud83e\udd14   \u2022 2007 France becomes the first country to publicly open its UFO archives.  \u2022 Absolutely nothing for 19 years.  \u2022 2026 France has it's first UAP",
+      "text": "Michael Cera is GG Allin.  Woody Allen directing. Pam Bondi &amp; Steve Buscemi in the cast.  This is the most unhinged UFO Studios biopic yet.  First look + leaked set footage \ud83d\udc47 https://t.co/6eUGpZMR",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072023191044620695"
+      "url": "https://x.com/i/web/status/2072054067845853529"
     },
     {
       "type": "x",
-      "text": "We are a sponsor for McMinnville\u2019s UFO Fest, an out-of-this-world festival where we reconnect with old friends and bring new earthling buddies into orbit. \ud83d\udc7d Read more about our partnership with the Mc",
+      "text": "@ShaneFrakes Id be happy to send you a copy of mine.    \u201cThey Say\u201d think Clancey or Jack Carr with UAP Mixed in.    Warning Orbit is first person, salty language &amp; Military humor. https://t.co/ar3",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072023155829330335"
+      "url": "https://x.com/i/web/status/2072053958344921331"
     },
     {
-      "type": "x",
-      "text": "NEW EPISODE: UFO Whistleblower: The Files They Never Released [WATCH]  https://t.co/iav3IdaZbd",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072022919111135493"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2244\r Issue Time: 2026 Jun 30 1943 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5372\r Issue Time: 2026 Jun 30 1946 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK04\r Serial Number: 2669\r Issue Time: 2026 Jun 30 1711 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARPX1\r Serial Number: 627\r Issue Time: 2026 Jun 30 1636 UTC\r \r CANCEL WARNING: Proton 10MeV Integral Flux above",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARPX1\r Serial Number: 626\r Issue Time: 2026 Jun 30 1600 UTC\r \r WARNING: Proton 10MeV Integral Flux above 10pfu ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1240,6 +1180,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.7
+    },
+    {
+      "ts": "2026-06-30T20:27:30.495879Z",
+      "score": 38.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.1
     }
   ],
   "sources": [
