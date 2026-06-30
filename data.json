@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T11:58:06.629039Z",
-  "score": 28.0,
+  "generated_at": "2026-06-30T14:19:24.604226Z",
+  "score": 35.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": -25.8,
+    "d1h": 4.9,
+    "d24h": 11.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 5.2,
+    "news_velocity": 2.2,
+    "social_chatter": 7.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,70 +31,143 @@
     "day": 16,
     "date": "30.06.2026",
     "declassified": "30.06.26",
-    "generated_utc": "11:58",
+    "generated_utc": "14:19",
     "top_drivers": [
-      "X/Twitter chatter: 89 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "White teacher gets new life for race discrimination suit",
+      "X/Twitter chatter: 131 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.1,
+    "live_signal": 28.6,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 89,
+    "gdelt_spike_pct": 9.24158895979349,
+    "x_last_hour": 131,
     "wiki_spike_pct": -23.453220909809694,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "So America's birthday is the biggest distraction of all Just like that Podesta laptop Clinton emails Epstein files JFK files UFO files Just a faded memory And the federal government has done nothing T",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925776056762418"
+      "type": "news",
+      "text": "White teacher gets new life for race discrimination suit",
+      "source": "cities929.com",
+      "url": "https://www.cities929.com/2026/06/29/white-teacher-gets-new-life-for-race-discrimination-suit/"
+    },
+    {
+      "type": "news",
+      "text": "Napoli ecco la prima uscita | confermato incontro tra Manna e il club di Serie A",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-06-30/napoli-ecco-la-prima-uscita-confermato-incontro-tra-manna-e-il-club-di-serie-a/19406648/"
+    },
+    {
+      "type": "news",
+      "text": "At the Disclosure Forum with Anna Paulina Luna and a Room Full of UFO Enthusiasts",
+      "source": "vanityfair.com",
+      "url": "https://www.vanityfair.com/story/disclosure-forum-uap-capitol-hill"
+    },
+    {
+      "type": "news",
+      "text": "\u0427\u0435\u043c \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u0431\u044b\u043b \u0422\u0443\u043d\u0433\u0443\u0441\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0435\u043e\u0440\u0438\u0442",
+      "source": "info.sibnet.ru",
+      "url": "https://info.sibnet.ru/article/698753/"
+    },
+    {
+      "type": "news",
+      "text": "12 Famous Car Designers Every Gearhead Should Know",
+      "source": "jalopnik.com",
+      "url": "https://www.jalopnik.com/2203063/famous-car-designers-every-gearhead-should-know/"
+    },
+    {
+      "type": "news",
+      "text": "Hyperspecific : Electronic Music for June Reviewed by Ja\u0161a Bu\u017einel",
+      "source": "thequietus.com",
+      "url": "https://thequietus.com/quietus-reviews/electronic/electroncic-music-review-techno-ai-lifted-jonas-gruska-el-ponto/"
+    },
+    {
+      "type": "news",
+      "text": "Els sanitaris que lluiten per les persones sense llar del barri m\u00e9s pobre de Palma :  Persones amb feina dormen entre cartrons  ",
+      "source": "eldiario.es",
+      "url": "https://www.eldiario.es/illes-balears/cat/els-sanitaris-lluiten-per-les-persones-sense-llar-barri-mes-pobre-palma-persones-amb-feina-dormen-cartrons_1_13343744.html"
+    },
+    {
+      "type": "news",
+      "text": "Spielberg new alien film is hopeful and human - Lifestyle",
+      "source": "namibian.com.na",
+      "url": "https://www.namibian.com.na/spielbergs-new-alien-film-is-hopeful-and-human/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m1r23kc7r85f8iairb73uop974"
+    },
+    {
+      "type": "news",
+      "text": "Memory of Princess Mumbi , de Damien Hauser",
+      "source": "africultures.com",
+      "url": "https://africultures.com/memory-of-princess-mumbi-de-damien-hauser-16792/"
     },
     {
       "type": "x",
-      "text": "@VettedPodcast Where\u2019s the flying saucer too big to move? Where\u2019s these secret portals? Liars are abundant in the UFO community.",
+      "text": "Leslie Kean says David Grusch has seen photos of multiple UFO craft, including crescent-shaped, flat sunfish, egg-shaped, and boomerang objects. \ud83d\udef8  Grusch expects those images to eventually become pub",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925699472945167"
+      "url": "https://x.com/i/web/status/2071961065139720439"
     },
     {
       "type": "x",
-      "text": "@iAnonPatriot The UFO aliens crashed on earth crowd will believe this is real. They are a simple bunch of low IQ fanatics.",
+      "text": "\u201cThe 2014 NDU book on the Three Warfares also lists some new concept psychological warfare weapons. These include unmanned psychological warfare aircraft, \u201cbattlefield intelligentized radio and televi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925513736646659"
+      "url": "https://x.com/i/web/status/2071961032374014427"
     },
     {
       "type": "x",
-      "text": "@Ryanmatta Ryan, rabbit hole for you\u2026 is Venezuela where some of the Nazi families from WW2 Germany escaped/settled, so not only were they looking for the holy grail but they took a lot of esoteric an",
+      "text": "SPECIAL GLOBAL ANNOUNCEMENT \ud83d\ude80  @DrStevenGreer appeals to all nations of Earth, including political enemies of the United States, to come forward with their UFO files.  https://t.co/GQAdwuA4Cx",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925507914969239"
+      "url": "https://x.com/i/web/status/2071960715682857450"
     },
     {
       "type": "x",
-      "text": "Grand Theft Auto V Gameplay, Grand Theft Auto VI Trailer, GTA 5 Online Live Stream, Los Santos Drug Wars, San Andreas Mercenaries, The Chop Shop Update, Cluckin Bell Farm Raid, GTA RP Clips, FiveM Ser",
+      "text": "@redtter15151 @BenjaminHorva13 @TheUfoJoe @lesliekean @jaketapper This suggests to me that Grusch is unable to distinguish hoary \"UFO lore\" from actual evidence, and that his sources are likely the us",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925416554910157"
+      "url": "https://x.com/i/web/status/2071960579414049047"
     },
     {
       "type": "x",
-      "text": "To anyone who has any interest in the UFO phenomenon or what the alien presence is doing here on Earth, watch the following series which begins on July 5.   Why are the ETs  here?  Trailer below. #ufo",
+      "text": "@redtter15151 @BenjaminHorva13 @TheUfoJoe @lesliekean @jaketapper Magenta is almost certainly complete bullshit based on fake documents, but the specific claim Grusch made about Pope Pious XI and FDR ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2071925405553180787"
+      "url": "https://x.com/i/web/status/2071960370063843701"
+    },
+    {
+      "type": "x",
+      "text": "Witnessing a luminous craft descend from the sky\u2014modern or ancient, what are we seeing? Literal UFOs were seen and filmed, not just one, but multiple. Are we projecting or is something truly otherworl",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2071960222457831673"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3708\r Issue Time: 2026 Jun 30 0459 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 320\r Issue Time: 2026 Jun 30 1340 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 320\r Issue Time: 2026 Jun 30 1332 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 533\r Issue Time: 2026 Jun 30 1252 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1146,6 +1219,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.1
+    },
+    {
+      "ts": "2026-06-30T14:19:24.528728Z",
+      "score": 35.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.6
     }
   ],
   "sources": [
