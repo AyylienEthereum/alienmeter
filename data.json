@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-01T18:58:38.809082Z",
-  "score": 39.6,
+  "generated_at": "2026-07-01T20:48:33.622455Z",
+  "score": 38.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 7.0,
-    "d24h": 10.6,
+    "d1h": 5.4,
+    "d24h": 10.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.7,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.6,
-    "alien_variance": 3.8
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,66 @@
     "day": 17,
     "date": "01.07.2026",
     "declassified": "01.07.26",
-    "generated_utc": "18:58",
+    "generated_utc": "20:48",
     "top_drivers": [
-      "X/Twitter chatter: 195 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 12",
+      "X/Twitter chatter: 210 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 9",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 33.9,
-    "baseline_recent": 25.3,
+    "live_signal": 32.6,
+    "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 195,
+    "x_last_hour": 210,
     "wiki_spike_pct": -31.96545252433356,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.3,
-    "swpc_alerts_24h": 12
+    "swpc_alerts_24h": 9
   },
   "ticker": [
     {
       "type": "x",
-      "text": "UFO WARNING Excellent  Dr Steven Greer!!\ud83e\ude90\ud83c\udf0d\ud83e\ude90\ud83c\udf0d\ud83e\ude90 https://t.co/CBjaYulbi1",
+      "text": "The most important takeaways in the UAP dump worth paying attention to:  1. The government\u2019s new UAP files (PURSUE program, 3rd tranche released June 12) are worth your attention. The headline isn\u2019t \u201c",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072394368741224933"
+      "url": "https://x.com/i/web/status/2072422053873922351"
     },
     {
       "type": "x",
-      "text": "\ud83c\uddeb\ud83c\uddf7  First of the three parts of the UFO symposium at the French National Assembly  @Anakinsky19 @Walker35031171 https://t.co/9VXX6zu2e5",
+      "text": "@prairiebanana  Hi Prairie,  Is there a new UFO contract address?   Thank you!   @RichardHeartWin @EricTrump @CryptoChat7 @MatiAllin @CryptoCoffee369 @iambroots  @YalaCoder @mischieffinance  @kim_pute",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072394358125469803"
+      "url": "https://x.com/i/web/status/2072422046869467398"
     },
     {
       "type": "x",
-      "text": "@William81139626 @Holden_Culotta Yeah great reply actually and it\u2019s food for thought. 1952 case is one of the more interesting UFO cases. I spent years looking into it.  The truth is, I don\u2019t know wha",
+      "text": "@BPatriot911 @army1325air @FoxNews @GreatlakesladyM The UFO that I saw was part of the unclassified UFO files!! I couldn't believe it!!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072394331047227601"
+      "url": "https://x.com/i/web/status/2072421946554216555"
     },
     {
       "type": "x",
-      "text": "@azfamily Thursday  JULY 2 IS WORLD UFO DAY which is dedicated to the existence of UFOs. The first World UFO Day was celebrated in 2001 to raise awareness about UFOs and to encourage governments to de",
+      "text": "Everything in the past year and a half was a rotation of distractions to keep us peasants looking away from mass surveillance, minimal deportations, data centers, the Epstein files and enriching himse",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072394270154322227"
+      "url": "https://x.com/i/web/status/2072421298459046138"
     },
     {
       "type": "x",
-      "text": "@shufflecom \"Chilling with my bros on Epstein Island  Btw the UFO is made by AI\"  - SuperrFlly111",
+      "text": "Hang Out with #SeanHannity featuring Rep. @TimBurchett (R-TN), a longtime advocate for UAP transparency and member of the relevant House committee. https://t.co/yfceqUT5lW https://t.co/x2CWChp7aO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072393979958812839"
+      "url": "https://x.com/i/web/status/2072421265369948467"
     },
     {
       "type": "x",
-      "text": "The Iranian War, the American UFO shit and Trump's World Cup have made us forget the worst crime committed by a Jew in history. https://t.co/Duz3zjCiBo",
+      "text": "The date commemorates the Roswell incident, when an unidentified object crashed near Roswell in July 1947. The event became one of the most famous UFO-related incidents in history.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072393892767715642"
+      "url": "https://x.com/i/web/status/2072421205387415933"
     },
     {
       "type": "swpc",
@@ -1255,6 +1255,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 33.9
+    },
+    {
+      "ts": "2026-07-01T20:48:33.549048Z",
+      "score": 38.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.6
     }
   ],
   "sources": [
