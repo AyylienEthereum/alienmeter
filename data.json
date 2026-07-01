@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-01T16:57:01.110609Z",
-  "score": 35.1,
+  "generated_at": "2026-07-01T18:58:38.809082Z",
+  "score": 39.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.4,
-    "d24h": 3.2,
+    "d1h": 7.0,
+    "d24h": 10.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 11.7,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.6,
-    "alien_variance": 2.7
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,127 +31,66 @@
     "day": 17,
     "date": "01.07.2026",
     "declassified": "01.07.26",
-    "generated_utc": "16:57",
+    "generated_utc": "18:58",
     "top_drivers": [
-      "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "X/Twitter chatter: 219 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 13",
+      "X/Twitter chatter: 195 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 12",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.1,
+    "live_signal": 33.9,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "C",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": -78.54693236240577,
-    "x_last_hour": 219,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 195,
     "wiki_spike_pct": -31.96545252433356,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.3,
-    "swpc_alerts_24h": 13
+    "swpc_alerts_24h": 12
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/q2-flowdown-etfs-smash-records-start-summer/"
-    },
-    {
-      "type": "news",
-      "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0451\u043d\u043d\u044b\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0430\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u0438\u043a\u0438 \u043f\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044e \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u043d\u044b\u043c\u0438 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f\u043c\u0438",
-      "source": "arh-info.ru",
-      "url": "https://arh-info.ru/social/44922666-obnovlennye-rekomendacii-akademii-astronavtiki-po-vzaimodeystviyu-s-inoplanetnymi-civilizaciyami.html"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=fc4d9fd6-cf73-75f8-3404-a03b9a8dd5bd"
-    },
-    {
-      "type": "news",
-      "text": "26 Maine Towns With The Most Reported UFO Sightings",
-      "source": "wcyy.com",
-      "url": "https://wcyy.com/maine-towns-ufo-aliens-sightings-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=12a6ec3f-ffb6-f5a6-e4de-61846b03f7ca"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=84070514-9dda-e8bb-69db-ca2a8fee82df"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c5f15974-f17b-0b9d-6ff0-1efad0f1a2c7"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=f500eb1c-99a0-be99-2ab1-052fa52498bd"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=e8953b00-5399-2dcf-d1f7-e06c2c8682bc"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c3345668-24b8-5c6e-631b-959fae991c94"
+      "type": "x",
+      "text": "UFO WARNING Excellent  Dr Steven Greer!!\ud83e\ude90\ud83c\udf0d\ud83e\ude90\ud83c\udf0d\ud83e\ude90 https://t.co/CBjaYulbi1",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2072394368741224933"
     },
     {
       "type": "x",
-      "text": "A Hollywood Insider Backs the 4chan UFO Leak's Strangest Claim https://t.co/DmL9Awu31w",
+      "text": "\ud83c\uddeb\ud83c\uddf7  First of the three parts of the UFO symposium at the French National Assembly  @Anakinsky19 @Walker35031171 https://t.co/9VXX6zu2e5",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072363689655603686"
+      "url": "https://x.com/i/web/status/2072394358125469803"
     },
     {
       "type": "x",
-      "text": "A PURSUE UFO file points to UAP reports at Sandia Base, New Mexico, between 1948 and 1950 \u2014 right in the heart of America\u2019s atomic weapons history.  Watch the full video: https://t.co/5Hb5rugvU3  #Ali",
+      "text": "@William81139626 @Holden_Culotta Yeah great reply actually and it\u2019s food for thought. 1952 case is one of the more interesting UFO cases. I spent years looking into it.  The truth is, I don\u2019t know wha",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072363672546984203"
+      "url": "https://x.com/i/web/status/2072394331047227601"
     },
     {
       "type": "x",
-      "text": "David Adair at Area 51: Advanced Symbiotic Technology (1999) | UFO Docum... https://t.co/FaAHGsvKdD via @YouTube",
+      "text": "@azfamily Thursday  JULY 2 IS WORLD UFO DAY which is dedicated to the existence of UFOs. The first World UFO Day was celebrated in 2001 to raise awareness about UFOs and to encourage governments to de",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072363464417263861"
+      "url": "https://x.com/i/web/status/2072394270154322227"
     },
     {
       "type": "x",
-      "text": "The Franklin D Roosevelt UFO: Why the Military Kept This Secret (From th... https://t.co/r9zpVJRQne via @YouTube",
+      "text": "@shufflecom \"Chilling with my bros on Epstein Island  Btw the UFO is made by AI\"  - SuperrFlly111",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072362856658485360"
+      "url": "https://x.com/i/web/status/2072393979958812839"
     },
     {
       "type": "x",
-      "text": "@PostDisclosure would love to know your thoughts   A Hollywood Insider Backs the 4chan UFO Leak's Strangest Claim https://t.co/DmL9Awu31w",
+      "text": "The Iranian War, the American UFO shit and Trump's World Cup have made us forget the worst crime committed by a Jew in history. https://t.co/Duz3zjCiBo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072362748516630554"
-    },
-    {
-      "type": "x",
-      "text": "@g_knapp Remember the time a top selling UFO author asked you how you felt about people who put out disinformation to the UFO community and you called them ''a random from the internet'' shows how big",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072362590655672375"
+      "url": "https://x.com/i/web/status/2072393892767715642"
     },
     {
       "type": "swpc",
@@ -1309,6 +1248,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.1
+    },
+    {
+      "ts": "2026-07-01T18:58:38.735819Z",
+      "score": 39.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 33.9
     }
   ],
   "sources": [
