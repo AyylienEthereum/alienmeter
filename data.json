@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-01T20:48:33.622455Z",
-  "score": 38.6,
+  "generated_at": "2026-07-01T22:15:04.803007Z",
+  "score": 34.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 5.4,
-    "d24h": 10.8,
+    "d1h": -2.0,
+    "d24h": 13.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 9.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 4.8,
     "seismic": 2.6,
-    "alien_variance": 2.2
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 17,
     "date": "01.07.2026",
     "declassified": "01.07.26",
-    "generated_utc": "20:48",
+    "generated_utc": "22:15",
     "top_drivers": [
-      "X/Twitter chatter: 210 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 9",
+      "X/Twitter chatter: 159 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.6,
+    "live_signal": 27.0,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,48 @@
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 210,
-    "wiki_spike_pct": -31.96545252433356,
+    "x_last_hour": 159,
+    "wiki_spike_pct": -26.20519333236483,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.3,
-    "swpc_alerts_24h": 9
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "The most important takeaways in the UAP dump worth paying attention to:  1. The government\u2019s new UAP files (PURSUE program, 3rd tranche released June 12) are worth your attention. The headline isn\u2019t \u201c",
+      "text": "Sources: US Air Force, Foreign Technology Division, \u201cCongressional Correspondence on the U.S. Air Force UFO Program, Congressman Carl Vinson\u201d; https://t.co/hh8HJDIOXW",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072422053873922351"
+      "url": "https://x.com/i/web/status/2072443405720830001"
     },
     {
       "type": "x",
-      "text": "@prairiebanana  Hi Prairie,  Is there a new UFO contract address?   Thank you!   @RichardHeartWin @EricTrump @CryptoChat7 @MatiAllin @CryptoCoffee369 @iambroots  @YalaCoder @mischieffinance  @kim_pute",
+      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Congressional Correspondence July 2, 1963 \u2014  1/Nineteen-year-old NICAP member John P. Speights of Raleigh, North Carolina, writes a letter qu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072422046869467398"
+      "url": "https://x.com/i/web/status/2072443401430048898"
     },
     {
       "type": "x",
-      "text": "@BPatriot911 @army1325air @FoxNews @GreatlakesladyM The UFO that I saw was part of the unclassified UFO files!! I couldn't believe it!!",
+      "text": "@moveon_9910 Crash of a UFO in the 40\u2019s.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072421946554216555"
+      "url": "https://x.com/i/web/status/2072443398951252300"
     },
     {
       "type": "x",
-      "text": "Everything in the past year and a half was a rotation of distractions to keep us peasants looking away from mass surveillance, minimal deportations, data centers, the Epstein files and enriching himse",
+      "text": "The UFO Mission Went Wrong \ud83d\ude31 | Animal Company VR Full Video 6PM CT https://t.co/p8WiideNZk  #XxCatfish1xX #AnimalCompanyVR #VRGaming #GamingShorts https://t.co/B4Fokii5g7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072421298459046138"
+      "url": "https://x.com/i/web/status/2072443017068200374"
     },
     {
       "type": "x",
-      "text": "Hang Out with #SeanHannity featuring Rep. @TimBurchett (R-TN), a longtime advocate for UAP transparency and member of the relevant House committee. https://t.co/yfceqUT5lW https://t.co/x2CWChp7aO",
+      "text": "@RepLuna Why did the Predator UAV get green-lighted to fire on a UAP that was no apparent threat? And over international waters, too? Let's not be the ones to step first into uncivilized behavior.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072421265369948467"
+      "url": "https://x.com/i/web/status/2072442947887403266"
     },
     {
       "type": "x",
-      "text": "The date commemorates the Roswell incident, when an unidentified object crashed near Roswell in July 1947. The event became one of the most famous UFO-related incidents in history.",
+      "text": "@bobofango86 @kamil6416595628 @UAPJames Luna(tic) wouldn\u2019t even ask for the FAA approvals to be released in all those NJ UAP incidents that went on for months so the American people could audit them. ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072421205387415933"
+      "url": "https://x.com/i/web/status/2072442946419359822"
     },
     {
       "type": "swpc",
@@ -1262,6 +1262,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.6
+    },
+    {
+      "ts": "2026-07-01T22:15:04.729389Z",
+      "score": 34.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.0
     }
   ],
   "sources": [
