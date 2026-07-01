@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-01T00:21:25.640064Z",
-  "score": 35.1,
+  "generated_at": "2026-07-01T05:03:16.623498Z",
+  "score": 33.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -1.9,
-    "d24h": 2.7,
+    "d1h": -4.4,
+    "d24h": 2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 4.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
-    "seismic": 0.0,
-    "alien_variance": 3.7
+    "seismic": 2.6,
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 17,
     "date": "01.07.2026",
     "declassified": "01.07.26",
-    "generated_utc": "00:21",
+    "generated_utc": "05:03",
     "top_drivers": [
-      "X/Twitter chatter: 146 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 78 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 16",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.2,
+    "live_signal": 26.3,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,54 @@
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 146,
-    "wiki_spike_pct": -24.204158346058975,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "x_last_hour": 78,
+    "wiki_spike_pct": -31.96545252433356,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5.3,
     "swpc_alerts_24h": 16
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Man Films Thousands Of UFOs And Speaks To Aliens!?\u00a0Watch Now Link: https://t.co/S5IoPYf2Om #UFO #UAP #CONTACT #Disclosure https://t.co/FteDyh6a2f",
+      "text": "@ProfAviLoeb A better question would be , do you feel the uap/ufo community  is supportive of you and your chosen panel   panel?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072113245872341501"
+      "url": "https://x.com/i/web/status/2072184177760293018"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 FULL ALEX JONES TUESDAY BROADCAST - MUST WATCH &amp; SHARE! \ud83d\udea8 SCOTUS just committed TREASON by upholding Anchor Baby birthright citizenship and smashing Trump\u2019s Executive Order to STOP illegal mass ",
+      "text": "The ufo is back and this time, looking for the cats. \ud83d\udc7d\ud83d\udef8 share with your cat (or dog) frens \ud83d\udc08  Should I make a UFO mini art series?! What would the aliens think if they came to earth right now? \ud83d\ude16\ud83e\udee0  Mad",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072113138992918735"
+      "url": "https://x.com/i/web/status/2072184043970650618"
     },
     {
       "type": "x",
-      "text": "@fringedotcom Into the Fringe \u2022 UFOs \u2022 Aliens \u2022 Amnesty \u2022 Casual Chit Chat\ud83d\udc7d\ud83d\udef8#UFO #RNM #V2K @Provolonie777 Top secret disclosures and evidence hidden in page. https://t.co/UcGIKxx5nJ",
+      "text": "UFO Pizza Painting by Barrie J Davies, Mixed media on Canvas, 40 cm x 30 cm, Original Pop Art Painting, Unframed and ready to hang.   https://t.co/EhFCmzXXDy https://t.co/boqdeoYSyS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072113120533954695"
+      "url": "https://x.com/i/web/status/2072183527727050864"
     },
     {
       "type": "x",
-      "text": "@RepLuna @disclosureorg By the way: the German Parliament neglects the existence of the UAP-Phenomenon since 67 years. Would you please enlighten them ?  You have to know that the UAP-topic is still a",
+      "text": "The Timeline of Cosmic Anxiety  What makes the \"history\" of these civilizations so fascinating from a psychological perspective is how neatly it maps onto human history:  1945 (The Flare): In lore, th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072112954187632840"
+      "url": "https://x.com/i/web/status/2072183420936184146"
     },
     {
       "type": "x",
-      "text": "https://t.co/DprWCQ2cCD  @LueElizondo has been GANG STALKING people online #ufo #CIAasset #DoubleAgent #DisclosureDay   @darkjournalist",
+      "text": "\"The greatest secret in NASA's history was never meant to be discovered.\"  https://t.co/Jicd6nll3r  #UFO #UAP #UFOTwitter #AlienLife #Aliens #Extraterrestrial #Disclosure #UFODisclosure #TheTruthIsOut",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072112905101656537"
+      "url": "https://x.com/i/web/status/2072183420541874203"
     },
     {
       "type": "x",
-      "text": "@25trillionmiles @TheUfoJoe @LueElizondo I think you're going to be surprised how many people think them targeting UAP is a good idea  And I mean surprised in a very bad way",
+      "text": "Alien terminology: Food chain (alien interpretation) Guess the meaning...(Source: Logs retrieved from a UFO crash site), #parody, #satire, #fiction \ud83e\udd14\ud83d\ude02",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072112818262786148"
+      "url": "https://x.com/i/web/status/2072183416678936716"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2030\r Issue Time: 2026 Jul 01 0259 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -105,10 +111,10 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 919\r Issue Time: 2026 Jun 30 2106 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jun ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: 265 km SSE of Dunhuang, China",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -1207,6 +1213,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.2
+    },
+    {
+      "ts": "2026-07-01T05:03:16.547362Z",
+      "score": 33.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.3
     }
   ],
   "sources": [
