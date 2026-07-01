@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-01T14:30:20.260454Z",
-  "score": 36.3,
+  "generated_at": "2026-07-01T16:57:01.110609Z",
+  "score": 35.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": 0.8,
+    "d1h": 1.4,
+    "d24h": 3.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.6,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 0.0,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
@@ -31,30 +31,30 @@
     "day": 17,
     "date": "01.07.2026",
     "declassified": "01.07.26",
-    "generated_utc": "14:30",
+    "generated_utc": "16:57",
     "top_drivers": [
       "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "X/Twitter chatter: 145 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 15",
+      "X/Twitter chatter: 219 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 13",
       "NEO (2019 YS3) passing Earth at 20.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.7,
+    "live_signal": 28.1,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "A",
     "closest_asteroid_ld": 20.0788221566,
     "asteroid_name": "(2019 YS3)",
-    "gdelt_spike_pct": -78.44892094944476,
-    "x_last_hour": 145,
+    "gdelt_spike_pct": -78.54693236240577,
+    "x_last_hour": 219,
     "wiki_spike_pct": -31.96545252433356,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.3,
-    "swpc_alerts_24h": 15
+    "swpc_alerts_24h": 13
   },
   "ticker": [
     {
@@ -119,39 +119,39 @@
     },
     {
       "type": "x",
-      "text": "White House taps controversial Harvard astrophysicist to lead team studying UFO security risks https://t.co/C2fZlapVNV",
+      "text": "A Hollywood Insider Backs the 4chan UFO Leak's Strangest Claim https://t.co/DmL9Awu31w",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326883916615786"
+      "url": "https://x.com/i/web/status/2072363689655603686"
     },
     {
       "type": "x",
-      "text": "White House taps controversial Harvard astrophysicist to lead team studying UFO security risks https://t.co/VyczzK2aTE",
+      "text": "A PURSUE UFO file points to UAP reports at Sandia Base, New Mexico, between 1948 and 1950 \u2014 right in the heart of America\u2019s atomic weapons history.  Watch the full video: https://t.co/5Hb5rugvU3  #Ali",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326875590848812"
+      "url": "https://x.com/i/web/status/2072363672546984203"
     },
     {
       "type": "x",
-      "text": "@UAPLuigi @ChrisUKSharp The US crowd surrounding the UAP issue disgusts me more every day. Burchett, Burlison, Luna, Mace, Gaetz - makes me want to gouge my eyes out. No wonder the topic is completely",
+      "text": "David Adair at Area 51: Advanced Symbiotic Technology (1999) | UFO Docum... https://t.co/FaAHGsvKdD via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326483226345972"
+      "url": "https://x.com/i/web/status/2072363464417263861"
     },
     {
       "type": "x",
-      "text": "Controversial Harvard Professor Will Head White House \u2018UFO\u2019 Commission https://t.co/eRxA0m3a9N  #AviLoeb GREAT CHOICE BY WHITE HOUSE!",
+      "text": "The Franklin D Roosevelt UFO: Why the Military Kept This Secret (From th... https://t.co/r9zpVJRQne via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326403400302911"
+      "url": "https://x.com/i/web/status/2072362856658485360"
     },
     {
       "type": "x",
-      "text": "@Yehonatanbreath @RepEricBurlison An NDAA conference committee is a consensus-driven process, so lack of support for the original UAPDA from the ranking Republican on the Senate Armed Services Committ",
+      "text": "@PostDisclosure would love to know your thoughts   A Hollywood Insider Backs the 4chan UFO Leak's Strangest Claim https://t.co/DmL9Awu31w",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326325390426444"
+      "url": "https://x.com/i/web/status/2072362748516630554"
     },
     {
       "type": "x",
-      "text": "@timburchett Now expose the CIA and it's other psyop, probably the most detrimental to our freedom, the obvious continuation of Project Mockingbird.     You, Luna, and Burlison are doing great work on",
+      "text": "@g_knapp Remember the time a top selling UFO author asked you how you felt about people who put out disinformation to the UFO community and you called them ''a random from the internet'' shows how big",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072326293899604013"
+      "url": "https://x.com/i/web/status/2072362590655672375"
     },
     {
       "type": "swpc",
@@ -1302,6 +1302,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.7
+    },
+    {
+      "ts": "2026-07-01T16:57:01.036066Z",
+      "score": 35.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.1
     }
   ],
   "sources": [
