@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-02T21:42:36.211527Z",
-  "score": 34.2,
+  "generated_at": "2026-07-02T22:47:05.941552Z",
+  "score": 37.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -4.9,
-    "d24h": -22.8,
+    "d1h": -0.3,
+    "d24h": 9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.4,
+    "social_chatter": 11.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 1.9,
-    "alien_variance": 0.3
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 18,
     "date": "02.07.2026",
     "declassified": "02.07.26",
-    "generated_utc": "21:42",
+    "generated_utc": "22:47",
     "top_drivers": [
-      "X/Twitter chatter: 157 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 191 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.8,
+    "live_signal": 30.7,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -77.94992877631861,
-    "x_last_hour": 157,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 191,
     "wiki_spike_pct": -29.33347417344459,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.8,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "World UFO Day  All confirmed after multiple nonpartisan tests of the unprocessed photographs. No lens flare, insects, birds, known aircraft, spacecraft, satellites, meteors or comets. https://t.co/ItF",
+      "text": "\ud83d\udd25 One of THE MOST important interviews of our time. The truth spoken in this candid conversation between Candace (@RealCandaceO) and Shawn (@ShawnRyan762) breaks down and lays out the aftermath of wha",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072798042286100551"
+      "url": "https://x.com/i/web/status/2072814244048064745"
     },
     {
       "type": "x",
-      "text": "@dan_aykroyd Does movie mention that UFO is a CIA hoax since 1953 when they enlisted an asset to publish the first book on it. And then in 1955 when Sen Russell and his translator Ruben Efron claimed ",
+      "text": "Mr. @RichardDreyfuss was mistaken for #DustinHoffman in #CloseEncountersOfTheThirdKind on @AlchemyAmerican #uap #ufo #disclosure   timestamp 1:14:56 https://t.co/emiKKOe3Wi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072797728422105493"
+      "url": "https://x.com/i/web/status/2072814011876323420"
     },
     {
       "type": "x",
-      "text": "WORLD UFO DAY! \ud83d\udef8 https://t.co/icu7FqUTDv #WorldUFODay #UFO",
+      "text": "@ryocece there's only one good song and it's the ufo dorian electra remix but that's mid too",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072797706888609803"
+      "url": "https://x.com/i/web/status/2072813852891435139"
     },
     {
       "type": "x",
-      "text": "The media is finally talking about UFOs. But almost nobody is asking what the UAP story is *actually* signaling.  Disclosure may be one of the earliest visible signs of a much larger transformation al",
+      "text": "Happy International UFO DAY JULY 2 \ud83d\udc7d \ud83d\udef8 \ud83d\udc7e https://t.co/nfnCVHdRMq",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072797630145679634"
+      "url": "https://x.com/i/web/status/2072813740530049136"
     },
     {
       "type": "x",
-      "text": "does anyone have a ufo????? i need to get back to my planet please helpppppp",
+      "text": "In 2024, Michael Shermer mocked the witnesses at the UAP Congressional hearings as paid grifters, \"available for media interviews, book contracts, documentary films, and especially paid speaking engag",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072797552248844336"
+      "url": "https://x.com/i/web/status/2072813622854910053"
     },
     {
       "type": "x",
-      "text": "QT your #WorldUFODay \ud83d\udef8  World UFO day raises awareness about unidentified flying objects, promotes open discussion about possible extraterrestrial life, and encourages government declassification of r",
+      "text": "There more like sharks very mechanical in nature but they ain't mechanical transcendent entities they elevate different dimension pop disappear like a fart in the wind again these are the trapazoidal ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072797537392578692"
+      "url": "https://x.com/i/web/status/2072813486896476574"
     },
     {
       "type": "swpc",
@@ -1346,6 +1346,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.8
+    },
+    {
+      "ts": "2026-07-02T22:47:05.867017Z",
+      "score": 37.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.7
     }
   ],
   "sources": [
