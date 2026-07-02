@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-02T13:19:21.262217Z",
-  "score": 37.3,
+  "generated_at": "2026-07-02T15:39:37.785815Z",
+  "score": 39.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": 10.1,
+    "d1h": 5.5,
+    "d24h": 7.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.9,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 1.9,
-    "alien_variance": 1.8
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 18,
     "date": "02.07.2026",
     "declassified": "02.07.26",
-    "generated_utc": "13:19",
+    "generated_utc": "15:39",
     "top_drivers": [
-      "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "X/Twitter chatter: 198 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 201 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -42,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.8,
+    "live_signal": 33.1,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +49,7 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 198,
+    "x_last_hour": 201,
     "wiki_spike_pct": -29.33347417344459,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.81,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/q2-flowdown-etfs-smash-records-start-summer/"
-    },
-    {
-      "type": "news",
-      "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0451\u043d\u043d\u044b\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0430\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u0438\u043a\u0438 \u043f\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044e \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u043d\u044b\u043c\u0438 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f\u043c\u0438",
-      "source": "arh-info.ru",
-      "url": "https://arh-info.ru/social/44922666-obnovlennye-rekomendacii-akademii-astronavtiki-po-vzaimodeystviyu-s-inoplanetnymi-civilizaciyami.html"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=fc4d9fd6-cf73-75f8-3404-a03b9a8dd5bd"
-    },
-    {
-      "type": "news",
-      "text": "26 Maine Towns With The Most Reported UFO Sightings",
-      "source": "wcyy.com",
-      "url": "https://wcyy.com/maine-towns-ufo-aliens-sightings-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=12a6ec3f-ffb6-f5a6-e4de-61846b03f7ca"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=84070514-9dda-e8bb-69db-ca2a8fee82df"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c5f15974-f17b-0b9d-6ff0-1efad0f1a2c7"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=f500eb1c-99a0-be99-2ab1-052fa52498bd"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=e8953b00-5399-2dcf-d1f7-e06c2c8682bc"
-    },
-    {
-      "type": "news",
-      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c3345668-24b8-5c6e-631b-959fae991c94"
+      "type": "x",
+      "text": "Today represents the anniversary of the famed &amp; all but confirmed 1947 incident in Roswell, New Mexico. Believers claim a UFO crash landed here but that the government has been covering it up ever",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2072706690189767094"
     },
     {
       "type": "x",
-      "text": "Trump Administration Appoints Harvard Professor Who Advocates for the Existence of Extraterrestrials to Head UFO Investigation Committee\u2014Former Chair of the Department of Astronomy, Avi Loeb, has been",
+      "text": "@spremark @drawandstrike They're Name Stealers, always masquerading as something or someone they are not. Probably not even human, when we do finally find out. (thus, all the ufo/alien info being drip",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072671373445718317"
+      "url": "https://x.com/i/web/status/2072706555393233346"
     },
     {
       "type": "x",
-      "text": "@UFOSightings101 Easy explanation if you\u2019ve ever studied photo analysis and investigated UFO sightings. I just did it from home!  https://t.co/NNXGtY00lu",
+      "text": "DEAD ALIEN BODIES FROM ROSWELL UFO CRASH? https://t.co/XpoNbCKsli",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072671307670393326"
+      "url": "https://x.com/i/web/status/2072706526675120291"
     },
     {
       "type": "x",
-      "text": "Happy World UFO Day Humans \ud83d\udef8  This is part of our lives already, and we come to be part of yours.  Let's celebrate for a bigger and more warm world with open eyes and heart  The Truth is finally out t",
+      "text": "The UFO comes and goes leaving behind the aliens they don\u2019t like size A1 no6980 https://t.co/npEVh5iSWu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072671284966695391"
+      "url": "https://x.com/i/web/status/2072706218355810550"
     },
     {
       "type": "x",
-      "text": "Am I the only one who finds UAP Gerb to be kind of annoying? In that podcast he did recently he kept interrupting people and was throwing out broad assumptions on who and how. Those make for great sou",
+      "text": "#WorldUFODay Goblins from a UFO?  The 'Hopkinsville Goblins' is a close encounter with goblin-like extraterrestrial beings,\u00a0near Kentucky in 1955  more: \"Boggarts, Brownies, Hobs and their Goblin Kin\"",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072671121200079321"
+      "url": "https://x.com/i/web/status/2072706189511496189"
     },
     {
       "type": "x",
-      "text": "GM! Happy Thursday!  Time to dust off your platforms, put on your best sequined attire, and get ready to boogie because it\u2019s National Disco Day!  It\u2019s also World UFO Day, so keep your eyes to the skie",
+      "text": "@RepEricBurlison Third-party investigations: https://t.co/149NpEKjtT  Cancelling Inertia... Up to a Point! https://t.co/mij07yXDBu  UFO Thread: https://t.co/pTvxbfZYY9  Episode on John Searl's Magneti",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072670983530639563"
-    },
-    {
-      "type": "x",
-      "text": "It's #WorldUFODay \ud83d\udef8 In 1954 a UFO crashed near Caldbeck. That same year, 13 year-old Stephen Darbishire allegedly took this photograph of a UFO near Coniston   more in my \"Folklore of the Lake Distric",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072670786913984936"
+      "url": "https://x.com/i/web/status/2072706036834914753"
     },
     {
       "type": "swpc",
@@ -1372,6 +1311,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.8
+    },
+    {
+      "ts": "2026-07-02T15:39:37.711842Z",
+      "score": 39.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 33.1
     }
   ],
   "sources": [
