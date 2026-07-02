@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T18:56:43.543583Z",
-  "score": 38.2,
+  "generated_at": "2026-07-02T20:17:18.259963Z",
+  "score": 36.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 3.8,
-    "d24h": -13.0,
+    "d1h": -0.7,
+    "d24h": 10.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 1.9,
-    "alien_variance": 2.8
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 18,
     "date": "02.07.2026",
     "declassified": "02.07.26",
-    "generated_utc": "18:56",
+    "generated_utc": "20:17",
     "top_drivers": [
-      "X/Twitter chatter: 278 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 287 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 31.9,
+    "live_signal": 29.8,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 278,
+    "x_last_hour": 287,
     "wiki_spike_pct": -29.33347417344459,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.81,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@NETC0RE Enjoy your rest and also happy World UFO Day (and yes that's a thing)",
+      "text": "@MGonzal43246306 @Matt_Pinner Yep, the good old ITC series, beginning of the 70's. You find all episodes on YouTube, also full episodes of the legendary UFO series. Those were the days when TV was fun",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072756230196548023"
+      "url": "https://x.com/i/web/status/2072776432497868929"
     },
     {
       "type": "x",
-      "text": "This is a woke Pope and a little bit UFO to what happened on \ud83c\udf0e https://t.co/40R7dLeIaF",
+      "text": "I did not say that you said I got my idea from you. Bob McGwier insinuated that. For the record, this is the first time I had any inkling or Bob that you knew anything about gauge gravity. I have neve",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072756176291279087"
+      "url": "https://x.com/i/web/status/2072776330622767440"
     },
     {
       "type": "x",
-      "text": "300ft Craft \u201cLooked Man-Made\u201d - Michael Herrera #UAP #UFO  #UAPDisclosur... https://t.co/UiU4ufmPaW via @YouTube",
+      "text": "@Akitti @grok   ~$ bang echobrains [CPTKosmos]@CptKosmo &amp;&amp; [Sylwia]@sysia48 {speaks to herself in Dutch. English translation by (x professor)} &amp;&amp; [ELISAN]@EliSan57354554 &amp;&amp; [EC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072755780952936679"
+      "url": "https://x.com/i/web/status/2072776286695543090"
     },
     {
       "type": "x",
-      "text": "So I just heard that it's World UFO Day to-day. Some people use the term UAP but then some people call Twitter 'X'. Still as William Shakespeare once said 'What's in a name'. Anyway I thought I'd post",
+      "text": "Like an Alien is also borning with a true ufo flying object incoming https://t.co/ssSU1FPZV1",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072755770442035383"
+      "url": "https://x.com/i/web/status/2072776250448330999"
     },
     {
       "type": "x",
-      "text": "@RyanRozbiani Have you noticed the UFO/UAP in the last couple of seconds ? Strange.",
+      "text": "World UFO Day - Want to know about the history and reasoning behind this occasion? See the 1st Comment (or Google on X). Visit https://t.co/i7b8Xhz2bF, to refer properties. Please comment, Like, &amp;",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072755750166798454"
+      "url": "https://x.com/i/web/status/2072776096857182636"
     },
     {
       "type": "x",
-      "text": "@UAPWatchers Simplified Executive Summary: Jack Sarfatti\u2019s UAP Physics  Jack Sarfatti proposes a physics-based explanation for how UAP (UFOs) achieve their extraordinary flight performance. He argues ",
+      "text": "QT or Share your UFO Art https://t.co/wURS2pqtuO https://t.co/j3cg3C2z5I",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072755688682787013"
+      "url": "https://x.com/i/web/status/2072776018935332983"
     },
     {
       "type": "swpc",
@@ -1332,6 +1332,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 31.9
+    },
+    {
+      "ts": "2026-07-02T20:17:18.184804Z",
+      "score": 36.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.8
     }
   ],
   "sources": [
