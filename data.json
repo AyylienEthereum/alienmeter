@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-02T11:29:33.467980Z",
-  "score": 34.4,
+  "generated_at": "2026-07-02T13:19:21.262217Z",
+  "score": 37.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": 9.9,
+    "d1h": 3.4,
+    "d24h": 10.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.6,
+    "social_chatter": 11.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 1.9,
-    "alien_variance": 1.2
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 18,
     "date": "02.07.2026",
     "declassified": "02.07.26",
-    "generated_utc": "11:29",
+    "generated_utc": "13:19",
     "top_drivers": [
       "The Q2 Flowdown : ETFs Smash Records to Start Summer",
-      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 4",
+      "X/Twitter chatter: 198 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.1,
+    "live_signal": 30.8,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -50,11 +50,11 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 129,
+    "x_last_hour": 198,
     "wiki_spike_pct": -29.33347417344459,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.81,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
@@ -119,39 +119,39 @@
     },
     {
       "type": "x",
-      "text": "@LadyofNETN GM Amanda! Happy UFO Day! https://t.co/0LkF7ksEUF",
+      "text": "Trump Administration Appoints Harvard Professor Who Advocates for the Existence of Extraterrestrials to Head UFO Investigation Committee\u2014Former Chair of the Department of Astronomy, Avi Loeb, has been",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643733070254494"
+      "url": "https://x.com/i/web/status/2072671373445718317"
     },
     {
       "type": "x",
-      "text": "Happy UFO Day Aliens.  MAKE ALIENS GREAT AGAIN solana:Hon2rHAiqkcDtUzL5gA2vjXPr7T1MPCK2UT2AHKCpump @MAGA_Aliens https://t.co/fvx2CNHxyb",
+      "text": "@UFOSightings101 Easy explanation if you\u2019ve ever studied photo analysis and investigated UFO sightings. I just did it from home!  https://t.co/NNXGtY00lu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643716276187304"
+      "url": "https://x.com/i/web/status/2072671307670393326"
     },
     {
       "type": "x",
-      "text": "Ok I\u2019m kinda ignorant and dumb with certain aspects of the UFO conversation since I\u2019m more of a tech guy.  But what the hell are Akashic Records?  I woke up this morning and that\u2019s all that I was thin",
+      "text": "Happy World UFO Day Humans \ud83d\udef8  This is part of our lives already, and we come to be part of yours.  Let's celebrate for a bigger and more warm world with open eyes and heart  The Truth is finally out t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643570607984804"
+      "url": "https://x.com/i/web/status/2072671284966695391"
     },
     {
       "type": "x",
-      "text": "They Put the Wrong Guy in Charge of UFO Disclosure https://t.co/FDeSTJMw5a via @YouTube",
+      "text": "Am I the only one who finds UAP Gerb to be kind of annoying? In that podcast he did recently he kept interrupting people and was throwing out broad assumptions on who and how. Those make for great sou",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643546361065900"
+      "url": "https://x.com/i/web/status/2072671121200079321"
     },
     {
       "type": "x",
-      "text": "From one of history's greatest UFO mysteries to the Fermi Paradox! This World UFO Day, @RSCBhuj explored one of history's most intriguing mysteries\u2014the Roswell Incident and ventured into the realm of ",
+      "text": "GM! Happy Thursday!  Time to dust off your platforms, put on your best sequined attire, and get ready to boogie because it\u2019s National Disco Day!  It\u2019s also World UFO Day, so keep your eyes to the skie",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643359785844866"
+      "url": "https://x.com/i/web/status/2072670983530639563"
     },
     {
       "type": "x",
-      "text": "Americans are very popular among aliens. After all, it is with them that UFOs most frequently make contact. In our video, we discuss the most famous and sensational cases on World UFO Day.  #RTDoc #UF",
+      "text": "It's #WorldUFODay \ud83d\udef8 In 1954 a UFO crashed near Caldbeck. That same year, 13 year-old Stephen Darbishire allegedly took this photograph of a UFO near Coniston   more in my \"Folklore of the Lake Distric",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072643281943490690"
+      "url": "https://x.com/i/web/status/2072670786913984936"
     },
     {
       "type": "swpc",
@@ -1365,6 +1365,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.1
+    },
+    {
+      "ts": "2026-07-02T13:19:21.204914Z",
+      "score": 37.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.8
     }
   ],
   "sources": [
