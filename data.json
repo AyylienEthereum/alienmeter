@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-07-02T08:46:46.619385Z",
-  "score": 31.8,
+  "generated_at": "2026-07-02T11:29:33.467980Z",
+  "score": 34.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.5,
-    "d24h": 5.8,
+    "d1h": 0.3,
+    "d24h": 9.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.5,
+    "social_chatter": 7.6,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 1.9,
     "alien_variance": 1.2
   },
@@ -31,17 +31,18 @@
     "day": 18,
     "date": "02.07.2026",
     "declassified": "02.07.26",
-    "generated_utc": "08:46",
+    "generated_utc": "11:29",
     "top_drivers": [
-      "X/Twitter chatter: 94 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "The Q2 Flowdown : ETFs Smash Records to Start Summer",
+      "X/Twitter chatter: 129 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.8,
+    "live_signal": 27.1,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +50,114 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 94,
+    "x_last_hour": 129,
     "wiki_spike_pct": -29.33347417344459,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.81,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@Eyes_OnTheSkies So eyewitness testimony is still important is it? So are competent journalists, but I've yet to find one. I only penned a top 4 bestselling ufo title and NASA expose but who cares? Ob",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072602454370250911"
+      "type": "news",
+      "text": "The Q2 Flowdown : ETFs Smash Records to Start Summer",
+      "source": "etftrends.com",
+      "url": "https://www.etftrends.com/thematic-investing-content-hub/q2-flowdown-etfs-smash-records-start-summer/"
+    },
+    {
+      "type": "news",
+      "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0451\u043d\u043d\u044b\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0430\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u0438\u043a\u0438 \u043f\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044e \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u043d\u044b\u043c\u0438 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f\u043c\u0438",
+      "source": "arh-info.ru",
+      "url": "https://arh-info.ru/social/44922666-obnovlennye-rekomendacii-akademii-astronavtiki-po-vzaimodeystviyu-s-inoplanetnymi-civilizaciyami.html"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=fc4d9fd6-cf73-75f8-3404-a03b9a8dd5bd"
+    },
+    {
+      "type": "news",
+      "text": "26 Maine Towns With The Most Reported UFO Sightings",
+      "source": "wcyy.com",
+      "url": "https://wcyy.com/maine-towns-ufo-aliens-sightings-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=12a6ec3f-ffb6-f5a6-e4de-61846b03f7ca"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=84070514-9dda-e8bb-69db-ca2a8fee82df"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c5f15974-f17b-0b9d-6ff0-1efad0f1a2c7"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=f500eb1c-99a0-be99-2ab1-052fa52498bd"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=e8953b00-5399-2dcf-d1f7-e06c2c8682bc"
+    },
+    {
+      "type": "news",
+      "text": "Netflix : Estrenos de Pel\u00edculas hoy 30 de junio del 2026",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-30-de-junio-del-2026-noticia-1695262?hash=c3345668-24b8-5c6e-631b-959fae991c94"
     },
     {
       "type": "x",
-      "text": "The UK files \ud83d\udef8 Berwyn 1974: Wales' Roswell. Ilkley Moor 1987: the photo nobody explained. Calvine 1990: the clearest UFO shot ever, hidden 32 years. GoFast 2015: no wings, no exhaust, all speed. Which",
+      "text": "@LadyofNETN GM Amanda! Happy UFO Day! https://t.co/0LkF7ksEUF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072602389526249747"
+      "url": "https://x.com/i/web/status/2072643733070254494"
     },
     {
       "type": "x",
-      "text": "\"It is clear that the Pentagon and the intelligence agencies are puzzled by the properties of objects that remain unidentified.\" Wion Interview: On World UFO Day, Avi Loeb, Chair of UAP Science Counci",
+      "text": "Happy UFO Day Aliens.  MAKE ALIENS GREAT AGAIN solana:Hon2rHAiqkcDtUzL5gA2vjXPr7T1MPCK2UT2AHKCpump @MAGA_Aliens https://t.co/fvx2CNHxyb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072602174740447674"
+      "url": "https://x.com/i/web/status/2072643716276187304"
     },
     {
       "type": "x",
-      "text": "@Unexplained2020 All these UFO grifters coming out of the woodwork. So many tales and stories, but nobody has proof. Imagine that.",
+      "text": "Ok I\u2019m kinda ignorant and dumb with certain aspects of the UFO conversation since I\u2019m more of a tech guy.  But what the hell are Akashic Records?  I woke up this morning and that\u2019s all that I was thin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072601751661023330"
+      "url": "https://x.com/i/web/status/2072643570607984804"
     },
     {
       "type": "x",
-      "text": "@ryzemeta Nah anyone targeting top Gs should be jailed for a while till we analyze what UFO is controlling their minds.",
+      "text": "They Put the Wrong Guy in Charge of UFO Disclosure https://t.co/FDeSTJMw5a via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072601621809521051"
+      "url": "https://x.com/i/web/status/2072643546361065900"
     },
     {
       "type": "x",
-      "text": "The Cosmic Lens: How The X-Files Anticipated Modern UAP Disclosure \u2013 The 1993 Script for 2026 Reality https://t.co/QRAKkRTuPW via @NSAEN #XFiles #conspiracy #NonHumanIntelligence https://t.co/7sPKvovv",
+      "text": "From one of history's greatest UFO mysteries to the Fermi Paradox! This World UFO Day, @RSCBhuj explored one of history's most intriguing mysteries\u2014the Roswell Incident and ventured into the realm of ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072601567342235984"
+      "url": "https://x.com/i/web/status/2072643359785844866"
+    },
+    {
+      "type": "x",
+      "text": "Americans are very popular among aliens. After all, it is with them that UFOs most frequently make contact. In our video, we discuss the most famous and sensational cases on World UFO Day.  #RTDoc #UF",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2072643281943490690"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 278\r Issue Time: 2026 Jul 02 0935 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +168,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTXMF\r Serial Number: 535\r Issue Time: 2026 Jul 01 2308 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA30\r Serial Number: 277\r Issue Time: 2026 Jul 01 1240 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1297,6 +1358,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.8
+    },
+    {
+      "ts": "2026-07-02T11:29:33.392515Z",
+      "score": 34.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.1
     }
   ],
   "sources": [
