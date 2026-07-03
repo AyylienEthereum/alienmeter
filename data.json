@@ -1,112 +1,100 @@
 {
-  "generated_at": "2026-07-02T22:47:05.941552Z",
-  "score": 37.3,
+  "generated_at": "2026-07-03T00:00:25.632923Z",
+  "score": 35.5,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -0.3,
-    "d24h": 9.0,
+    "d1h": -2.7,
+    "d24h": 10.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.4,
+    "social_chatter": 11.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 1.2,
     "seismic": 1.9,
-    "alien_variance": 2.2
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 18,
-    "day": 18,
-    "date": "02.07.2026",
-    "declassified": "02.07.26",
-    "generated_utc": "22:47",
+    "number": 19,
+    "day": 19,
+    "date": "03.07.2026",
+    "declassified": "03.07.26",
+    "generated_utc": "00:00",
     "top_drivers": [
-      "X/Twitter chatter: 191 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "X/Twitter chatter: 196 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.7,
-    "baseline_recent": 25.6,
+    "live_signal": 28.4,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 191,
-    "wiki_spike_pct": -29.33347417344459,
+    "x_last_hour": 196,
+    "wiki_spike_pct": -23.88682524942258,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.8,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udd25 One of THE MOST important interviews of our time. The truth spoken in this candid conversation between Candace (@RealCandaceO) and Shawn (@ShawnRyan762) breaks down and lays out the aftermath of wha",
+      "text": "Harvard professor to lead new White House UFO council https://t.co/NIATRNKAQ1  ~ Avi Loeb ~",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072814244048064745"
+      "url": "https://x.com/i/web/status/2072832721227837456"
     },
     {
       "type": "x",
-      "text": "Mr. @RichardDreyfuss was mistaken for #DustinHoffman in #CloseEncountersOfTheThirdKind on @AlchemyAmerican #uap #ufo #disclosure   timestamp 1:14:56 https://t.co/emiKKOe3Wi",
+      "text": "Now that I am not suppressed like my other account, I will explain why I got into the UFO/UAP topic. I have always had an interesting childhood and knew I was different from everyone at a very young a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072814011876323420"
+      "url": "https://x.com/i/web/status/2072832595008839704"
     },
     {
       "type": "x",
-      "text": "@ryocece there's only one good song and it's the ufo dorian electra remix but that's mid too",
+      "text": "What other historical UFO sightings do you think should be celebrated? Share your favorites below!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072813852891435139"
+      "url": "https://x.com/i/web/status/2072832580437553491"
     },
     {
       "type": "x",
-      "text": "Happy International UFO DAY JULY 2 \ud83d\udc7d \ud83d\udef8 \ud83d\udc7e https://t.co/nfnCVHdRMq",
+      "text": "@ufocryptocoin Ppl always ask, is alien real??   Leave ppl questioning if UFO meta is rare gem,   Follow back, I got some ideas and suggestions I\u2019d like to share which can drive the right visibility a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072813740530049136"
+      "url": "https://x.com/i/web/status/2072832519901204660"
     },
     {
       "type": "x",
-      "text": "In 2024, Michael Shermer mocked the witnesses at the UAP Congressional hearings as paid grifters, \"available for media interviews, book contracts, documentary films, and especially paid speaking engag",
+      "text": "What\u2019s the most mind-blowing UFO sighting you\u2019ve ever heard about? Share your favorites below!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072813622854910053"
+      "url": "https://x.com/i/web/status/2072832505653182860"
     },
     {
       "type": "x",
-      "text": "There more like sharks very mechanical in nature but they ain't mechanical transcendent entities they elevate different dimension pop disappear like a fart in the wind again these are the trapazoidal ",
+      "text": "@InterstellarUAP A flying saucer landed in my hometown, and a supermodel alien stepped out. She invited me to see the inside of the UFO\u2014it was really cool\u2014and then she proposed to me.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072813486896476574"
+      "url": "https://x.com/i/web/status/2072832440368808421"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 278\r Issue Time: 2026 Jul 02 0935 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 321\r Issue Time: 2026 Jul 01 2320 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 535\r Issue Time: 2026 Jul 01 2308 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1353,6 +1341,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.7
+    },
+    {
+      "ts": "2026-07-03T00:00:25.557763Z",
+      "score": 35.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.4
     }
   ],
   "sources": [
