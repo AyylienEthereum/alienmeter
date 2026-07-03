@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T21:44:42.207457Z",
-  "score": 36.0,
+  "generated_at": "2026-07-03T22:43:52.659376Z",
+  "score": 34.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.4,
-    "d24h": 1.8,
+    "d1h": 1.7,
+    "d24h": -1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.2,
+    "social_chatter": 8.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "21:44",
+    "generated_utc": "22:43",
     "top_drivers": [
-      "X/Twitter chatter: 154 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 12",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.0,
+    "live_signal": 27.3,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -78.06909467251491,
-    "x_last_hour": 154,
-    "wiki_spike_pct": -10.723345740771482,
+    "gdelt_spike_pct": -77.7772165963787,
+    "x_last_hour": 147,
+    "wiki_spike_pct": -29.863349033217652,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 12
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "CONFIRMS NOW: THE UFO PHENOMENON IS REAL https://t.co/vYkxKYYtUA via @YouTube",
+      "text": "dis clothes ure? disc closer? disclosure? what? 2 different grok versions \ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83c\udf7b\ud83d\udef8#Jesus in a #UFO #Cult #JIAUFOC #JesusInAufoCult https://t.co/fMNT9SA4VL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160975495155989"
+      "url": "https://x.com/i/web/status/2073175868869095650"
     },
     {
       "type": "x",
-      "text": "#FridayVibes Freaky Friday #Friday #WorldUFODay #UFO #Aliens @PlayStation #Playstation @THQNordic #DestroyAllHumans #Crypto Spyin PonsonbySmyth Code #Blisk #SaveAct AB #Politics (DonateDescription) #C",
+      "text": "@Mavmetax There is no truth to tell. This administration is built on conspiracies. They\u2019ve just adopted the ufo one. It\u2019s a forever rabbit hole with nothing there in the first place. Nothing has chang",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160672012112078"
+      "url": "https://x.com/i/web/status/2073175789688795311"
     },
     {
       "type": "x",
-      "text": "@michaelshermer @ProfAviLoeb I am seriously suggesting that you do not understand physics deeply enough to have a competent opinion on time travel. Physics is a big subject. There are areas of experim",
+      "text": "@UAPJosh @VettedPodcast @GoodTroubleShow Don\u2019t be an asshat.  Nothing is hurting Patrick\u2019s credibility by asking important questions that everyone else keeps refusing to ask.  And honestly\u2026 is there s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160349562642633"
+      "url": "https://x.com/i/web/status/2073175703953215952"
     },
     {
       "type": "x",
-      "text": "#scifiadventure #ShamelessSelfpromo #MakeYourFilm #filmcommunity #subscribe #filmmakers #indieauthor of #scifi #fiction #comedy #horror #mystery #ufo #aliens #NeoNoir #LGBT #erotica #Indienanimation  ",
+      "text": "\ud83d\udc26\ud83e\udd8a\ud83e\udd8c Spielberg's \"Disclosure Day\" Confirmed what UAP Researchers Have Known for Decades: NHI Use Animal Forms for Gentle First Contact  In Steven Spielberg\u2019s new sci-fi thriller Disclosure Day, extrate",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160315064254534"
+      "url": "https://x.com/i/web/status/2073174622380724517"
     },
     {
       "type": "x",
-      "text": "https://t.co/DxlnKKVpeJ new episode with @iamnickcook  discussing Ingo Swann, UAP, and how reality is participatory.",
+      "text": "Do you think we're really alone in the universe? Watch till the end and share your opinion in the comments. \ud83d\udc40  \ud83d\udcfa Want to watch the full documentary? Head over to MrRare on YouTube and watch the comple",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160251445014697"
+      "url": "https://x.com/i/web/status/2073174538251338207"
     },
     {
       "type": "x",
-      "text": "Four UFO cases that still spark debate \ud83d\udef8 Ubatuba (1957) \u00b7 the Green Fireballs (1948) \u00b7 the Tether Incident (1996) \u00b7 Villas-Boas (1957). #UFO #UAP #aliens #paranormal https://t.co/2nE0Govc7k",
+      "text": "@Carl_Vibe would you do an interview with me for my ufo channel?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073160039154479505"
+      "url": "https://x.com/i/web/status/2073174021592527293"
     },
     {
       "type": "swpc",
@@ -1424,6 +1424,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.0
+    },
+    {
+      "ts": "2026-07-03T22:43:52.570586Z",
+      "score": 34.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.3
     }
   ],
   "sources": [
