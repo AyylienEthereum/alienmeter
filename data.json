@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T06:57:34.955563Z",
-  "score": 30.4,
+  "generated_at": "2026-07-03T09:57:37.284215Z",
+  "score": 27.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -3.8,
-    "d24h": 1.5,
+    "d1h": -10.3,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.3,
+    "social_chatter": 4.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,16 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "06:57",
+    "generated_utc": "09:57",
     "top_drivers": [
-      "X/Twitter chatter: 91 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "X/Twitter chatter: 70 UFO/UAP posts in the last hour",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.9,
+    "live_signal": 17.5,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -49,54 +48,48 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 91,
+    "x_last_hour": 70,
     "wiki_spike_pct": -29.863349033217652,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Ufology-Parapsychology: UFO Activity Surges Across the U.S. | Unidentified: Inside America's UFO Investigation https://t.co/Rn2UnX5NGm via @YouTube",
+      "text": "People don't always wait for evidence. Sometimes they wait for permission.  $ufo #disclosure #capitol https://t.co/pY8rqXPgFp https://t.co/YEOEtzY6SA",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072937534233985030"
+      "url": "https://x.com/i/web/status/2072982298635518100"
     },
     {
       "type": "x",
-      "text": "@Space89X There's a series of events coming so it's quite possible it will be all of them, definitely not just one. Trump released the UFO files on the day the Saturn-Neptune conjunction peaked in Feb",
+      "text": "@UAPJames yes, because SO much has been revealed by the UAP commission so far.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072937311096963527"
+      "url": "https://x.com/i/web/status/2072982209905164485"
     },
     {
       "type": "x",
-      "text": "Ufology-Parapsychology: Captured on Camera: Modern UFO Encounters | Encounter UFO Full Season 1 Marathon https://t.co/GtHJRgdyFp via @YouTube",
+      "text": "@HoffmanEnrique @Mikehomeseller @TiaColita #Jul3 Efem\u00e9rides Julio 3 \u00c1lbumes de Aniversario  1968 The Doors \u2022 Waiting For The Sun 1970 James Gang \u2022 James Gang Rides Again 1975 UFO \u2022 Force It 1981 Jon a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072937171648917641"
+      "url": "https://x.com/i/web/status/2072982197284278414"
     },
     {
       "type": "x",
-      "text": "@EricBurlison @AmericanALCHMY @AlchemyAmerican @YouTube Hahahhahaha. Of course you are.   That is where everyone ends up after sinking to News Nation lows.  Next up: a post DC run on the UFO conventio",
+      "text": "@ErroneousGaes How many towns had that UFO been shopping at?  It looks like a Costco buy.   Love the colors and the scenes",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072937017420464293"
+      "url": "https://x.com/i/web/status/2072982128430633334"
     },
     {
       "type": "x",
-      "text": "Ufology-Parapsychology: UFO Proofs &amp; Alien Mystery Caught On Camera! | UFO Witness S1 E2,4,6,8 | Discovery India  https://t.co/08S3RHfVRf via @YouTube",
+      "text": "@Fury_Remy This is an example where the camera is kept pointing at something stationary while the camera is flying and the background appears to be moving fast because it's far away. Compare this to t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072936820753506555"
+      "url": "https://x.com/i/web/status/2072982044381237259"
     },
     {
       "type": "x",
-      "text": "@VettedPodcast Waiting for it to be lifted up into the UAP for dissection.",
+      "text": "\u2b55 Government Reaching Out to Scientists Implies They're Not Sure It's Human Made.  Avi Loeb (Harvard astrophysicist) July 2, 2026. @ProfAviLoeb  Commenting on UAP incidents over military sites while l",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072936704059842655"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA30\r Serial Number: 278\r Issue Time: 2026 Jul 02 0935 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "url": "https://x.com/i/web/status/2072981934112706606"
     },
     {
       "type": "neo",
@@ -1356,6 +1349,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.9
+    },
+    {
+      "ts": "2026-07-03T09:57:37.209856Z",
+      "score": 27.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.5
     }
   ],
   "sources": [
