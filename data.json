@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T16:13:20.145751Z",
-  "score": 34.6,
+  "generated_at": "2026-07-03T17:48:42.465733Z",
+  "score": 32.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.2,
-    "d24h": -2.2,
+    "d1h": 5.9,
+    "d24h": -31.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "social_chatter": 8.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "16:13",
+    "generated_utc": "17:48",
     "top_drivers": [
-      "X/Twitter chatter: 151 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 139 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.3,
+    "live_signal": 25.1,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,8 +49,8 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 151,
-    "wiki_spike_pct": -30.424811964163606,
+    "x_last_hour": 139,
+    "wiki_spike_pct": -29.863349033217652,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "\ud835\udfdd \ud835\udd4b\ud835\udd59\ud835\udd5a\ud835\udd5f\ud835\udd58\ud835\udd64 \ud835\udd65\ud835\udd60 \ud835\udd3b\ud835\udd60 \ud835\udd4b\ud835\udd59\ud835\udd5a\ud835\udd64 \ud835\udfdc\ud835\udd65\ud835\udd59 \ud835\udd60\ud835\udd57 \ud835\udd41\ud835\udd66\ud835\udd5d\ud835\udd6a \ud835\udd4e\ud835\udd56\ud835\udd56\ud835\udd5c\ud835\udd56\ud835\udd5f\ud835\udd55  \ud83e\udde8 Celebrate America\u2019s 250th birthday\ud83c\udf77Sample New Mexico\u2019s finest wine \ud83d\udc7dLand at the Roswell UFO Festival \ud83c\udfa8Tour Lincoln County artists\u2019 studios  \u26bd Put your game-f",
+      "text": "It was the size of a Super Walmart. Sphere. Surface like molten plasma. Dead center over the ICBM blast door. \u2014 Mario Woods on 1977 nuclear site incident #UFO #UFO #Encounter #NHI @chrisramsay52 Sourc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077564378337662"
+      "url": "https://x.com/i/web/status/2073101492089696384"
     },
     {
       "type": "x",
-      "text": "remember when Trump said he was gonna drop the ufo files",
+      "text": "1977 Ellsworth AFB: I flashed the perimeter lights at the object. It flashed back the exact same sequence. No sound. Still hovering. \u2014 Mario Woods, USAF Security Police #UFO #UFO #Encounter #NHI @chri",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077502923211214"
+      "url": "https://x.com/i/web/status/2073101391950745857"
     },
     {
       "type": "x",
-      "text": "There\u2019s been several cases of very credible ufo whistle blowers coming forward that claim to work on super secret ufo programs that super suspiciously turn up dead before being able to testify.   Ther",
+      "text": "@SiestaJak @Holden_Culotta Why is the fed govt so efficient at hiding secret UFO craft but Congress can\u2019t get a decent piece of legislation passed about critical real world matters like immigration &a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077494488465832"
+      "url": "https://x.com/i/web/status/2073101389375357392"
     },
     {
       "type": "x",
-      "text": "NEW The aerospace industry\u2019s oversized presence at President Trump's Great American State Fair.  Spotted: @LockheedMartin, @SpaceX, @northropgrumman, @GE_Aerospace, @Axiom_Space, @SAP, etc.  And @USSp",
+      "text": "QT with your UFO Art https://t.co/H7xmbnR5hN https://t.co/qlUb1M41Vk",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077429929676983"
+      "url": "https://x.com/i/web/status/2073101386024108321"
     },
     {
       "type": "x",
-      "text": "The Leaker of the MAJESTIC 12 Files, S1, was Ex US Navy, OSS, &amp; CIA Newton Scotty (Scott) Miler   \"(PUBLIC DOMAIN) \u2014 7 July 1999   \u2014 An alleged CIA source (MILER)  tells ufologist Tim Cooper the U",
+      "text": "@Kristinawong @HansMahncke Love it! I went to high school  in a town with an active air force base and we always had air show events! One year they brought the SR-71 Blackbird (was still in use) for d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077375257255959"
+      "url": "https://x.com/i/web/status/2073101291769958610"
     },
     {
       "type": "x",
-      "text": "@overclassifiedx The Deep State lying about #UFO phenomena is real.  Anyone disoriented yet?  That's the goal. https://t.co/P3wbVL18NO",
+      "text": "The CIA actively MURDER people connected to the UFO back engineering project(s). Even the ones who happily keep their mouths shut. #Wankers https://t.co/SlWEn8hENC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073077284223721758"
+      "url": "https://x.com/i/web/status/2073100992002859492"
     },
     {
       "type": "swpc",
@@ -1396,6 +1396,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.3
+    },
+    {
+      "ts": "2026-07-03T17:48:42.390447Z",
+      "score": 32.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.1
     }
   ],
   "sources": [
