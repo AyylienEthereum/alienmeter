@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T14:31:36.077023Z",
+  "generated_at": "2026-07-03T16:13:20.145751Z",
   "score": 34.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": -10.2,
+    "d1h": 4.2,
+    "d24h": -2.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.5,
+    "social_chatter": 9.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "14:31",
+    "generated_utc": "16:13",
     "top_drivers": [
-      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 151 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -49,8 +49,8 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 143,
-    "wiki_spike_pct": -24.19923804148441,
+    "x_last_hour": 151,
+    "wiki_spike_pct": -30.424811964163606,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Who else hasn't watched the \"UFO Files\"  Not interested in bullshit- thanks  Show me the actual items/ships/bodies ( real life) &amp;   THEN I'll be intrigued- not scared- curious",
+      "text": "\ud835\udfdd \ud835\udd4b\ud835\udd59\ud835\udd5a\ud835\udd5f\ud835\udd58\ud835\udd64 \ud835\udd65\ud835\udd60 \ud835\udd3b\ud835\udd60 \ud835\udd4b\ud835\udd59\ud835\udd5a\ud835\udd64 \ud835\udfdc\ud835\udd65\ud835\udd59 \ud835\udd60\ud835\udd57 \ud835\udd41\ud835\udd66\ud835\udd5d\ud835\udd6a \ud835\udd4e\ud835\udd56\ud835\udd56\ud835\udd5c\ud835\udd56\ud835\udd5f\ud835\udd55  \ud83e\udde8 Celebrate America\u2019s 250th birthday\ud83c\udf77Sample New Mexico\u2019s finest wine \ud83d\udc7dLand at the Roswell UFO Festival \ud83c\udfa8Tour Lincoln County artists\u2019 studios  \u26bd Put your game-f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051850878689760"
+      "url": "https://x.com/i/web/status/2073077564378337662"
     },
     {
       "type": "x",
-      "text": "Green and Black Alien UFO Shower Curtain - Black Shower Curtain - UFO Shower Curtain - Alien Shower Curtain - Black Bathroom Decor https://t.co/3I7MvfvPaU via @Etsy",
+      "text": "remember when Trump said he was gonna drop the ufo files",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051505272201594"
+      "url": "https://x.com/i/web/status/2073077502923211214"
     },
     {
       "type": "x",
-      "text": "Black and Green Alien UFO Beach Towel - Summer Accessory - Pool Towel - Alien Gift - Summer Towel - UFO Towel - Black and Green- 2 Sizes https://t.co/ohfbmqD4bl via @Etsy",
+      "text": "There\u2019s been several cases of very credible ufo whistle blowers coming forward that claim to work on super secret ufo programs that super suspiciously turn up dead before being able to testify.   Ther",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051461563318581"
+      "url": "https://x.com/i/web/status/2073077494488465832"
     },
     {
       "type": "x",
-      "text": "Black and Green UFO Alien Hand Towel - UFO Towel - Kitchen Hand Towel - Alien Decor - Sci-Fi Kitchen Decor - UFO Hand Towel https://t.co/qN5rd4wdoQ via @Etsy",
+      "text": "NEW The aerospace industry\u2019s oversized presence at President Trump's Great American State Fair.  Spotted: @LockheedMartin, @SpaceX, @northropgrumman, @GE_Aerospace, @Axiom_Space, @SAP, etc.  And @USSp",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051412452303137"
+      "url": "https://x.com/i/web/status/2073077429929676983"
     },
     {
       "type": "x",
-      "text": "Green and Black Alien Suitcase - UFO Luggage - Halloween Luggage - Alien Luggage - Small, Medium, Large Rolling Suitcase https://t.co/R1AmWytObe via @Etsy",
+      "text": "The Leaker of the MAJESTIC 12 Files, S1, was Ex US Navy, OSS, &amp; CIA Newton Scotty (Scott) Miler   \"(PUBLIC DOMAIN) \u2014 7 July 1999   \u2014 An alleged CIA source (MILER)  tells ufologist Tim Cooper the U",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051377794756732"
+      "url": "https://x.com/i/web/status/2073077375257255959"
     },
     {
       "type": "x",
-      "text": "\ud83e\udd14\ud83d\udef8Maybe? it is a bit like Earth \ud83c\udf0d herself has an Immune system and a  Symbiotic Mutualism Relationship with Alien life \ud83d\udc7d&amp; or UAP a bit like the Gaia Hypothesis\u2764\ufe0f\ud83c\udf0e see from Holistic view the whole ",
+      "text": "@overclassifiedx The Deep State lying about #UFO phenomena is real.  Anyone disoriented yet?  That's the goal. https://t.co/P3wbVL18NO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073051367338344908"
+      "url": "https://x.com/i/web/status/2073077284223721758"
     },
     {
       "type": "swpc",
@@ -1385,6 +1385,13 @@
     },
     {
       "ts": "2026-07-03T14:31:36.002824Z",
+      "score": 34.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.3
+    },
+    {
+      "ts": "2026-07-03T16:13:20.072864Z",
       "score": 34.6,
       "band": "THAT'S WEIRD",
       "i": 2,
