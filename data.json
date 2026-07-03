@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T19:09:57.798199Z",
-  "score": 39.9,
+  "generated_at": "2026-07-03T20:32:34.346612Z",
+  "score": 34.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,15 +10,15 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 10.3,
-    "d24h": -0.4,
+    "d1h": 0.0,
+    "d24h": -2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.3,
+    "social_chatter": 8.9,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 6.6,
     "search_interest": 2.6,
     "space_weather_alerts": 6.0,
@@ -31,10 +31,10 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "19:09",
+    "generated_utc": "20:32",
     "top_drivers": [
-      "X/Twitter chatter: 140 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 8",
+      "X/Twitter chatter: 149 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 11",
       "Wikipedia UFO pageviews +16% above baseline",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -42,72 +42,72 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 34.1,
-    "baseline_recent": 25.6,
+    "live_signal": 27.2,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": null,
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 140,
+    "gdelt_spike_pct": -77.98003523194362,
+    "x_last_hour": 149,
     "wiki_spike_pct": 16.19695938280009,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 11
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Love this. I am myself going to exactly Sedona for UFO hunting in late October \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/H2A9Qb2sQD",
+      "text": "Rep. @laurenboebert is right to spotlight portals in congressional UFO docs. Historical patterns from ancient portal myths across cultures to verified military UAP hotspots with vanishing orbs suggest",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073122012180963601"
+      "url": "https://x.com/i/web/status/2073142695376113789"
     },
     {
       "type": "x",
-      "text": "Join @TylerFrom1776 and I tonight for some UFO fun!  Enjoy The Show - Episode 142 Friday UFO Night https://t.co/eDY0IGjtg7",
+      "text": "\ud83c\uddfa\ud83c\uddf8 They're about to do something actually insane for the U.S. 250th birthday!  NASA chief Jared Isaacman is doing a flyover over the National Mall tomorrow that Trump says will be \u201cthe likes of which ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073121973010645028"
+      "url": "https://x.com/i/web/status/2073142234627592606"
     },
     {
       "type": "x",
-      "text": "@MLiamMcCollum They told Donald about the uap shit buried in ancient archaeological sites in the middle east, that's why he flip flipped lol national security mafia is basically engaged in the templer",
+      "text": "Files confirm the claims of early UFO researchers with a word-for-word match. https://t.co/3TnU8cwx0B",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073121871290384555"
+      "url": "https://x.com/i/web/status/2073141981501690122"
     },
     {
       "type": "x",
-      "text": "@michaelshermer Rebuttals  1. Military sensors/camera malfunction? Unlikely. Military uses multiple surveillance assets in a kinetic theater. Satellite, drones, jets, carriers all equipped to document",
+      "text": "@LeifNordh @WDYFW_PodClips How is the UFO reposting going? Has the BBC finally released the truth? Lemme guess you stand with the Zelend regime? https://t.co/dKmkMJamDT",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073121726234509313"
+      "url": "https://x.com/i/web/status/2073141893014147379"
     },
     {
       "type": "x",
-      "text": "@rob_keyes @F1Movie @screenrant @akharrison98 You had me at Joseph Kosinski UFO movie. https://t.co/iiRbN7fA6i",
+      "text": "@GarbinJaime This shot is majestic! but forget the lightning... I'm pretty sure there's a UFO in there.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073121514229010856"
+      "url": "https://x.com/i/web/status/2073141511785451543"
     },
     {
       "type": "x",
-      "text": "@HighlyStrange Keep trying UFO folks. Keep trying but you must must must try harder.",
+      "text": "I wanted to capture the classic UFO abduction trope but with a funny twist. Focused on balancing the volumetric mist and particle systems for floating sparks.  Easily generate your own unique 3D model",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073121401993588821"
+      "url": "https://x.com/i/web/status/2073141426339115148"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 537\r Issue Time: 2026 Jul 03 1900 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 921\r Issue Time: 2026 Jul 03 2020 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jul ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 322\r Issue Time: 2026 Jul 03 1859 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1510\r Issue Time: 2026 Jul 03 1939 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1509\r Issue Time: 2026 Jul 03 1847 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 323\r Issue Time: 2026 Jul 03 1911 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1411,6 +1411,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 34.1
+    },
+    {
+      "ts": "2026-07-03T20:32:34.289904Z",
+      "score": 34.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.2
     }
   ],
   "sources": [
