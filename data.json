@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T00:00:25.632923Z",
-  "score": 35.5,
+  "generated_at": "2026-07-03T03:52:28.979966Z",
+  "score": 33.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": 10.7,
+    "d1h": -3.2,
+    "d24h": 7.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.8,
+    "social_chatter": 7.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 1.9,
-    "alien_variance": 1.9
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "00:00",
+    "generated_utc": "03:52",
     "top_drivers": [
-      "X/Twitter chatter: 196 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 121 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.4,
+    "live_signal": 25.7,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -49,8 +49,8 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 196,
-    "wiki_spike_pct": -23.88682524942258,
+    "x_last_hour": 121,
+    "wiki_spike_pct": -29.863349033217652,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.8,
     "swpc_alerts_24h": 1
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Harvard professor to lead new White House UFO council https://t.co/NIATRNKAQ1  ~ Avi Loeb ~",
+      "text": "US Tests a  F-55 1.5 Billion$ UFO Jet That Shocked The World! https://t.co/U6NQYVQuKd via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832721227837456"
+      "url": "https://x.com/i/web/status/2072890756587470907"
     },
     {
       "type": "x",
-      "text": "Now that I am not suppressed like my other account, I will explain why I got into the UFO/UAP topic. I have always had an interesting childhood and knew I was different from everyone at a very young a",
+      "text": "Happy UFO Day!!! https://t.co/kD68Rr0ity",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832595008839704"
+      "url": "https://x.com/i/web/status/2072890609120206850"
     },
     {
       "type": "x",
-      "text": "What other historical UFO sightings do you think should be celebrated? Share your favorites below!",
+      "text": "@Bar_T_Welding @PengAntarctica @Kabamur_Taygeta @RepEricBurlison @ProfAviLoeb @haroldputhoff @UAPGERB @AshtonForbes @LockheedMartin Nah man, i'l search it up thanks.  I believe in Charles Chase's memo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832580437553491"
+      "url": "https://x.com/i/web/status/2072890594507055599"
     },
     {
       "type": "x",
-      "text": "@ufocryptocoin Ppl always ask, is alien real??   Leave ppl questioning if UFO meta is rare gem,   Follow back, I got some ideas and suggestions I\u2019d like to share which can drive the right visibility a",
+      "text": "@ShaneFrakes My mom used to see Moldavite at UFO conventions. It's out of this world.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832519901204660"
+      "url": "https://x.com/i/web/status/2072890398154842478"
     },
     {
       "type": "x",
-      "text": "What\u2019s the most mind-blowing UFO sighting you\u2019ve ever heard about? Share your favorites below!",
+      "text": "@RepEricBurlison Hey Eric, I am a life long experiencer of the UAP Phenomenon. In my 50's now and I have managed to capture some of it in different forms.  Look at the orbs coming down around this \"cr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832505653182860"
+      "url": "https://x.com/i/web/status/2072890322355359798"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP A flying saucer landed in my hometown, and a supermodel alien stepped out. She invited me to see the inside of the UFO\u2014it was really cool\u2014and then she proposed to me.",
+      "text": "@michaelshermer @ProfAviLoeb Avi Loeb basically saying any ideas or explanations outside his own head aren't allowed in the new UAP task force.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072832440368808421"
+      "url": "https://x.com/i/web/status/2072890209272791216"
     },
     {
       "type": "swpc",
@@ -1348,6 +1348,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.4
+    },
+    {
+      "ts": "2026-07-03T03:52:28.906382Z",
+      "score": 33.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.7
     }
   ],
   "sources": [
