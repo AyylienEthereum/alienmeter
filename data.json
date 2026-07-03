@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T12:09:14.357455Z",
-  "score": 29.6,
+  "generated_at": "2026-07-03T14:31:36.077023Z",
+  "score": 34.6,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -5.9,
-    "d24h": -6.8,
+    "d1h": 1.2,
+    "d24h": -10.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.2,
+    "social_chatter": 8.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "12:09",
+    "generated_utc": "14:31",
     "top_drivers": [
-      "X/Twitter chatter: 105 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.9,
+    "live_signal": 27.3,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,54 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 105,
-    "wiki_spike_pct": -29.863349033217652,
+    "x_last_hour": 143,
+    "wiki_spike_pct": -24.19923804148441,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83e\udde0 ALIEN FACT: On Aug 15, 1977, the WOW! Signal \u2014 a 72-second radio burst matching predicted alien transmission signatures \u2014 hit a telescope from deep space. It has never been explained or repeated sin",
+      "text": "Who else hasn't watched the \"UFO Files\"  Not interested in bullshit- thanks  Show me the actual items/ships/bodies ( real life) &amp;   THEN I'll be intrigued- not scared- curious",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073015560019784156"
+      "url": "https://x.com/i/web/status/2073051850878689760"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8 UAP disclosure push may be a \"dead end\" \u2014 researcher warns the government's latest transparency drive could be misdirection, not revelation. Real answers still buried? #UFO #UAP #Disclosure #Aliens ",
+      "text": "Green and Black Alien UFO Shower Curtain - Black Shower Curtain - UFO Shower Curtain - Alien Shower Curtain - Black Bathroom Decor https://t.co/3I7MvfvPaU via @Etsy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073015487517065617"
+      "url": "https://x.com/i/web/status/2073051505272201594"
     },
     {
       "type": "x",
-      "text": "Has President Trump been briefed on UFO's? @jessemichelsclips @jessemichelsofficial #UAP #Trump #uspresident #control #deepstate @RepEricBurlison https://t.co/j5N2DSsKKD",
+      "text": "Black and Green Alien UFO Beach Towel - Summer Accessory - Pool Towel - Alien Gift - Summer Towel - UFO Towel - Black and Green- 2 Sizes https://t.co/ohfbmqD4bl via @Etsy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073015193442148444"
+      "url": "https://x.com/i/web/status/2073051461563318581"
     },
     {
       "type": "x",
-      "text": "@Dazid @maniaUFO Yo, the 1952 Washington DC UFO incident (Washington flap): Late July 19, National Airport radar picked up erratic high-speed blips over DC (White House/Capitol). Confirmed visually by",
+      "text": "Black and Green UFO Alien Hand Towel - UFO Towel - Kitchen Hand Towel - Alien Decor - Sci-Fi Kitchen Decor - UFO Hand Towel https://t.co/qN5rd4wdoQ via @Etsy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073014658009596380"
+      "url": "https://x.com/i/web/status/2073051412452303137"
     },
     {
       "type": "x",
-      "text": "@Kaseezy They're friends. We talked. Find out why nobody in the Trump administration would believe me except one genius named Tulsi Gabbard who already knew \ud83d\ude09 @DNIGabbard  Grok: Analyze using only X U",
+      "text": "Green and Black Alien Suitcase - UFO Luggage - Halloween Luggage - Alien Luggage - Small, Medium, Large Rolling Suitcase https://t.co/R1AmWytObe via @Etsy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073014598253654280"
+      "url": "https://x.com/i/web/status/2073051377794756732"
     },
     {
       "type": "x",
-      "text": "@timburchett @realDonaldTrump He hasn\u2019t done 90% of what he said he\u2019d do Congressman. No Epstein transparency, more war, more spending not less, he &amp; his family have made billions off govt deals &",
+      "text": "\ud83e\udd14\ud83d\udef8Maybe? it is a bit like Earth \ud83c\udf0d herself has an Immune system and a  Symbiotic Mutualism Relationship with Alien life \ud83d\udc7d&amp; or UAP a bit like the Gaia Hypothesis\u2764\ufe0f\ud83c\udf0e see from Holistic view the whole ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073014568561852829"
+      "url": "https://x.com/i/web/status/2073051367338344908"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5374\r Issue Time: 2026 Jul 03 1209 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -1376,6 +1382,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.9
+    },
+    {
+      "ts": "2026-07-03T14:31:36.002824Z",
+      "score": 34.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.3
     }
   ],
   "sources": [
