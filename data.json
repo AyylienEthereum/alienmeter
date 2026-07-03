@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T03:52:28.979966Z",
-  "score": 33.4,
+  "generated_at": "2026-07-03T06:57:34.955563Z",
+  "score": 30.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -3.2,
-    "d24h": 7.3,
+    "d1h": -3.8,
+    "d24h": 1.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.1,
+    "social_chatter": 5.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
-    "seismic": 1.9,
-    "alien_variance": 3.9
+    "seismic": 0.0,
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "03:52",
+    "generated_utc": "06:57",
     "top_drivers": [
-      "X/Twitter chatter: 121 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 91 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.7,
+    "live_signal": 21.9,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -49,60 +49,54 @@
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 121,
+    "x_last_hour": 91,
     "wiki_spike_pct": -29.863349033217652,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 3.8,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "US Tests a  F-55 1.5 Billion$ UFO Jet That Shocked The World! https://t.co/U6NQYVQuKd via @YouTube",
+      "text": "Ufology-Parapsychology: UFO Activity Surges Across the U.S. | Unidentified: Inside America's UFO Investigation https://t.co/Rn2UnX5NGm via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890756587470907"
+      "url": "https://x.com/i/web/status/2072937534233985030"
     },
     {
       "type": "x",
-      "text": "Happy UFO Day!!! https://t.co/kD68Rr0ity",
+      "text": "@Space89X There's a series of events coming so it's quite possible it will be all of them, definitely not just one. Trump released the UFO files on the day the Saturn-Neptune conjunction peaked in Feb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890609120206850"
+      "url": "https://x.com/i/web/status/2072937311096963527"
     },
     {
       "type": "x",
-      "text": "@Bar_T_Welding @PengAntarctica @Kabamur_Taygeta @RepEricBurlison @ProfAviLoeb @haroldputhoff @UAPGERB @AshtonForbes @LockheedMartin Nah man, i'l search it up thanks.  I believe in Charles Chase's memo",
+      "text": "Ufology-Parapsychology: Captured on Camera: Modern UFO Encounters | Encounter UFO Full Season 1 Marathon https://t.co/GtHJRgdyFp via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890594507055599"
+      "url": "https://x.com/i/web/status/2072937171648917641"
     },
     {
       "type": "x",
-      "text": "@ShaneFrakes My mom used to see Moldavite at UFO conventions. It's out of this world.",
+      "text": "@EricBurlison @AmericanALCHMY @AlchemyAmerican @YouTube Hahahhahaha. Of course you are.   That is where everyone ends up after sinking to News Nation lows.  Next up: a post DC run on the UFO conventio",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890398154842478"
+      "url": "https://x.com/i/web/status/2072937017420464293"
     },
     {
       "type": "x",
-      "text": "@RepEricBurlison Hey Eric, I am a life long experiencer of the UAP Phenomenon. In my 50's now and I have managed to capture some of it in different forms.  Look at the orbs coming down around this \"cr",
+      "text": "Ufology-Parapsychology: UFO Proofs &amp; Alien Mystery Caught On Camera! | UFO Witness S1 E2,4,6,8 | Discovery India  https://t.co/08S3RHfVRf via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890322355359798"
+      "url": "https://x.com/i/web/status/2072936820753506555"
     },
     {
       "type": "x",
-      "text": "@michaelshermer @ProfAviLoeb Avi Loeb basically saying any ideas or explanations outside his own head aren't allowed in the new UAP task force.",
+      "text": "@VettedPodcast Waiting for it to be lifted up into the UAP for dissection.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2072890209272791216"
+      "url": "https://x.com/i/web/status/2072936704059842655"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 278\r Issue Time: 2026 Jul 02 0935 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 2 km E of Oak Harbor, Washington",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -1355,6 +1349,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.7
+    },
+    {
+      "ts": "2026-07-03T06:57:34.879485Z",
+      "score": 30.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.9
     }
   ],
   "sources": [
