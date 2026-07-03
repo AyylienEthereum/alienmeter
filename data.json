@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T22:43:52.659376Z",
-  "score": 34.6,
+  "generated_at": "2026-07-03T23:44:01.565619Z",
+  "score": 35.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": -1.7,
+    "d1h": -4.9,
+    "d24h": -2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 7.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
-    "search_interest": 0.0,
+    "search_interest": 2.6,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,27 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "22:43",
+    "generated_utc": "23:44",
     "top_drivers": [
-      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 126 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 12",
+      "Wikipedia UFO pageviews +16% above baseline",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.3,
+    "live_signal": 27.7,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -77.7772165963787,
-    "x_last_hour": 147,
-    "wiki_spike_pct": -29.863349033217652,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 126,
+    "wiki_spike_pct": 16.19695938280009,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 12
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "dis clothes ure? disc closer? disclosure? what? 2 different grok versions \ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83c\udf7b\ud83d\udef8#Jesus in a #UFO #Cult #JIAUFOC #JesusInAufoCult https://t.co/fMNT9SA4VL",
+      "text": "@jamescfox Please remember Calvine is pronounced Calvin.   The same with Irvine, it is pronounced Irvin. I am Scottish and know them well. The e's are there for a reason but are silent and not used.  ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073175868869095650"
+      "url": "https://x.com/i/web/status/2073190743653372334"
     },
     {
       "type": "x",
-      "text": "@Mavmetax There is no truth to tell. This administration is built on conspiracies. They\u2019ve just adopted the ufo one. It\u2019s a forever rabbit hole with nothing there in the first place. Nothing has chang",
+      "text": "@davegreenidge57 How hard do we think they are searching for a mitch double right now? We gonna start seeing hazy filtered ufo type mitch pics any day now as he skips into chamber.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073175789688795311"
+      "url": "https://x.com/i/web/status/2073190666843328797"
     },
     {
       "type": "x",
-      "text": "@UAPJosh @VettedPodcast @GoodTroubleShow Don\u2019t be an asshat.  Nothing is hurting Patrick\u2019s credibility by asking important questions that everyone else keeps refusing to ask.  And honestly\u2026 is there s",
+      "text": "@un1versalist @pavelibarrameda @Dan_Farah @UAPGERB I don\u2019t think his main source is Stratton. Puthoff said he\u2019s talked to people inside the Legacy UAP Program, and a few of them are on the DIRD docume",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073175703953215952"
+      "url": "https://x.com/i/web/status/2073190650187583942"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc26\ud83e\udd8a\ud83e\udd8c Spielberg's \"Disclosure Day\" Confirmed what UAP Researchers Have Known for Decades: NHI Use Animal Forms for Gentle First Contact  In Steven Spielberg\u2019s new sci-fi thriller Disclosure Day, extrate",
+      "text": "@GeneSmi45718025 @PapiTrumpo @britneyspears @QTHESTORMM YOUR SONGS THEY'RE ALLOT OF ETERNAL, FOREVER AND HEAVEN REFERENCES IT'S ALL NONSENSE HERE, WHY IN MUSIC...  AND IF GODS R REALITY HERE, U REALLY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073174622380724517"
+      "url": "https://x.com/i/web/status/2073190518373126563"
     },
     {
       "type": "x",
-      "text": "Do you think we're really alone in the universe? Watch till the end and share your opinion in the comments. \ud83d\udc40  \ud83d\udcfa Want to watch the full documentary? Head over to MrRare on YouTube and watch the comple",
+      "text": "@ProfAviLoeb My theory of everything explains UAP phenomena https://t.co/iym4x8kUjn https://t.co/xYktoyy1bv",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073174538251338207"
+      "url": "https://x.com/i/web/status/2073190477721899376"
     },
     {
       "type": "x",
-      "text": "@Carl_Vibe would you do an interview with me for my ufo channel?",
+      "text": "@ohhanxiety You only live once #Ghostface #orb #UAP #Luma #macro #photography #pocket #dimenstions #angel #shorts https://t.co/4KmKasnFCI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073174021592527293"
+      "url": "https://x.com/i/web/status/2073190212805574720"
     },
     {
       "type": "swpc",
@@ -1431,6 +1432,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.3
+    },
+    {
+      "ts": "2026-07-03T23:44:01.483558Z",
+      "score": 35.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.7
     }
   ],
   "sources": [
