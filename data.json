@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T17:48:42.465733Z",
-  "score": 32.9,
+  "generated_at": "2026-07-03T19:09:57.798199Z",
+  "score": 39.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 5.9,
-    "d24h": -31.5,
+    "d1h": 10.3,
+    "d24h": -0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.2,
+    "social_chatter": 8.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 6.6,
-    "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "search_interest": 2.6,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,82 +31,83 @@
     "day": 19,
     "date": "03.07.2026",
     "declassified": "03.07.26",
-    "generated_utc": "17:48",
+    "generated_utc": "19:09",
     "top_drivers": [
-      "X/Twitter chatter: 139 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "X/Twitter chatter: 140 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 8",
+      "Wikipedia UFO pageviews +16% above baseline",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.1,
+    "live_signal": 34.1,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 139,
-    "wiki_spike_pct": -29.863349033217652,
+    "x_last_hour": 140,
+    "wiki_spike_pct": 16.19695938280009,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 8
   },
   "ticker": [
     {
       "type": "x",
-      "text": "It was the size of a Super Walmart. Sphere. Surface like molten plasma. Dead center over the ICBM blast door. \u2014 Mario Woods on 1977 nuclear site incident #UFO #UFO #Encounter #NHI @chrisramsay52 Sourc",
+      "text": "Love this. I am myself going to exactly Sedona for UFO hunting in late October \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/H2A9Qb2sQD",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073101492089696384"
+      "url": "https://x.com/i/web/status/2073122012180963601"
     },
     {
       "type": "x",
-      "text": "1977 Ellsworth AFB: I flashed the perimeter lights at the object. It flashed back the exact same sequence. No sound. Still hovering. \u2014 Mario Woods, USAF Security Police #UFO #UFO #Encounter #NHI @chri",
+      "text": "Join @TylerFrom1776 and I tonight for some UFO fun!  Enjoy The Show - Episode 142 Friday UFO Night https://t.co/eDY0IGjtg7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073101391950745857"
+      "url": "https://x.com/i/web/status/2073121973010645028"
     },
     {
       "type": "x",
-      "text": "@SiestaJak @Holden_Culotta Why is the fed govt so efficient at hiding secret UFO craft but Congress can\u2019t get a decent piece of legislation passed about critical real world matters like immigration &a",
+      "text": "@MLiamMcCollum They told Donald about the uap shit buried in ancient archaeological sites in the middle east, that's why he flip flipped lol national security mafia is basically engaged in the templer",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073101389375357392"
+      "url": "https://x.com/i/web/status/2073121871290384555"
     },
     {
       "type": "x",
-      "text": "QT with your UFO Art https://t.co/H7xmbnR5hN https://t.co/qlUb1M41Vk",
+      "text": "@michaelshermer Rebuttals  1. Military sensors/camera malfunction? Unlikely. Military uses multiple surveillance assets in a kinetic theater. Satellite, drones, jets, carriers all equipped to document",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073101386024108321"
+      "url": "https://x.com/i/web/status/2073121726234509313"
     },
     {
       "type": "x",
-      "text": "@Kristinawong @HansMahncke Love it! I went to high school  in a town with an active air force base and we always had air show events! One year they brought the SR-71 Blackbird (was still in use) for d",
+      "text": "@rob_keyes @F1Movie @screenrant @akharrison98 You had me at Joseph Kosinski UFO movie. https://t.co/iiRbN7fA6i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073101291769958610"
+      "url": "https://x.com/i/web/status/2073121514229010856"
     },
     {
       "type": "x",
-      "text": "The CIA actively MURDER people connected to the UFO back engineering project(s). Even the ones who happily keep their mouths shut. #Wankers https://t.co/SlWEn8hENC",
+      "text": "@HighlyStrange Keep trying UFO folks. Keep trying but you must must must try harder.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073100992002859492"
+      "url": "https://x.com/i/web/status/2073121401993588821"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5374\r Issue Time: 2026 Jul 03 1209 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 537\r Issue Time: 2026 Jul 03 1900 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARSUD\r Serial Number: 256\r Issue Time: 2026 Jul 03 1138 UTC\r \r WARNING: Geomagnetic Sudden Impulse expected  Va",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 322\r Issue Time: 2026 Jul 03 1859 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WATA30\r Serial Number: 278\r Issue Time: 2026 Jul 03 1123 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1509\r Issue Time: 2026 Jul 03 1847 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1403,6 +1404,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.1
+    },
+    {
+      "ts": "2026-07-03T19:09:57.721717Z",
+      "score": 39.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 34.1
     }
   ],
   "sources": [
