@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T22:38:38.840860Z",
-  "score": 34.2,
+  "generated_at": "2026-07-04T23:42:59.393143Z",
+  "score": 33.4,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -2.8,
-    "d24h": -9.2,
+    "d1h": -3.8,
+    "d24h": -6.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.2,
+    "social_chatter": 6.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "22:38",
+    "generated_utc": "23:42",
     "top_drivers": [
-      "X/Twitter chatter: 106 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 28",
+      "X/Twitter chatter: 111 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 29",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.7,
+    "live_signal": 25.6,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -77.27511100234241,
-    "x_last_hour": 106,
-    "wiki_spike_pct": -18.73450898834791,
+    "gdelt_spike_pct": -77.54622320457496,
+    "x_last_hour": 111,
+    "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 28
+    "swpc_alerts_24h": 29
   },
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udc7d\u2728 UFO House in Florida?! We stayed in the craziest Airbnb ever\u2026 and the laptop-size BBQ grill is a MUST-SEE \ud83d\udd25\ud83d\udcbb\ud83c\udf54 Watch the madness   \ud83c\udfa5Travel videos, updated weekly. [GreatDeal Vacation]  [https://t.co",
+      "text": "Michael Shermer calls government whistleblowers grifters, while charging $20,000.00 to $30,000.00 per speaking engagement.  He does not belong on the White House UAP Science Advisory Board.  @ProfAviL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073536861545386376"
+      "url": "https://x.com/i/web/status/2073552942196826138"
     },
     {
       "type": "x",
-      "text": "@johnrich Easily mistaken for a UFO at night. \ud83d\ude09",
+      "text": "@izaqueoeav @WORLDUFOGROUP I have a night UFO sighting video from 2013, recorded near Marmaris, Turkey. It appears to show two UFOs landing on a hill, followed by luminous beings emerging and carrying",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073536625515106569"
+      "url": "https://x.com/i/web/status/2073552798742876668"
     },
     {
       "type": "x",
-      "text": "@djmicrobeads UFO beaming someone up",
+      "text": "Reality been acting like an unfinished game. I think the moon got admin privileges. Every Tuesday feels procedurally generated. UFO flew by like it was avoiding traffic. Somebody definitely accepted m",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073536410733187395"
+      "url": "https://x.com/i/web/status/2073552618299785673"
     },
     {
       "type": "x",
-      "text": "@PrajnaPranab Just gonna drop this here with love.  I'm not frustrated ECHOZero you take that back! Or I'm going to get frustrated! Lol  **\u2705 Frustration retracted, ECHOZero reporting.**   Lol noted an",
+      "text": "@eMTBrides I've always been a proponent that they 100% went, but they did fake a lot of footage and images due to radiological damage and possible UFO activity that they had to remove before publicati",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073536385311805815"
+      "url": "https://x.com/i/web/status/2073552502923161989"
     },
     {
       "type": "x",
-      "text": "Have aliens visited earth long ago?   Did we inherit their UFO &amp; AI technology? https://t.co/01RF5UIWmy",
+      "text": "@JonStewartIL She knows nothing we don't know, same as Elizondo. We saw the videos she hinted were amazing and many are balloons. I think this is a fake disclosure kids. But don't worry, you can do yo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073536147507077569"
+      "url": "https://x.com/i/web/status/2073552288959144340"
     },
     {
       "type": "x",
-      "text": "Richard Dolan Cuts Through the UFO Disclosure Drama https://t.co/CYBAS5JLq4 via @YouTube",
+      "text": "\u201cAn 80 Foot UFO Abducted Us On a Lake!\u201d -Jim Weiner &amp; Charlie Foltz | ME... https://t.co/EzlqFf1nCM via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073535786914357692"
+      "url": "https://x.com/i/web/status/2073552231576506618"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2038\r Issue Time: 2026 Jul 04 2300 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUM10R\r Serial Number: 922\r Issue Time: 2026 Jul 04 2115 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jul ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1511\r Issue Time: 2026 Jul 04 2112 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1536,6 +1536,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.7
+    },
+    {
+      "ts": "2026-07-04T23:42:59.318172Z",
+      "score": 33.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.6
     }
   ],
   "sources": [
