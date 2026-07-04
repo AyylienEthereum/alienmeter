@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T20:35:26.032809Z",
-  "score": 33.8,
+  "generated_at": "2026-07-04T21:39:20.143058Z",
+  "score": 36.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -10.9,
+    "d1h": 0.0,
+    "d24h": -3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.0,
+    "social_chatter": 7.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.6
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,82 +31,82 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "20:35",
+    "generated_utc": "21:39",
     "top_drivers": [
-      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 25",
+      "X/Twitter chatter: 124 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 28",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.2,
+    "live_signal": 29.2,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 119,
+    "x_last_hour": 124,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 25
+    "swpc_alerts_24h": 28
   },
   "ticker": [
     {
       "type": "x",
-      "text": "I feel accomplished being invited to join this zoom uap meeting and everyone seems to be 50+ \ud83d\ude02\ud83d\udef8",
+      "text": "@DDCIAEllis You should disclose the CIA run UAP retrieval and RE program ZODIAC to the American people.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073505875738652857"
+      "url": "https://x.com/i/web/status/2073521682187485651"
     },
     {
       "type": "x",
-      "text": "Denver Airport Aliens \u203c\ufe0f\ud83d\ude32 #aliens #ufo https://t.co/peC7UoQq1F",
+      "text": "\ud83c\uddfa\ud83c\uddf8 As America celebrates 250 years of independence, here\u2019s a reminder:  History has a habit of laughing at today\u2019s \u201cimpossible\u201d before accepting tomorrow\u2019s reality.  Truth Takes Flight isn\u2019t just abou",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073505279287648347"
+      "url": "https://x.com/i/web/status/2073521351558602958"
     },
     {
       "type": "x",
-      "text": "if you ever saw / filmed a ufo just shut the fuck up and keep quiet forever",
+      "text": "@InterstellarUAP ZODIAC is the CIA UAP retrieval and RE program.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073505129278394848"
+      "url": "https://x.com/i/web/status/2073521227206127985"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 BREAKING: UFO spotted over the USA.  Witnesses say the visitors skipped gold, skipped oil, and went straight to:   \u2022 post-quantum security \u2022 dynamic resharding \u2022 NEAR Intents \u2022 AI infra  I\u2019m not say",
+      "text": "\ud83e\ude90 The little green men have really surpassed themselves this year: a proper stylised cock-and-balls crop circle, complete with the business end going straight into a double circle. \ud83d\udc7d  #CropCircle #Ash",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073504749580959891"
+      "url": "https://x.com/i/web/status/2073521204187521416"
     },
     {
       "type": "x",
-      "text": "Walter Webb  Barney Hill UFO Based On Original Sketch  New Hampshire, US Witness Sketch 1961 https://t.co/cHoyffAVwF",
+      "text": "@zeronvi @skullkid753 only impossible part is the asonic ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073504646090342719"
+      "url": "https://x.com/i/web/status/2073521088529567925"
     },
     {
       "type": "x",
-      "text": "@AllPlanets @Cortex_Zero @RepLuna It's even not real hype.  I mean the wording: \"a UAP announcement\", \"clear assurance that \u201cthe Phenomenon is real\" is underwhelming.  The realness of the phenomena ha",
+      "text": "Climate change is the cover story to hide the real ufo story, and the alien civilisation that lives in Antarctica  Buzz aldrins heart attack, the things he saw. They try to convince him to help the co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073504236751520094"
+      "url": "https://x.com/i/web/status/2073521000264642745"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2037\r Issue Time: 2026 Jul 04 2022 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: SUMX01\r Serial Number: 220\r Issue Time: 2026 Jul 04 2116 UTC\r \r SUMMARY: X-ray Event exceeded X1  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 723\r Issue Time: 2026 Jul 04 1700 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 922\r Issue Time: 2026 Jul 04 2115 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jul ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2036\r Issue Time: 2026 Jul 04 1614 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1511\r Issue Time: 2026 Jul 04 2112 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1522,6 +1522,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.2
+    },
+    {
+      "ts": "2026-07-04T21:39:20.069626Z",
+      "score": 36.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.2
     }
   ],
   "sources": [
