@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T13:10:24.357356Z",
-  "score": 31.0,
+  "generated_at": "2026-07-04T14:45:29.289802Z",
+  "score": 32.3,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -3.3,
+    "d1h": 0.2,
     "d24h": -6.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.1,
+    "social_chatter": 5.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,82 +31,82 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "13:10",
+    "generated_utc": "14:45",
     "top_drivers": [
-      "X/Twitter chatter: 72 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 25",
+      "X/Twitter chatter: 87 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 30",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.6,
+    "live_signal": 24.3,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 72,
+    "gdelt_spike_pct": -77.10797405570393,
+    "x_last_hour": 87,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 25
+    "swpc_alerts_24h": 30
   },
   "ticker": [
     {
       "type": "x",
-      "text": "I see a \"LADY\" and I see her pointing at an \"ORB\". This book was published in 2011. Long before any of the people so popular today or any UFO podcaster pro bro was talking. https://t.co/8sNlEcxQic",
+      "text": "GHOST ENCOUNTER!? \ud83d\udc7b Credit: theblackorchardfilms                                              .                                                  .                                                 .    ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393905437983073"
+      "url": "https://x.com/i/web/status/2073417747250467083"
     },
     {
       "type": "x",
-      "text": "Pope 'ready' for alien contact in 2026, says filmmaker; CERN is ready for alien contact! I hear you plus S. Spielberg UFO disclosure movie. But are you guys ready for warn from above Allen\u2019s apocalyps",
+      "text": "In the 4th of July Parade in Iron River, MI \ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8  I\u2019ll make UFO believers out of these Yoopers! https://t.co/XbgXKjzwUr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393890346905717"
+      "url": "https://x.com/i/web/status/2073417681496154460"
     },
     {
       "type": "x",
-      "text": "Video of a UFO UAP \u201cJellyfish\u201d with metallic orbs / spheres. \ud83d\udc40\ud83d\udef8  This was recorded in 2009, near NAS Lemoore in California US \ud83c\uddfa\ud83c\uddf8.  These things are real and they are observing human military activitie",
+      "text": "@UAPReportingCnt Gaia\u2019s treatment of the phenomena just comes across as disingenuous. Like I\u2019m watching old early 90\u2019s low production vids with outdated or misleading info.  IMO.  We all have document",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393839889371558"
+      "url": "https://x.com/i/web/status/2073417520325751231"
     },
     {
       "type": "x",
-      "text": "@TjJinson @Spiro_Ghost @Lilgucci2 And on the top of all that I strongly recommend to subscribe to another grate man LA Marzulli tube channel who doing grate job exposing UFO/UAP stuff and how it confi",
+      "text": "Now we\u2019re talking!  Burlison is hot on the trail of the real story behind crash retrievals.  He is asking for specific details about #UAP related retrievals to specific people; but still no real proof",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393239835435110"
+      "url": "https://x.com/i/web/status/2073417458954993753"
     },
     {
       "type": "x",
-      "text": "Your Invisible World Announces Space-Themed Music Project  Full article here: https://t.co/aSskTqic7Q  #FeaturedStory #mediacoverage #ufo #AncientMysteries #SpaceExploration",
+      "text": "(Images): \u201cBased on Eyewitness Details Surrounding the Roswell Craft\u201d  \u201cThe ceiling and walls surrounding the seven flight crew positions glowed with a soft and even interior lighting which in no way ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393119803105666"
+      "url": "https://x.com/i/web/status/2073417435387175312"
     },
     {
       "type": "x",
-      "text": "@akafaceUS Shit China\u2019s got full drone things they got some drone things too huh and then they\u2019re gonna tell you UFO UFO everybody watch out for the other identified aerial phenomenon UAP, UAP because",
+      "text": "xtraordinary footage of a huge UFO from Canada... It's not AI, but it's amazing, good for being real...  what do you think?\ud83e\uddd0\ud83e\udd14 https://t.co/NUs3AEw4RJ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073393039150923786"
+      "url": "https://x.com/i/web/status/2073417371432194280"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2034\r Issue Time: 2026 Jul 04 1043 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5377\r Issue Time: 2026 Jul 04 1421 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 721\r Issue Time: 2026 Jul 04 0839 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2248\r Issue Time: 2026 Jul 04 1412 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2033\r Issue Time: 2026 Jul 04 0715 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: ALTK06\r Serial Number: 722\r Issue Time: 2026 Jul 04 1358 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1480,6 +1480,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.6
+    },
+    {
+      "ts": "2026-07-04T14:45:29.214488Z",
+      "score": 32.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.3
     }
   ],
   "sources": [
