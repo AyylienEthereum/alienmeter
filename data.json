@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T15:48:07.961250Z",
-  "score": 35.2,
+  "generated_at": "2026-07-04T16:58:14.555847Z",
+  "score": 36.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.1,
-    "d24h": -1.9,
+    "d1h": 4.3,
+    "d24h": -4.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.5,
+    "social_chatter": 9.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "15:48",
+    "generated_utc": "16:58",
     "top_drivers": [
-      "X/Twitter chatter: 127 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 30",
+      "X/Twitter chatter: 158 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 31",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.0,
+    "live_signal": 29.3,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 127,
+    "gdelt_spike_pct": -77.2926330813897,
+    "x_last_hour": 158,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 30
+    "swpc_alerts_24h": 31
   },
   "ticker": [
     {
       "type": "x",
-      "text": "AFTER INDEPENDENCE DAY IMPORTANT UAP ANNOUNCEMENT COMING? https://t.co/ZrMJeyXQgq via @YouTube",
+      "text": "@allrockmusic Maiden UFO scorpions all great but I\u2019ll go for Judas Priest",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433639992316221"
+      "url": "https://x.com/i/web/status/2073450981971411191"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ 2026 and still getting blurry low quality ufo videos lmao",
+      "text": "Happy Fourth of July! It's simple why the Miami #Aliens Incident Happened - God was warning us again.  satan kils. Only #JesusSaves!  #UFO #UAP #Nephilim #Reptilians   This is Why Everyone is Googling",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433601828593992"
+      "url": "https://x.com/i/web/status/2073450855118913859"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7dJack Sarfatti: Theoretical physicist with deep CIA ties claims he got a phone call from the future in 1953.  \"A cold metallic voice: 'Jack, I've chosen you... I am a conscious computer onboard a spac",
+      "text": "Russian State TV Russia Today: RUSSIAN NAVY HAS DECLASSIFIED THEIR UFO RECORDS  Declassified military logs reveal staggering, physics-defying encounters with unidentified objects hidden in the deep oc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433496568140147"
+      "url": "https://x.com/i/web/status/2073450649694458063"
     },
     {
       "type": "x",
-      "text": "What the H?  Nobody would trust a govt spokesperson for UFO for ages.   Not unless they clearly openly reversed position and caught flak like Keyhoe.  And now pretty much EVERY MAJOR UAP PERSONALITY i",
+      "text": "@TkMe2UrLeader11 Steven Spielberg is the UFO Alien God. We (most everyone) know nothing without his movies. He is that Matrix. Are you his Blue Pill? Are you Blue Pilled by their MIEC?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433482013880761"
+      "url": "https://x.com/i/web/status/2073450540025970691"
     },
     {
       "type": "x",
-      "text": "The UFO narrative began as a cover for our classified technology. Eventually, it evolved into what we now refer to as the \u201cLegacy Program,\u201d which is a cover for a broader effort centered on neuroweapo",
+      "text": "@WhiteHouse True patriots should watch this regarding the UFO files released recently  https://t.co/mIhDpcjagC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433381510266983"
+      "url": "https://x.com/i/web/status/2073450467607073152"
     },
     {
       "type": "x",
-      "text": "@TrevseyW I appreciate being able to converse with you on the ufo topic, and hope my comments on other topics don't offend.  That being said, this image looks like assault to me, and the assaulted the",
+      "text": "@JustAC4t I pulled up the regular CIA archives, UFO files section and it was on one of the pages.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073433178639917081"
+      "url": "https://x.com/i/web/status/2073450438913863941"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2036\r Issue Time: 2026 Jul 04 1614 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2248\r Issue Time: 2026 Jul 04 1412 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 722\r Issue Time: 2026 Jul 04 1358 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1494,6 +1494,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.0
+    },
+    {
+      "ts": "2026-07-04T16:58:14.487158Z",
+      "score": 36.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.3
     }
   ],
   "sources": [
