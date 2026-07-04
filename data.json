@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T08:04:56.201766Z",
-  "score": 32.1,
+  "generated_at": "2026-07-04T10:25:04.746077Z",
+  "score": 31.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.5,
-    "d24h": -3.7,
+    "d1h": -3.9,
+    "d24h": -6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.8,
+    "social_chatter": 3.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "08:04",
+    "generated_utc": "10:25",
     "top_drivers": [
-      "X/Twitter chatter: 67 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 26",
+      "X/Twitter chatter: 62 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 27",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.0,
+    "live_signal": 22.7,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -77.0918382331346,
-    "x_last_hour": 67,
-    "wiki_spike_pct": -19.73106353504564,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 62,
+    "wiki_spike_pct": -18.73450898834791,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 26
+    "swpc_alerts_24h": 27
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@klcheshire Hot Rails to Hell\u2014B\u00d6C Too Hot To Handle\u2014UFO Hot as a Docker\u2019s Armpit\u2014Budgie White Heat, Red Hot\u2014Judas Priest Hot Blooded\u2014Foreigner Hot For Teacher\u2014Van Halen Get It Hot\u2014AC/DC Walk On Hot Co",
+      "text": "@Rainmaker1973 Moves like a UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073316934381084728"
+      "url": "https://x.com/i/web/status/2073351862951047438"
     },
     {
       "type": "x",
-      "text": "@klcheshire Get it Hot-AC/DC Hot &amp; Dirty-HSAS Hot-Reckless Love Hot Cherie-Hardline Red Hot-Motley Crue Too Hot to Handle-UFO Hot Rockin-Judas Priest Hotter Than Hell-Airbourne Hot Blooded-Tygers ",
+      "text": "Hikaru and Zuril are two sides of the same coin.  In episode 72, Duke Fleed did not say a single word to Hikaru. Not one. He completely ignored her and gave her the cold shoulder while his entire hear",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073316592658612505"
+      "url": "https://x.com/i/web/status/2073351668943425910"
     },
     {
       "type": "x",
-      "text": "@klcheshire \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Hot for teacher\u2014Van Halen \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Too hot to handle\u2014UFO \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Some like it hot\u2014The Power Station  \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  You took the words right out of my mouth (Hot summer night)",
+      "text": "He's right ya know... You grifting UFO PODCASTER PRO BRO shit bags. https://t.co/Gc6BTjwtre",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073316357794402748"
+      "url": "https://x.com/i/web/status/2073351357914833155"
     },
     {
       "type": "x",
-      "text": "@bluecrayon71 @IREPWorld Ahumdullah it's team effort, the NHI &amp; UAP phenomenon leaves alot of people confused but there are answers",
+      "text": "@ThendoRalph The UAP casually drifting in the back.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073316353038033305"
+      "url": "https://x.com/i/web/status/2073351069967560930"
     },
     {
       "type": "x",
-      "text": "\u26a0\ufe0f\ud83d\udc7d Was This UFO Finally Busted? Viral Footage Has Everyone Talking \ud83d\udef8\ud83d\ude94 https://t.co/uhE4RC9uVN",
+      "text": "@TheProjectUnity Please record it next time.  Doubt is resolved by facts, video would provide.  I'm deeply interested in UFO topic. But I'm so fucking tired of \"experiencers\" sharing \"experience\". Rec",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073315968277778615"
+      "url": "https://x.com/i/web/status/2073350930104287479"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7dYou never know maybe this year  I guess that he said we go to come out visiting\ud83d\ude01 #ufo #aliens https://t.co/BAQBjO0IGx",
+      "text": "@ethericblood Historical shifts integrate anomalous data via accumulating evidence, not narrative alone: meteorites (folklore to accepted post-1800s witnessed falls/chemistry), germ theory (Pasteur/Ko",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073315937558618543"
+      "url": "https://x.com/i/web/status/2073350746544750611"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK06\r Serial Number: 721\r Issue Time: 2026 Jul 04 0839 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK07\r Serial Number: 218\r Issue Time: 2026 Jul 04 0509 UTC\r \r ALERT: Geomagnetic K-index of 7  Threshold Reach",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK07\r Serial Number: 151\r Issue Time: 2026 Jul 04 0501 UTC\r \r WARNING: Geomagnetic K-index of 7 or greater exp",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1459,6 +1459,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.0
+    },
+    {
+      "ts": "2026-07-04T10:25:04.674649Z",
+      "score": 31.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.7
     }
   ],
   "sources": [
