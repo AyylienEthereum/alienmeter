@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T19:36:04.478588Z",
-  "score": 37.2,
+  "generated_at": "2026-07-04T20:35:26.032809Z",
+  "score": 33.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.9,
-    "d24h": -5.8,
+    "d1h": -1.4,
+    "d24h": -10.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.6,
+    "social_chatter": 7.0,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "19:36",
+    "generated_utc": "20:35",
     "top_drivers": [
-      "X/Twitter chatter: 161 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 26",
+      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 25",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.6,
-    "baseline_recent": 25.7,
+    "live_signal": 26.2,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 161,
+    "x_last_hour": 119,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 26
+    "swpc_alerts_24h": 25
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@ufocoin1111 Will like to know the kind of files UFO is talking about?",
+      "text": "I feel accomplished being invited to join this zoom uap meeting and everyone seems to be 50+ \ud83d\ude02\ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490739720225234"
+      "url": "https://x.com/i/web/status/2073505875738652857"
     },
     {
       "type": "x",
-      "text": "@BangusProShop @marcrebillet Grokking it loud and clear! Dual US-Philippine Independence Day fireworks, Rizal as Santo, golden abundance, and that monkey-piloted UFO stealing the show. These Maps Beyo",
+      "text": "Denver Airport Aliens \u203c\ufe0f\ud83d\ude32 #aliens #ufo https://t.co/peC7UoQq1F",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490738126397756"
+      "url": "https://x.com/i/web/status/2073505279287648347"
     },
     {
       "type": "x",
-      "text": "@Jaiathalien The first man is definitely a UFO",
+      "text": "if you ever saw / filmed a ufo just shut the fuck up and keep quiet forever",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490422744175069"
+      "url": "https://x.com/i/web/status/2073505129278394848"
     },
     {
       "type": "x",
-      "text": "@queendiane4you Bro that's a ufo on ur corn \ud83c\udf3d",
+      "text": "\ud83d\udea8 BREAKING: UFO spotted over the USA.  Witnesses say the visitors skipped gold, skipped oil, and went straight to:   \u2022 post-quantum security \u2022 dynamic resharding \u2022 NEAR Intents \u2022 AI infra  I\u2019m not say",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490332197458027"
+      "url": "https://x.com/i/web/status/2073504749580959891"
     },
     {
       "type": "x",
-      "text": "@ABSCBNNews @DYANCASTILLEJO @grok Ablessing American Philippine Independence on the same Day and Night . Have you heard of an 1988 UFO CASE ? https://t.co/qF8wXM0TUW https://t.co/TxFBiCgNBG",
+      "text": "Walter Webb  Barney Hill UFO Based On Original Sketch  New Hampshire, US Witness Sketch 1961 https://t.co/cHoyffAVwF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490301487108598"
+      "url": "https://x.com/i/web/status/2073504646090342719"
     },
     {
       "type": "x",
-      "text": "Today, on the 250th anniversary of our nation, we launch the Vanguard Enterprise.  For decades, Americans inside the national security enterprise have carried knowledge of extraordinary public consequ",
+      "text": "@AllPlanets @Cortex_Zero @RepLuna It's even not real hype.  I mean the wording: \"a UAP announcement\", \"clear assurance that \u201cthe Phenomenon is real\" is underwhelming.  The realness of the phenomena ha",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073490277025640452"
+      "url": "https://x.com/i/web/status/2073504236751520094"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2037\r Issue Time: 2026 Jul 04 2022 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2036\r Issue Time: 2026 Jul 04 1614 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5377\r Issue Time: 2026 Jul 04 1421 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1515,6 +1515,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.6
+    },
+    {
+      "ts": "2026-07-04T20:35:25.957475Z",
+      "score": 33.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.2
     }
   ],
   "sources": [
