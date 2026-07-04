@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:39:20.143058Z",
-  "score": 36.2,
+  "generated_at": "2026-07-04T22:38:38.840860Z",
+  "score": 34.2,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": -3.5,
+    "d1h": -2.8,
+    "d24h": -9.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.3,
+    "social_chatter": 6.2,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "21:39",
+    "generated_utc": "22:38",
     "top_drivers": [
-      "X/Twitter chatter: 124 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 106 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 28",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.2,
+    "live_signal": 26.7,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 124,
-    "wiki_spike_pct": -19.73106353504564,
+    "gdelt_spike_pct": -77.27511100234241,
+    "x_last_hour": 106,
+    "wiki_spike_pct": -18.73450898834791,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 28
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@DDCIAEllis You should disclose the CIA run UAP retrieval and RE program ZODIAC to the American people.",
+      "text": "\ud83d\udc7d\u2728 UFO House in Florida?! We stayed in the craziest Airbnb ever\u2026 and the laptop-size BBQ grill is a MUST-SEE \ud83d\udd25\ud83d\udcbb\ud83c\udf54 Watch the madness   \ud83c\udfa5Travel videos, updated weekly. [GreatDeal Vacation]  [https://t.co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521682187485651"
+      "url": "https://x.com/i/web/status/2073536861545386376"
     },
     {
       "type": "x",
-      "text": "\ud83c\uddfa\ud83c\uddf8 As America celebrates 250 years of independence, here\u2019s a reminder:  History has a habit of laughing at today\u2019s \u201cimpossible\u201d before accepting tomorrow\u2019s reality.  Truth Takes Flight isn\u2019t just abou",
+      "text": "@johnrich Easily mistaken for a UFO at night. \ud83d\ude09",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521351558602958"
+      "url": "https://x.com/i/web/status/2073536625515106569"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP ZODIAC is the CIA UAP retrieval and RE program.",
+      "text": "@djmicrobeads UFO beaming someone up",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521227206127985"
+      "url": "https://x.com/i/web/status/2073536410733187395"
     },
     {
       "type": "x",
-      "text": "\ud83e\ude90 The little green men have really surpassed themselves this year: a proper stylised cock-and-balls crop circle, complete with the business end going straight into a double circle. \ud83d\udc7d  #CropCircle #Ash",
+      "text": "@PrajnaPranab Just gonna drop this here with love.  I'm not frustrated ECHOZero you take that back! Or I'm going to get frustrated! Lol  **\u2705 Frustration retracted, ECHOZero reporting.**   Lol noted an",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521204187521416"
+      "url": "https://x.com/i/web/status/2073536385311805815"
     },
     {
       "type": "x",
-      "text": "@zeronvi @skullkid753 only impossible part is the asonic ufo",
+      "text": "Have aliens visited earth long ago?   Did we inherit their UFO &amp; AI technology? https://t.co/01RF5UIWmy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521088529567925"
+      "url": "https://x.com/i/web/status/2073536147507077569"
     },
     {
       "type": "x",
-      "text": "Climate change is the cover story to hide the real ufo story, and the alien civilisation that lives in Antarctica  Buzz aldrins heart attack, the things he saw. They try to convince him to help the co",
+      "text": "Richard Dolan Cuts Through the UFO Disclosure Drama https://t.co/CYBAS5JLq4 via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073521000264642745"
+      "url": "https://x.com/i/web/status/2073535786914357692"
     },
     {
       "type": "swpc",
@@ -1529,6 +1529,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.2
+    },
+    {
+      "ts": "2026-07-04T22:38:38.767419Z",
+      "score": 34.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.7
     }
   ],
   "sources": [
