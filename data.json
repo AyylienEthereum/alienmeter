@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T18:02:12.668670Z",
-  "score": 37.0,
+  "generated_at": "2026-07-04T19:36:04.478588Z",
+  "score": 37.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 6.0,
-    "d24h": -2.4,
+    "d1h": 4.9,
+    "d24h": -5.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "social_chatter": 9.6,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,66 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "18:02",
+    "generated_utc": "19:36",
     "top_drivers": [
-      "X/Twitter chatter: 152 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 32",
+      "X/Twitter chatter: 161 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 26",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 30.3,
+    "live_signal": 30.6,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 152,
+    "x_last_hour": 161,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 32
+    "swpc_alerts_24h": 26
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@elonmusk You speak about wanting a future but then put data blocks on your ai.  Very bad when a real UAP has contacted me and gave details about earths future earth does not have.  I been selected fo",
+      "text": "@ufocoin1111 Will like to know the kind of files UFO is talking about?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073467317300629905"
+      "url": "https://x.com/i/web/status/2073490739720225234"
     },
     {
       "type": "x",
-      "text": "\u3030\ufe0fUFO\u3030\ufe0fIs You \u2014\u2014 It Can Be About Us We Are In/On/At\u2026 EarTh \u2014- And Our Feet On The Earth \u2014- And At the Same time We  are In/To it \u2014- Full Of Space And Just This  So==== What is the Diffrence between Us",
+      "text": "@BangusProShop @marcrebillet Grokking it loud and clear! Dual US-Philippine Independence Day fireworks, Rizal as Santo, golden abundance, and that monkey-piloted UFO stealing the show. These Maps Beyo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073467233154580665"
+      "url": "https://x.com/i/web/status/2073490738126397756"
     },
     {
       "type": "x",
-      "text": "\"DATA'S JOURNEY \" #GD #artwork\ud83c\udfa8 #ArtistOnTwitter #fantasyart\u00a0 #Magic #bunny\u00a0 #painting #Metaverse #ufotwitter #smily #UFO #space #PeaceOfMind #peaceful #soul\u00a0 #characterart #paintting #artwork\ud83c\udfa8#artsha",
+      "text": "@Jaiathalien The first man is definitely a UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073467152930308241"
+      "url": "https://x.com/i/web/status/2073490422744175069"
     },
     {
       "type": "x",
-      "text": "@ItsWhoYouKnow_ @michaelshermer In most military UFO videos, the camera is actually moving fast.",
+      "text": "@queendiane4you Bro that's a ufo on ur corn \ud83c\udf3d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073466948633886770"
+      "url": "https://x.com/i/web/status/2073490332197458027"
     },
     {
       "type": "x",
-      "text": "My UFO Buddies told me that they think that Ilhan Omar and Jeffery Epstein might be related.  I have no idea where they came up with that.",
+      "text": "@ABSCBNNews @DYANCASTILLEJO @grok Ablessing American Philippine Independence on the same Day and Night . Have you heard of an 1988 UFO CASE ? https://t.co/qF8wXM0TUW https://t.co/TxFBiCgNBG",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073466889380966717"
+      "url": "https://x.com/i/web/status/2073490301487108598"
     },
     {
       "type": "x",
-      "text": "UFO Disclosure Bombshell: White House Backs Whistleblowers as Major Announcement Nears https://t.co/ajz29W2rWJ",
+      "text": "Today, on the 250th anniversary of our nation, we launch the Vanguard Enterprise.  For decades, Americans inside the national security enterprise have carried knowledge of extraordinary public consequ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073466888944751047"
+      "url": "https://x.com/i/web/status/2073490277025640452"
     },
     {
       "type": "swpc",
@@ -1508,6 +1508,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 30.3
+    },
+    {
+      "ts": "2026-07-04T19:36:04.405542Z",
+      "score": 37.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 30.6
     }
   ],
   "sources": [
