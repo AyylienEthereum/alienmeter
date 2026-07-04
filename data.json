@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-04T05:05:05.566197Z",
-  "score": 34.3,
+  "generated_at": "2026-07-04T08:04:56.201766Z",
+  "score": 32.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -1.7,
-    "d24h": -8.2,
+    "d1h": -2.5,
+    "d24h": -3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.3,
+    "social_chatter": 3.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 6.6,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.9
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,82 +31,82 @@
     "day": 20,
     "date": "04.07.2026",
     "declassified": "04.07.26",
-    "generated_utc": "05:05",
+    "generated_utc": "08:04",
     "top_drivers": [
-      "X/Twitter chatter: 91 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 24",
+      "X/Twitter chatter: 67 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 26",
       "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.8,
+    "live_signal": 24.0,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 9.0409841116,
     "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 91,
+    "gdelt_spike_pct": -77.0918382331346,
+    "x_last_hour": 67,
     "wiki_spike_pct": -19.73106353504564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 24
+    "swpc_alerts_24h": 26
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Buried in the record: Official Files on the Socorro UFO Landing, April 24, 1964. Real. Declassified. Narrated. \ud83d\udc47 https://t.co/12EFSIsMuX",
+      "text": "@klcheshire Hot Rails to Hell\u2014B\u00d6C Too Hot To Handle\u2014UFO Hot as a Docker\u2019s Armpit\u2014Budgie White Heat, Red Hot\u2014Judas Priest Hot Blooded\u2014Foreigner Hot For Teacher\u2014Van Halen Get It Hot\u2014AC/DC Walk On Hot Co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073270794633851072"
+      "url": "https://x.com/i/web/status/2073316934381084728"
     },
     {
       "type": "x",
-      "text": "Daily Revelator  Disclosure-challenged Faiths Pledge To Fall On Their Nerf Swords For Celebrity Queens And Dweezil Mothers Of Invention  By Eleanor Voss Phoenix, Serpong GST  The grand finale of the 2",
+      "text": "@klcheshire Get it Hot-AC/DC Hot &amp; Dirty-HSAS Hot-Reckless Love Hot Cherie-Hardline Red Hot-Motley Crue Too Hot to Handle-UFO Hot Rockin-Judas Priest Hotter Than Hell-Airbourne Hot Blooded-Tygers ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073270781170028874"
+      "url": "https://x.com/i/web/status/2073316592658612505"
     },
     {
       "type": "x",
-      "text": "Alien terminology: Cash dash. Guess the meaning. (Source: Logs retrieved from a UFO crash site), #parody, #satire, #fiction, \ud83e\udd14\ud83d\ude02",
+      "text": "@klcheshire \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Hot for teacher\u2014Van Halen \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Too hot to handle\u2014UFO \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  Some like it hot\u2014The Power Station  \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f  You took the words right out of my mouth (Hot summer night)",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073270579004932577"
+      "url": "https://x.com/i/web/status/2073316357794402748"
     },
     {
       "type": "x",
-      "text": "@_Gekkostate_ I kinda wished they laundered it better. Because Cruel Angel's thesis also does this with the 1970 sci-fi show UFO but doesn't Rotoscope or call direct attention to it.   https://t.co/xz",
+      "text": "@bluecrayon71 @IREPWorld Ahumdullah it's team effort, the NHI &amp; UAP phenomenon leaves alot of people confused but there are answers",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073270430006456743"
+      "url": "https://x.com/i/web/status/2073316353038033305"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP Dr. Steven Greer \u2014 UAP researcher, founder of the Disclosure Project, and longtime advocate for government transparency - told Katie Pavlich earlier this week that the Tic Tac is man ",
+      "text": "\u26a0\ufe0f\ud83d\udc7d Was This UFO Finally Busted? Viral Footage Has Everyone Talking \ud83d\udef8\ud83d\ude94 https://t.co/uhE4RC9uVN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073269630617935965"
+      "url": "https://x.com/i/web/status/2073315968277778615"
     },
     {
       "type": "x",
-      "text": "@Yahjal12 @DARPA @GeminiApp @geminicli @Gemini Intriguing SHUMR Phase 2 framework layering Claude then Grok for payload compliance checks on moral/cosmic alignment. Clean JSON structure and Crystal La",
+      "text": "\ud83d\udc7dYou never know maybe this year  I guess that he said we go to come out visiting\ud83d\ude01 #ufo #aliens https://t.co/BAQBjO0IGx",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073269552461369347"
+      "url": "https://x.com/i/web/status/2073315937558618543"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2033\r Issue Time: 2026 Jul 04 0715 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK07\r Serial Number: 218\r Issue Time: 2026 Jul 04 0509 UTC\r \r ALERT: Geomagnetic K-index of 7  Threshold Reach",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK07\r Serial Number: 151\r Issue Time: 2026 Jul 04 0501 UTC\r \r WARNING: Geomagnetic K-index of 7 or greater exp",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 720\r Issue Time: 2026 Jul 04 0450 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2032\r Issue Time: 2026 Jul 04 0423 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1452,6 +1452,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.8
+    },
+    {
+      "ts": "2026-07-04T08:04:56.126944Z",
+      "score": 32.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.0
     }
   ],
   "sources": [
