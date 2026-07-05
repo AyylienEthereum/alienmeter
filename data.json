@@ -1,96 +1,108 @@
 {
-  "generated_at": "2026-07-04T23:42:59.393143Z",
-  "score": 33.4,
+  "generated_at": "2026-07-05T01:24:54.409192Z",
+  "score": 29.5,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -3.8,
-    "d24h": -6.5,
+    "d1h": -4.3,
+    "d24h": -10.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.5,
+    "social_chatter": 5.9,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 6.6,
+    "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 20,
-    "day": 20,
-    "date": "04.07.2026",
-    "declassified": "04.07.26",
-    "generated_utc": "23:42",
+    "number": 21,
+    "day": 21,
+    "date": "05.07.2026",
+    "declassified": "05.07.26",
+    "generated_utc": "01:24",
     "top_drivers": [
-      "X/Twitter chatter: 111 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 29",
-      "NEO 523808 (2007 ML24) passing Earth at 9.0 lunar distances"
+      "X/Twitter chatter: 101 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 30",
+      "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.6,
+    "live_signal": 20.6,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 9.0409841116,
-    "asteroid_name": "523808 (2007 ML24)",
-    "gdelt_spike_pct": -77.54622320457496,
-    "x_last_hour": 111,
-    "wiki_spike_pct": -19.73106353504564,
+    "closest_asteroid_ld": 54.7626018163,
+    "asteroid_name": "(2016 TB18)",
+    "gdelt_spike_pct": null,
+    "x_last_hour": 101,
+    "wiki_spike_pct": -20.578294696826173,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 29
+    "swpc_alerts_24h": 30
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Michael Shermer calls government whistleblowers grifters, while charging $20,000.00 to $30,000.00 per speaking engagement.  He does not belong on the White House UAP Science Advisory Board.  @ProfAviL",
+      "text": "@Freedom250 Only diff btw this and a UFO hovering is..the shape. We have the tech! https://t.co/XvWK6GqTJm",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552942196826138"
+      "url": "https://x.com/i/web/status/2073578710524191055"
     },
     {
       "type": "x",
-      "text": "@izaqueoeav @WORLDUFOGROUP I have a night UFO sighting video from 2013, recorded near Marmaris, Turkey. It appears to show two UFOs landing on a hill, followed by luminous beings emerging and carrying",
+      "text": "@GarryPNolan @Dragonflynda @GoodTroubleShow @ProfAviLoeb @RepLuna @DepDNILukas @michaelshermer You are champ! UFO world and society has benefitted greatly from the time and insights you have given - e",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552798742876668"
+      "url": "https://x.com/i/web/status/2073578676218732621"
     },
     {
       "type": "x",
-      "text": "Reality been acting like an unfinished game. I think the moon got admin privileges. Every Tuesday feels procedurally generated. UFO flew by like it was avoiding traffic. Somebody definitely accepted m",
+      "text": "@princess414141 You are getting in too deep with the fantas  y  Video formats\u2026good  luck  when  the  ufo  researchers  come  a  knocking  haha.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552618299785673"
+      "url": "https://x.com/i/web/status/2073578399302390188"
     },
     {
       "type": "x",
-      "text": "@eMTBrides I've always been a proponent that they 100% went, but they did fake a lot of footage and images due to radiological damage and possible UFO activity that they had to remove before publicati",
+      "text": "Robert Spire is chased across Eastern Europe and finally to Antarctica  in this fast-paced mystery thriller  https://t.co/NOyfIruYy8  #UFOMystery #SciFiThriller  #UFOs #UAPs #UFO #SciFi  #mystery #act",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552502923161989"
+      "url": "https://x.com/i/web/status/2073578129696735307"
     },
     {
       "type": "x",
-      "text": "@JonStewartIL She knows nothing we don't know, same as Elizondo. We saw the videos she hinted were amazing and many are balloons. I think this is a fake disclosure kids. But don't worry, you can do yo",
+      "text": "@johnrich Makes you realize that for years when you thought you were seeing a UFO, it was actually military test flights.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552288959144340"
+      "url": "https://x.com/i/web/status/2073577996301095340"
     },
     {
       "type": "x",
-      "text": "\u201cAn 80 Foot UFO Abducted Us On a Lake!\u201d -Jim Weiner &amp; Charlie Foltz | ME... https://t.co/EzlqFf1nCM via @YouTube",
+      "text": "@Myonlinediary69 UFO is hard but nothing beats LoLK in difficulty, that shit sucks ass lowkey (Never beaten it) Sunken Fossil World is really cool, every character feels very different on how they pla",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073552231576506618"
+      "url": "https://x.com/i/web/status/2073577375543988450"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK07\r Serial Number: 152\r Issue Time: 2026 Jul 05 0027 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 7 or grea",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK06\r Serial Number: 666\r Issue Time: 2026 Jul 05 0005 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 6 expecte",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -99,20 +111,8 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMX01\r Serial Number: 220\r Issue Time: 2026 Jul 04 2116 UTC\r \r SUMMARY: X-ray Event exceeded X1  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 922\r Issue Time: 2026 Jul 04 2115 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jul ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
-      "text": "NEO 523808 (2007 ML24) passing at 9.04 LD (~802m, 16.8 km/s) \u2014 PHA",
+      "text": "NEO (2016 TB18) passing at 54.76 LD (~65m, 2.6 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -1543,6 +1543,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.6
+    },
+    {
+      "ts": "2026-07-05T01:24:54.323413Z",
+      "score": 29.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.6
     }
   ],
   "sources": [
