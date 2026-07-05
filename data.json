@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-05T17:46:30.068144Z",
-  "score": 43.6,
+  "generated_at": "2026-07-05T19:07:46.922809Z",
+  "score": 27.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 16.6,
-    "d24h": 9.0,
+    "d1h": -2.4,
+    "d24h": -6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 18.0,
-    "social_chatter": 6.3,
+    "news_velocity": 0.0,
+    "social_chatter": 6.4,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,83 +31,82 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "17:46",
+    "generated_utc": "19:07",
     "top_drivers": [
-      "News velocity +75% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 108 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 10",
+      "X/Twitter chatter: 109 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 14",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 38.9,
-    "baseline_recent": 25.5,
+    "live_signal": 17.9,
+    "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": 75.2060035314891,
-    "x_last_hour": 108,
-    "wiki_spike_pct": -25.57108863771564,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 109,
+    "wiki_spike_pct": -16.53672080021299,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 10
+    "swpc_alerts_24h": 14
   },
   "ticker": [
     {
       "type": "x",
-      "text": "- Satan can masquerade as an angel of light and demons can perform signs - Encounters are said to provoke fear, paralysis, or missing time - Occult imagery and claims that aliens guide humanity are hi",
+      "text": "Christopher Mellon, Lue Elizondo, Avi Loeb, George Knapp, Eric Davis, Karl Nell and their fellow travelers including Spielberg are trying to dumb down the level of discussion of how to understand UAP ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073825587962003519"
+      "url": "https://x.com/i/web/status/2073846142694207733"
     },
     {
       "type": "x",
-      "text": "Could UFO encounters be a spiritual deception rather than an encounter with aliens?  A Christian perspective argues that UFO phenomena are signs of demonic influence, designed to mislead through fear,",
+      "text": "\ud83d\udea8\ud83d\udea8RAFFLE \ud83d\udea8\ud83d\udea8 FELLAS! \ud83d\udc47 Let\u2019s close out this @GLG20inc fundraiser! With @FrontlineMedic9  Up for grabs  Orcistan UFO, oil on canvas, 8x8\u201d,  every 5$ a chance to win! Please post your receipts below or d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073825585910968749"
+      "url": "https://x.com/i/web/status/2073846124428034207"
     },
     {
       "type": "x",
-      "text": "@HyeonJiron3579 Development of the game will be finished before space in the store becomes a problem, I think. I have installed the UFO catcher inside already.",
+      "text": "Rep. Luna says a UAP announcement is coming, will assure people \u201cThe phenomena is real\u201d, by @alienufovideos https://t.co/zsGBW1PC8g",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073825557431623971"
+      "url": "https://x.com/i/web/status/2073846084342833364"
     },
     {
       "type": "x",
-      "text": "Best UFO Ever Recorded! https://t.co/bBvomkMzpf via @YouTube",
+      "text": "@johnkoenigcmdr My ringtone is the UFO theme    Barry grey was a genius",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073825098214097111"
+      "url": "https://x.com/i/web/status/2073846027304501619"
     },
     {
       "type": "x",
-      "text": "@planethunter56 Tim Taylor is a LARPing trickster fraud who not only convinced two PhDs that they could have special privileged access to a super totally real UFO crash site, but proceeded to blindfol",
+      "text": "@jamescfox Ze nazi UFO we master fusion and plasma. Real talk though, every UFO is man-made.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073824904269664376"
+      "url": "https://x.com/i/web/status/2073845873667199390"
     },
     {
       "type": "x",
-      "text": "#UFOx #UFO #ufosightings I will be publishing all of my work and development for MY OpenRadar project as it is used in the UAP sensor network that I AM developing. All software, hardware BOMs, and dev",
+      "text": "I just saw a video of a boar getting abducted by a UFO in Genshin of all things, what a time to be alive",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073824533925286130"
+      "url": "https://x.com/i/web/status/2073845365011603739"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5379\r Issue Time: 2026 Jul 05 1659 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1512\r Issue Time: 2026 Jul 05 1822 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5378\r Issue Time: 2026 Jul 05 0256 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 324\r Issue Time: 2026 Jul 05 1809 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK07\r Serial Number: 152\r Issue Time: 2026 Jul 05 0027 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 7 or grea",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2671\r Issue Time: 2026 Jul 05 1802 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1607,6 +1606,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 38.9
+    },
+    {
+      "ts": "2026-07-05T19:07:46.847768Z",
+      "score": 27.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.9
     }
   ],
   "sources": [
