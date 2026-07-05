@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-05T20:21:44.754161Z",
-  "score": 33.1,
+  "generated_at": "2026-07-05T21:32:47.119051Z",
+  "score": 27.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 5.8,
-    "d24h": -6.3,
+    "d1h": -2.7,
+    "d24h": -4.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "news_velocity": 6.6,
+    "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,56 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "20:21",
+    "generated_utc": "21:32",
     "top_drivers": [
-      "New music on our radar this week : Ineffekt , Bullion , Cobrah and Grimes",
-      "X/Twitter chatter: 242 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 14",
+      "Le paradoxe Diomaye : le h\u00e9ros malgr\u00e9 lui devenu strat\u00e8ge absolu ( Par Ndiam\u00e9 Sakho ) ",
+      "News velocity +27% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 9",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.4,
+    "live_signal": 18.6,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 242,
+    "gdelt_spike_pct": 27.474563312356647,
+    "x_last_hour": 0,
     "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 14
+    "swpc_alerts_24h": 9
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Le paradoxe Diomaye : le h\u00e9ros malgr\u00e9 lui devenu strat\u00e8ge absolu ( Par Ndiam\u00e9 Sakho ) ",
+      "source": "senenews.com",
+      "url": "https://www.senenews.com/actualites/contribution-chronique/le-paradoxe-diomaye-le-heros-malgre-lui-devenu-stratege-absolu-par-ndiame-sakho_592354.html"
+    },
+    {
+      "type": "news",
+      "text": "Sci - fi comedy Out There to make world premiere at Edinburgh International Film Festival",
+      "source": "atvtoday.co.uk",
+      "url": "https://www.atvtoday.co.uk/303666-theatre-news/"
+    },
+    {
+      "type": "news",
+      "text": "This Forgotten Space Opera Is The Perfect Guilty Pleasure Sci - Fi (& It Free To Watch ) ",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/forgotten-space-opera-starhunter-free-tubi/"
+    },
+    {
+      "type": "news",
+      "text": "Super Auto Pets : lauto - battler gratuit le plus mignon et addictif du moment",
+      "source": "iphonesoft.fr",
+      "url": "https://iphonesoft.fr:443/2026/07/04/super-auto-pets-auto-battler-gratuit-plus-mignon-addictif-moment"
+    },
     {
       "type": "news",
       "text": "New music on our radar this week : Ineffekt , Bullion , Cobrah and Grimes",
@@ -92,30 +116,6 @@
       "text": "10 Nintendo Switch Adventure Games Where Youre Actually the Villain",
       "source": "dualshockers.com",
       "url": "https://www.dualshockers.com/switch-adventure-games-where-youre-actually-the-villain/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=valvsh9ossn27g7l0vmt994to2"
-    },
-    {
-      "type": "news",
-      "text": "Su una spiaggia dellAustralia sono comparse sei misteriose sfere di metallo",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-05/su-una-spiaggia-dellaustralia-sono-comparse-sei-misteriose-sfere-di-metallo/19426335/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tvufl0605g495mn878pu1dnae1"
-    },
-    {
-      "type": "news",
-      "text": "\u05d7\u05d9\u05d9\u05d6\u05e8 \u05d1\u05e8\u05e4\u05ea \u05d1\u05e9\u05e8\u05d5\u05df ? \u05d4\u05e2\u05d3\u05d5\u05ea \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05e9\u05de\u05de\u05e9\u05d9\u05db\u05d4 \u05dc\u05d4\u05e1\u05e2\u05d9\u05e8 \u05d2\u05dd \u05d0\u05d7\u05e8\u05d9 \u05e9\u05e0\u05d9\u05dd",
-      "source": "13tv.co.il",
-      "url": "https://13tv.co.il/item/from-the-web-2/articles/w6jyt-905249986/?pid=7&refc=903284948"
     },
     {
       "type": "swpc",
@@ -1645,6 +1645,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.4
+    },
+    {
+      "ts": "2026-07-05T21:32:47.045723Z",
+      "score": 27.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
     }
   ],
   "sources": [
