@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-05T08:31:13.085017Z",
-  "score": 25.7,
+  "generated_at": "2026-07-05T10:51:33.030842Z",
+  "score": 25.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -8.5,
-    "d24h": -6.4,
+    "d1h": -8.0,
+    "d24h": -6.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.0,
+    "social_chatter": 3.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,66 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "08:31",
+    "generated_utc": "10:51",
     "top_drivers": [
-      "X/Twitter chatter: 53 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 18",
+      "X/Twitter chatter: 57 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 16",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.8,
+    "live_signal": 15.5,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 53,
+    "gdelt_spike_pct": -22.634831123642687,
+    "x_last_hour": 57,
     "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 18
+    "swpc_alerts_24h": 16
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@JimFergusonUK UFO,UAP CALL from USA This",
+      "text": "So much UFO \ud83d\udef8 information is being put out right now! https://t.co/MFlxzUD45J",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073686024086249478"
+      "url": "https://x.com/i/web/status/2073721171938590890"
     },
     {
       "type": "x",
-      "text": "Trump allegedly jokes there are alien hybrids living \u2018among us\u2019 during briefing \u2014 names California Dem as example https://t.co/R0tGfJ7Ve4 #ufo #ufos #ufology #ufosightings #ufosighting #ufologist #par",
+      "text": "Tastemaker (and self-proclaimed \"amateur UFO-ologist\")  graces our Fall cover, highlighting the former reality-TV star's fashion-forward Provo home designed by .  Along with this exclusive home tour, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073685991781433396"
+      "url": "https://x.com/i/web/status/2073720486903820670"
     },
     {
       "type": "x",
-      "text": "UK\u2019s UFO hotspot revealed as cops finally break silence on string of mysterious sightings dating back seven decades https://t.co/jJSRlUtB0z #ufo #ufos #ufology #ufosightings #ufosighting #ufologist #p",
+      "text": "@johnrich That's a ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073685780120158223"
+      "url": "https://x.com/i/web/status/2073720058023432351"
     },
     {
       "type": "x",
-      "text": "@VanguardEnterpr While protecting those who report sensitive information is worthwhile, Vanguard\u2019s mission explicitly combines this with \u201cpublic education\u201d and \u201cdisclosing the truth\u201d about UAP claims ",
+      "text": "Roswell UFO Festival is July 2\u20134, and if you still don\u2019t see where the alien/disclosure narrative is headed, you\u2019re asleep \ud83d\udc7d\ud83c\uddfa\ud83c\uddf8\ud83d\udef8  That\u2019s exactly why I\u2019ve got my eye on $MAGA.  From everything I\u2019ve seen",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073685509755588910"
+      "url": "https://x.com/i/web/status/2073719628317253835"
     },
     {
       "type": "x",
-      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: DOGSUSDT Appeared: 2026-07-05 06:26 GMT Verified: 2026-07-05 08:17 GMT  Market reading only, not financial advice.  \ud83d\udef8 Join now to follow all live UFO market",
+      "text": "@_badtakebarbie Patriarchy in modern society is like the UFO, no one ever really saw it but a certain group believes it exists",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073685061254217950"
+      "url": "https://x.com/i/web/status/2073718929885626852"
     },
     {
       "type": "x",
-      "text": "@UnionPatriot369 More from grok on the DMT alien illusion: DMT binds strongly to 5-HT2A serotonin receptors, highly concentrated in the primary visual cortex and higher association areas. This agonism",
+      "text": "\ud83d\udc7d Four UFO hotspots of American folklore: \ud83d\udef8 Colfax, WI \u2014 a cop's 1978 disc photos \ud83c\udf32 Bridgewater Triangle, MA \ud83c\udfd4\ufe0f San Luis Valley, CO \ud83c\udf3d Pine Bush, NY Decades of unexplained lights over quiet towns. #UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073684448478937412"
+      "url": "https://x.com/i/web/status/2073718479568376126"
     },
     {
       "type": "swpc",
@@ -1564,6 +1564,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.8
+    },
+    {
+      "ts": "2026-07-05T10:51:32.957318Z",
+      "score": 25.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.5
     }
   ],
   "sources": [
