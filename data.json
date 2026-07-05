@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-05T15:37:33.377523Z",
-  "score": 27.3,
+  "generated_at": "2026-07-05T16:43:09.021553Z",
+  "score": 30.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 1.6,
-    "d24h": -3.9,
+    "d1h": 5.1,
+    "d24h": -0.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.0,
+    "social_chatter": 6.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,127 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "15:37",
+    "generated_utc": "16:43",
     "top_drivers": [
-      "X/Twitter chatter: 102 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 11",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 107 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 10",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.9,
-    "baseline_recent": 25.6,
+    "live_signal": 22.1,
+    "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 102,
+    "x_last_hour": 107,
     "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 11
+    "swpc_alerts_24h": 10
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "I don't know about you but when someone insults my intelligence with obvious propaganda I stop listening to that person. I cancelled my subscription to the #WallStreetJournal. If you read the analysis",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073792396622430521"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tm9j7j3nq8cae09oqk582s6336"
+    },
+    {
+      "type": "news",
+      "text": "Nuovi file Epstein in arrivo il retroscena del dossier riservato che agita l  Europa",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-05/nuovi-file-epstein-in-arrivo-il-retroscena-del-dossier-riservato-che-agita-leuropa-esclusiva/19426542/"
+    },
+    {
+      "type": "news",
+      "text": "10 Nintendo Switch Adventure Games Where Youre Actually the Villain",
+      "source": "dualshockers.com",
+      "url": "https://www.dualshockers.com/switch-adventure-games-where-youre-actually-the-villain/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=valvsh9ossn27g7l0vmt994to2"
+    },
+    {
+      "type": "news",
+      "text": "Su una spiaggia dellAustralia sono comparse sei misteriose sfere di metallo",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-05/su-una-spiaggia-dellaustralia-sono-comparse-sei-misteriose-sfere-di-metallo/19426335/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tvufl0605g495mn878pu1dnae1"
+    },
+    {
+      "type": "news",
+      "text": "\u05d7\u05d9\u05d9\u05d6\u05e8 \u05d1\u05e8\u05e4\u05ea \u05d1\u05e9\u05e8\u05d5\u05df ? \u05d4\u05e2\u05d3\u05d5\u05ea \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05e9\u05de\u05de\u05e9\u05d9\u05db\u05d4 \u05dc\u05d4\u05e1\u05e2\u05d9\u05e8 \u05d2\u05dd \u05d0\u05d7\u05e8\u05d9 \u05e9\u05e0\u05d9\u05dd",
+      "source": "13tv.co.il",
+      "url": "https://13tv.co.il/item/from-the-web-2/articles/w6jyt-905249986/?pid=7&refc=903284948"
+    },
+    {
+      "type": "news",
+      "text": "Trump UFO Advisory Team Pushes Defence Firms to Disclose Secret Alien Tech",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-ufo-advisory-team-pressures-defence-contractors-1806843"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=if4rer5mp5c2s44m1vp511lv47"
+    },
+    {
+      "type": "news",
+      "text": "Suositut podcastit rantautuivat Ruisrockiin \u2013 Niko Saarinen heitti h\u00e4rskej\u00e4 juttuja",
+      "source": "yle.fi",
+      "url": "https://yle.fi/a/74-20234571"
     },
     {
       "type": "x",
-      "text": "\u2b55 Would you like your very own personal UFO that follows you everywhere? Them look no further \u2602\ufe0f\ud83d\udef8  https://t.co/id2W8jogzY",
+      "text": "@spaceandtech_ The contrast between casual political comments during UAP briefings and the structured legislative focus of the UAP Disclosure Act highlights the two different tracks of the current deb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073791798921552073"
+      "url": "https://x.com/i/web/status/2073809606288003116"
     },
     {
       "type": "x",
-      "text": "Blazing UFO Blasts Town   Weekly World News Cover 1981 https://t.co/QhbomoGTwW",
+      "text": "(Images): \u201cThe Roswell Flight Deck Looking Forward\u201d  \u201cThe spacecraft\u2019s flight deck was occupied by seven crew members. Two four-fingered pilots sat at the forward controls, while two additional crew m",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073791585456730541"
+      "url": "https://x.com/i/web/status/2073809559903420639"
     },
     {
       "type": "x",
-      "text": "Watch as 4 glowing lights HOVER over a car in Brazil. Military tech or a UFO encounter? https://t.co/ExVZVAS55Z",
+      "text": "@ShanitaAnkunda Try investing in unit trusts like ICEA and UAP",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073791512958115879"
+      "url": "https://x.com/i/web/status/2073809490231923118"
     },
     {
       "type": "x",
-      "text": "Why don\u2019t alleged secret UAP craft show up in ordinary wars?  If the U.S. government ever developed operational ARVs \u2014 \u201calien reproduction vehicles,\u201d or human-built craft derived from recovered techno",
+      "text": "UAP are vandalizing valuable British grain resources which could feed people and instead people are gawking at the gang symbols. https://t.co/ylk1sTBsBm",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073791122921374131"
+      "url": "https://x.com/i/web/status/2073809384925536339"
     },
     {
       "type": "x",
-      "text": "What do you think happened to Frederick Valentich that night?    UFO encounter\u2026 or tragic accident? https://t.co/un8P5Jamvr",
+      "text": "Lauren Boebert Invokes Nephilim And Fallen Angels After UFO release  Humanity has been helping the fallen angels since the corruption and turned their back on the true creator.  These fallen made you ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073791105381110064"
+      "url": "https://x.com/i/web/status/2073808327285575910"
+    },
+    {
+      "type": "x",
+      "text": "@UAPLuigi What if they erased a FAKE UFO?",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073807857573839131"
     },
     {
       "type": "swpc",
@@ -1592,6 +1653,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.9
+    },
+    {
+      "ts": "2026-07-05T16:43:08.946096Z",
+      "score": 30.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.1
     }
   ],
   "sources": [
