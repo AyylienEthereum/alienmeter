@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-05T12:11:29.340536Z",
-  "score": 27.0,
+  "generated_at": "2026-07-05T14:08:54.713144Z",
+  "score": 29.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.5,
-    "d24h": -7.3,
+    "d1h": 2.6,
+    "d24h": -1.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,17 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "12:11",
+    "generated_utc": "14:08",
     "top_drivers": [
-      "Why do aliens seem to hate Christianity ? ",
-      "X/Twitter chatter: 102 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 16",
+      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 13",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.5,
+    "live_signal": 21.0,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
@@ -50,108 +49,48 @@
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 102,
-    "wiki_spike_pct": -25.57108863771564,
+    "x_last_hour": 103,
+    "wiki_spike_pct": -16.53672080021299,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 16
+    "swpc_alerts_24h": 13
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Why do aliens seem to hate Christianity ? ",
-      "source": "christianpost.com",
-      "url": "https://www.christianpost.com/voice/why-do-aliens-seem-to-hate-christianity.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0mk2138mcr7unr2iesn62s7ft5"
-    },
-    {
-      "type": "news",
-      "text": "Assicurazioni per rapimenti alieni : 30 . 000 clienti paganti e nessuno ride",
-      "source": "businessonline.it",
-      "url": "https://www.businessonline.it/news/assicurazioni-per-rapimenti-alieni-30000-clienti-paganti-e-nessuno-ride_n85590.html"
-    },
-    {
-      "type": "news",
-      "text": "Dave Mustaine kertoo suosikkikitaristinsa",
-      "source": "kaaoszine.fi",
-      "url": "https://kaaoszine.fi/dave-mustaine-nimesi-kaikkien-aikojen-kitarasankarinsa-ylisti-ritchie-blackmorea-han-oli-pioneeri-metallimusiikin-saralla/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dq1ifkc4000a0g2eifc12de0q2"
-    },
-    {
-      "type": "news",
-      "text": "JD Vance , Tucker Carlson , and a Catholic Nun Agree : Are UFOs Actually  Demon ? ",
-      "source": "jp.ibtimes.com",
-      "url": "https://jp.ibtimes.com/jd-vance-tucker-carlson-catholic-nun-agree-are-ufos-actually-demons-102373"
-    },
-    {
-      "type": "news",
-      "text": "F\u00e9es , lutins , extraterrestres , fantaisies new age , comment le pic de Bugarach a donn\u00e9 vie aux mythes les plus\u00a0fous",
-      "source": "sudouest.fr",
-      "url": "https://www.sudouest.fr/occitanie/fees-lutins-extraterrestres-fantaisies-new-age-comment-le-pic-de-bugarach-a-donne-vie-aux-mythes-les-plus-fous-29797862.php"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7bv3u0m3idd0ajehlgjsc94804"
-    },
-    {
-      "type": "news",
-      "text": "La culture allemande en chansons . La femme sauvage des deux Berlinois\u00a0Hackedepicciotto",
-      "source": "dna.fr",
-      "url": "https://www.dna.fr/culture-loisirs/2026/07/05/la-femme-sauvage-des-deux-berlinois-hackedepicciotto"
-    },
-    {
-      "type": "news",
-      "text": "Wildfire smoke and high temperatures expected across New Mexico Sunday",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/wildfire-smoke-and-high-temperatures-expected-across-new-mexico-sunday/"
+      "type": "x",
+      "text": "I would be willing to debate Jay Dyer on the existence of NHI/UAP. I\u2019ve seen him do the \u201cit\u2019s all a government psyop\u201d line which is just a flimsy argument.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073770755884540261"
     },
     {
       "type": "x",
-      "text": "NYP done a short article about his comments but keep in mind Burlison said he doesn't know if the rumour is true. I don't have FS7 to hand atm to check date of entry. I think Hadley was involved in Bu",
+      "text": "reputation : getaway 'car'  1989 : the balustrade picture / two paper airplanes flying / polaroids  tloas : opalite detergent / keep it 100 on the list / honey rug / i like them cloaked in gucci  love",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073741098086752521"
+      "url": "https://x.com/i/web/status/2073770687336964109"
     },
     {
       "type": "x",
-      "text": "@DevilDJ32 @punt_rd UFO was and still is ridiculously underrated. Even after Schenker left the band. No Heavy Petting is a great album.  \u201cReasons Love\u201d &amp;  \u201cOn with the Action\u201d are two killer deep ",
+      "text": "@viralvortex51 Declassified Military Video Shows Fast-Moving UFO Tracked By Navy Fighter Pilots. \u201cWow! What is that, man?\u201d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073741069372530954"
+      "url": "https://x.com/i/web/status/2073770679347085824"
     },
     {
       "type": "x",
-      "text": "UFO White House leaders speak, plus Taylor and Travis\u2019 wedding | Jesse W... https://t.co/PeOMFmzwAs via @YouTube",
+      "text": "#UFOmania - The truth is out there   -   #Video of a bizarre #jellyfish like #UFO in #Alabama  -  https://t.co/8XxmrXVre8 via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073740990116970714"
+      "url": "https://x.com/i/web/status/2073770620723011897"
     },
     {
       "type": "x",
-      "text": "This applies to Bigfoot as much as it applies to UFO and every other persistently reported self consistent observations of phenomena .  For years ,  this evidence has been rejected by those who can\u2019t ",
+      "text": "Real UFO Disclosure Is Not What You Think https://t.co/BT9lxLmfdE via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073740942524219869"
+      "url": "https://x.com/i/web/status/2073770551416430620"
     },
     {
       "type": "x",
-      "text": "@aigkenham IMO the 5% of this UFO stuff that they can't explain and seems to have enough support to prove its real is contact with OT demons. They bugged out to regroup when Jesus resurrected &amp; ar",
+      "text": "@JayTC53 Imagine seeing this at night, with only it's navigation lights on, doing these moves.  You would swear it's a UFO with those moves!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073740859405734218"
-    },
-    {
-      "type": "x",
-      "text": "@MizzMisanthrope Our new UFO movie - https://t.co/99SBshkmi5",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073740786751971704"
+      "url": "https://x.com/i/web/status/2073770320394407977"
     },
     {
       "type": "swpc",
@@ -1639,6 +1578,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.5
+    },
+    {
+      "ts": "2026-07-05T14:08:54.639691Z",
+      "score": 29.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.0
     }
   ],
   "sources": [
