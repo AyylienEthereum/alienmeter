@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-05T14:08:54.713144Z",
-  "score": 29.7,
+  "generated_at": "2026-07-05T15:37:33.377523Z",
+  "score": 27.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.6,
-    "d24h": -1.9,
+    "d1h": 1.6,
+    "d24h": -3.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 4.0
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "14:08",
+    "generated_utc": "15:37",
     "top_drivers": [
-      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 13",
+      "X/Twitter chatter: 102 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 11",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.0,
+    "live_signal": 17.9,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,48 @@
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 103,
-    "wiki_spike_pct": -16.53672080021299,
+    "x_last_hour": 102,
+    "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 13
+    "swpc_alerts_24h": 11
   },
   "ticker": [
     {
       "type": "x",
-      "text": "I would be willing to debate Jay Dyer on the existence of NHI/UAP. I\u2019ve seen him do the \u201cit\u2019s all a government psyop\u201d line which is just a flimsy argument.",
+      "text": "I don't know about you but when someone insults my intelligence with obvious propaganda I stop listening to that person. I cancelled my subscription to the #WallStreetJournal. If you read the analysis",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770755884540261"
+      "url": "https://x.com/i/web/status/2073792396622430521"
     },
     {
       "type": "x",
-      "text": "reputation : getaway 'car'  1989 : the balustrade picture / two paper airplanes flying / polaroids  tloas : opalite detergent / keep it 100 on the list / honey rug / i like them cloaked in gucci  love",
+      "text": "\u2b55 Would you like your very own personal UFO that follows you everywhere? Them look no further \u2602\ufe0f\ud83d\udef8  https://t.co/id2W8jogzY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770687336964109"
+      "url": "https://x.com/i/web/status/2073791798921552073"
     },
     {
       "type": "x",
-      "text": "@viralvortex51 Declassified Military Video Shows Fast-Moving UFO Tracked By Navy Fighter Pilots. \u201cWow! What is that, man?\u201d",
+      "text": "Blazing UFO Blasts Town   Weekly World News Cover 1981 https://t.co/QhbomoGTwW",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770679347085824"
+      "url": "https://x.com/i/web/status/2073791585456730541"
     },
     {
       "type": "x",
-      "text": "#UFOmania - The truth is out there   -   #Video of a bizarre #jellyfish like #UFO in #Alabama  -  https://t.co/8XxmrXVre8 via @YouTube",
+      "text": "Watch as 4 glowing lights HOVER over a car in Brazil. Military tech or a UFO encounter? https://t.co/ExVZVAS55Z",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770620723011897"
+      "url": "https://x.com/i/web/status/2073791512958115879"
     },
     {
       "type": "x",
-      "text": "Real UFO Disclosure Is Not What You Think https://t.co/BT9lxLmfdE via @YouTube",
+      "text": "Why don\u2019t alleged secret UAP craft show up in ordinary wars?  If the U.S. government ever developed operational ARVs \u2014 \u201calien reproduction vehicles,\u201d or human-built craft derived from recovered techno",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770551416430620"
+      "url": "https://x.com/i/web/status/2073791122921374131"
     },
     {
       "type": "x",
-      "text": "@JayTC53 Imagine seeing this at night, with only it's navigation lights on, doing these moves.  You would swear it's a UFO with those moves!",
+      "text": "What do you think happened to Frederick Valentich that night?    UFO encounter\u2026 or tragic accident? https://t.co/un8P5Jamvr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073770320394407977"
+      "url": "https://x.com/i/web/status/2073791105381110064"
     },
     {
       "type": "swpc",
@@ -1585,6 +1585,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.0
+    },
+    {
+      "ts": "2026-07-05T15:37:33.303709Z",
+      "score": 27.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.9
     }
   ],
   "sources": [
