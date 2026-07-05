@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:24:54.409192Z",
-  "score": 29.5,
+  "generated_at": "2026-07-05T05:33:15.862917Z",
+  "score": 27.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -4.3,
-    "d24h": -10.9,
+    "d1h": -9.1,
+    "d24h": -3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.9,
+    "social_chatter": 5.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,133 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "01:24",
+    "generated_utc": "05:33",
     "top_drivers": [
-      "X/Twitter chatter: 101 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 30",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 88 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 19",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.6,
+    "live_signal": 17.6,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 101,
-    "wiki_spike_pct": -20.578294696826173,
+    "gdelt_spike_pct": -78.88067581837382,
+    "x_last_hour": 88,
+    "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 30
+    "swpc_alerts_24h": 19
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@Freedom250 Only diff btw this and a UFO hovering is..the shape. We have the tech! https://t.co/XvWK6GqTJm",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073578710524191055"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ppujrqin0quvdtq3134krgb5h7"
+    },
+    {
+      "type": "news",
+      "text": "Daryl Hannah Starred In The HBO Remake Of A Classic  50s Sci - Fi Movie",
+      "source": "bgr.com",
+      "url": "https://www.bgr.com/2206624/daryl-hannah-hbo-remake-50s-sci-fi-movie-attack-of-the-50-ft-woman/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : UFO is hidden in the Crater Manilius on the Moon 1968 , UFO Sighting News . ",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2014/10/ufo-is-hidden-in-crater-manilius-on.html"
+    },
+    {
+      "type": "news",
+      "text": "Ojo donde pincha",
+      "source": "malagahoy.es",
+      "url": "https://www.malagahoy.es/opinion/articulos/ojo-pincha_0_2007305834.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7g71k08c5kv2k2jfpsm7c539l3"
+    },
+    {
+      "type": "news",
+      "text": "F\u00e9es , lutins et extraterrestres , comment le pic de Bugarach a donn\u00e9 vie aux mythes les plus\u00a0fous",
+      "source": "theconversation.com",
+      "url": "https://theconversation.com/fees-lutins-et-extraterrestres-comment-le-pic-de-bugarach-a-donne-vie-aux-mythes-les-plus-fous-284258"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fjfkg6gloqjns5a602691a9042"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vjdh6n1hq69iva2arqb4r616h7"
+    },
+    {
+      "type": "news",
+      "text": "Dos aviones fueron raptados por un OVNI",
+      "source": "ellitoral.com.ar",
+      "url": "https://www.ellitoral.com.ar/sociedad/2026-7-4-21-28-0-dos-aviones-fueron-raptados-por-un-ovni"
+    },
+    {
+      "type": "news",
+      "text": " \u3010 \u5f71\u8a55 \u3011\u300a \u63ed\u5bc6\u65e5 \u300b\uff1a \u7406\u6027\u8207\u795e\u6027\u4ea4\u92d2 \uff0c \u53f2\u8482\u82ac\u53f2\u5339\u67cf\u5316\u8eab\u7b2c\u4e94\u6b0a\u63ed\u5bc6\u8005 \uff1f - TNL The News Lens \u95dc\u9375\u8a55\u8ad6\u7db2",
+      "source": "thenewslens.com",
+      "url": "https://www.thenewslens.com/article/268974"
     },
     {
       "type": "x",
-      "text": "@GarryPNolan @Dragonflynda @GoodTroubleShow @ProfAviLoeb @RepLuna @DepDNILukas @michaelshermer You are champ! UFO world and society has benefitted greatly from the time and insights you have given - e",
+      "text": "@tedcruz If we could just harness that energy, like Tesla envisioned. \u26a1\u26a1\u26a1 Disclosure of Zero Point Energy Reversed engineer uap tech.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073578676218732621"
+      "url": "https://x.com/i/web/status/2073640900115231071"
     },
     {
       "type": "x",
-      "text": "@princess414141 You are getting in too deep with the fantas  y  Video formats\u2026good  luck  when  the  ufo  researchers  come  a  knocking  haha.",
+      "text": "$ASTS Why Some Investors May Prefer an ETF Over Buying AST SpaceMobile Directly  AST SpaceMobile has become one of the most exciting names in the space industry. The company isn\u2019t just launching satel",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073578399302390188"
+      "url": "https://x.com/i/web/status/2073640602022084806"
     },
     {
       "type": "x",
-      "text": "Robert Spire is chased across Eastern Europe and finally to Antarctica  in this fast-paced mystery thriller  https://t.co/NOyfIruYy8  #UFOMystery #SciFiThriller  #UFOs #UAPs #UFO #SciFi  #mystery #act",
+      "text": "Much better interview by Burleson.  Getting pigeon holed as the UFO guy probably does suck, but being the Christian he says he is, it is the burden placed upon him or that he volunteered for.  Skip th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073578129696735307"
+      "url": "https://x.com/i/web/status/2073640456789860695"
     },
     {
       "type": "x",
-      "text": "@johnrich Makes you realize that for years when you thought you were seeing a UFO, it was actually military test flights.",
+      "text": "The moment you see a UFO, does it become an \u2018IFO\u2019 an Identified Flying Object?\ud83e\udd14\ud83d\ude02 https://t.co/Ex1nerQ9wy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073577996301095340"
+      "url": "https://x.com/i/web/status/2073639242341781818"
     },
     {
       "type": "x",
-      "text": "@Myonlinediary69 UFO is hard but nothing beats LoLK in difficulty, that shit sucks ass lowkey (Never beaten it) Sunken Fossil World is really cool, every character feels very different on how they pla",
+      "text": "Aeon verdict: partly factual, but the conclusion is way overstated.Yes, a sitting member of Congress has publicly raised a \u201chuman hybrids\u201d claim. Rep. Lauren Boebert asked witnesses at a 2024 House Ov",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073577375543988450"
+      "url": "https://x.com/i/web/status/2073639193008538097"
+    },
+    {
+      "type": "x",
+      "text": "\ud83d\udd34Bob Lazar claimed that he went inside the UFO: \"Everything was really unworldly... =============== A person like Bob #Lazar, who claims he was abducted by a UFO/UAP, probably has a glitch in his memo",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073639171986485315"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5378\r Issue Time: 2026 Jul 05 0256 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +168,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK06\r Serial Number: 666\r Issue Time: 2026 Jul 05 0005 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 6 expecte",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2038\r Issue Time: 2026 Jul 04 2300 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1550,6 +1611,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.6
+    },
+    {
+      "ts": "2026-07-05T05:33:15.787944Z",
+      "score": 27.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.6
     }
   ],
   "sources": [
