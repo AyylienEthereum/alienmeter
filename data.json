@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-05T21:32:47.119051Z",
-  "score": 27.8,
+  "generated_at": "2026-07-05T22:38:59.688374Z",
+  "score": 37.7,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": -4.2,
+    "d1h": -5.9,
+    "d24h": 4.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 6.6,
-    "social_chatter": 0.0,
+    "news_velocity": 10.7,
+    "social_chatter": 7.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 21,
     "date": "05.07.2026",
     "declassified": "05.07.26",
-    "generated_utc": "21:32",
+    "generated_utc": "22:38",
     "top_drivers": [
-      "Le paradoxe Diomaye : le h\u00e9ros malgr\u00e9 lui devenu strat\u00e8ge absolu ( Par Ndiam\u00e9 Sakho ) ",
-      "News velocity +27% vs 7-day baseline (GDELT)",
+      "News velocity +44% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 122 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 9",
       "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.6,
+    "live_signal": 31.3,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 54.7626018163,
     "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": 27.474563312356647,
-    "x_last_hour": 0,
+    "gdelt_spike_pct": 44.424886016044304,
+    "x_last_hour": 122,
     "wiki_spike_pct": -25.57108863771564,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,64 +58,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Le paradoxe Diomaye : le h\u00e9ros malgr\u00e9 lui devenu strat\u00e8ge absolu ( Par Ndiam\u00e9 Sakho ) ",
-      "source": "senenews.com",
-      "url": "https://www.senenews.com/actualites/contribution-chronique/le-paradoxe-diomaye-le-heros-malgre-lui-devenu-stratege-absolu-par-ndiame-sakho_592354.html"
+      "type": "x",
+      "text": "FORGET GROK!  USE GEMINI FOR CROP CIRCLE RESEARCH. WORK WITH IT SOME ... DON'T EXPECT IMMEDIATE COOPERATION!!!  GROK IS TITS ON A BOAR. USELESS!!!  RED COLLIE=TRUTH=ANSWERS  #uap #jimpenniston #c2cam ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073899397838946697"
     },
     {
-      "type": "news",
-      "text": "Sci - fi comedy Out There to make world premiere at Edinburgh International Film Festival",
-      "source": "atvtoday.co.uk",
-      "url": "https://www.atvtoday.co.uk/303666-theatre-news/"
+      "type": "x",
+      "text": "The Tall Whites defeated Brasil. Disclosure day and the UAP files dropped when the World Cup started. To some this is just a coincidence. \ud83d\udc7d https://t.co/O05a1rbiYQ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073899326011535561"
     },
     {
-      "type": "news",
-      "text": "This Forgotten Space Opera Is The Perfect Guilty Pleasure Sci - Fi (& It Free To Watch ) ",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/forgotten-space-opera-starhunter-free-tubi/"
+      "type": "x",
+      "text": "The new issue of Paranormal Underground is here, and it\u2019s packed with cosmic mysteries, haunted history, UFO encounters, strange creatures, and unseen energies. \ud83d\udc7b Take a look for FREE! https://t.co/Lk",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073899310412882087"
     },
     {
-      "type": "news",
-      "text": "Super Auto Pets : lauto - battler gratuit le plus mignon et addictif du moment",
-      "source": "iphonesoft.fr",
-      "url": "https://iphonesoft.fr:443/2026/07/04/super-auto-pets-auto-battler-gratuit-plus-mignon-addictif-moment"
+      "type": "x",
+      "text": "why did so many ufo folks change their profile pics to bisexual lighting styled?",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073899127549661313"
     },
     {
-      "type": "news",
-      "text": "New music on our radar this week : Ineffekt , Bullion , Cobrah and Grimes",
-      "source": "mixmag.net",
-      "url": "https://mixmag.net/read/new-music-on-our-radar-this-week-ineffekt-bullion-cobrah-grimes-news"
+      "type": "x",
+      "text": "Means this uap is real",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073899024453599467"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=702fmc4f5ls7qqcurl35bn2312"
-    },
-    {
-      "type": "news",
-      "text": "At 80 , author Nancy J . Allen publishes debut short story collection with UNM Press",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/lifestyles/going-to-new-altitudes/3072668"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tm9j7j3nq8cae09oqk582s6336"
-    },
-    {
-      "type": "news",
-      "text": "Nuovi file Epstein in arrivo il retroscena del dossier riservato che agita l  Europa",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-05/nuovi-file-epstein-in-arrivo-il-retroscena-del-dossier-riservato-che-agita-leuropa-esclusiva/19426542/"
-    },
-    {
-      "type": "news",
-      "text": "10 Nintendo Switch Adventure Games Where Youre Actually the Villain",
-      "source": "dualshockers.com",
-      "url": "https://www.dualshockers.com/switch-adventure-games-where-youre-actually-the-villain/"
+      "type": "x",
+      "text": "\ud83c\udd95\ufe0f Maranatha Teaching Channel (Special UFO Disclosure Episode) Title: THE FINAL DECEPTION (...the collapse of trust) \ud83d\udc47 Listen on YouTube https://t.co/4NLQ4opj25 Also listen to Maranatha Teaching Podca",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2073898867699884206"
     },
     {
       "type": "swpc",
@@ -1652,6 +1628,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.6
+    },
+    {
+      "ts": "2026-07-05T22:38:59.614100Z",
+      "score": 37.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 31.3
     }
   ],
   "sources": [
