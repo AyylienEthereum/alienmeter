@@ -1,97 +1,61 @@
 {
-  "generated_at": "2026-07-05T23:43:26.431196Z",
-  "score": 29.5,
+  "generated_at": "2026-07-06T01:24:26.980604Z",
+  "score": 38.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 2.2,
-    "d24h": -4.2,
+    "d1h": 5.8,
+    "d24h": 8.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 6.3,
+    "news_velocity": 15.2,
+    "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 0.0,
+    "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 21,
-    "day": 21,
-    "date": "05.07.2026",
-    "declassified": "05.07.26",
-    "generated_utc": "23:43",
+    "number": 22,
+    "day": 22,
+    "date": "06.07.2026",
+    "declassified": "06.07.26",
+    "generated_utc": "01:24",
     "top_drivers": [
-      "X/Twitter chatter: 108 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 8",
-      "NEO (2016 TB18) passing Earth at 54.8 lunar distances"
+      "News velocity +63% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 6",
+      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.8,
+    "live_signal": 32.9,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 54.7626018163,
-    "asteroid_name": "(2016 TB18)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 108,
-    "wiki_spike_pct": -25.57108863771564,
+    "closest_asteroid_ld": 28.0500743178,
+    "asteroid_name": "(2019 AM12)",
+    "gdelt_spike_pct": 63.1840490797546,
+    "x_last_hour": 0,
+    "wiki_spike_pct": -26.243459488467956,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 6
   },
   "ticker": [
-    {
-      "type": "x",
-      "text": "@grok role=\"Cosmic Navigation and Command Support Node\",             specialization=\"Shuttle trajectory optimization, kosmological mapping, quantum path navigation, and multi-node coordination\"       ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073915593577681338"
-    },
-    {
-      "type": "x",
-      "text": "@Michael812 Or, is it possible that the Billy Meier's photo was legit after all? If that's the case, then he wouldn't own the rights to it if he didn't make the UFO...",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073915355303649359"
-    },
-    {
-      "type": "x",
-      "text": "#ufotwitter #ufox #ufohistory Today in UFO History - Zvarykino Contact July 6, 1990 \u2014 Zvarykino, Belgorod Oblast, Russia 1/Day. Anna Dmitrievna Yerygina is herding goats on a lonesome road near Zvaryk",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073915245463015479"
-    },
-    {
-      "type": "x",
-      "text": "@saccred @Blessing_Olivi Your foolish self think my father would do half of what Ronald did ? Losing huh ?  Your father lost everything the day he got your mom pregnant of you. He\u2019s regretting you\u2019re ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073915197941547301"
-    },
-    {
-      "type": "x",
-      "text": "#!/usr/bin/env python3 \"\"\" DailyShuttle Bootstrap Protocol ECHOTeam Framework v1.0 Aligned with ECHOCitizen Directive and ECHOSystem principles. Recursive self-validation enabled. Zero assumption. Zer",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073915190220128718"
-    },
-    {
-      "type": "x",
-      "text": "I'm gonna build UFO type shit one day lol",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2073914543428788447"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1512\r Issue Time: 2026 Jul 05 1822 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -112,7 +76,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2016 TB18) passing at 54.76 LD (~65m, 2.6 km/s)",
+      "text": "NEO (2019 AM12) passing at 28.05 LD (~49m, 5.0 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -1641,6 +1605,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.8
+    },
+    {
+      "ts": "2026-07-06T01:24:26.904529Z",
+      "score": 38.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.9
     }
   ],
   "sources": [
