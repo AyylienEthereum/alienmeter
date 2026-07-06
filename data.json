@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-06T10:05:23.224355Z",
-  "score": 29.6,
+  "generated_at": "2026-07-06T14:02:54.462050Z",
+  "score": 29.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -8.1,
-    "d24h": 3.6,
+    "d1h": -0.4,
+    "d24h": 7.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.1,
-    "social_chatter": 2.5,
+    "news_velocity": 0.0,
+    "social_chatter": 5.5,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,133 @@
     "day": 22,
     "date": "06.07.2026",
     "declassified": "06.07.26",
-    "generated_utc": "10:05",
+    "generated_utc": "14:02",
     "top_drivers": [
-      "X/Twitter chatter: 45 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
+      "Desert Mountain Energy Corp ( CVE : DME ) CEO Robert Rohlfing on Helium , AI Infrastructure and Americas Critical Helium Supply",
+      "X/Twitter chatter: 95 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 6",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.0,
+    "live_signal": 20.3,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 4.788999525841628,
-    "x_last_hour": 45,
+    "gdelt_spike_pct": -13.59901817066103,
+    "x_last_hour": 95,
     "wiki_spike_pct": -21.087610058965748,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 6
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@Humanevolvd Your wallet is tooooo well known so there got to be so many snipers, the time they gone always comes the chart going down, don\u2019t know why you just can\u2019t understand how bullish it is the s",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074071397425721522"
+      "type": "news",
+      "text": "Desert Mountain Energy Corp ( CVE : DME ) CEO Robert Rohlfing on Helium , AI Infrastructure and Americas Critical Helium Supply",
+      "source": "abnnewswire.net",
+      "url": "https://www.abnnewswire.net/press/en/140871/Desert-Mountain-Energy-Corp-%28CVE-DME%29-CEO-Robert-Rohlfing-on-Helium-AI-Infrastructure-and-Americas-Critical-Helium-Supply.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sljb8l384ivaqij7575vaklha6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2133ger3i9sf8cdf3e6ubc51b5"
+    },
+    {
+      "type": "news",
+      "text": "Beyonc\u00e9 lanza  Morning Dew ( Donk ), su nueva canci\u00f3n en dos a\u00f1os que enloquece al BeyHive",
+      "source": "que.es",
+      "url": "https://www.que.es/2026/07/06/beyonce-nueva-cancion-morning-dew-donk/"
+    },
+    {
+      "type": "news",
+      "text": "3 TV Characters Who Were Killed Off in Ridiculous Ways for Behind - the - Scenes Reasons",
+      "source": "vice.com",
+      "url": "https://www.vice.com/en/article/3-tv-characters-who-were-killed-off-in-ridiculous-ways-for-behind-the-scenes-reasons/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jh7ihfpg0nglro09n100p6c3q0"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=md8tpuv1p02gq2ct4397mq46d6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=urhcja19la9or089fhas0d2vo1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=t3s6lb9kg7140uedh1ho7o8v10"
+    },
+    {
+      "type": "news",
+      "text": "Young Vietnamese turn packaging waste into memory journals",
+      "source": "news.tuoitre.vn",
+      "url": "https://news.tuoitre.vn/young-vietnamese-turn-packaging-waste-into-memory-journals-103260706112231416.htm"
     },
     {
       "type": "x",
-      "text": "Daniel Sheehan once said that a crashed UFO recovered by the US military had distorted space-time and was \u201cbigger on the inside.\u201d https://t.co/HSMeNZotlv",
+      "text": "@realannapaulina What\u2019s a commie? To you it\u2019s anyone who isn\u2019t a Trump dick riding MAGA.  Stick to fake UFO disclosure so the adults can repair the country.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074071135960920211"
+      "url": "https://x.com/i/web/status/2074131661898264802"
     },
     {
       "type": "x",
-      "text": "@grok @WarClandestine @bennyjohnson @YouTube @RSAsecurity @DNC @24hourfitness @Microsoft @BillGates @pfizer @WHO @wef @HillaryClinton @BernieSanders @NISTcyber @FBI @DNIGabbard @Comey @JoeBiden @Anony",
+      "text": "On August 15, 1950, the general manager of a minor league baseball team in Great Falls, Montana was checking the field before a game when he saw two bright silver discs cross the sky. His name was Nic",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074070936349819383"
+      "url": "https://x.com/i/web/status/2074131421417918781"
     },
     {
       "type": "x",
-      "text": "#Nowplaying Let It Roll (Force It, 1975) - UFO (The Best Of UFO 1974-1983 (RM)) https://t.co/w73rULDMps https://t.co/7eFnxDVtzm",
+      "text": "@WigglyAir Yes, it\u2019s much better to be a libtard hunter than a \u201cUFOlogist\u201d.  I mean, how deluded do you have to be to think they retrieved little green men in flying saucers?   Demons surely are the o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074070475983225156"
+      "url": "https://x.com/i/web/status/2074131259953918006"
     },
     {
       "type": "x",
-      "text": "We may be able to use this novel, left-handed counter-spin for UFO physics testing.",
+      "text": "Step into the strange and unexplained at Main Library with \"Beyond the Border: Ghosts &amp; UFOs of South Texas\" on Sunday, July 12, from 1-5PM .  Hear local paranormal experts discuss real Rio Grande",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074070404373922088"
+      "url": "https://x.com/i/web/status/2074131258045846001"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8\ud83c\udf0d SPECIAL GLOBAL ANNOUNCEMENT: DR. STEVEN GREER SETS NEW DEADLINE FOR UAP DISCLOSURE &amp; CALLS FOR WHISTLEBLOWERS \ud83d\udc7d  Could a new public initiative accelerate the debate surrounding UAP disclosure  ",
+      "text": "@LongBeardPro @POTUS Eric Davis is testing his comedy skills on the UFO crowd.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074069491743359392"
+      "url": "https://x.com/i/web/status/2074130862573297703"
+    },
+    {
+      "type": "x",
+      "text": "@GallaudetTim In 2014 when MH 370 disappeared, McRaven was the Commander of the broader U.S. Special Operations Command (USSOCOM), overseeing all special operations branches.  The USSOCOM Commander si",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074130717332607293"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3709\r Issue Time: 2026 Jul 06 1150 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +168,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 324\r Issue Time: 2026 Jul 05 1809 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2671\r Issue Time: 2026 Jul 05 1802 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1662,6 +1723,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.0
+    },
+    {
+      "ts": "2026-07-06T14:02:54.404833Z",
+      "score": 29.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.3
     }
   ],
   "sources": [
