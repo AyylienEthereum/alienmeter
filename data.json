@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-06T01:24:26.980604Z",
-  "score": 38.9,
+  "generated_at": "2026-07-06T05:50:33.439233Z",
+  "score": 29.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 5.8,
-    "d24h": 8.3,
+    "d1h": 1.5,
+    "d24h": 2.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 15.2,
-    "social_chatter": 0.0,
+    "news_velocity": 0.0,
+    "social_chatter": 4.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,128 @@
     "day": 22,
     "date": "06.07.2026",
     "declassified": "06.07.26",
-    "generated_utc": "01:24",
+    "generated_utc": "05:50",
     "top_drivers": [
-      "News velocity +63% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 6",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.9,
+    "live_signal": 20.5,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 63.1840490797546,
-    "x_last_hour": 0,
-    "wiki_spike_pct": -26.243459488467956,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 75,
+    "wiki_spike_pct": -21.087610058965748,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=s3fq530jpjcvqtes4r6h6fv6p5"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cvguj36g3gc0disn9c5bv040o6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jvnf1ik121ea2mmr1v0i18g3i7"
+    },
+    {
+      "type": "news",
+      "text": "UNM students analyze Roswell  UFO  crash through legal , constitutional lens",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/roswells-biggest-mystery-might-not-be-the-ufo/3073398"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=rsdjtf3louec94j79gh5r0c422"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4vb41pka95009hbpcp4c5to8n2"
+    },
+    {
+      "type": "news",
+      "text": "  World Invasion : Battle Los Angeles  - Film - Actionfilm , ProSieben , 05 . 07 . 2026 , 23 : 00 Uhr - Sendung im TV - Programm - TV & Radio",
+      "source": "tele.at",
+      "url": "https://www.tele.at/sendungsdetails/22552476/world-invasion-battle-los-angeles.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=81k2vmeinoha0494q48tf48sr2"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=r5fin1499378n57saj5q687l83"
+    },
+    {
+      "type": "news",
+      "text": "Le paradoxe Diomaye : le h\u00e9ros malgr\u00e9 lui devenu strat\u00e8ge absolu ( Par Ndiam\u00e9 Sakho ) ",
+      "source": "senenews.com",
+      "url": "https://www.senenews.com/actualites/contribution-chronique/le-paradoxe-diomaye-le-heros-malgre-lui-devenu-stratege-absolu-par-ndiame-sakho_592354.html"
+    },
+    {
+      "type": "x",
+      "text": "Taking the full cosmos into consideration, I raise your 4 alien species, to 12 alien species. Call or fold? #ufo",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074007986557874192"
+    },
+    {
+      "type": "x",
+      "text": "@bennibennasi01 \u201cThe hate grouper\u201d  Do you hear yourself??  So, if the \u201cUFO hate group\u201d was a thing (it isn\u2019t) what are the top 3 reasons you\u2019d list which qualify Mrs. Anthrope for being one of them? ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074007938700890612"
+    },
+    {
+      "type": "x",
+      "text": "This is geuniely so good  This cat is going viral after a perfectly timed photo made it look like aliens finally came back for him.  The picture is blowing up because it genuinely looks like a UFO tra",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074007896933957946"
+    },
+    {
+      "type": "x",
+      "text": "\u201cThe fact active duty service and veterans report witnessing UFOs/UAP at significantly higher rates than the civilian population and with greater frequency is a hard finding to ignore.\u201d  Only 10.8% me",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074007412399333828"
+    },
+    {
+      "type": "x",
+      "text": "@UnlearnCenter @JonStewartIL He's hyping a blurry, low-res video as \"NHI ship\" footage that NASA is supposedly panicking over and tried to suppress. It shows atmospheric glow then vague glowing V-shap",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074007298054242813"
+    },
+    {
+      "type": "x",
+      "text": "\u2b55 UFO &amp; Craft Occupants 2013.  Did you see his weird spindly arms at the start when he was waving at the camera? That isn't creepy at all \ud83d\ude33 And the speed the UFO left at. Incredible.  What do you ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074006878829367579"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1512\r Issue Time: 2026 Jul 05 1822 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -1612,6 +1709,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.9
+    },
+    {
+      "ts": "2026-07-06T05:50:33.364768Z",
+      "score": 29.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.5
     }
   ],
   "sources": [
