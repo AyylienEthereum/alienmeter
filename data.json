@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-06T21:01:08.065314Z",
-  "score": 28.3,
+  "generated_at": "2026-07-06T22:19:33.990238Z",
+  "score": 29.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 2.8,
+    "d1h": 0.0,
+    "d24h": 5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.0,
+    "social_chatter": 7.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 22,
     "date": "06.07.2026",
     "declassified": "06.07.26",
-    "generated_utc": "21:01",
+    "generated_utc": "22:19",
     "top_drivers": [
-      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
+      "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
+      "X/Twitter chatter: 123 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.3,
+    "live_signal": 20.4,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 119,
+    "x_last_hour": 123,
     "wiki_spike_pct": -21.087610058965748,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Pilot Terrified by a UFO\u2026 Then the Jet Crashes! \ud83d\udef8\u2708\ufe0f\ud83d\ude31\ud83d\udca5 https://t.co/1xMPZV1nK6",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074236948978536455"
+      "type": "news",
+      "text": "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
+      "source": "katsfm.com",
+      "url": "https://katsfm.com/ixp/366/p/dave-mustaine-favorite-guitarists-why/"
+    },
+    {
+      "type": "news",
+      "text": "Rep . Eric Burlison claims  clandestine  force investigating UFOs",
+      "source": "christianpost.com",
+      "url": "https://www.christianpost.com/news/rep-eric-burlison-claims-clandestine-force-investigating-ufos.html"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Florida",
+      "source": "wdbo.com",
+      "url": "https://www.wdbo.com/news/cities-with-most-ufo/IH36736KUA4XHGNTLEXSQV7JRQ/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Florida",
+      "source": "star945.com",
+      "url": "https://www.star945.com/news/cities-with-most-ufo/IH36736KUA4XHGNTLEXSQV7JRQ/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=839eqlppusi9kimf8efngsla93"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Ohio",
+      "source": "eagledayton.com",
+      "url": "https://www.eagledayton.com/news/cities-with-most-ufo/SJBWIG3TCA7I7K6OEOCK5WJVXM/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kr1gs7icdl3p6nq1gt135u5al7"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Ohio",
+      "source": "whio.com",
+      "url": "https://www.whio.com/news/cities-with-most-ufo/SJBWIG3TCA7I7K6OEOCK5WJVXM/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Texas",
+      "source": "eaglesanantonio.com",
+      "url": "https://www.eaglesanantonio.com/news/cities-with-most-ufo/OSFHT43O6M2DFPV2FNYNOBMYHA/"
+    },
+    {
+      "type": "news",
+      "text": "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
+      "source": "rock967online.com",
+      "url": "https://rock967online.com/ixp/366/p/dave-mustaine-favorite-guitarists-why/"
     },
     {
       "type": "x",
-      "text": "Technology may serve mercy, but it cannot redeem creation. The hope of the world is not machine salvation, but Christ.  #Theology #Technology #AI #UAP https://t.co/Vb7mapxY19",
+      "text": "\ud83d\udc7d Four eerie UFO cases \ud83d\udef8 TRANCAS \u2014 glowing discs besiege a farm (Argentina, 1963) IMJARVI \u2014 a small being in the snow (Finland, 1970) NEEDLES \u2014 a glowing crash, then black choppers (2008) THE GUARDIAN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074236948823351582"
+      "url": "https://x.com/i/web/status/2074256869544055238"
     },
     {
       "type": "x",
-      "text": "Babalon/Scarlet Lady worshipping Jack Parsons' lover Marjorie Cameron directly attributed the 1952 Washington D.C. UFO incident to the death of Jack which occurred just a few weeks before. https://t.c",
+      "text": "@harrisonjaime @ChristoRixman I believe the establishment is like a UFO. It's usually unidentified.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074236430961033258"
+      "url": "https://x.com/i/web/status/2074256614841078236"
     },
     {
       "type": "x",
-      "text": "@SenGillibrand More importantly we're are you at on uap disclosure.",
+      "text": "@Joey__Kerr Weird people are my people, but he is using the UFO hype.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074236300824023459"
+      "url": "https://x.com/i/web/status/2074256385378783324"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d ALIEN FACT: In 2004, USS Nimitz pilots tracked a white \"Tic-Tac\" craft with no wings, no exhaust, that dropped from 28,000 ft to a hover in seconds. The Pentagon officially confirmed the footage is ",
+      "text": "@The_Astral_ Adventures with Rubik\u2019s UFO https://t.co/i8BsAyN1nM https://t.co/QjWZFWatNq",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074236015305212264"
+      "url": "https://x.com/i/web/status/2074256335466590402"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 UFO whistleblower David Grusch is back on Capitol Hill. Alongside bipartisan lawmakers, he's demanding declassification of named UAP files, passage of the Disclosure Act &amp; alleges billions in \"s",
+      "text": "Who is Harold Puthoff?  Harold E. \"Hal\" Puthoff (born June 20, 1936) is an American physicist, electrical engineer, and researcher known for his work in mainstream physics as well as controversial are",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074235953145585926"
+      "url": "https://x.com/i/web/status/2074256307444494361"
+    },
+    {
+      "type": "x",
+      "text": "One important correction up front: public reporting says Gaetz described this as a non-classified meeting in his Florida office, not necessarily a formal classified congressional briefing. The same re",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074255893731123536"
     },
     {
       "type": "swpc",
@@ -1678,6 +1739,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.3
+    },
+    {
+      "ts": "2026-07-06T22:19:33.914479Z",
+      "score": 29.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.4
     }
   ],
   "sources": [
