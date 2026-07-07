@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T01:23:20.688714Z",
-  "score": 27.9,
+  "generated_at": "2026-07-07T05:31:32.479687Z",
+  "score": 29.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": -2.8,
+    "d1h": 1.6,
+    "d24h": 0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.3,
+    "social_chatter": 5.8,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,131 +31,82 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "01:23",
+    "generated_utc": "05:31",
     "top_drivers": [
-      "Man describes moment Patriot Front boarded his Metro train",
-      "X/Twitter chatter: 107 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "X/Twitter chatter: 100 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
-    "baseline_recent": 25.4,
+    "live_signal": 21.4,
+    "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 107,
-    "wiki_spike_pct": -21.703195246045244,
+    "x_last_hour": 100,
+    "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Man describes moment Patriot Front boarded his Metro train",
-      "source": "nbcwashington.com",
-      "url": "https://www.nbcwashington.com/news/local/man-describes-moment-patriot-front-boarded-his-metro-train/4126675/"
-    },
-    {
-      "type": "news",
-      "text": "From Haryana judoka to Harvard scientist on new US council scouting alien life",
-      "source": "indianexpress.com",
-      "url": "https://indianexpress.com/article/cities/chandigarh/devesh-nandal-harvard-scientist-on-new-us-council-scouting-alien-life-10774619/"
-    },
-    {
-      "type": "news",
-      "text": "Cities with the most UFO sightings in Florida",
-      "source": "mymagic949.com",
-      "url": "https://www.mymagic949.com/news/cities-with-most-ufo/IH36736KUA4XHGNTLEXSQV7JRQ/"
-    },
-    {
-      "type": "news",
-      "text": "Cities with the most UFO sightings in Texas",
-      "source": "kissrocks.com",
-      "url": "https://www.kissrocks.com/news/cities-with-most-ufo/OSFHT43O6M2DFPV2FNYNOBMYHA/"
-    },
-    {
-      "type": "news",
-      "text": "Cities with the most UFO sightings in Texas",
-      "source": "hits1053sanantonio.com",
-      "url": "https://www.hits1053sanantonio.com/news/cities-with-most-ufo/OSFHT43O6M2DFPV2FNYNOBMYHA/"
-    },
-    {
-      "type": "news",
-      "text": "Roswell Encina CNN Interview on Viral July 4 Train Photo",
-      "source": "mediaite.com",
-      "url": "https://www.mediaite.com/media/news/watch-man-from-viral-photo-details-unsettling-metro-ride-with-white-nationalists-on-july-4/"
-    },
-    {
-      "type": "news",
-      "text": "Cities with the most UFO sightings in North Carolina",
-      "source": "wsoctv.com",
-      "url": "https://www.wsoctv.com/news/cities-with-most-ufo/5LLN35SCDM77JFZHJLY7MWD6OI/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=q0oihqm2esjnu2a6773mmqrqu7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3h192khptposjrlvvumi0jhcn1"
-    },
-    {
-      "type": "news",
-      "text": "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
-      "source": "loudwire.com",
-      "url": "https://loudwire.com/dave-mustaine-favorite-guitarists-why/"
+      "type": "x",
+      "text": "Check out this awesome 'My Other Ride Is A UFO - Playful Galactic Alien Art' design on @TeePublic! https://t.co/dNEFzfHnqu",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074364460454535229"
     },
     {
       "type": "x",
-      "text": "\ud83e\udd1d @VenariMinerals $VMS has entered into a binding heads of agreement (HoA) with @AlienMetals $UFO to divest its wholly owned Georgina Basin Iron Oxide Copper-Gold (IOCG) Project in the Northern Territ",
+      "text": "@BambBeeker Not a UFO. Its a cable-suspended camera system. I was watching the the airplane demonstrations on my computer and was taking screen captures images as I watched. I caught this one picture ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074303129148162283"
+      "url": "https://x.com/i/web/status/2074363841790844972"
     },
     {
       "type": "x",
-      "text": "Illuminaughty Aliens R Gonna Git U! Check out my new song &amp; video: https://t.co/yPftVGrvqj  #ufo #illuminatisong #newage #Satire #MusicVideo #SunoAI https://t.co/NtSRfqkBRy",
+      "text": "\ud83d\udc7d Creepy UFO Sightings That Will Leave You Speechless! \ud83d\udef8 https://t.co/KfnfJtl3pa via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074303002689589751"
+      "url": "https://x.com/i/web/status/2074363342647357529"
     },
     {
       "type": "x",
-      "text": "Ponds and Wonders: Rep. Eric Burlison on UAP material he saw inside S... https://t.co/UJPYe88kU8 #uaptwitter #disclosure #bipartisan",
+      "text": "@GoodTroubleShow @AshtonForbes CG Hoax videos downloaded from a YouTube channel that published exclusively CG Hoax UFO videos. These video were not even identified with MH370 at the time of their rele",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074302860662313284"
+      "url": "https://x.com/i/web/status/2074363188473217530"
     },
     {
       "type": "x",
-      "text": "Subliminal Signals / Illuminaughty Aliens Check out my new song &amp; video: https://t.co/yPftVGrvqj  #ufo #illuminatisong #newage #Satire #MusicVideo #SunoAI https://t.co/1TkmN8ODBM",
+      "text": "ALIENS \ud83d\udc7d left bases in Antarctica &amp; the third reich UFO operation found it https://t.co/7HAxhVCdut",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074302806480048338"
+      "url": "https://x.com/i/web/status/2074362938798813305"
     },
     {
       "type": "x",
-      "text": "**THE ALIEN PRESENCE: EVIDENCE AND THEORIES**  MK and I had a fascinating discussion on the possibility of alien life, and two theories emerged:   We explored the idea that aliens might be visiting Ea",
+      "text": "\ud83d\udd2c PhD Opportunity: 3D Spatial Multi-Omics for Melanoma \u2014 MSCA Doctoral Network SPACE-MEL \u2014 Erasmus MC  \ud83d\udccd Location: Rotterdam, Netherlands \ud83c\uddf3\ud83c\uddf1 (with secondments in Belgium and the Netherlands) \ud83c\udfdb\ufe0f Depart",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074302643623825536"
-    },
-    {
-      "type": "x",
-      "text": "Mellon/Warner Family Insider: \"UFO Tech Has Been Hidden for Decades\" https://t.co/v9UC3LwuQT via @YouTube @UAPFilesPodcast   Keep following this trail.  It doesn\u2019t just go deeper.  It goes wider, deep",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074302552032637122"
+      "url": "https://x.com/i/web/status/2074362754455289913"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3709\r Issue Time: 2026 Jul 06 1150 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 100",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3712\r Issue Time: 2026 Jul 07 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3711\r Issue Time: 2026 Jul 07 0506 UTC\r \r CANCEL ALERT: Electron 2MeV Integral Flux excee",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3710\r Issue Time: 2026 Jul 07 0503 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1760,6 +1711,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-07-07T05:31:32.404329Z",
+      "score": 29.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.4
     }
   ],
   "sources": [
