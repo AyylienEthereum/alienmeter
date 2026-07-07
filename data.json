@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T13:53:18.234838Z",
-  "score": 35.8,
+  "generated_at": "2026-07-07T16:24:06.228114Z",
+  "score": 32.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 7.9,
-    "d24h": 8.1,
+    "d1h": 2.3,
+    "d24h": 3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 8.4,
-    "social_chatter": 5.5,
+    "news_velocity": 0.0,
+    "social_chatter": 9.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.0
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,80 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "13:53",
+    "generated_utc": "16:24",
     "top_drivers": [
-      "USMNT Gets Fried by Belgium After Trump Intervention , Pipe Bomb Suspect Not Covered by J6 Pardon , Former Podcaster Gets Into Real Estate",
-      "News velocity +35% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 94 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3"
+      "Congressman Eric Burlison Says US Govt Has Been  Doing Some Really Cool Thing at UFO Facility",
+      "X/Twitter chatter: 155 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
+      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.0,
+    "live_signal": 24.5,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 35.13496246605973,
-    "x_last_hour": 94,
-    "wiki_spike_pct": -32.815828815480984,
+    "gdelt_spike_pct": -26.059557642407015,
+    "x_last_hour": 155,
+    "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Congressman Eric Burlison Says US Govt Has Been  Doing Some Really Cool Thing at UFO Facility",
+      "source": "jp.ibtimes.com",
+      "url": "https://jp.ibtimes.com/congressman-eric-burlison-says-us-govt-has-been-doing-some-really-cool-things-ufo-facility-102425"
+    },
+    {
+      "type": "news",
+      "text": "2026\u5e74\u56fd\u9645\u5c04\u8054\u5168\u9879\u4e16\u754c\u676f\u5c06\u5728\u5bcc\u6625\u6c5f\u7554\u4e3e\u884c - \u534e\u4fa8\u7f51",
+      "source": "chinesepress.com",
+      "url": "https://www.chinesepress.com/archives/178861"
+    },
+    {
+      "type": "news",
+      "text": "Florida Skies Stay Busy : The Sunshine State UFO Hotspots Revealed",
+      "source": "myq105.com",
+      "url": "https://myq105.com/2026/07/07/floridas-skies-stay-busy-the-sunshine-states-ufo-hotspots-revealed/"
+    },
+    {
+      "type": "news",
+      "text": "Elizabeth Warren Calls on Platner to Withdraw From Senate Race",
+      "source": "q1065.fm",
+      "url": "https://q1065.fm/elizabeth-warren-graham-platner-withdraw/"
+    },
+    {
+      "type": "news",
+      "text": "  De la \u00faltima pel\u00edcula de Spielberg me llam\u00f3 la atenci\u00f3n el incidente entre Dixon y Gleason en la base de Homestead . Les ense\u00f1an unos f\u00e9retros con unos cuerpos de extraterrestres  ",
+      "source": "cope.es",
+      "url": "https://www.cope.es/programas/herrera-en-cope/lo-misterioso-con-javier-sierra/audios/ultima-pelicula-spielberg-me-llamo-atencion-incidente-dixon-gleason-base-homestead-les-ensenan-feretros-cuerpos-extraterrestres-20260707_3399811.html"
+    },
+    {
+      "type": "news",
+      "text": "250 facts for America 250 years",
+      "source": "wyff4.com",
+      "url": "https://www.wyff4.com/article/250-facts-about-america-by-state/71484357"
+    },
+    {
+      "type": "news",
+      "text": "Castronu\u00f1o volver\u00e1 a mirar al cielo con una nueva Ruta Ufol\u00f3gica Nocturna y Alerta OVNI",
+      "source": "larazon.es",
+      "url": "https://www.larazon.es/castilla-y-leon/castronuno-volvera-mirar-cielo-nueva-ruta-ufologica-nocturna-alerta-ovni_202607076a4cf85ec48a78681b7882d6.html"
+    },
+    {
+      "type": "news",
+      "text": "Little better chance of scattered storms in play for late afternoon and evening hours today",
+      "source": "koat.com",
+      "url": "https://www.koat.com/article/little-better-chance-of-scattered-storms-in-play-for-late-afternoon-and-evening-hours-today/71849089"
+    },
     {
       "type": "news",
       "text": "USMNT Gets Fried by Belgium After Trump Intervention , Pipe Bomb Suspect Not Covered by J6 Pardon , Former Podcaster Gets Into Real Estate",
@@ -70,104 +118,56 @@
       "url": "https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-summons-ufo-buffs-37398923"
     },
     {
-      "type": "news",
-      "text": "Delphine Jubillar :  Chipolata  en boucle , ce  grand truc  qui la rendait si joyeuse en priv\u00e9",
-      "source": "closermag.fr",
-      "url": "https://www.closermag.fr/vecu/faits_divers/delphine-jubillar-chipolata-en-boucle-ce-grand-truc-qui-la-rendait-si-joyeuse-en-prive-3646471"
-    },
-    {
-      "type": "news",
-      "text": "Chick - A - Dee of Lewiston Announces Closing After Nearly 20 Years",
-      "source": "wjbq.com",
-      "url": "https://wjbq.com/ixp/490/p/maine-restaurant-chick-a-dee-closing/"
-    },
-    {
-      "type": "news",
-      "text": "Le domande prima delle risposte | Giacobbo rivoluziona Freedom e porta il dubbio al centro della scena",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-07/le-domande-prima-delle-risposte-giacobbo-rivoluziona-freedom-e-porta-il-dubbio-al-centro-della-scena/19433240/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oqgnu6f8dikcsc9ok859hbp0k7"
-    },
-    {
-      "type": "news",
-      "text": "Ova neobi\u010dna lokacija fascinira svijet ve\u0107 60 godina",
-      "source": "net.hr",
-      "url": "https://net.hr/magazin/putovanja/ova-neobicna-lokacija-fascinira-svijet-vec-60-godina-ac05d576-76c6-11f1-936f-9600040c8f8e"
-    },
-    {
-      "type": "news",
-      "text": "Vertice Nato Rutte annuncia la di firma contratti per miliardi di dollari \u2013 La diretta",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-07/vertice-nato-rutte-annuncia-la-di-firma-contratti-per-miliardi-di-dollari-la-diretta/19432900/"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u0440\u0432\u0430\u044f \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u043a\u0440\u0443\u043f\u043d\u044b\u043c \u043f\u043b\u0430\u043d\u043e\u043c : \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0434 \u043f\u043e\u043a\u0430\u0437\u0430\u043b \u0432\u0442\u043e\u0440\u0443\u044e \u041b\u0443\u043d\u0443 \u0417\u0435\u043c\u043b\u0438 ( \u0444\u043e\u0442\u043e ) ",
-      "source": "science.focus.ua",
-      "url": "https://science.focus.ua/nauka/760039-pervaya-v-istorii-fotografiya-krupnym-planom-kitayskiy-zond-pokazal-vtoruyu-lunu-zemli-foto"
-    },
-    {
-      "type": "news",
-      "text": "Apr\u00e8s The Voice , la chanteuse vaudoise Lady O ravit le Montreux Jazz Festival",
-      "source": "rts.ch",
-      "url": "https://www.rts.ch/info/culture/musiques/2026/article/apres-the-voice-la-chanteuse-vaudoise-lady-o-ravit-le-montreux-jazz-festival-29296360.html"
+      "type": "x",
+      "text": "@CrookRanald @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074529853303394759"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ One of the first episodes the cam op is slightly focused on a vague object (most likely a distant airliner highlighted by sun) and does a swish pan along with a \u201cswish\u201d sound effect added",
+      "text": "@eleanorzjames @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074491482761814398"
+      "url": "https://x.com/i/web/status/2074529835221700793"
     },
     {
       "type": "x",
-      "text": "@VanJean66107 @BRICSinfo Is it Mark Christopher Lee that influences you to link Trump at NATO with UFO Disclosure? I ask because I would like to see more figures saying their source says this is going",
+      "text": "@Neccccy @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING BILL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074491297931444246"
+      "url": "https://x.com/i/web/status/2074529815042957694"
     },
     {
       "type": "x",
-      "text": "\ud83c\udd95\ufe0f Maranatha Teaching Channel (Special UFO Disclosure Episode) Title: THE FINAL DECEPTION Pt2 (...battle for discernment) \ud83d\udc47 Listen on YouTube https://t.co/URpnZSUTtR Also listen to Maranatha Teaching ",
+      "text": "@iEatXp1 @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING BILL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074491078158221624"
+      "url": "https://x.com/i/web/status/2074529795916927161"
     },
     {
       "type": "x",
-      "text": "@pavelibarrameda Pt 2 of 2 It\u2019s all part of predictive programming. C\u2019mon.  Since 2017 it\u2019s been getting louder and louder.  Summer of 2026: \u201cBlockbuster\u201d UAP movie at the theaters, congress demanding",
+      "text": "@rationalposts @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074491067961872637"
+      "url": "https://x.com/i/web/status/2074529773989048693"
     },
     {
       "type": "x",
-      "text": "@DisclosurePod 95% of the public facing UFO community has let us down for decades, Corbell being one of them. We don\u2019t need more from Corbell, we need a whole new cast of discourse activists in my opi",
+      "text": "@OdonovanLynda @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074490997627613243"
+      "url": "https://x.com/i/web/status/2074529748651286753"
     },
     {
-      "type": "x",
-      "text": "@gghtsps @Kannas_Ricebowl Fair enough. I have no idea why they have to run this vague gimmick when it comes to ufo projects...",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074490769767903718"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 713\r Issue Time: 2026 Jul 07 1456 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1513\r Issue Time: 2026 Jul 07 1443 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3712\r Issue Time: 2026 Jul 07 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3711\r Issue Time: 2026 Jul 07 0506 UTC\r \r CANCEL ALERT: Electron 2MeV Integral Flux excee",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3710\r Issue Time: 2026 Jul 07 0503 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1800,6 +1800,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.0
+    },
+    {
+      "ts": "2026-07-07T16:24:06.153625Z",
+      "score": 32.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.5
     }
   ],
   "sources": [
