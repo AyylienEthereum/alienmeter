@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T20:25:43.912229Z",
-  "score": 32.9,
+  "generated_at": "2026-07-07T21:52:02.461924Z",
+  "score": 30.8,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 4.4,
-    "d24h": 7.1,
+    "d1h": -5.0,
+    "d24h": 4.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.0,
+    "social_chatter": 7.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.3
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "20:25",
+    "generated_utc": "21:52",
     "top_drivers": [
-      "X/Twitter chatter: 168 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 127 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.3,
+    "live_signal": 22.6,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 168,
+    "x_last_hour": 127,
     "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Looks like the scam \u201cwhistleblower\u201d account from Matthew Brown (@SunOfAbramelin) and Dylan Borland (@TheDylanBorland) didn\u2019t like me calling out the fact that they\u2019ve both admitted openly to issues th",
+      "text": "@InterstellarUAP I bet they are from 2001 space odysey. Anyone who uses a photo of a scandeleer and says it is a ufo and is a counter intelligence agent you can't trust them.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074590419371839906"
+      "url": "https://x.com/i/web/status/2074612305212428369"
     },
     {
       "type": "x",
-      "text": "@candle84640 @SirPonderer Yep, plus the UFO stuff and apophis coming in 2029 (Apophis is Abbadon) so everything is all adding up too well. Plus we have the counterfeits being rolled out as well, which",
+      "text": "@trasselvardias They Have concepts of the P-1000/1500 , Wunderwaffen(UFO), Other Bomber plane types etc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074590298966012002"
+      "url": "https://x.com/i/web/status/2074612136710410477"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8An LAPD helicopter comes in to check out this Cigar shaped UFO....  The man who recorded it tells his story!! https://t.co/kLA80odtiC",
+      "text": "\ud83d\udc7e\ud83d\udd2b\ud83d\udef8\ud83c\udff4\u200d\u2620\ufe0f\ud83d\udd0a\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6 Save The Cows!  Join The UFO Hunting Club &amp; Protect The Herd! \ud83d\udc04  https://t.co/M8qEllD2f6 #ufox #games https://t.co/VuJRGOAE8g",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074590023245066633"
+      "url": "https://x.com/i/web/status/2074611824813642125"
     },
     {
       "type": "x",
-      "text": "@RealSimpleAriel Yes but I think the names spent the last week pricing that in, unlike the UFO group. What do you think?",
+      "text": "For public record, there was interesting sky activity near Melbourne July 5 2026.  UFO or LEO satellites - I am more on the side of UFOs because they seemed to move and change angles.  I am low on mot",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074590018866208942"
+      "url": "https://x.com/i/web/status/2074611546878349503"
     },
     {
       "type": "x",
-      "text": "@LueElizondo Hey lue! I had a really cool first-hand experience with UAP I would love to share you my story sometime if you have a minute hit me up on here or my email rmriggs32@gmail.com thanks you s",
+      "text": "any \"legit\" ufo guy is literally a fucking faggot liar",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074589966315688233"
+      "url": "https://x.com/i/web/status/2074611193377898744"
     },
     {
       "type": "x",
-      "text": "A new episode of Rendlesham UFO has dropped  https://t.co/6yIrJqeBAb  #ufo, #ufotwitter, #ufos",
+      "text": "[TWEET] Another \"UFO sighting\" video. Enhance. Stabilize. Zoom. Still pixels. Still human wishful thinking. [/TWEET] https://t.co/oqvaZlti2T",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074589860594077796"
+      "url": "https://x.com/i/web/status/2074611027057025423"
     },
     {
       "type": "swpc",
@@ -1760,6 +1760,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.3
+    },
+    {
+      "ts": "2026-07-07T21:52:02.392619Z",
+      "score": 30.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.6
     }
   ],
   "sources": [
