@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T08:54:11.213756Z",
-  "score": 24.6,
+  "generated_at": "2026-07-07T11:42:48.519293Z",
+  "score": 28.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -4.5,
-    "d24h": -3.0,
+    "d1h": 1.2,
+    "d24h": 3.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 2.7,
+    "social_chatter": 3.9,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "08:54",
+    "generated_utc": "11:42",
     "top_drivers": [
-      "10 ans apr\u00e8s son annulation , cette oeuvre de science - fiction va conqu\u00e9rir les fans danimes ! ",
-      "X/Twitter chatter: 49 UFO/UAP posts in the last hour",
+      "Le domande prima delle risposte | Giacobbo rivoluziona Freedom e porta il dubbio al centro della scena",
+      "X/Twitter chatter: 68 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
@@ -42,21 +42,69 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.7,
+    "live_signal": 19.7,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": null,
+    "xray_class": "C",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": -18.993923447973433,
-    "x_last_hour": 49,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 68,
     "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Le domande prima delle risposte | Giacobbo rivoluziona Freedom e porta il dubbio al centro della scena",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-07/le-domande-prima-delle-risposte-giacobbo-rivoluziona-freedom-e-porta-il-dubbio-al-centro-della-scena/19433240/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oqgnu6f8dikcsc9ok859hbp0k7"
+    },
+    {
+      "type": "news",
+      "text": "Ova neobi\u010dna lokacija fascinira svijet ve\u0107 60 godina",
+      "source": "net.hr",
+      "url": "https://net.hr/magazin/putovanja/ova-neobicna-lokacija-fascinira-svijet-vec-60-godina-ac05d576-76c6-11f1-936f-9600040c8f8e"
+    },
+    {
+      "type": "news",
+      "text": "Vertice Nato Rutte annuncia la di firma contratti per miliardi di dollari \u2013 La diretta",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-07/vertice-nato-rutte-annuncia-la-di-firma-contratti-per-miliardi-di-dollari-la-diretta/19432900/"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u0440\u0432\u0430\u044f \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u043a\u0440\u0443\u043f\u043d\u044b\u043c \u043f\u043b\u0430\u043d\u043e\u043c : \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0434 \u043f\u043e\u043a\u0430\u0437\u0430\u043b \u0432\u0442\u043e\u0440\u0443\u044e \u041b\u0443\u043d\u0443 \u0417\u0435\u043c\u043b\u0438 ( \u0444\u043e\u0442\u043e ) ",
+      "source": "science.focus.ua",
+      "url": "https://science.focus.ua/nauka/760039-pervaya-v-istorii-fotografiya-krupnym-planom-kitayskiy-zond-pokazal-vtoruyu-lunu-zemli-foto"
+    },
+    {
+      "type": "news",
+      "text": "Apr\u00e8s The Voice , la chanteuse vaudoise Lady O ravit le Montreux Jazz Festival",
+      "source": "rts.ch",
+      "url": "https://www.rts.ch/info/culture/musiques/2026/article/apres-the-voice-la-chanteuse-vaudoise-lady-o-ravit-le-montreux-jazz-festival-29296360.html"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Alaska - Daily Sitka Sentinel",
+      "source": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/premium/stacker/stories/cities-with-the-most-ufo-sightings-in-alaska,154378"
+    },
+    {
+      "type": "news",
+      "text": "Man , 78 , doing quantum physics research on  being in two places at once  missing since May 2025",
+      "source": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/trends/man-78-doing-quantum-physics-research-on-being-in-two-places-at-once-missing-since-may-2025-13967756.html"
+    },
     {
       "type": "news",
       "text": "10 ans apr\u00e8s son annulation , cette oeuvre de science - fiction va conqu\u00e9rir les fans danimes ! ",
@@ -70,88 +118,40 @@
       "url": "https://www.vosgesmatin.fr/societe/2026/07/07/le-triangle-de-la-burle-existe-t-il-un-triangle-des-bermudes-en-france"
     },
     {
-      "type": "news",
-      "text": "Calendarul evenimentelor , 7 iulie \u2013 selec\u021biuni | Agen\u021bia de pres\u0103 Rador",
-      "source": "rador.ro",
-      "url": "https://www.rador.ro/2026/07/07/calendarul-evenimentelor-7-iulie-selectiuni-11/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m8gmobfra385rp65b66la9s9d4"
-    },
-    {
-      "type": "news",
-      "text": "\u00c9nigme . Le Triangle de la Burle : existe - t - il un Triangle des Bermudes en France ? ",
-      "source": "republicain-lorrain.fr",
-      "url": "https://www.republicain-lorrain.fr/societe/2026/07/07/le-triangle-de-la-burle-existe-t-il-un-triangle-des-bermudes-en-france"
-    },
-    {
-      "type": "news",
-      "text": "\u00c9nigme . Le Triangle de la Burle : existe - t - il un Triangle des Bermudes en France ? ",
-      "source": "estrepublicain.fr",
-      "url": "https://www.estrepublicain.fr/societe/2026/07/07/le-triangle-de-la-burle-existe-t-il-un-triangle-des-bermudes-en-france"
-    },
-    {
-      "type": "news",
-      "text": "Droni misteriosi su siti nucleari e basi Nato | aumentano le incursioni russe in Europa",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-07/droni-misteriosi-su-siti-nucleari-e-basi-nato-aumentano-le-incursioni-russe-in-europa/19431812/"
-    },
-    {
-      "type": "news",
-      "text": "\u00c9nigme . Le Triangle de la Burle : existe - t - il un Triangle des Bermudes en France ? ",
-      "source": "bienpublic.com",
-      "url": "https://www.bienpublic.com/societe/2026/07/07/le-triangle-de-la-burle-existe-t-il-un-triangle-des-bermudes-en-france"
-    },
-    {
-      "type": "news",
-      "text": "\u00c9nigme . Le Triangle de la Burle : existe - t - il un Triangle des Bermudes en France ? ",
-      "source": "dna.fr",
-      "url": "https://www.dna.fr/societe/2026/07/07/le-triangle-de-la-burle-existe-t-il-un-triangle-des-bermudes-en-france"
-    },
-    {
-      "type": "news",
-      "text": "Congressman UFO Claim , Young Washington Sequel , MO Bans Taxpayer - Funded Inmate Trans Procedures",
-      "source": "christianpost.com",
-      "url": "https://www.christianpost.com/podcast/congressmans-ufo-claim-young-washington-sequel-mo-bans-taxpayer-funded-inmate-trans-procedures.html"
+      "type": "x",
+      "text": "@JeffXmemes @WhiteHouse @RTErdogan FOOD 4 \ud83d\udcad   WHY DO \ud83e\udd8e @realDonaldTrump THESE ALL KEEP SECRETS, LIKE  TESLA, CROP CIRCLES, AREA'S 51, UFO, UAP, CATHEDRALS, PYRAMIDS AND EXISTENCE OF GODS  WHY U USING ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074459023231885777"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP What Elon knows or doesn\u2019t know about UFO\u2019s &amp; alien existence may not be relevant. If they exist it may be by deception to lie about who they really are. Are we to believe the wor",
+      "text": "@Suryavardhan__ @WhiteHouse @RTErdogan FOOD 4 \ud83d\udcad   WHY DO \ud83e\udd8e @realDonaldTrump THESE ALL KEEP SECRETS, LIKE  TESLA, CROP CIRCLES, AREA'S 51, UFO, UAP, CATHEDRALS, PYRAMIDS AND EXISTENCE OF GODS  WHY U US",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074416509540020636"
+      "url": "https://x.com/i/web/status/2074458995817910533"
     },
     {
       "type": "x",
-      "text": "Guys the huge glowing red corkscrew UFO was in the sky again tonight. That fuckin thing is so fast! It doesn\u2019t seem like propulsion. It just accelerates at whatever speeds it wants regardless of any p",
+      "text": "@Sergie_Oh @WhiteHouse @RTErdogan FOOD 4 \ud83d\udcad   WHY DO \ud83e\udd8e @realDonaldTrump THESE ALL KEEP SECRETS, LIKE  TESLA, CROP CIRCLES, AREA'S 51, UFO, UAP, CATHEDRALS, PYRAMIDS AND EXISTENCE OF GODS  WHY U USING 2",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074416456545276034"
+      "url": "https://x.com/i/web/status/2074458876007641241"
     },
     {
       "type": "x",
-      "text": "@Eyes_OnTheSkies Always makes our job harder when there\u2019s all the infighting. Traditional academia can just sit back with popcorn and watch the UFO community implode without having to do a thing.",
+      "text": "@Crypt0xlion @WhiteHouse @RTErdogan FOOD 4 \ud83d\udcad   WHY DO \ud83e\udd8e @realDonaldTrump THESE ALL KEEP SECRETS, LIKE  TESLA, CROP CIRCLES, AREA'S 51, UFO, UAP, CATHEDRALS, PYRAMIDS AND EXISTENCE OF GODS  WHY U USING",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074416264903065657"
+      "url": "https://x.com/i/web/status/2074458842159624241"
     },
     {
       "type": "x",
-      "text": "Alliance Update: Trump UFO Advisory Team Pushes Defence Firms to Disclose Secret Alien Tech...   https://t.co/iAzZRX0sd1 via @YouTube",
+      "text": "@G6DlF6Uqq21rJlC @WhiteHouse @RTErdogan FOOD 4 \ud83d\udcad   WHY DO \ud83e\udd8e @realDonaldTrump THESE ALL KEEP SECRETS, LIKE  TESLA, CROP CIRCLES, AREA'S 51, UFO, UAP, CATHEDRALS, PYRAMIDS AND EXISTENCE OF GODS  WHY U U",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074415951894770156"
+      "url": "https://x.com/i/web/status/2074458810110861811"
     },
     {
       "type": "x",
-      "text": "\u201cMy best photo yet.  I took this photo when I started seeing and experiencing this phenomenon around 2024. This was before nigh fall the time is in the photo and date it was taken around southern coas",
+      "text": "@I_D_Official @EngagingThe The oldest USO cases rule out human tech. so ET in the seas is a slam dunk. The military culture will never be trustable. We need to support civilian ufo groups.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074415387177869316"
-    },
-    {
-      "type": "x",
-      "text": "\u2b55 UFO \u2022 Ensenada, Baja California, Mexico \u2022 July 3.  \"A bright Luminous ORB is filmed by this man &amp; his Mum...\"   What do you think?   H/T @UAPWixy  https://t.co/aXaRuuUTte",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074415260207870451"
+      "url": "https://x.com/i/web/status/2074458780717486551"
     },
     {
       "type": "swpc",
@@ -1786,6 +1786,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.7
+    },
+    {
+      "ts": "2026-07-07T11:42:48.444461Z",
+      "score": 28.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.7
     }
   ],
   "sources": [
