@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T16:24:06.228114Z",
-  "score": 32.2,
+  "generated_at": "2026-07-07T18:28:11.452494Z",
+  "score": 40.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 2.3,
-    "d24h": 3.4,
+    "d1h": 16.2,
+    "d24h": 12.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 9.2,
+    "news_velocity": 13.9,
+    "social_chatter": 8.9,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,80 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "16:24",
+    "generated_utc": "18:28",
     "top_drivers": [
-      "Congressman Eric Burlison Says US Govt Has Been  Doing Some Really Cool Thing at UFO Facility",
-      "X/Twitter chatter: 155 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
-      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
+      "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
+      "News velocity +58% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 149 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.5,
+    "live_signal": 35.5,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": -26.059557642407015,
-    "x_last_hour": 155,
+    "gdelt_spike_pct": 57.72511848341231,
+    "x_last_hour": 149,
     "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
+      "source": "wkfr.com",
+      "url": "https://wkfr.com/abraham-lincoln-coined-michigander/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pu22dpfm6814ue4v44oqojcft2"
+    },
+    {
+      "type": "news",
+      "text": "14 Useful , No - Fuss Gadgets That Just Work Right Out Of The Box",
+      "source": "slashgear.com",
+      "url": "https://www.slashgear.com/2209405/useful-no-fuss-gadgets-work-out-of-box/"
+    },
+    {
+      "type": "news",
+      "text": "250 facts for America 250 years",
+      "source": "wcvb.com",
+      "url": "https://www.wcvb.com/article/250-facts-about-america-by-state/71484357"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tvn4656vv7b57oatih8ppvous7"
+    },
+    {
+      "type": "news",
+      "text": "WWII pilots fired at glowing orbs trailing their planes and the bullets simply disappeared inside them",
+      "source": "ecoportal.net",
+      "url": "https://www.ecoportal.net/en/wwii-pilots-glowing-orbs/28311/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5drcv5t70pvrp82850b3he3lk7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jnte8223809h7oslaebb6l85e6"
+    },
     {
       "type": "news",
       "text": "Congressman Eric Burlison Says US Govt Has Been  Doing Some Really Cool Thing at UFO Facility",
@@ -70,88 +118,40 @@
       "url": "https://www.chinesepress.com/archives/178861"
     },
     {
-      "type": "news",
-      "text": "Florida Skies Stay Busy : The Sunshine State UFO Hotspots Revealed",
-      "source": "myq105.com",
-      "url": "https://myq105.com/2026/07/07/floridas-skies-stay-busy-the-sunshine-states-ufo-hotspots-revealed/"
-    },
-    {
-      "type": "news",
-      "text": "Elizabeth Warren Calls on Platner to Withdraw From Senate Race",
-      "source": "q1065.fm",
-      "url": "https://q1065.fm/elizabeth-warren-graham-platner-withdraw/"
-    },
-    {
-      "type": "news",
-      "text": "  De la \u00faltima pel\u00edcula de Spielberg me llam\u00f3 la atenci\u00f3n el incidente entre Dixon y Gleason en la base de Homestead . Les ense\u00f1an unos f\u00e9retros con unos cuerpos de extraterrestres  ",
-      "source": "cope.es",
-      "url": "https://www.cope.es/programas/herrera-en-cope/lo-misterioso-con-javier-sierra/audios/ultima-pelicula-spielberg-me-llamo-atencion-incidente-dixon-gleason-base-homestead-les-ensenan-feretros-cuerpos-extraterrestres-20260707_3399811.html"
-    },
-    {
-      "type": "news",
-      "text": "250 facts for America 250 years",
-      "source": "wyff4.com",
-      "url": "https://www.wyff4.com/article/250-facts-about-america-by-state/71484357"
-    },
-    {
-      "type": "news",
-      "text": "Castronu\u00f1o volver\u00e1 a mirar al cielo con una nueva Ruta Ufol\u00f3gica Nocturna y Alerta OVNI",
-      "source": "larazon.es",
-      "url": "https://www.larazon.es/castilla-y-leon/castronuno-volvera-mirar-cielo-nueva-ruta-ufologica-nocturna-alerta-ovni_202607076a4cf85ec48a78681b7882d6.html"
-    },
-    {
-      "type": "news",
-      "text": "Little better chance of scattered storms in play for late afternoon and evening hours today",
-      "source": "koat.com",
-      "url": "https://www.koat.com/article/little-better-chance-of-scattered-storms-in-play-for-late-afternoon-and-evening-hours-today/71849089"
-    },
-    {
-      "type": "news",
-      "text": "USMNT Gets Fried by Belgium After Trump Intervention , Pipe Bomb Suspect Not Covered by J6 Pardon , Former Podcaster Gets Into Real Estate",
-      "source": "washingtonian.com",
-      "url": "https://washingtonian.com/2026/07/07/usmnt-belgium-pipe-bomb-suspect-january-6-pardon-jamie-weinstein/"
-    },
-    {
-      "type": "news",
-      "text": "Paranormal investigator summons UFO buffs to Scots hotspot",
-      "source": "dailyrecord.co.uk",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/paranormal-investigator-summons-ufo-buffs-37398923"
+      "type": "x",
+      "text": "@AshtonForbes Ashton dismantles woke ufo disclosure.  Master class.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074561074846712130"
     },
     {
       "type": "x",
-      "text": "@CrookRanald @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING ",
+      "text": "@TheUfoJoe So the rest of the World is ALSO keeping silent?  More fake UFO detritus.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529853303394759"
+      "url": "https://x.com/i/web/status/2074560633933066246"
     },
     {
       "type": "x",
-      "text": "@eleanorzjames @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
+      "text": "@LongBeardPro @LueElizondo He is still afraid of someone he can not compete with for over two years now. His stories, mistakes, and drawings versus real and 35 verified UAP that I possess. https://t.c",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529835221700793"
+      "url": "https://x.com/i/web/status/2074560521823486343"
     },
     {
       "type": "x",
-      "text": "@Neccccy @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING BILL",
+      "text": "@DGray118 @RailwaySiding77 @kennylanglea Were they an item at one stage? I remember her ftom Gerry Anderson\u2019s UFO as well.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529815042957694"
+      "url": "https://x.com/i/web/status/2074560242864603169"
     },
     {
       "type": "x",
-      "text": "@iEatXp1 @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKING BILL",
+      "text": "@wow36932525 @LueElizondo How is this any sort of important revelation?  We've had credible people attesting to incredible things for decades.  Unless it leads to actual evidence, it's just more meani",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529795916927161"
+      "url": "https://x.com/i/web/status/2074559815955927385"
     },
     {
       "type": "x",
-      "text": "@rationalposts @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
+      "text": "There is a bad version of this article: a UFO bucket list.  I did not want that.  The honest version starts with colder facts: dark sky, low light pollution, patience, and places where the strange rec",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529773989048693"
-    },
-    {
-      "type": "x",
-      "text": "@OdonovanLynda @Keir_Starmer @Keir_Starmer FOOD FOR \ud83d\udcad AS UFO, UAP, CROP CIRCLES, AREA 51, ROSWELL, 9/11, JFK, DIANA!  TESLA, PYRAMIDS, CATHEDRAL'S   WHY R THIS SHIT ALWAYS FUCKING LYING..   I C FUCKIN",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074529748651286753"
+      "url": "https://x.com/i/web/status/2074559759571657147"
     },
     {
       "type": "swpc",
@@ -1807,6 +1807,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.5
+    },
+    {
+      "ts": "2026-07-07T18:28:11.378358Z",
+      "score": 40.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 35.5
     }
   ],
   "sources": [
