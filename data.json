@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-07-06T23:36:24.287073Z",
-  "score": 27.3,
+  "generated_at": "2026-07-07T01:23:20.688714Z",
+  "score": 27.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.9,
-    "d24h": -4.1,
+    "d1h": -0.2,
+    "d24h": -2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.1,
+    "social_chatter": 6.3,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 22,
-    "day": 22,
-    "date": "06.07.2026",
-    "declassified": "06.07.26",
-    "generated_utc": "23:36",
+    "number": 23,
+    "day": 23,
+    "date": "07.07.2026",
+    "declassified": "07.07.26",
+    "generated_utc": "01:23",
     "top_drivers": [
-      "X/Twitter chatter: 121 UFO/UAP posts in the last hour",
+      "Man describes moment Patriot Front boarded his Metro train",
+      "X/Twitter chatter: 107 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.1,
+    "live_signal": 18.9,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +50,108 @@
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 121,
-    "wiki_spike_pct": -21.087610058965748,
+    "x_last_hour": 107,
+    "wiki_spike_pct": -21.703195246045244,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@chrisbledsoeufo I experienced a neon green basketball sized orb in October 2024 hovering at top of trees. Shortly afterwards the so called drones started appearing as well as sharp increase in UAP ac",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074275639960707329"
+      "type": "news",
+      "text": "Man describes moment Patriot Front boarded his Metro train",
+      "source": "nbcwashington.com",
+      "url": "https://www.nbcwashington.com/news/local/man-describes-moment-patriot-front-boarded-his-metro-train/4126675/"
+    },
+    {
+      "type": "news",
+      "text": "From Haryana judoka to Harvard scientist on new US council scouting alien life",
+      "source": "indianexpress.com",
+      "url": "https://indianexpress.com/article/cities/chandigarh/devesh-nandal-harvard-scientist-on-new-us-council-scouting-alien-life-10774619/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Florida",
+      "source": "mymagic949.com",
+      "url": "https://www.mymagic949.com/news/cities-with-most-ufo/IH36736KUA4XHGNTLEXSQV7JRQ/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Texas",
+      "source": "kissrocks.com",
+      "url": "https://www.kissrocks.com/news/cities-with-most-ufo/OSFHT43O6M2DFPV2FNYNOBMYHA/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in Texas",
+      "source": "hits1053sanantonio.com",
+      "url": "https://www.hits1053sanantonio.com/news/cities-with-most-ufo/OSFHT43O6M2DFPV2FNYNOBMYHA/"
+    },
+    {
+      "type": "news",
+      "text": "Roswell Encina CNN Interview on Viral July 4 Train Photo",
+      "source": "mediaite.com",
+      "url": "https://www.mediaite.com/media/news/watch-man-from-viral-photo-details-unsettling-metro-ride-with-white-nationalists-on-july-4/"
+    },
+    {
+      "type": "news",
+      "text": "Cities with the most UFO sightings in North Carolina",
+      "source": "wsoctv.com",
+      "url": "https://www.wsoctv.com/news/cities-with-most-ufo/5LLN35SCDM77JFZHJLY7MWD6OI/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=q0oihqm2esjnu2a6773mmqrqu7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3h192khptposjrlvvumi0jhcn1"
+    },
+    {
+      "type": "news",
+      "text": "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
+      "source": "loudwire.com",
+      "url": "https://loudwire.com/dave-mustaine-favorite-guitarists-why/"
     },
     {
       "type": "x",
-      "text": "@delta_waverider Yeah UFO twitter has a problem with @GodSawUs  OTO cult that has a doctine of sex magick rituals with minors. Google gnostic catholic mass Vimeo and compare it to this. @TheProjectUni",
+      "text": "\ud83e\udd1d @VenariMinerals $VMS has entered into a binding heads of agreement (HoA) with @AlienMetals $UFO to divest its wholly owned Georgina Basin Iron Oxide Copper-Gold (IOCG) Project in the Northern Territ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074275554325627073"
+      "url": "https://x.com/i/web/status/2074303129148162283"
     },
     {
       "type": "x",
-      "text": "Energy everywhere but we don't know how to collect it... the future will reveal the EMP is collecting energy everywhere leaving it nowhere momentarily. EXAMPLE: the UFO steals energy taking it from us",
+      "text": "Illuminaughty Aliens R Gonna Git U! Check out my new song &amp; video: https://t.co/yPftVGrvqj  #ufo #illuminatisong #newage #Satire #MusicVideo #SunoAI https://t.co/NtSRfqkBRy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074275079421071422"
+      "url": "https://x.com/i/web/status/2074303002689589751"
     },
     {
       "type": "x",
-      "text": "@chrisbledsoeufo @GoodTroubleShow @ProfAviLoeb Nothing like having a deny everything guy on the UAP council",
+      "text": "Ponds and Wonders: Rep. Eric Burlison on UAP material he saw inside S... https://t.co/UJPYe88kU8 #uaptwitter #disclosure #bipartisan",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074274764563128345"
+      "url": "https://x.com/i/web/status/2074302860662313284"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d\ud83d\udef8 Aliens are landing in St. Paul... and you're invited! \ud83d\udef8\ud83d\udc7d  Get ready for an out-of-this-world weekend filled with UFO fun, live entertainment, family activities, unique attractions, and plenty of su",
+      "text": "Subliminal Signals / Illuminaughty Aliens Check out my new song &amp; video: https://t.co/yPftVGrvqj  #ufo #illuminatisong #newage #Satire #MusicVideo #SunoAI https://t.co/1TkmN8ODBM",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074274695655170499"
+      "url": "https://x.com/i/web/status/2074302806480048338"
     },
     {
       "type": "x",
-      "text": "UFO UAPs ALIENS AND SPIRIT REALM part 13   \u200bThe \"Oz Effect\" a well documented UAP phenomenon where witnesses report a sudden, eerie silence, birds stop singing, the wind drops, and time feels elongate",
+      "text": "**THE ALIEN PRESENCE: EVIDENCE AND THEORIES**  MK and I had a fascinating discussion on the possibility of alien life, and two theories emerged:   We explored the idea that aliens might be visiting Ea",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074274635198152789"
+      "url": "https://x.com/i/web/status/2074302643623825536"
+    },
+    {
+      "type": "x",
+      "text": "Mellon/Warner Family Insider: \"UFO Tech Has Been Hidden for Decades\" https://t.co/v9UC3LwuQT via @YouTube @UAPFilesPodcast   Keep following this trail.  It doesn\u2019t just go deeper.  It goes wider, deep",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074302552032637122"
     },
     {
       "type": "swpc",
@@ -1692,6 +1753,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.1
+    },
+    {
+      "ts": "2026-07-07T01:23:20.614935Z",
+      "score": 27.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
