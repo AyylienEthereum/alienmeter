@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T22:55:52.954370Z",
-  "score": 32.6,
+  "generated_at": "2026-07-07T23:53:43.800707Z",
+  "score": 34.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.4,
-    "d24h": 5.5,
+    "d1h": -6.0,
+    "d24h": 4.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.7,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "22:55",
+    "generated_utc": "23:53",
     "top_drivers": [
-      "X/Twitter chatter: 130 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
+      "X/Twitter chatter: 228 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 6",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.9,
+    "live_signal": 27.8,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 130,
+    "gdelt_spike_pct": -16.185274656023523,
+    "x_last_hour": 228,
     "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 6
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@dom_lucre President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "It's been a while since I showcased the new enemies with gameplay, here\u00b4s a look at 4 of the most interesting ones: A Bunny, an UFO, a Spider and a Flower.  #Gamedev #Indiedev #Godot #GodotEngine http",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628340275671246"
+      "url": "https://x.com/i/web/status/2074642991491273135"
     },
     {
       "type": "x",
-      "text": "@CarlHigbie President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "@StuDoesAmerica President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628288291500310"
+      "url": "https://x.com/i/web/status/2074642957693493562"
     },
     {
       "type": "x",
-      "text": "@ufouapam We the ufo people will be the last group of people to be disappointed by Trum\u0440 lol  If he ain't doing the We're Not one speech, President AOC ain't doing it for the next 8 yeats, and neither",
+      "text": "@jaysixteen23 @hypnosthana Like watch it just be a goofy dawn UFO type shit https://t.co/GPWRp7VzG7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628259921445191"
+      "url": "https://x.com/i/web/status/2074642773127684192"
     },
     {
       "type": "x",
-      "text": "@nypost Good morning Thune\u2026.good morning Mitch how ya doin\u2026.great , one of those UFO thingy\u2019s visited me last night we had a great conversation about the future of solar power\u2026..",
+      "text": "I\u2019ve had my suspicions for a while, but this confirms it. @GoodTroubleShow is nothing but a bought shill for woke UAP disclosure\u2026 Sad bro real sad\u2026 Nothing but a Lou lover\u2026 https://t.co/GfnId9Wm26",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628203814002926"
+      "url": "https://x.com/i/web/status/2074642722816720942"
     },
     {
       "type": "x",
-      "text": "@RealJamesWoods President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "@realKrisCruz President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628161841566014"
+      "url": "https://x.com/i/web/status/2074642678889828421"
     },
     {
       "type": "x",
-      "text": "@TheZignal Well thats just the thing, there is footage from amateur astronomers of objects moving around on the moon.  You can find tons of footage by searching for \"UFO Moon Reddit\"   https://t.co/nC",
+      "text": "@Sassafrass_84 President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074628161074274738"
+      "url": "https://x.com/i/web/status/2074642555069768167"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1514\r Issue Time: 2026 Jul 07 2318 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1513\r Issue Time: 2026 Jul 07 1443 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3712\r Issue Time: 2026 Jul 07 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -1774,6 +1774,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.9
+    },
+    {
+      "ts": "2026-07-07T23:53:43.727613Z",
+      "score": 34.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.8
     }
   ],
   "sources": [
