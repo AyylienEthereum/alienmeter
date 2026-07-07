@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-07T18:28:11.452494Z",
-  "score": 40.8,
+  "generated_at": "2026-07-07T20:25:43.912229Z",
+  "score": 32.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 16.2,
-    "d24h": 12.3,
+    "d1h": 4.4,
+    "d24h": 7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 13.9,
-    "social_chatter": 8.9,
+    "news_velocity": 0.0,
+    "social_chatter": 10.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 23,
     "date": "07.07.2026",
     "declassified": "07.07.26",
-    "generated_utc": "18:28",
+    "generated_utc": "20:25",
     "top_drivers": [
-      "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
-      "News velocity +58% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 149 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5"
+      "X/Twitter chatter: 168 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
+      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 35.5,
+    "live_signal": 25.3,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 57.72511848341231,
-    "x_last_hour": 149,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 168,
     "wiki_spike_pct": -32.598093845564044,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
-      "source": "wkfr.com",
-      "url": "https://wkfr.com/abraham-lincoln-coined-michigander/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pu22dpfm6814ue4v44oqojcft2"
-    },
-    {
-      "type": "news",
-      "text": "14 Useful , No - Fuss Gadgets That Just Work Right Out Of The Box",
-      "source": "slashgear.com",
-      "url": "https://www.slashgear.com/2209405/useful-no-fuss-gadgets-work-out-of-box/"
-    },
-    {
-      "type": "news",
-      "text": "250 facts for America 250 years",
-      "source": "wcvb.com",
-      "url": "https://www.wcvb.com/article/250-facts-about-america-by-state/71484357"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tvn4656vv7b57oatih8ppvous7"
-    },
-    {
-      "type": "news",
-      "text": "WWII pilots fired at glowing orbs trailing their planes and the bullets simply disappeared inside them",
-      "source": "ecoportal.net",
-      "url": "https://www.ecoportal.net/en/wwii-pilots-glowing-orbs/28311/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5drcv5t70pvrp82850b3he3lk7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jnte8223809h7oslaebb6l85e6"
-    },
-    {
-      "type": "news",
-      "text": "Congressman Eric Burlison Says US Govt Has Been  Doing Some Really Cool Thing at UFO Facility",
-      "source": "jp.ibtimes.com",
-      "url": "https://jp.ibtimes.com/congressman-eric-burlison-says-us-govt-has-been-doing-some-really-cool-things-ufo-facility-102425"
-    },
-    {
-      "type": "news",
-      "text": "2026\u5e74\u56fd\u9645\u5c04\u8054\u5168\u9879\u4e16\u754c\u676f\u5c06\u5728\u5bcc\u6625\u6c5f\u7554\u4e3e\u884c - \u534e\u4fa8\u7f51",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/archives/178861"
+      "type": "x",
+      "text": "Looks like the scam \u201cwhistleblower\u201d account from Matthew Brown (@SunOfAbramelin) and Dylan Borland (@TheDylanBorland) didn\u2019t like me calling out the fact that they\u2019ve both admitted openly to issues th",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074590419371839906"
     },
     {
       "type": "x",
-      "text": "@AshtonForbes Ashton dismantles woke ufo disclosure.  Master class.",
+      "text": "@candle84640 @SirPonderer Yep, plus the UFO stuff and apophis coming in 2029 (Apophis is Abbadon) so everything is all adding up too well. Plus we have the counterfeits being rolled out as well, which",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074561074846712130"
+      "url": "https://x.com/i/web/status/2074590298966012002"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe So the rest of the World is ALSO keeping silent?  More fake UFO detritus.",
+      "text": "\ud83d\udea8An LAPD helicopter comes in to check out this Cigar shaped UFO....  The man who recorded it tells his story!! https://t.co/kLA80odtiC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074560633933066246"
+      "url": "https://x.com/i/web/status/2074590023245066633"
     },
     {
       "type": "x",
-      "text": "@LongBeardPro @LueElizondo He is still afraid of someone he can not compete with for over two years now. His stories, mistakes, and drawings versus real and 35 verified UAP that I possess. https://t.c",
+      "text": "@RealSimpleAriel Yes but I think the names spent the last week pricing that in, unlike the UFO group. What do you think?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074560521823486343"
+      "url": "https://x.com/i/web/status/2074590018866208942"
     },
     {
       "type": "x",
-      "text": "@DGray118 @RailwaySiding77 @kennylanglea Were they an item at one stage? I remember her ftom Gerry Anderson\u2019s UFO as well.",
+      "text": "@LueElizondo Hey lue! I had a really cool first-hand experience with UAP I would love to share you my story sometime if you have a minute hit me up on here or my email rmriggs32@gmail.com thanks you s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074560242864603169"
+      "url": "https://x.com/i/web/status/2074589966315688233"
     },
     {
       "type": "x",
-      "text": "@wow36932525 @LueElizondo How is this any sort of important revelation?  We've had credible people attesting to incredible things for decades.  Unless it leads to actual evidence, it's just more meani",
+      "text": "A new episode of Rendlesham UFO has dropped  https://t.co/6yIrJqeBAb  #ufo, #ufotwitter, #ufos",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074559815955927385"
-    },
-    {
-      "type": "x",
-      "text": "There is a bad version of this article: a UFO bucket list.  I did not want that.  The honest version starts with colder facts: dark sky, low light pollution, patience, and places where the strange rec",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074559759571657147"
+      "url": "https://x.com/i/web/status/2074589860594077796"
     },
     {
       "type": "swpc",
@@ -1814,6 +1753,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 35.5
+    },
+    {
+      "ts": "2026-07-07T20:25:43.840516Z",
+      "score": 32.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.3
     }
   ],
   "sources": [
