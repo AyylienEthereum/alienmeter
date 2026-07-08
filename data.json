@@ -1,96 +1,157 @@
 {
-  "generated_at": "2026-07-07T23:53:43.800707Z",
-  "score": 34.8,
+  "generated_at": "2026-07-08T02:05:55.976458Z",
+  "score": 28.6,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -6.0,
-    "d24h": 4.6,
+    "d1h": -4.3,
+    "d24h": 3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 5.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 23,
-    "day": 23,
-    "date": "07.07.2026",
-    "declassified": "07.07.26",
-    "generated_utc": "23:53",
+    "number": 24,
+    "day": 24,
+    "date": "08.07.2026",
+    "declassified": "08.07.26",
+    "generated_utc": "02:05",
     "top_drivers": [
-      "X/Twitter chatter: 228 UFO/UAP posts in the last hour",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 94 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 6",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.8,
+    "live_signal": 19.8,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": -16.185274656023523,
-    "x_last_hour": 228,
-    "wiki_spike_pct": -32.598093845564044,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 94,
+    "wiki_spike_pct": -33.247268874301234,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 6
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "It's been a while since I showcased the new enemies with gameplay, here\u00b4s a look at 4 of the most interesting ones: A Bunny, an UFO, a Spider and a Flower.  #Gamedev #Indiedev #Godot #GodotEngine http",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642991491273135"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=07a3b25tq344h1amrfhpb6fkr5"
+    },
+    {
+      "type": "news",
+      "text": "UFO - shaped clouds above Conwy look out of this world ! | Denbighshire Free Press",
+      "source": "denbighshirefreepress.co.uk",
+      "url": "https://www.denbighshirefreepress.co.uk/news/26261344.ufo-shaped-clouds-conwy-look-world/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=50v4diimi7sl848g8ddk1mrsu3"
+    },
+    {
+      "type": "news",
+      "text": "Trump inner circle have shown me the real UFO disclosure : The president has an imminent speech  written and ready ... what hell explain about non - human life will make it all make sense",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-15956737/trump-ufo-speech-disclosure-nato.html"
+    },
+    {
+      "type": "news",
+      "text": "Off - script | Jul 8 , 2026",
+      "source": "ncpa.org",
+      "url": "https://ncpa.org/newsroom/qam/2026/07/08/script"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qnntpbnhom0jdfqu035uma40u7"
+    },
+    {
+      "type": "news",
+      "text": "\u03a3\u03b1\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 : \u03a4\u03bf \u03c3\u03c5\u03bc\u03b2\u03ac\u03bd \u03c4\u03bf\u03c5 \u03a1\u03cc\u03c3\u03b3\u03bf\u03c5\u03b5\u03bb \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03c0\u03c1\u03ce\u03c4\u03b5\u03c2 \u03b8\u03b5\u03c9\u03c1\u03af\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03bc\u03bf\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03bf\u03c5\u03c2",
+      "source": "e-radio.gr",
+      "url": "https://www.e-radio.gr/post/173781/san-simera-to-symvan-toy-rosgoyel-kai-oi-prwtes-thewries-synwmosias-gia-exwgiinoys"
+    },
+    {
+      "type": "news",
+      "text": "\u03a3\u03b1\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 8 \u0399\u03bf\u03c5\u03bb\u03af\u03bf\u03c5",
+      "source": "taxydromos.gr",
+      "url": "https://www.taxydromos.gr/diethni/1340385/san-simera-8-ioylioy-9/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=681enka9eou6936h8c7rvif3l0"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=77lfg8pf437u9rf73oocsuft64"
     },
     {
       "type": "x",
-      "text": "@StuDoesAmerica President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "@drpiyushENT The rapido for intergalactic cups is my ufo \ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642957693493562"
+      "url": "https://x.com/i/web/status/2074675849836798148"
     },
     {
       "type": "x",
-      "text": "@jaysixteen23 @hypnosthana Like watch it just be a goofy dawn UFO type shit https://t.co/GPWRp7VzG7",
+      "text": "@EKAdams @ufouapam I'm gonna tell ya something it might be a shock to you, there are no monolithic structures on the moon.  Also you believe a guy who presented a reflection of a chandelier in a windo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642773127684192"
+      "url": "https://x.com/i/web/status/2074675686938177959"
     },
     {
       "type": "x",
-      "text": "I\u2019ve had my suspicions for a while, but this confirms it. @GoodTroubleShow is nothing but a bought shill for woke UAP disclosure\u2026 Sad bro real sad\u2026 Nothing but a Lou lover\u2026 https://t.co/GfnId9Wm26",
+      "text": "@dennisregalad0 @Patrickwebb dennisregalad0 The \"per NYT\" claim mixes things. Epstein had documented ties to scientists in advanced tech, AI, physics &amp; transhumanism \u2014 see this 2019 NYT piece on h",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642722816720942"
+      "url": "https://x.com/i/web/status/2074675395035603378"
     },
     {
       "type": "x",
-      "text": "@realKrisCruz President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "Yes. The UAP \u2026 Field McConnell revealed some shit, and they locked him up. https://t.co/Gwmc3IhMzy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642678889828421"
+      "url": "https://x.com/i/web/status/2074675263804219684"
     },
     {
       "type": "x",
-      "text": "@Sassafrass_84 President Trump Teaches Aliens What A Woman Is  Woman , What Is A Woman ?  UFO Aliens Land Washington DC Demand Woman  Congress Has No Idea What A Woman Is \ud83d\udc47  https://t.co/2tyuNDczeY",
+      "text": "ufc6 and ufo talks https://t.co/tfJt8ea25r",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074642555069768167"
+      "url": "https://x.com/i/web/status/2074674310812402115"
+    },
+    {
+      "type": "x",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/lrsyNlFq6u  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074674086836412907"
     },
     {
       "type": "swpc",
@@ -1781,6 +1842,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.8
+    },
+    {
+      "ts": "2026-07-08T02:05:55.901885Z",
+      "score": 28.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.8
     }
   ],
   "sources": [
