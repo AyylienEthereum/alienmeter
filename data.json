@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08T21:48:32.290600Z",
-  "score": 31.1,
+  "generated_at": "2026-07-08T22:58:52.979777Z",
+  "score": 26.2,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 3.8,
-    "d24h": -7.0,
+    "d1h": -8.2,
+    "d24h": -9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 4.6,
-    "social_chatter": 8.2,
+    "news_velocity": 0.0,
+    "social_chatter": 7.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "21:48",
+    "generated_utc": "22:58",
     "top_drivers": [
-      "Le meilleur \u2026 et le pire de la saison \u2013 08 / 07",
-      "News velocity +19% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2"
+      "X/Twitter chatter: 128 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
+      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.1,
+    "live_signal": 16.9,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 19.268555492172155,
-    "x_last_hour": 138,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 128,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Le meilleur \u2026 et le pire de la saison \u2013 08 / 07",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/le-meilleur-et-le-pire-de-la-saison-08-07_EN-202607080883.html"
-    },
-    {
-      "type": "news",
-      "text": "Lint\u00e9grale de Tech & Co , la quotidienne , du mercredi 8 juillet",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-de-tech-co-la-quotidienne-du-mercredi-8-juillet_EN-202607080896.html"
-    },
-    {
-      "type": "news",
-      "text": "DMA : Apple perd en justice contre lEurope \u2013 08 / 07",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/dma-apple-perd-en-justice-contre-l-europe-08-07_EN-202607080868.html"
-    },
-    {
-      "type": "news",
-      "text": "Watch : Two Separate Witnesses Film Odd UFOs Off Coast of Japan | 960 WELI | Coast to Coast AM with George Noory",
-      "source": "960weli.iheart.com",
-      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-08-watch-two-separate-witnesses-film-odd-ufos-off-coast-of-japan/"
-    },
-    {
-      "type": "news",
-      "text": "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
-      "source": "rivergrandrapids.com",
-      "url": "https://rivergrandrapids.com/ixp/689/p/abraham-lincoln-coined-michigander/"
-    },
-    {
-      "type": "news",
-      "text": "Marco Columbro racconta lavvistamento UFO : \u00ab Eravamo in 200 e abbiamo visto quei globi lattiginosi , ci hanno salutati \u00bb ",
-      "source": "corriereadriatico.it",
-      "url": "https://www.corriereadriatico.it:443/gossip/marco_columbro_ufo_alieni_avvistamento_coma_malattia-9639619.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=144n59lke1logkemuqtpqdc176"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Green glowing UFO Over Converse , Texas . united states June 18 , 2026 , five full min of video ! UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/07/green-glowing-ufo-over-converse-texas.html"
-    },
-    {
-      "type": "news",
-      "text": "Trump Rumoured UFO Speech Confirms  Non - Human Origin  of Recovered Entities : Is  Soft Disclosure  Imminent ? ",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/trump-ufo-speech-soft-disclosure-1807664"
-    },
-    {
-      "type": "news",
-      "text": "Dejen de hacer chistes sobre extraterrestres , estas misteriosas esferas probablemente sean desechos espaciales",
-      "source": "clarin.com",
-      "url": "https://www.clarin.com/new-york-times-international-weekly/dejen-hacer-chistes-extraterrestres-misteriosas-esferas-probablemente-desechos-espaciales_0_ue1mjB6QVo.html"
+      "type": "x",
+      "text": "@thebritter Perfect day for a chat about UAP/NHI \ud83d\udc7d\u270c\ufe0f",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074991322419884182"
     },
     {
       "type": "x",
-      "text": "@the_Theurgist @HighlyStrange @rgeckert The backstory is unverified UFO lore from researcher Anthony Bragalia (2021). He obtained 1993 interview tapes from MUFON ufologist Sheila Franklin with Dr. Shi",
+      "text": "@UAPWatchers This is exactly why the Fermi Paradox is a delusion.  Scientists like Loeb expect aliens to leave obvious, primitive footprints. Progress makes civilizations quieter, not louder. UAP tech",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973815604433235"
+      "url": "https://x.com/i/web/status/2074991121986388426"
     },
     {
       "type": "x",
-      "text": "@spaceandtech_ Isn\u2019t that literally the definition of a UFO?",
+      "text": "@TheOtherKinds @Thekingofufos @DailyMail No UFO or Reagan-esque (e.g., alien threat/unity) comments from Trump today. His NATO summit press conference and remarks in Ankara focused on defense spending",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973806465052838"
+      "url": "https://x.com/i/web/status/2074990811662754158"
     },
     {
       "type": "x",
-      "text": "@LondonMoneyFS \"Release the full UFO files you orange faced twat\" \ud83e\udd23 https://t.co/rmIFCVPhg8",
+      "text": "@UFOReporter_X amazing microscophe ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973782276526172"
+      "url": "https://x.com/i/web/status/2074990811473650152"
     },
     {
       "type": "x",
-      "text": "@linda16675729 No kidding!!! Solar lights may be a good idea!  I hate winter so much, house is pitch black at noon with curtains closed because it\u2019s so dark here. So I use bright white lights and outs",
+      "text": "@Rebel44CZ @joni_askola Yep, it\u2019s over for Puty. Real \u201cHitler has secret ufo mega weapons\u201d vibes in the last days of WW2. Deck chairs on titanic",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973713561502183"
+      "url": "https://x.com/i/web/status/2074990108785136026"
     },
     {
       "type": "x",
-      "text": "@ShaneFrakes I know you're a person of chaos. UFO people watch out for this person.",
+      "text": "World UFO Day was this week and people were expecting new UAP files. They didn't drop. If Congress wants credibility on disclosure, stop scheduling hype and start publishing what agencies already have",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973675112300840"
-    },
-    {
-      "type": "x",
-      "text": "@JonStewartIL radiation burn from a ufo was my initial assesment",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074973133648601447"
+      "url": "https://x.com/i/web/status/2074989943722836121"
     },
     {
       "type": "swpc",
@@ -1913,6 +1852,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.1
+    },
+    {
+      "ts": "2026-07-08T22:58:52.905810Z",
+      "score": 26.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.9
     }
   ],
   "sources": [
