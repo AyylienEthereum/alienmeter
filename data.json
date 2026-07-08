@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T07:58:27.473079Z",
-  "score": 25.2,
+  "generated_at": "2026-07-08T10:19:48.393973Z",
+  "score": 26.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -7.4,
-    "d24h": -2.8,
+    "d1h": -7.9,
+    "d24h": -3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.8,
+    "social_chatter": 4.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "07:58",
+    "generated_utc": "10:19",
     "top_drivers": [
-      "X/Twitter chatter: 66 UFO/UAP posts in the last hour",
+      "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "X/Twitter chatter: 70 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.5,
+    "live_signal": 17.7,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 66,
+    "x_last_hour": 70,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Trust is becoming Polymarket's biggest risk.  Over $418M has been traded across markets that later faced serious resolution disputes.  The biggest disputes: \u2022 Zelenskyy lawsuit: $242M \u2022 Strategy Bitco",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764842658066757"
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "twincities.com",
+      "url": "https://www.twincities.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "nydailynews.com",
+      "url": "https://www.nydailynews.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "courant.com",
+      "url": "https://www.courant.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "journal-advocate.com",
+      "url": "https://www.journal-advocate.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "republicanherald.com",
+      "url": "https://www.republicanherald.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Whistle - blower Testifies Congress Was Told Government Recovered  Non - Human  Bodies From Alien Crash Sites",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/former-intelligence-officer-ufo-testimony-global-debate-1807543"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "citizensvoice.com",
+      "url": "https://www.citizensvoice.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "mcall.com",
+      "url": "https://www.mcall.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+    },
+    {
+      "type": "news",
+      "text": "\u03a3\u03b1\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - 8 \u0399\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 | Lykavitos . gr",
+      "source": "lykavitos.gr",
+      "url": "https://www.lykavitos.gr/news/greece/san-simera-8-iouliou-5"
+    },
+    {
+      "type": "news",
+      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
+      "source": "reporterherald.com",
+      "url": "https://www.reporterherald.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
     },
     {
       "type": "x",
-      "text": "@maniaUFO @WIL24HRS What if ufo phenomenon was simple, simpler than many think and so much has been told already without connecting the dot?",
+      "text": "@TifosiJoe31 @CFCBen_X @WatcherGuru Holy fucking cope. Who the fuck asked you to come here and defend your pedoguru, and talk about another pedoguru like I give a fuck?  Trump released nothing, if not",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764789784469529"
+      "url": "https://x.com/i/web/status/2074800554937565279"
     },
     {
       "type": "x",
-      "text": "@Eyes_OnTheSkies I blame Hynek. He wasn't quite the original government UFO b.s.'er but he pissed off a LOT of innocent folks reporting UFO's. Hynek spent nearly 20 years pushing deeply insulting, mat",
+      "text": "in the middle there were a famous phosphine gas tanks accident. apparently an ufo neared the truckers and some other incident developed. someone opened fire at the ufo and the bullets bounced and the ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764784059511143"
+      "url": "https://x.com/i/web/status/2074800541993984090"
     },
     {
       "type": "x",
-      "text": "Yeah, it\u2019s something the UAP community has completely missed. In a nutshell, the model means we can calculate the GPS position - and potentially even the altitude - of each Type3 Sphere in any country",
+      "text": "@nasakiller2026 @DrStevenGreer these Congress UFO hearings is a sham to further fuel The narrative that aliens pose an existential threat to national security when in reality humanity is the only thre",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764625690677402"
+      "url": "https://x.com/i/web/status/2074800416575877366"
     },
     {
       "type": "x",
-      "text": "@realannapaulina why are you handing China and Russia advanced UFO tech?",
+      "text": "\ud83d\udea8Mike Gold former member of NASA's UAP Independent Study Team Speculates over NHI Watching Us  \"I think as we develop nuclear technology that I'd be shocked if humanity didn't warrant a degree of atte",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764248694092149"
+      "url": "https://x.com/i/web/status/2074800386372731357"
     },
     {
       "type": "x",
-      "text": "Superinteressant ! #Orbs #UAP  Full interview with Lui Elizondo!  https://t.co/JMdpKTPnJC",
+      "text": "@Nigel_Farage How going as loss support of ufo over Doncaster. Green man supporting of reform uk. In Claton for bin  to be mp  dastaster as reform. UFO airport  resident discharge  refom as there lead",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074764236786430009"
+      "url": "https://x.com/i/web/status/2074799857856839867"
+    },
+    {
+      "type": "x",
+      "text": "White House names Harvard professor to lead handpicked UFO council  https://t.co/gFU8AQd7xR",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074799157085106406"
     },
     {
       "type": "swpc",
@@ -1802,6 +1863,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.5
+    },
+    {
+      "ts": "2026-07-08T10:19:48.319956Z",
+      "score": 26.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.7
     }
   ],
   "sources": [
