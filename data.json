@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08T20:42:49.455258Z",
-  "score": 27.1,
+  "generated_at": "2026-07-08T21:48:32.290600Z",
+  "score": 31.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -0.7,
-    "d24h": -9.9,
+    "d1h": 3.8,
+    "d24h": -7.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "news_velocity": 4.6,
+    "social_chatter": 8.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,26 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "20:42",
+    "generated_utc": "21:48",
     "top_drivers": [
-      "X/Twitter chatter: 152 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
-      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
+      "Le meilleur \u2026 et le pire de la saison \u2013 08 / 07",
+      "News velocity +19% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 138 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.0,
+    "live_signal": 23.1,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 152,
+    "gdelt_spike_pct": 19.268555492172155,
+    "x_last_hour": 138,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@Go_Kick_Rocks88 Money is being made here - \u2018the UAP Community\u2019 wants to perpetuate that.  The last thing it wants is disclosure- that would kill the goose laying the golden eggs.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074957171897651226"
+      "type": "news",
+      "text": "Le meilleur \u2026 et le pire de la saison \u2013 08 / 07",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/le-meilleur-et-le-pire-de-la-saison-08-07_EN-202607080883.html"
+    },
+    {
+      "type": "news",
+      "text": "Lint\u00e9grale de Tech & Co , la quotidienne , du mercredi 8 juillet",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-de-tech-co-la-quotidienne-du-mercredi-8-juillet_EN-202607080896.html"
+    },
+    {
+      "type": "news",
+      "text": "DMA : Apple perd en justice contre lEurope \u2013 08 / 07",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/dma-apple-perd-en-justice-contre-l-europe-08-07_EN-202607080868.html"
+    },
+    {
+      "type": "news",
+      "text": "Watch : Two Separate Witnesses Film Odd UFOs Off Coast of Japan | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-08-watch-two-separate-witnesses-film-odd-ufos-off-coast-of-japan/"
+    },
+    {
+      "type": "news",
+      "text": "How Abraham Lincoln Turned A Goose Joke Into A Michigan Nickname",
+      "source": "rivergrandrapids.com",
+      "url": "https://rivergrandrapids.com/ixp/689/p/abraham-lincoln-coined-michigander/"
+    },
+    {
+      "type": "news",
+      "text": "Marco Columbro racconta lavvistamento UFO : \u00ab Eravamo in 200 e abbiamo visto quei globi lattiginosi , ci hanno salutati \u00bb ",
+      "source": "corriereadriatico.it",
+      "url": "https://www.corriereadriatico.it:443/gossip/marco_columbro_ufo_alieni_avvistamento_coma_malattia-9639619.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=144n59lke1logkemuqtpqdc176"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : Green glowing UFO Over Converse , Texas . united states June 18 , 2026 , five full min of video ! UAP Sighting News . ",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2026/07/green-glowing-ufo-over-converse-texas.html"
+    },
+    {
+      "type": "news",
+      "text": "Trump Rumoured UFO Speech Confirms  Non - Human Origin  of Recovered Entities : Is  Soft Disclosure  Imminent ? ",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-ufo-speech-soft-disclosure-1807664"
+    },
+    {
+      "type": "news",
+      "text": "Dejen de hacer chistes sobre extraterrestres , estas misteriosas esferas probablemente sean desechos espaciales",
+      "source": "clarin.com",
+      "url": "https://www.clarin.com/new-york-times-international-weekly/dejen-hacer-chistes-extraterrestres-misteriosas-esferas-probablemente-desechos-espaciales_0_ue1mjB6QVo.html"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d Dr. Steven Greer Shows Alien Photos. What Do We Think? || FOLLOW FOR MORE|| #ufodisclosure #aliensighting #drstevengreer #ufo #ufocommunity https://t.co/7fXF14J1ok",
+      "text": "@the_Theurgist @HighlyStrange @rgeckert The backstory is unverified UFO lore from researcher Anthony Bragalia (2021). He obtained 1993 interview tapes from MUFON ufologist Sheila Franklin with Dr. Shi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074957062551875937"
+      "url": "https://x.com/i/web/status/2074973815604433235"
     },
     {
       "type": "x",
-      "text": "@UAPDr It should also leave some soft shadow. CGI is my opinion. I think I also saw a layer mask corner when UFO went behind bush. After that leaves look separate again.",
+      "text": "@spaceandtech_ Isn\u2019t that literally the definition of a UFO?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074957026032046503"
+      "url": "https://x.com/i/web/status/2074973806465052838"
     },
     {
       "type": "x",
-      "text": "@joyousplanet_1 Blue eyed UFO simp looks like he\u2019s hiding alien pussy pics in his basement. \ud83d\ude02",
+      "text": "@LondonMoneyFS \"Release the full UFO files you orange faced twat\" \ud83e\udd23 https://t.co/rmIFCVPhg8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074956945241633123"
+      "url": "https://x.com/i/web/status/2074973782276526172"
     },
     {
       "type": "x",
-      "text": "\ud83d\udef8 What does \u201cDisclosure\u201d actually mean?  The conversation around UAP is growing, but what are people really asking for when they say \u201cdisclosure\u201d?  Is it:  \ud83d\udcc2 The release of classified documents? \ud83d\udc7d Off",
+      "text": "@linda16675729 No kidding!!! Solar lights may be a good idea!  I hate winter so much, house is pitch black at noon with curtains closed because it\u2019s so dark here. So I use bright white lights and outs",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074956931320496445"
+      "url": "https://x.com/i/web/status/2074973713561502183"
     },
     {
       "type": "x",
-      "text": "finally after 3 asonic ufo deaths\ud83d\ude2d\ud83d\ude2d https://t.co/w5vMlVRrge",
+      "text": "@ShaneFrakes I know you're a person of chaos. UFO people watch out for this person.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074956474128761046"
+      "url": "https://x.com/i/web/status/2074973675112300840"
+    },
+    {
+      "type": "x",
+      "text": "@JonStewartIL radiation burn from a ufo was my initial assesment",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074973133648601447"
     },
     {
       "type": "swpc",
@@ -1845,6 +1906,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.0
+    },
+    {
+      "ts": "2026-07-08T21:48:32.215862Z",
+      "score": 31.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.1
     }
   ],
   "sources": [
