@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08T17:57:53.098344Z",
-  "score": 34.4,
+  "generated_at": "2026-07-08T19:25:02.545340Z",
+  "score": 29.7,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 7.5,
-    "d24h": -1.0,
+    "d1h": -3.7,
+    "d24h": -5.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.6,
-    "social_chatter": 9.7,
+    "news_velocity": 0.0,
+    "social_chatter": 11.3,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "17:57",
+    "generated_utc": "19:25",
     "top_drivers": [
-      "X/Twitter chatter: 162 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 188 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.3,
+    "live_signal": 21.3,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 6.790764042028799,
-    "x_last_hour": 162,
+    "gdelt_spike_pct": -37.328591018169355,
+    "x_last_hour": 188,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@MarkAttwood I don\u2019t see how there could be UFO Disclosure without chaos.",
+      "text": "Guys I found a freaking spaceship #UAP #UFO https://t.co/1NpqjYnT6c https://t.co/4tdiQUsDuO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074915755821543710"
+      "url": "https://x.com/i/web/status/2074937590088679608"
     },
     {
       "type": "x",
-      "text": "\"I left the Department of Defense, ironically enough, to finish the very mission they gave me in the first place, I didn't ask for it, I'm not a UFO guy, not a Ufologist, never have been, never will b",
+      "text": "Ed Matthews was LEFT SHOCKED after meeting a woman who claimed she had a private tape with Elon Musk \ud83d\ude33  \u201cDid you fck Elon Musk? Yeah, I did everything.\u201d  bikini pool party 2026, ultimate pool bash, se",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074915721193173087"
+      "url": "https://x.com/i/web/status/2074937436279648546"
     },
     {
       "type": "x",
-      "text": "When a trans faith healer flees his mother's cult, he joins forces with a  trans UFO-forum moderator who just caught his own meteorite. \ud83e\ude79 Boy who can heal everyone but himself  \u2604\ufe0f Boy who caught a met",
+      "text": "Are UAP Orbs Meteoritic Dust Clouds? https://t.co/12CJr0AK50 via @YouTube  I really like Avi Loeb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074915447296721038"
+      "url": "https://x.com/i/web/status/2074937186294579551"
     },
     {
       "type": "x",
-      "text": "This isn't a #Zombie movie.  \"HOPE\" preview.  https://t.co/Gzwuf5LDZK #Aliens @Nerdrotics #UFO #Monsters @kinky_horror @therealjoebob @badtechno @TokyoCowboyYuki #MutantFam @MutantTheater2 @IsaacsHaun",
+      "text": "\u2622\ufe0f Elizondo Drops Nuke: UFOs Swarmed Chernobyl &amp; Fukushima Disasters  Former AATIP Director Lue Elizondo just confirmed in a July 2026 Japanese interview:  \u201cBefore and after the Chernobyl disaster",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074915187665109456"
+      "url": "https://x.com/i/web/status/2074937161653297208"
     },
     {
       "type": "x",
-      "text": "@Kekius_Sage UCO's - unidentified crashed objects.  I think we should change UFO to  UCO once it hits Earth..  Anything that hits Earth and survives its descent is up for further investigation.  Appar",
+      "text": "@TheUfoJoe If this ufo speech happens (or doesn't) and it's another ambiguous nothing burger, there MUST be a sea change in trusting these people. Support your local ufo groups/ start a ce5 club.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074914994114711667"
+      "url": "https://x.com/i/web/status/2074936925979611536"
     },
     {
       "type": "x",
-      "text": "\ud83d\udd25 TONIGHT on THIRD EYE LIVE! \ud83d\udd25  Bigfoot, UFOs &amp; Cryptids: Karl Sup\u2019s Shocking Encounters Across America  Join Sir Bryan M. Bowden and cohost Mark Eddy as they welcome Karl Sup \u2014 Bigfoot experience",
+      "text": "Burlison (@EricBurlison \\@RepEricBurlison) Presses CIA and FBI for Records Related to 1996 Brazil UAP Incident \ud83d\udef8 \ud83d\udc7d \ud83d\ude33  July 8, 2026 - Press Release  \"WASHINGTON, D.C. \u2013 Congressman Eric Burlison (R-MO)",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074914946635448777"
+      "url": "https://x.com/i/web/status/2074936874091807159"
     },
     {
       "type": "swpc",
@@ -1831,6 +1831,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.3
+    },
+    {
+      "ts": "2026-07-08T19:25:02.470029Z",
+      "score": 29.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.3
     }
   ],
   "sources": [
