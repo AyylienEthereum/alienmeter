@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08T05:31:12.576526Z",
-  "score": 24.0,
+  "generated_at": "2026-07-08T07:58:27.473079Z",
+  "score": 25.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.8,
-    "d24h": -3.8,
+    "d1h": -7.4,
+    "d24h": -2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.0,
+    "social_chatter": 3.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,65 +31,84 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "05:31",
+    "generated_utc": "07:58",
     "top_drivers": [
-      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 66 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.9,
-    "baseline_recent": 25.3,
+    "live_signal": 15.5,
+    "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": -81.80787222983508,
-    "x_last_hour": 103,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 66,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@mattyglesias It should be noted that Ken leaked a UFO whistleblower\u2019s medical records  Search for the term David Grusch on his twitter  He was always a piece of shit",
+      "text": "Trust is becoming Polymarket's biggest risk.  Over $418M has been traded across markets that later faced serious resolution disputes.  The biggest disputes: \u2022 Zelenskyy lawsuit: $242M \u2022 Strategy Bitco",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074727813823836225"
+      "url": "https://x.com/i/web/status/2074764842658066757"
     },
     {
       "type": "x",
-      "text": "Everybody please pray for me that i win the lottery or maybe somehow get rich by exploiting Jesus in a UFO Cut. If you really love me. https://t.co/OJVhnfe8XR",
+      "text": "@maniaUFO @WIL24HRS What if ufo phenomenon was simple, simpler than many think and so much has been told already without connecting the dot?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074727705623581167"
+      "url": "https://x.com/i/web/status/2074764789784469529"
     },
     {
       "type": "x",
-      "text": "@UAPWixy Why do all UFO movies end before the UFO flies away?",
+      "text": "@Eyes_OnTheSkies I blame Hynek. He wasn't quite the original government UFO b.s.'er but he pissed off a LOT of innocent folks reporting UFO's. Hynek spent nearly 20 years pushing deeply insulting, mat",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074727188054577514"
+      "url": "https://x.com/i/web/status/2074764784059511143"
     },
     {
       "type": "x",
-      "text": "UFO recorded in Holly Springs, NC\ud83e\uddd0\ud83e\udd14 https://t.co/1OUQAeEbcM",
+      "text": "Yeah, it\u2019s something the UAP community has completely missed. In a nutshell, the model means we can calculate the GPS position - and potentially even the altitude - of each Type3 Sphere in any country",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074727084111380771"
+      "url": "https://x.com/i/web/status/2074764625690677402"
     },
     {
       "type": "x",
-      "text": "Top Gun US Navy Pilot CHASES Tic-Tac UFO, Then it Vanishes... https://t.co/kTxwtvyvqV via @YouTube \ud83d\udef8\ud83d\udef8\ud83d\udef8\ud83d\udef8\ud83d\udef8\ud83d\udef8",
+      "text": "@realannapaulina why are you handing China and Russia advanced UFO tech?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074726555599663404"
+      "url": "https://x.com/i/web/status/2074764248694092149"
     },
     {
       "type": "x",
-      "text": "Alliance Update: Trump UFO Advisory Team Pushes Defence Firms to Disclos... https://t.co/qC8Thha8Gr via @YouTube  #TheRealIsmaelPerez #Disclosure",
+      "text": "Superinteressant ! #Orbs #UAP  Full interview with Lui Elizondo!  https://t.co/JMdpKTPnJC",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074726413580566572"
+      "url": "https://x.com/i/web/status/2074764236786430009"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5380\r Issue Time: 2026 Jul 08 0529 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1514\r Issue Time: 2026 Jul 07 2318 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 713\r Issue Time: 2026 Jul 07 1456 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
@@ -1776,6 +1795,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.9
+    },
+    {
+      "ts": "2026-07-08T07:58:27.398655Z",
+      "score": 25.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.5
     }
   ],
   "sources": [
