@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08T12:02:39.917664Z",
-  "score": 33.4,
+  "generated_at": "2026-07-08T14:40:08.862497Z",
+  "score": 27.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 4.8,
-    "d24h": 5.1,
+    "d1h": 3.8,
+    "d24h": -14.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 6.3,
-    "social_chatter": 5.8,
+    "news_velocity": 0.0,
+    "social_chatter": 7.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 24,
     "date": "08.07.2026",
     "declassified": "08.07.26",
-    "generated_utc": "12:02",
+    "generated_utc": "14:40",
     "top_drivers": [
-      "Today in History : July 8 , Thai cave rescue",
-      "News velocity +26% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 99 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 4"
+      "X/Twitter chatter: 128 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
+      "NEO (2019 AM12) passing Earth at 28.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.0,
+    "live_signal": 18.8,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.0500743178,
     "asteroid_name": "(2019 AM12)",
-    "gdelt_spike_pct": 26.17454358926532,
-    "x_last_hour": 99,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 128,
     "wiki_spike_pct": -29.329515827569363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Today in History : July 8 , Thai cave rescue",
-      "source": "butlereagle.com",
-      "url": "https://www.butlereagle.com/20260708/today-in-history-july-8-thai-cave-rescue-3/"
-    },
-    {
-      "type": "news",
-      "text": "Today in History :  Flying saucer  reported near Roswell Army Air Field \u2013 Chicago Tribune",
-      "source": "chicagotribune.com",
-      "url": "https://www.chicagotribune.com/2026/07/08/today-in-history-flying-saucer-reported-near-roswell-army-air-field/"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
-      "source": "pressdemocrat.com",
-      "url": "https://www.pressdemocrat.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
-    },
-    {
-      "type": "news",
-      "text": "Addio a Louise Lasser , seconda moglie di Woody Allen e sua prima musa \u2022 Vivere San Benedetto notizie per la citt\u00e0 e il territorio",
-      "source": "viveresanbenedetto.it",
-      "url": "https://www.viveresanbenedetto.it/altrigiornali/14/120503-2026"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Thai cave rescue",
-      "source": "wfmz.com",
-      "url": "https://www.wfmz.com/news/ap/ap-this-day-in-history/today-in-history-july-8-thai-cave-rescue/article_be42a7cb-e8c0-575c-affb-b4c9982b8684.html"
-    },
-    {
-      "type": "news",
-      "text": "ARD Story fragt :  Drohnen \u00fcber der Siedlung - Wer sch\u00fctzt unsere Privatsph\u00e4re ? ",
-      "source": "presseportal.de",
-      "url": "https://www.presseportal.de/pm/7560/6310540"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
-      "source": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
-      "source": "twincities.com",
-      "url": "https://www.twincities.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
-      "source": "nydailynews.com",
-      "url": "https://www.nydailynews.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
-    },
-    {
-      "type": "news",
-      "text": "Today in History : July 8 , Venus Williams wins her first Grand Slam title",
-      "source": "courant.com",
-      "url": "https://www.courant.com/2026/07/08/today-in-history-july-8-venus-williams-wins-her-first-grand-slam-title/"
+      "type": "x",
+      "text": "@P51Mustang46 @AshtonForbes You instantly made me think of Fauci.. although Fauci either was and is, or has become an evil evil man.. these UFO dudes aren't that bad at least they aren't responsible f",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2074865979390075036"
     },
     {
       "type": "x",
-      "text": "Stacker compiled a ranking of cities with the most UFO sightings in Wyoming using data from the National UFO Reporting Center. | Tap on the picture to learn more \ud83d\udd3d https://t.co/f2oGqTbYZM",
+      "text": "@prairiebanana @TheGray369 Banana, do we know what to do with the old tokens of ufo once the new token is launched. Do we sell it, does it automatically disappear etc? Thanks",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074826341975728160"
+      "url": "https://x.com/i/web/status/2074865693107855455"
     },
     {
       "type": "x",
-      "text": "@planethunter56 So did Kubrick knew something with 2001 Space Odyssey? The black monolith influencing humanity? If Lue Elizondo says , he has to prove it. I am not buying anymore books by any of these",
+      "text": "@TheProjectUnity I call BS. My bet is the consciousness part of Plasma narrative is disinfo to mix in the woo to divert from the fact that these are ours! Excluding as of late show me in UFO history w",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074826309272809548"
+      "url": "https://x.com/i/web/status/2074865485519183878"
     },
     {
       "type": "x",
-      "text": "@elonmusk The message is pretty clear. Depictions of the world coming apart due to inequality, politics, violence. The references to the quantum world, timelines and the UFO references not to mention ",
+      "text": "My take on ETs. They have been here for 10000s of yrs.Look in the mirror.The aliens created us, using advanced DNA knowledge for unknown purposes.The missing Link,the sudden unexplained  jump From Hom",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074826149776044274"
+      "url": "https://x.com/i/web/status/2074865358138208587"
     },
     {
       "type": "x",
-      "text": "@SenRandPaul @Patrickwebb Now  do UAP.",
+      "text": "@PaulSpacey He\u2019s UFO talent athlete and plays on the biggest stage of soccer. That\u2019s exactly what we mean when we say America has the greatest athletes. If an NFL superstar played soccer, they\u2019d score",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074825187124535446"
+      "url": "https://x.com/i/web/status/2074865137547407728"
     },
     {
       "type": "x",
-      "text": "@FlyaEther33 @AshtonForbes You all realize the UFO programs are managed by Epstein Clients right? https://t.co/3qZDYXCZYY",
+      "text": "@Gulfalert @BRICSinfo Dawg we got UFO potatoes before we got GTA VI https://t.co/yZ13I1Pvu6",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074825170313757029"
-    },
-    {
-      "type": "x",
-      "text": "@Mikehomeseller Yep. I love that UFO album but it won\u2019t trump Ritchie, Ronnie and Cozy for me.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2074824850447712285"
+      "url": "https://x.com/i/web/status/2074865067435467137"
     },
     {
       "type": "swpc",
@@ -1877,6 +1816,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.0
+    },
+    {
+      "ts": "2026-07-08T14:40:08.787372Z",
+      "score": 27.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.8
     }
   ],
   "sources": [
