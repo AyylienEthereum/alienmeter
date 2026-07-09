@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T10:49:35.751049Z",
-  "score": 33.6,
+  "generated_at": "2026-07-09T13:45:14.003779Z",
+  "score": 37.9,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 2.5,
-    "d24h": -0.1,
+    "d1h": 11.7,
+    "d24h": 5.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 7.3,
-    "social_chatter": 2.6,
+    "social_chatter": 5.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 8.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 25,
     "date": "09.07.2026",
     "declassified": "09.07.26",
-    "generated_utc": "10:49",
+    "generated_utc": "13:45",
     "top_drivers": [
       "News velocity +30% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 47 UFO/UAP posts in the last hour",
-      "Wikipedia UFO pageviews +87% above baseline",
-      "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
+      "X/Twitter chatter: 89 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +87% above baseline"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.4,
+    "live_signal": 31.9,
     "baseline_recent": 25.0,
     "score_gain": 1.3,
     "kp": null,
@@ -50,48 +50,60 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": 30.497371930650356,
-    "x_last_hour": 47,
+    "x_last_hour": 89,
     "wiki_spike_pct": 86.58252201649334,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@JimChambers27 @LASHYBILLS Your a different kind of special \ud83d\ude02 inbred UFO believing ass thinks he has the right to speak on this topic\ud83d\ude2d it's a miracle you can vote, and I mean filling out the ballot\ud83e\udef5\ud83d\ude02",
+      "text": "@ChrisBartelSWR Fascinating:) I\u2019ve always been intrigued by the endless uap themes in David Lynch (Twin Peaks). The major, the nuclear obsession, the secret group, the dimension manifesting box, the s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075169937207837000"
+      "url": "https://x.com/i/web/status/2075214624459280771"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP He's telling us not to fall for the 'mess' that's coming. Look at the mess he fell for. The word of God is the word of ancient barbarians and Jesus was probably no more than a man, bu",
+      "text": "@Polymarket But all the UFO pics are still blurry, grainy &amp; dark.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075169710178505171"
+      "url": "https://x.com/i/web/status/2075214437762621586"
     },
     {
       "type": "x",
-      "text": "Close Encounters of the Third Kind (1977)   Roy Neary, an Indiana electric lineman, finds his ordinary daily life turned upside down after a close encounter with a UFO  REF: PHX/CLOSEENCOUNTERS/POSTER",
+      "text": "Yet all the UFO/Alien pics &amp; video are blurry, grainy and or dark? https://t.co/gpCWsfuIAI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075169617266225413"
+      "url": "https://x.com/i/web/status/2075214318338265286"
     },
     {
       "type": "x",
-      "text": "Why UFOs Are Hiding In Our Oceans &amp; How The CIA Trained Psychic Spies | ... https://t.co/9AQJLbUIwl via @YouTube What if the truth about UAPs is far stranger and far more unsettling than we've bee",
+      "text": "Hoover66 eeg disclosure act  https://t.co/8HUmRIDoYW fbi videos evidence https://t.co/KENNeZTWHQ  https://t.co/Nt3NvXx1LF https://t.co/3hmYCl5wfa https://t.co/3NlcIHMgvo https://t.co/6BrYvpXBYm uap re",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075169413674709135"
+      "url": "https://x.com/i/web/status/2075214315951464865"
     },
     {
       "type": "x",
-      "text": "Rep. Eric Burlison issues a request to the FBI &amp; CIA over a popular UFO ... https://t.co/sr0VMQZwK6 via @YouTube",
+      "text": "Was out walking around the community this morning and randomly saw this in the sky I was like wtf is going on I literally thought I captured a UFO or something then found out later apparently it was f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075168555474014547"
+      "url": "https://x.com/i/web/status/2075214120840777836"
     },
     {
       "type": "x",
-      "text": "The proposed amendment to the National Defense Authorization Act for 2027 to integrate the Israeli and US defense establishments has sparked controversy because critics say that it will effectively le",
+      "text": "@Guitarbizon TED NUGENT - Ted Nugent NAZARETH - Hair of the Dog STATUS QUO - On the Level UFO - Force It BLACK SABBATH - Sabotage",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075168451866284398"
+      "url": "https://x.com/i/web/status/2075214001479336249"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2672\r Issue Time: 2026 Jul 09 1120 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5381\r Issue Time: 2026 Jul 09 1119 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
@@ -1869,6 +1881,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.4
+    },
+    {
+      "ts": "2026-07-09T13:45:13.929129Z",
+      "score": 37.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 31.9
     }
   ],
   "sources": [
