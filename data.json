@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-09T00:12:59.038050Z",
-  "score": 27.5,
+  "generated_at": "2026-07-09T04:14:20.039220Z",
+  "score": 33.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.2,
-    "d24h": -8.6,
+    "d1h": 6.7,
+    "d24h": -1.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 7.4,
+    "news_velocity": 1.7,
+    "social_chatter": 7.9,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
-    "search_interest": 0.0,
+    "search_interest": 8.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,27 @@
     "day": 25,
     "date": "09.07.2026",
     "declassified": "09.07.26",
-    "generated_utc": "00:12",
+    "generated_utc": "04:14",
     "top_drivers": [
-      "X/Twitter chatter: 125 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 134 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
+      "Wikipedia UFO pageviews +87% above baseline",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.5,
+    "live_signal": 26.7,
     "baseline_recent": 25.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 125,
-    "wiki_spike_pct": -29.98908057195842,
+    "gdelt_spike_pct": 7.262433302105824,
+    "x_last_hour": 134,
+    "wiki_spike_pct": 86.58252201649334,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Check out UFO Leak Archive Footage's video! #TikTok https://t.co/2X9GNtSknt",
+      "text": "Preparedness Is Not Belief - Is Australia lagging behind in UFO/UAP disclosure preparedness? Take 5 mins to ask your Member for Parliament/Senators before 11 August 2026. https://t.co/diWiRgrONY  Shar",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075010042747588646"
+      "url": "https://x.com/i/web/status/2075070206788145559"
     },
     {
       "type": "x",
-      "text": "@Holden_Culotta @Levi_LCL Blue orbs specifically cause health problems. These books are written by the man who ran AAWSAP the government UFO program exposed in the 2017  NYT article. They have many an",
+      "text": "Preparedness Is Not Belief - Is Australia lagging behind in UFO/UAP disclosure preparedness? Take 5 mins to ask your Member for Parliament/Senators before 11 August 2026.  Share and send to an Aussie ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075009355833880671"
+      "url": "https://x.com/i/web/status/2075069811147854126"
     },
     {
       "type": "x",
-      "text": "@alphafox No mystery. It\u2019s a very old UFO crash site.",
+      "text": "e same time just down the way was a Vietnam War Vet. I asked him about what a UFO was. He said it is the USA. I said what do you mean. He said that the USA had developed time travel and it was the USA",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075009285906686349"
+      "url": "https://x.com/i/web/status/2075069058517471625"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8America\u2019s Top Skeptic Michael Shermer On The Roswell UFO Crash\ud83d\udc7d  Full episode with Michael Shermer out tomorrow (out now for members. Link below). https://t.co/koKC82wiz7",
+      "text": "@Taterlover25582 @atensnut or my most recent UFO sighting? https://t.co/YIbRhWVY5T",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075009053403570403"
+      "url": "https://x.com/i/web/status/2075068869392425369"
     },
     {
       "type": "x",
-      "text": "@RealCandaceO So now it was Ben on the grassy knoll, accompanied by black helicopters on the shoulders of the FBI who were on the shoulders of men in burgundy track suits, all on BB Netanyahus back wh",
+      "text": "@trumplicans2024 A flying saucer (UFO, UAP) that went too close to old sol.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075008938789982270"
+      "url": "https://x.com/i/web/status/2075068709878857738"
     },
     {
       "type": "x",
-      "text": "US cardinal: Exorcist role should be \u2018private\u2019 after priest\u2019s removal tied to UFO controversy https://t.co/YVxMuqfy29 https://t.co/5UeMvqQnSu",
+      "text": "I saw a ufo tonight. Might have been a lightning bug.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075008787694412035"
+      "url": "https://x.com/i/web/status/2075068546791449060"
     },
     {
       "type": "swpc",
@@ -1860,6 +1861,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.5
+    },
+    {
+      "ts": "2026-07-09T04:14:19.962563Z",
+      "score": 33.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.7
     }
   ],
   "sources": [
