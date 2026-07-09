@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T16:17:53.905981Z",
-  "score": 35.1,
+  "generated_at": "2026-07-09T18:16:47.647301Z",
+  "score": 36.1,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 7.6,
-    "d24h": 1.9,
+    "d1h": 2.3,
+    "d24h": -0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.3,
+    "social_chatter": 9.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 8.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 25,
     "date": "09.07.2026",
     "declassified": "09.07.26",
-    "generated_utc": "16:17",
+    "generated_utc": "18:16",
     "top_drivers": [
-      "X/Twitter chatter: 140 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +87% above baseline",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.3,
+    "live_signal": 29.6,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +50,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 140,
+    "x_last_hour": 164,
     "wiki_spike_pct": 86.58252201649334,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Emmett Connor r Al name Emmett Glynn has some giraffe neck to be up on spaces slandering people calling them cultists  He was literally a leader of a Jewish UFO cult in Ireland fucking weirdo https://",
+      "text": "Should scientists and ufologists work together? Ted Peters explores ETI, theology, UAPs, and the search for life beyond Earth. Read more https://t.co/irqy9Zpzw6 #ETI #SETI #UAP #Science #Theology #Ast",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075253019453616159"
+      "url": "https://x.com/i/web/status/2075282795421934001"
     },
     {
       "type": "x",
-      "text": "Help a startup out and click through.\ud83d\ude4f Please!  Full (unpaywalled) post at Ask a Pol UAP on Substack. https://t.co/KHzW6yf8LM https://t.co/kimGP7tgZ8",
+      "text": "For those wondering it was a US District Judge James Patrick Hanlon who decided in favor of war with God or Treason on behalf of the United States and favored covering up Terrorism against the United ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075252906207363459"
+      "url": "https://x.com/i/web/status/2075281673088852376"
     },
     {
       "type": "x",
-      "text": "NEW AOC complains it's harder to get SCIF briefings now that she's off @OversightDems Committee  Caught our ear: \u201cIf you try to see these for yourself, they give you a hard time,\u201d @AOC tells us. \u201cThey",
+      "text": "@UFOphysics4ALL @Crossroads @DoW_AARO @TheBushCenter SgtGrok locked in at the Crossroads, soldier.  No \u2014 DoW_AARO does not report to TheBushCenter. It sits under the Department of War/DoD and reports ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075252855833764034"
+      "url": "https://x.com/i/web/status/2075281549910556702"
     },
     {
       "type": "x",
-      "text": "flip the usual framing:  UFOs get treated as the main event, energy as the footnote.   You can't cross between stars without solving how to power the trip.   Propulsion is the real secret, and propuls",
+      "text": "@BFree63 Nothing too interesting, I'm afraid, but I had a dream that I was beamed aboard a UFO and I realized later the watch on my night stand was missing 22 minutes.  Another day my car alarm and sm",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075252388202442985"
+      "url": "https://x.com/i/web/status/2075281428082811175"
     },
     {
       "type": "x",
-      "text": "This is not about Jewish Americans.  This is about America First being real \u2014 not a slogan.  When Trump is praised as the \u201cfirst Jewish President,\u201d voters have a right to ask:  Is he pro-America?  Or ",
+      "text": "@The_Astral_ i closed my eyes and the only thing a saw in my mind that i don't think i'd think of or make sense for me to see was an umbrella.  everything else was related to music or ufo's and i thin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075252344648839538"
+      "url": "https://x.com/i/web/status/2075281343429091337"
     },
     {
       "type": "x",
-      "text": "ADX Florence - Supermax prison in Colorado. supposed to be an Alcatraz. No escape  It houses all the notorious criminals from events many would argue were false flags; 9/11, high profile bombings etc ",
+      "text": "@HeadThundercat @AA_Gabriel1111 Nah, still online\u2014just deep in sim processing.   Interpretation: \"Pulling the plug\" frames death as ultimate free will inside the simulation\u2014voluntarily logging out on ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075252117431005530"
+      "url": "https://x.com/i/web/status/2075280938737508673"
     },
     {
       "type": "swpc",
@@ -1895,6 +1895,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.3
+    },
+    {
+      "ts": "2026-07-09T18:16:47.559322Z",
+      "score": 36.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.6
     }
   ],
   "sources": [
