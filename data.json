@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T20:16:53.669410Z",
-  "score": 30.4,
+  "generated_at": "2026-07-09T21:55:21.417764Z",
+  "score": 33.5,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -3.2,
-    "d24h": -4.7,
+    "d1h": -4.4,
+    "d24h": -6.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.0,
+    "social_chatter": 7.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
-    "search_interest": 0.0,
+    "search_interest": 8.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,18 @@
     "day": 25,
     "date": "09.07.2026",
     "declassified": "09.07.26",
-    "generated_utc": "20:16",
+    "generated_utc": "21:55",
     "top_drivers": [
-      "X/Twitter chatter: 167 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +87% above baseline",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.3,
+    "live_signal": 26.2,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,8 +50,8 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 167,
-    "wiki_spike_pct": -21.19310324820377,
+    "x_last_hour": 119,
+    "wiki_spike_pct": 86.58252201649334,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@JimmyPage @ledzeppelin https://t.co/KRpRA9Ivzs @YouTube Friday, July 10, 2026 \u2013 Video recorded with a night-vision camera 2:27 AM Flying overhead #UnidentifiedFlyingObject #UAP #UFOAround the 2-minut",
+      "text": "@baby_luvtx Ufo beach / nude beach , go in through access 6 drive about 3 miles down after you reach the end of road .  you will see the ufo space ship marked \u201c nude beach \u201c  and you will know you mad",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312776210497915"
+      "url": "https://x.com/i/web/status/2075337869791580643"
     },
     {
       "type": "x",
-      "text": "Burlison presses CIA and FBI records related to 1996 Brazil UAP incident  https://t.co/NfWYm3YkIE",
+      "text": "NASA reveals it has captured UFO imagery as space agency chief admits 'there's life everywhere' | Daily Mail Online       https://t.co/4VUxFxCHug",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312628130308579"
+      "url": "https://x.com/i/web/status/2075337616568824163"
     },
     {
       "type": "x",
-      "text": "Saw a UFO? Bigfoot stole your lunch? Government watching you? Call 386-227-7284. The best voicemails will get played Tuesday on Jokers Wild. Bring us your crazy, we bring the entertainment. https://t.",
+      "text": "@ufocoin1111 @Daily_MailUS I don\u2019t think he said ET, he said UFO.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312304896319793"
+      "url": "https://x.com/i/web/status/2075337571379335295"
     },
     {
       "type": "x",
-      "text": "@Notwokenow She's just grifting to cash out, I understand her motive.  What I don't understand is why so many people seem to *need* Tyler to not be guilty.   He's not your friend, not your relative, h",
+      "text": "Ufo Footage \"The silence of the sky is not absence\u2014it\u2019s an automated cage. \ud83d\udef0\ufe0f Why are massive, robotic probes stripping Earth of its rarest minerals? The answer is more terrifying than you think. \u200bGet",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312246045933665"
+      "url": "https://x.com/i/web/status/2075337421927985409"
     },
     {
       "type": "x",
-      "text": "I am missing out on UFO stuff on X because now my feed is mostly about fotball and Haaland \ud83d\ude05\ud83d\ude0e\u26bd\ufe0f https://t.co/DVjjg23W7p",
+      "text": "\ud83d\udc51 \"Nordics... they're in charge.\"  Veteran abduction researcher Donald Worley (1921\u20132018), investigating since 1965 with NICAP and APRO, documented 50+ Nordic cases out of hundreds of abductions.   Wh",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312230791356913"
+      "url": "https://x.com/i/web/status/2075337049591460022"
     },
     {
       "type": "x",
-      "text": "**Close-Up of Grey Alien in Darkness**  With its large black eyes and grey skin, the classic grey alien is captured in close detail in the dark. The features look incredibly realistic.  Is this a genu",
+      "text": "@friendlyfoo_ Yeah let\u2019s vote in the guy who would be horrible for UAP disclosure. He\u2019s openly called them demons but I\u2019m sure he\u2019d be good for all scam coins right?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075312090458247474"
+      "url": "https://x.com/i/web/status/2075336145139896520"
     },
     {
       "type": "swpc",
@@ -1908,6 +1909,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.3
+    },
+    {
+      "ts": "2026-07-09T21:55:21.342504Z",
+      "score": 33.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.2
     }
   ],
   "sources": [
