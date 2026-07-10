@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T00:18:37.337946Z",
-  "score": 38.2,
+  "generated_at": "2026-07-10T04:31:51.045891Z",
+  "score": 35.8,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 2.1,
-    "d24h": 3.9,
+    "d1h": 5.4,
+    "d24h": 1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.9,
+    "social_chatter": 9.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 8.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "00:18",
+    "generated_utc": "04:31",
     "top_drivers": [
-      "X/Twitter chatter: 182 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 156 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +85% above baseline",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
@@ -42,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.2,
+    "live_signal": 29.1,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": -17.076705612911304,
-    "x_last_hour": 182,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 156,
     "wiki_spike_pct": 84.90631135102788,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udea8 \ud83d\udea8 NOW LIVE: My interview with filmmaker Darcy Weir on his new film \"Dark Alliance: Next Generation.\" \ud83d\udef8  We dive into exposing UAP community frauds, the chilling Pascagoula abduction, and Project Sta",
+      "text": "@AmericanALCHMY @michaelshermer You said ETs would be so far advanced \"It's like giving a cell phone to a cave man\"  The UFO they saw, is the cell phone..  It's so far advanced you can not comprehend ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075374003187781893"
+      "url": "https://x.com/i/web/status/2075437700790837309"
     },
     {
       "type": "x",
-      "text": "@michaelshermer You say in this video that there\u2019s \u201cno new physics\u201d and \u201cquit bringing up new physics\u201d, because the LHC at CERN hasn\u2019t found any \u201cnew physics\u201d. You also claim @ProfAviLoeb says the sam",
+      "text": "Invaders are in the skies in real time, and corporations are lying while carrying out a total experiment over our heads.  The most disturbing, censored question erupts after the massive sighting of a ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075373846782238750"
+      "url": "https://x.com/i/web/status/2075437484532482505"
     },
     {
       "type": "x",
-      "text": "Premiering now - https://t.co/Skj92JTiOY - Review of a major mass UFO sighting over the Hawaiian islands, several individual angles and views from different witnesses. https://t.co/8pFWG7kCQy",
+      "text": "@Nigel_Farage  Nigel the green men in ufo just day go from Doncaster airport come to vote for bin face  they said they had enough of cult fantasy ! Like the establishment. Out to get you  But hay been",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075373754163900607"
+      "url": "https://x.com/i/web/status/2075437078142234835"
     },
     {
       "type": "x",
-      "text": "Joe Brill, \u201cItalian UFO Leaves Traces,\u201d Skylook, no. 86 (January 1975): 3\u20134; https://t.co/m9TO5yTa6e",
+      "text": "Dark Alliance: Inside Abductions, Remote Viewing, and UAP Frauds- Darcy ... https://t.co/0jC5b5OmFw via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075373501469413847"
+      "url": "https://x.com/i/web/status/2075435969864438076"
     },
     {
       "type": "x",
-      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Italian UFO Leaves Traces July 10, 1974 \u2014 Pavia, Italy 1/ 10:35 p.m. Three girls are walking along a road south of Pavia, Italy, when they se",
+      "text": "\ud83d\udc7d\ud83d\ude31 The Unexplained Canyon Projection: Mystery in the Desert Sky! #UFO #Mystery #Paranormal #Unexplained #Alien   https://t.co/j3fARJwtdT",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075373494510981137"
+      "url": "https://x.com/i/web/status/2075435846409290036"
     },
     {
       "type": "x",
-      "text": "The mysterious \"Enoch\" in the Bible Codes, \"Enoch he is heart Eric.\"  18 - in 1989 A.D. - part - name, Prediction, Intellectual, Superb, Existing - UFO - domain name, Tell - Armada - knowingly, Accomp",
+      "text": "@AmericanALCHMY Index of Refraction at the surface of the bubble is used to control speed. Craft has Wavefront speed. Speed of light is constant.  - USS Nimitz \u2018Tic Tac\u2019 UFO is Quantum physics. USS Ni",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075373396037370139"
+      "url": "https://x.com/i/web/status/2075435703027089883"
     },
     {
       "type": "swpc",
@@ -1930,6 +1930,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.2
+    },
+    {
+      "ts": "2026-07-10T04:31:50.971016Z",
+      "score": 35.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.1
     }
   ],
   "sources": [
