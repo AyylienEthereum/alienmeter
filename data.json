@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T19:05:07.656735Z",
-  "score": 32.3,
+  "generated_at": "2026-07-10T20:42:22.929584Z",
+  "score": 34.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 6.5,
-    "d24h": -6.8,
+    "d1h": 3.2,
+    "d24h": -3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "19:05",
+    "generated_utc": "20:42",
     "top_drivers": [
-      "Felix Aftene : \u201e Perfec\u021biunea nu este o stare pe care omul o atinge , ci o direc\u021bie spre care aspir\u0103 \u00eentreaga via\u021b\u0103 . Tocmai aceast\u0103 c\u0103utare ne define\u0219te \u0219i ne face s\u0103 evolu\u0103m  | Atelier",
-      "X/Twitter chatter: 402 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "UFO Encounters united kingdom ",
+      "X/Twitter chatter: 526 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.7,
+    "live_signal": 26.9,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -50,108 +50,114 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 402,
+    "x_last_hour": 526,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "news",
-      "text": "Felix Aftene : \u201e Perfec\u021biunea nu este o stare pe care omul o atinge , ci o direc\u021bie spre care aspir\u0103 \u00eentreaga via\u021b\u0103 . Tocmai aceast\u0103 c\u0103utare ne define\u0219te \u0219i ne face s\u0103 evolu\u0103m  | Atelier",
-      "source": "radioromaniacultural.ro",
-      "url": "https://www.radioromaniacultural.ro/podcast/atelier/felix-aftene-perfectiunea-nu-este-o-stare-pe-care-omul-o-atinge-ci-o-directie-spre-care-aspira-intreaga-viata-tocmai-aceasta-cautare-ne-defineste-si-ne-face-sa-evoluam-id47732.html"
-    },
-    {
-      "type": "news",
-      "text": "Another Credible Military Witness Reports Unexplained New York Si",
-      "source": "cnynews.com",
-      "url": "https://cnynews.com/ixp/81/p/uap-sighting-western-new-york-state/"
-    },
-    {
-      "type": "news",
-      "text": "Dok Vu\u010di\u0107 pove\u0107ava penzije , blokaderi vre\u0111aju penzionere : Najstariji gra\u0111ani postali meta politi\u010dke mr\u017enje",
-      "source": "b92.net",
-      "url": "https://www.b92.net/info/politika/249162/dok-vucic-povecava-penzije-blokaderi-vredjaju-penzionere-najstariji-gradjani-postali-meta-politicke-mrznje/vest"
-    },
-    {
-      "type": "news",
-      "text": "Anti\u0107 za  Kompas :  Regionalno pomirenje  ",
-      "source": "b92.net",
-      "url": "https://www.b92.net/info/politika/249262/antic-za-kompas-regionalno-pomirenje/vest"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=p0218knhrrhj6u4nbj63a32267"
-    },
-    {
-      "type": "news",
-      "text": "The X - Files",
+      "text": "UFO Encounters united kingdom ",
       "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/9871f68d-11e2-543f-82bc-e02608efa7d8/the-x-files"
+      "url": "https://www.tvguide.co.uk/schedule/8433d992-ec8e-54c0-a647-1ebc43f90e2e/ufo-encounters-uk"
     },
     {
       "type": "news",
-      "text": "Alien Metals ( LON : UFO ) Shares Down 16 . 4 % \u2013 Here What Happened",
-      "source": "themarketsdaily.com",
-      "url": "https://www.themarketsdaily.com/2026/07/10/alien-metals-lonufo-shares-down-16-4-heres-what-happened.html"
+      "text": "Pentagon objavio novu seriju fajlova o NLO",
+      "source": "naslovi.net",
+      "url": "https://naslovi.net/2026-07-10/rts/pentagon-objavio-novu-seriju-fajlova-o-nlo/42072663"
     },
     {
       "type": "news",
-      "text": "Pentagon Releases New UFO Files Showing Six - Pointed Object Tracked By U . S . Military",
-      "source": "hannity.com",
-      "url": "https://hannity.com/media-room/star-struck-pentagon-reveals-bizarre-six-pointed-ufo-in-latest-document-dump-watch/"
+      "text": "This Week Weird News 7 / 10 / 26 | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-10-this-weeks-weird-news-71026/"
     },
     {
       "type": "news",
-      "text": "\u0427\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u0437\u0430\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0445 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 \u043f\u043e \u0442\u0435\u043c\u0435 \u041d\u041b\u041e",
-      "source": "5-tv.ru",
-      "url": "https://www.5-tv.ru/news/5077949/rassekreceno-ssa-scitali-nlo-sekretnoj-razrabotkoj-sssr-aii/"
+      "text": "Pentagon Releases Fourth Batch of UFO Files | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-10-pentagon-releases-fourth-batch-of-ufo-files/"
     },
     {
       "type": "news",
-      "text": "A casi 80 a\u00f1os del d\u00eda en el que vecinos vieron  platos voladores  en el cielo de La Plata",
-      "source": "eldia.com",
-      "url": "http://www.eldia.com/la-ciudad/a-casi-80-anos-del-dia-en-el-que-vecinos-vieron-platos-voladores-en-el-cielo-de-la-plata-la-ciudad_1783694520"
+      "text": "What a subway ride with white supremacists taught me about America",
+      "source": "salon.com",
+      "url": "https://www.salon.com/2026/07/10/what-a-subway-ride-with-white-supremacists-taught-me-about-america/"
+    },
+    {
+      "type": "news",
+      "text": "Dayton UFO conference will explore paranormal activity on Saturday",
+      "source": "wysu.org",
+      "url": "https://wysu.org/ohio-news/2026-07-10/dayton-ufo-conference-will-explores-paranormal-activity-government-transparency-on-saturday"
+    },
+    {
+      "type": "news",
+      "text": "Trump releases new UAP records featuring Pantex Plant nuclear site",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object"
+    },
+    {
+      "type": "news",
+      "text": "Pentagonul a publicat noi documente despre OZN - uri . \u201e Nu seam\u0103n\u0103 cu nimic din ce am mai v\u0103zut  ",
+      "source": "adevarul.ro",
+      "url": "https://adevarul.ro/stiri-externe/sua/pentagonul-a-publicat-noi-documente-despre-2542445.html"
+    },
+    {
+      "type": "news",
+      "text": "SHBA publikon dosje t\u00eb reja t\u00eb deklasifikuara mbi UFO - t",
+      "source": "kosovarja-ks.com",
+      "url": "https://www.kosovarja-ks.com/shba-publikon-dosje-te-reja-te-deklasifikuara-mbi-ufo-t/"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon otvorio tajne dosijee : Objavljeni novi snimci i dokumenti o NLO",
+      "source": "naslovi.net",
+      "url": "https://naslovi.net/2026-07-10/vecernje-novosti/pentagon-otvorio-tajne-dosijee-objavljeni-novi-snimci-i-dokumenti-o-nlo/42072187"
     },
     {
       "type": "x",
-      "text": "NEW VIDEO! \ud83d\udef8  \ud83c\udfdb\ufe0fU.S. Department of War - Video Drop DOW-UAP-PR104 10th July 2026  Yellow Sea, Western Pacific Ocean,  2025  The United States Indo-Pacific Command submitted a report of an unidentified",
+      "text": "@revenant_MMXX This is like the third ufo video i saw this year",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657515975479383"
+      "url": "https://x.com/i/web/status/2075681995439341645"
     },
     {
       "type": "x",
-      "text": "@Strigl 1st: Thin Lizzy &amp; Queen (Day at the races tour) 2nd: New England (i think) &amp; Kiss (Dynasty Tour) 3rd:  UFO &amp; Ozzy (Diary tour) January 1982. Two months before Randy passed.",
+      "text": "On Dec. 17, of 2017, The New York Times released a video &amp; an article on Cmdr. Fravors Tic Tac experience. The UFO world caught fire, but the rest of the world went \"meh\". I was surprised at this ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657512477438028"
+      "url": "https://x.com/i/web/status/2075681959276077161"
     },
     {
       "type": "x",
-      "text": "@michaelshermer @GoodTroubleShow Avi's calculations are irrelevant to specific UAP cases like the Nimitz tic tac UAP, as well as mistaken as an application of general-relativistic warp bubble physics.",
+      "text": "@Gabe_Trust UFO doesn\u2019t mean aliens\u2026\u2026",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657455623704615"
+      "url": "https://x.com/i/web/status/2075681945380389201"
     },
     {
       "type": "x",
-      "text": "\"US releases new UFO footage\" https://t.co/bs96fFS4h1",
+      "text": "https://t.co/9WLfNN67Vv Good video regarding the recent UFO shit",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657361348510155"
+      "url": "https://x.com/i/web/status/2075681858294001988"
     },
     {
       "type": "x",
-      "text": "@DrPhil Some of the encounters at nuclear missile sites were staged human events. The military has always been very interested to know how operators of their most powerful weapons react and perform un",
+      "text": "@jsolomonReports @Love_All_Around \u203c\ufe0fMust watch: The Portal Is Open: UFO \ud83d\udef8 Files, Alien Races &amp; The Galactic \ud83d\udcab War We Never Knew About \u203c\ufe0f  https://t.co/Qa2KJOSqLu  \ud83d\udea8Note: This video contains variou",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657345980416273"
+      "url": "https://x.com/i/web/status/2075681814782640281"
     },
     {
       "type": "x",
-      "text": "\ud83c\udfdb\ufe0fU.S. Department of War - Video Drop DOW-UAP-PR104 10th July 2026  Yellow Sea, Western Pacific Ocean,  2025  The United States Indo-Pacific Command submitted a report of an unidentified anomalous phe",
+      "text": "@JoeCal422 @InterstellarUAP This is official 2020 IR footage (DOW-UAP-PR116) just released by AARO/DVIDS from a US military sensor over the Atlantic.   Observer report: ~12-15 ft tall, darker maroon c",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075657319161962936"
+      "url": "https://x.com/i/web/status/2075681813104586999"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1115\r Issue Time: 2026 Jul 10 1946 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -2039,6 +2045,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.7
+    },
+    {
+      "ts": "2026-07-10T20:42:22.853684Z",
+      "score": 34.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.9
     }
   ],
   "sources": [
