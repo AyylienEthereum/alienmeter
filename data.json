@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T21:42:07.975181Z",
-  "score": 31.6,
+  "generated_at": "2026-07-10T22:40:11.017586Z",
+  "score": 44.2,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -3.4,
-    "d24h": -6.6,
+    "d1h": 13.4,
+    "d24h": 7.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 16.8,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,26 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "21:42",
+    "generated_utc": "22:40",
     "top_drivers": [
-      "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
-      "X/Twitter chatter: 609 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
-      "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
+      "OVNI : Archivos desclasificados de EE . UU . ",
+      "News velocity +70% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 539 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.8,
+    "live_signal": 40.0,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": null,
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 609,
+    "gdelt_spike_pct": 70.19808914672339,
+    "x_last_hour": 539,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,99 +59,99 @@
   "ticker": [
     {
       "type": "news",
-      "text": "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
-      "source": "fox10phoenix.com",
-      "url": "https://www.fox10phoenix.com/news/nasa-chief-confirms-unexplained-ufo-imagery"
+      "text": "OVNI : Archivos desclasificados de EE . UU . ",
+      "source": "tctelevision.com",
+      "url": "https://tctelevision.com/lo-ultimo/ee-uu-desclasifica-su-cuarta-tanda-de-archivos-ovni-40-nuevos-registros-y-un-objeto-con-forma-de-estrella-de-seis-puntas/"
     },
     {
       "type": "news",
-      "text": "Declassified intelligence map reveals where America largest UFO waves unfolded",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15969075/declassified-pentagon-map-ufo-waves.html"
+      "text": "Dayton UFO conference will explore paranormal activity on Saturday",
+      "source": "ideastream.org",
+      "url": "https://www.ideastream.org/2026-07-10/dayton-ufo-conference-will-explores-paranormal-activity-government-transparency-on-saturday"
     },
     {
       "type": "news",
-      "text": "NorCal UFO files : Trump disclosures could fuel more reports of aliens",
-      "source": "times-standard.com",
-      "url": "https://www.times-standard.com/2026/07/10/the-bay-area-ufo-trump-disclosures-aliens/"
+      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me 8 cepa u ul mbi baz\u00ebn b\u00ebrthamore",
+      "source": "tetovasot.com",
+      "url": "https://tetovasot.com/2026/07/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore/"
     },
     {
       "type": "news",
-      "text": "\u041e\u0431\u0458\u0430\u0432\u0435\u043d\u0438 \u043d\u043e\u0432\u0438 40 \u0444\u0430\u0458\u043b\u043e\u0432\u0438 \u0437\u0430 \u041d\u041b\u041e , \u043f\u043e\u0437\u043d\u0430\u0442\u043e \u0435 \u0448\u0442\u043e \u0441\u043e\u0434\u0440\u0436\u0430\u0442",
-      "source": "press24.mk",
-      "url": "https://press24.mk/objaveni-novi-40-fajlovi-za-nlo-poznato-e-shto-sodrzhat/"
+      "text": "Flash flood warning issued for Tuscarawas County",
+      "source": "yahoo.com",
+      "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-tuscarawas-211931208.html"
     },
     {
       "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=335sn8clsrbjuj5r4ht7u56907"
+      "text": "NASA pranon se ka pamje t\u00eb objekteve t\u00eb pashpjeguara : Nuk e dim\u00eb se \u00e7far\u00eb jan\u00eb",
+      "source": "zeri.info",
+      "url": "https://www.zeri.info/kuriozitetet/629548/nasa-pranon-se-ka-pamje-te-objekteve-te-pashpjeguara-nuk-e-dime-se-cfare-jane/"
     },
     {
       "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u0431\u0458\u0430\u0432\u0438\u043e \u043d\u043e\u0432\u0443 \u0441\u0435\u0440\u0438\u0458\u0443 \u0444\u0430\u0458\u043b\u043e\u0432\u0430 \u043e \u041d\u041b\u041e",
-      "source": "politika.rs",
-      "url": "https://www.politika.rs/scc/clanak/769823/pentagon-objavio-novu-seriju-fajlova-o-nlo"
+      "text": "Shockwave Centers of America Provides Mark V Rolling Cart for Shockwave Therapy Equipment Mobility",
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/shockwave-centers-of-america-provides-mark-v-rolling-cart-for-shockwave-therapy-equipment-mobility/2382634"
     },
     {
       "type": "news",
-      "text": "Shuttered Marietta Kroger to become fitness center",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/07/10/shuttered-marietta-kroger-become-fitness-center/"
+      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me 8 cepa u ul mbi baz\u00ebn b\u00ebrthamore",
+      "source": "vna.al",
+      "url": "https://vna.al/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore-i26161"
     },
     {
       "type": "news",
-      "text": "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
-      "source": "fox13news.com",
-      "url": "https://www.fox13news.com/news/nasa-chief-confirms-unexplained-ufo-imagery"
+      "text": "Metal Balls From Space Are Popping Up On Australia Beaches",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/"
     },
     {
       "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u0431\u0458\u0430\u0432\u0438\u043e \u043d\u043e\u0432\u0443 \u0441\u0435\u0440\u0438\u0458\u0443 \u0444\u0430\u0458\u043b\u043e\u0432\u0430 \u043e \u041d\u041b\u041e",
-      "source": "rtrs.tv",
-      "url": "https://www.rtrs.tv/vijesti/vijest.php?id=652620"
+      "text": "Pilot progovorio o bliskom susretu sa NLO : Pentagon objavio tajne snimke",
+      "source": "blic.rs",
+      "url": "https://www.blic.rs/vesti/svet/pilot-progovorio-o-bliskom-susretu-sa-nlo-pentagon-objavio-tajne-snimke/tyjrc7t"
     },
     {
       "type": "news",
-      "text": "Pentagonul a declasificat noi dosare despre OZN - uri . M\u0103rturia unui pilot militar : \u201e Nu seam\u0103n\u0103 cu nimic din ce am mai v\u0103zut  ",
-      "source": "ziare.com",
-      "url": "https://ziare.com/pentagon/documente-ozn-declasificare-sua-2023623"
+      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me - Syri",
+      "source": "syri.net",
+      "url": "https://www.syri.net/bote/902331/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore/"
     },
     {
       "type": "x",
-      "text": "@SallyMayweather On that UFO",
+      "text": "@tacticalluddite My position was always, why do even care? Are they going to let me use laser guns? Can i ride the UFO? Can i fuck the alien? If the answer is no, then i really don\u2019t care about it",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075697053976461644"
+      "url": "https://x.com/i/web/status/2075711590108930313"
     },
     {
       "type": "x",
-      "text": "@Holden_Culotta This was at Naval Air Weapons Station China Lake near Ridgecrest, CA. I saw these orbs near the eastern part of the base on April 27, 2024. Im not sure if the team was there around thi",
+      "text": "I\u2019m #live now on https://t.co/IzCcnFn2jH https://t.co/fWwEZK9Fkt #nowplaying UFO - oh my #rocknroll #punk #psych #radio #tv #rock #twitch #mixcloud",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075697049954340940"
+      "url": "https://x.com/i/web/status/2075711415298449865"
     },
     {
       "type": "x",
-      "text": "@Milajoy I\u2019ve seen that one!!! About a year ago above Redmond. Had Grok analyze it and he said it was about 99 percent probable it was a ufo.",
+      "text": "The first time I saw one of those takeoff in person I legit thought it was a UFO for a second https://t.co/qt2mUtYNRb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075697000943952248"
+      "url": "https://x.com/i/web/status/2075711402887508117"
     },
     {
       "type": "x",
-      "text": "@devgru1980mi @KermDawgENT UFO people didn't use the word tranche either until recently https://t.co/DR48J7SddO",
+      "text": "I spotted a UFO from my house what do i do?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075696976172138877"
+      "url": "https://x.com/i/web/status/2075711398575800642"
     },
     {
       "type": "x",
-      "text": "@OliverWood2017 @SeanParnellASW Its a question. I've seen the highest levels talking &amp; doing a lot about the UAP and seemingly more than issues I raised. Thus my question. Nothing more....   take ",
+      "text": "\ud83d\udea8 The Pentagon just dropped footage of a bizarre, 6-pointed star UAP captured by a U.S. military platform.  What do you think we're seeing? https://t.co/Yikd509HqT",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075696957767418112"
+      "url": "https://x.com/i/web/status/2075711391248314501"
     },
     {
       "type": "x",
-      "text": "@TXMCtrades @walterkirn I think ~85% of what we see in UFOology is either completely fake or disinformation.  Especially after you watch \"Mirage Men\" and you learn a HUGE chunk of still ongoing UFO Lo",
+      "text": "@supersean415 I have made my case, and I agree with you that your issues are important ones.   I have highlighted why zero hours are being wasted on UAP, which is a VITAL issue to deal with for many r",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075696887324131660"
+      "url": "https://x.com/i/web/status/2075711376493093329"
     },
     {
       "type": "swpc",
@@ -2059,6 +2059,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.8
+    },
+    {
+      "ts": "2026-07-10T22:40:10.941367Z",
+      "score": 44.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 40.0
     }
   ],
   "sources": [
