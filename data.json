@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T17:29:48.343339Z",
-  "score": 30.8,
+  "generated_at": "2026-07-10T19:05:07.656735Z",
+  "score": 32.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 5.2,
-    "d24h": -6.5,
+    "d1h": 6.5,
+    "d24h": -6.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "17:29",
+    "generated_utc": "19:05",
     "top_drivers": [
-      "X/Twitter chatter: 465 UFO/UAP posts in the last hour",
+      "Felix Aftene : \u201e Perfec\u021biunea nu este o stare pe care omul o atinge , ci o direc\u021bie spre care aspir\u0103 \u00eentreaga via\u021b\u0103 . Tocmai aceast\u0103 c\u0103utare ne define\u0219te \u0219i ne face s\u0103 evolu\u0103m  | Atelier",
+      "X/Twitter chatter: 402 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.8,
+    "live_signal": 24.7,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 465,
+    "x_last_hour": 402,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@FettuccineSplit Bro keeps posting UFO slop. And some even gave him a space to talk in. Fucker followed me propably if anything i say goes viral so he can attack with his big following. You know exact",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633428775469338"
+      "type": "news",
+      "text": "Felix Aftene : \u201e Perfec\u021biunea nu este o stare pe care omul o atinge , ci o direc\u021bie spre care aspir\u0103 \u00eentreaga via\u021b\u0103 . Tocmai aceast\u0103 c\u0103utare ne define\u0219te \u0219i ne face s\u0103 evolu\u0103m  | Atelier",
+      "source": "radioromaniacultural.ro",
+      "url": "https://www.radioromaniacultural.ro/podcast/atelier/felix-aftene-perfectiunea-nu-este-o-stare-pe-care-omul-o-atinge-ci-o-directie-spre-care-aspira-intreaga-viata-tocmai-aceasta-cautare-ne-defineste-si-ne-face-sa-evoluam-id47732.html"
+    },
+    {
+      "type": "news",
+      "text": "Another Credible Military Witness Reports Unexplained New York Si",
+      "source": "cnynews.com",
+      "url": "https://cnynews.com/ixp/81/p/uap-sighting-western-new-york-state/"
+    },
+    {
+      "type": "news",
+      "text": "Dok Vu\u010di\u0107 pove\u0107ava penzije , blokaderi vre\u0111aju penzionere : Najstariji gra\u0111ani postali meta politi\u010dke mr\u017enje",
+      "source": "b92.net",
+      "url": "https://www.b92.net/info/politika/249162/dok-vucic-povecava-penzije-blokaderi-vredjaju-penzionere-najstariji-gradjani-postali-meta-politicke-mrznje/vest"
+    },
+    {
+      "type": "news",
+      "text": "Anti\u0107 za  Kompas :  Regionalno pomirenje  ",
+      "source": "b92.net",
+      "url": "https://www.b92.net/info/politika/249262/antic-za-kompas-regionalno-pomirenje/vest"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=p0218knhrrhj6u4nbj63a32267"
+    },
+    {
+      "type": "news",
+      "text": "The X - Files",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/9871f68d-11e2-543f-82bc-e02608efa7d8/the-x-files"
+    },
+    {
+      "type": "news",
+      "text": "Alien Metals ( LON : UFO ) Shares Down 16 . 4 % \u2013 Here What Happened",
+      "source": "themarketsdaily.com",
+      "url": "https://www.themarketsdaily.com/2026/07/10/alien-metals-lonufo-shares-down-16-4-heres-what-happened.html"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon Releases New UFO Files Showing Six - Pointed Object Tracked By U . S . Military",
+      "source": "hannity.com",
+      "url": "https://hannity.com/media-room/star-struck-pentagon-reveals-bizarre-six-pointed-ufo-in-latest-document-dump-watch/"
+    },
+    {
+      "type": "news",
+      "text": "\u0427\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u0437\u0430\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0445 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 \u043f\u043e \u0442\u0435\u043c\u0435 \u041d\u041b\u041e",
+      "source": "5-tv.ru",
+      "url": "https://www.5-tv.ru/news/5077949/rassekreceno-ssa-scitali-nlo-sekretnoj-razrabotkoj-sssr-aii/"
+    },
+    {
+      "type": "news",
+      "text": "A casi 80 a\u00f1os del d\u00eda en el que vecinos vieron  platos voladores  en el cielo de La Plata",
+      "source": "eldia.com",
+      "url": "http://www.eldia.com/la-ciudad/a-casi-80-anos-del-dia-en-el-que-vecinos-vieron-platos-voladores-en-el-cielo-de-la-plata-la-ciudad_1783694520"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe @FiresOfTruth It really strikes me that\u2014given this is a matter of public scrutiny involving public funds, as well as the most advanced technology and expertise related to national security\u2014",
+      "text": "NEW VIDEO! \ud83d\udef8  \ud83c\udfdb\ufe0fU.S. Department of War - Video Drop DOW-UAP-PR104 10th July 2026  Yellow Sea, Western Pacific Ocean,  2025  The United States Indo-Pacific Command submitted a report of an unidentified",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633375105159560"
+      "url": "https://x.com/i/web/status/2075657515975479383"
     },
     {
       "type": "x",
-      "text": "\u201cThe authors warned that the phenomenon should be treated as a national security issue.\u201d This is securitization: UAP moves from denial to threat, then from threat to budget.",
+      "text": "@Strigl 1st: Thin Lizzy &amp; Queen (Day at the races tour) 2nd: New England (i think) &amp; Kiss (Dynasty Tour) 3rd:  UFO &amp; Ozzy (Diary tour) January 1982. Two months before Randy passed.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633311016194446"
+      "url": "https://x.com/i/web/status/2075657512477438028"
     },
     {
       "type": "x",
-      "text": "@MattDaWhite @MiddleOfMayhem Love the creative swearing and how you highlight the funny image of him being bullied as a child. Really shows these UFO IDIOTS how motherfucking stupid they are. Dirty ra",
+      "text": "@michaelshermer @GoodTroubleShow Avi's calculations are irrelevant to specific UAP cases like the Nimitz tic tac UAP, as well as mistaken as an application of general-relativistic warp bubble physics.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633210063458688"
+      "url": "https://x.com/i/web/status/2075657455623704615"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Haha fuck this blurry UFO dildo \"shape-shifting\" clip. It's two goddamn objects, bird or balloon bullshit overlapping. Same gay nothingburger. Lmao.",
+      "text": "\"US releases new UFO footage\" https://t.co/bs96fFS4h1",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633143437230088"
+      "url": "https://x.com/i/web/status/2075657361348510155"
     },
     {
       "type": "x",
-      "text": "Er wtf is that? From the latest UAP footage released by the US. https://t.co/JudHz9yadg",
+      "text": "@DrPhil Some of the encounters at nuclear missile sites were staged human events. The military has always been very interested to know how operators of their most powerful weapons react and perform un",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075633029762920862"
+      "url": "https://x.com/i/web/status/2075657345980416273"
+    },
+    {
+      "type": "x",
+      "text": "\ud83c\udfdb\ufe0fU.S. Department of War - Video Drop DOW-UAP-PR104 10th July 2026  Yellow Sea, Western Pacific Ocean,  2025  The United States Indo-Pacific Command submitted a report of an unidentified anomalous phe",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2075657319161962936"
     },
     {
       "type": "swpc",
@@ -1971,6 +2032,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.8
+    },
+    {
+      "ts": "2026-07-10T19:05:07.579729Z",
+      "score": 32.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.7
     }
   ],
   "sources": [
