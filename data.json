@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T20:42:22.929584Z",
-  "score": 34.0,
+  "generated_at": "2026-07-10T21:42:07.975181Z",
+  "score": 31.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 3.2,
-    "d24h": -3.6,
+    "d1h": -3.4,
+    "d24h": -6.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "20:42",
+    "generated_utc": "21:42",
     "top_drivers": [
-      "UFO Encounters united kingdom ",
-      "X/Twitter chatter: 526 UFO/UAP posts in the last hour",
+      "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
+      "X/Twitter chatter: 609 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.9,
+    "live_signal": 23.8,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +50,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 526,
+    "x_last_hour": 609,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,99 +59,99 @@
   "ticker": [
     {
       "type": "news",
-      "text": "UFO Encounters united kingdom ",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/8433d992-ec8e-54c0-a647-1ebc43f90e2e/ufo-encounters-uk"
+      "text": "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
+      "source": "fox10phoenix.com",
+      "url": "https://www.fox10phoenix.com/news/nasa-chief-confirms-unexplained-ufo-imagery"
     },
     {
       "type": "news",
-      "text": "Pentagon objavio novu seriju fajlova o NLO",
-      "source": "naslovi.net",
-      "url": "https://naslovi.net/2026-07-10/rts/pentagon-objavio-novu-seriju-fajlova-o-nlo/42072663"
+      "text": "Declassified intelligence map reveals where America largest UFO waves unfolded",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-15969075/declassified-pentagon-map-ufo-waves.html"
     },
     {
       "type": "news",
-      "text": "This Week Weird News 7 / 10 / 26 | 960 WELI | Coast to Coast AM with George Noory",
-      "source": "960weli.iheart.com",
-      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-10-this-weeks-weird-news-71026/"
+      "text": "NorCal UFO files : Trump disclosures could fuel more reports of aliens",
+      "source": "times-standard.com",
+      "url": "https://www.times-standard.com/2026/07/10/the-bay-area-ufo-trump-disclosures-aliens/"
     },
     {
       "type": "news",
-      "text": "Pentagon Releases Fourth Batch of UFO Files | 960 WELI | Coast to Coast AM with George Noory",
-      "source": "960weli.iheart.com",
-      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-07-10-pentagon-releases-fourth-batch-of-ufo-files/"
+      "text": "\u041e\u0431\u0458\u0430\u0432\u0435\u043d\u0438 \u043d\u043e\u0432\u0438 40 \u0444\u0430\u0458\u043b\u043e\u0432\u0438 \u0437\u0430 \u041d\u041b\u041e , \u043f\u043e\u0437\u043d\u0430\u0442\u043e \u0435 \u0448\u0442\u043e \u0441\u043e\u0434\u0440\u0436\u0430\u0442",
+      "source": "press24.mk",
+      "url": "https://press24.mk/objaveni-novi-40-fajlovi-za-nlo-poznato-e-shto-sodrzhat/"
     },
     {
       "type": "news",
-      "text": "What a subway ride with white supremacists taught me about America",
-      "source": "salon.com",
-      "url": "https://www.salon.com/2026/07/10/what-a-subway-ride-with-white-supremacists-taught-me-about-america/"
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=335sn8clsrbjuj5r4ht7u56907"
     },
     {
       "type": "news",
-      "text": "Dayton UFO conference will explore paranormal activity on Saturday",
-      "source": "wysu.org",
-      "url": "https://wysu.org/ohio-news/2026-07-10/dayton-ufo-conference-will-explores-paranormal-activity-government-transparency-on-saturday"
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u0431\u0458\u0430\u0432\u0438\u043e \u043d\u043e\u0432\u0443 \u0441\u0435\u0440\u0438\u0458\u0443 \u0444\u0430\u0458\u043b\u043e\u0432\u0430 \u043e \u041d\u041b\u041e",
+      "source": "politika.rs",
+      "url": "https://www.politika.rs/scc/clanak/769823/pentagon-objavio-novu-seriju-fajlova-o-nlo"
     },
     {
       "type": "news",
-      "text": "Trump releases new UAP records featuring Pantex Plant nuclear site",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object"
+      "text": "Shuttered Marietta Kroger to become fitness center",
+      "source": "atlantanewsfirst.com",
+      "url": "https://www.atlantanewsfirst.com/2026/07/10/shuttered-marietta-kroger-become-fitness-center/"
     },
     {
       "type": "news",
-      "text": "Pentagonul a publicat noi documente despre OZN - uri . \u201e Nu seam\u0103n\u0103 cu nimic din ce am mai v\u0103zut  ",
-      "source": "adevarul.ro",
-      "url": "https://adevarul.ro/stiri-externe/sua/pentagonul-a-publicat-noi-documente-despre-2542445.html"
+      "text": "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
+      "source": "fox13news.com",
+      "url": "https://www.fox13news.com/news/nasa-chief-confirms-unexplained-ufo-imagery"
     },
     {
       "type": "news",
-      "text": "SHBA publikon dosje t\u00eb reja t\u00eb deklasifikuara mbi UFO - t",
-      "source": "kosovarja-ks.com",
-      "url": "https://www.kosovarja-ks.com/shba-publikon-dosje-te-reja-te-deklasifikuara-mbi-ufo-t/"
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u0431\u0458\u0430\u0432\u0438\u043e \u043d\u043e\u0432\u0443 \u0441\u0435\u0440\u0438\u0458\u0443 \u0444\u0430\u0458\u043b\u043e\u0432\u0430 \u043e \u041d\u041b\u041e",
+      "source": "rtrs.tv",
+      "url": "https://www.rtrs.tv/vijesti/vijest.php?id=652620"
     },
     {
       "type": "news",
-      "text": "Pentagon otvorio tajne dosijee : Objavljeni novi snimci i dokumenti o NLO",
-      "source": "naslovi.net",
-      "url": "https://naslovi.net/2026-07-10/vecernje-novosti/pentagon-otvorio-tajne-dosijee-objavljeni-novi-snimci-i-dokumenti-o-nlo/42072187"
+      "text": "Pentagonul a declasificat noi dosare despre OZN - uri . M\u0103rturia unui pilot militar : \u201e Nu seam\u0103n\u0103 cu nimic din ce am mai v\u0103zut  ",
+      "source": "ziare.com",
+      "url": "https://ziare.com/pentagon/documente-ozn-declasificare-sua-2023623"
     },
     {
       "type": "x",
-      "text": "@revenant_MMXX This is like the third ufo video i saw this year",
+      "text": "@SallyMayweather On that UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681995439341645"
+      "url": "https://x.com/i/web/status/2075697053976461644"
     },
     {
       "type": "x",
-      "text": "On Dec. 17, of 2017, The New York Times released a video &amp; an article on Cmdr. Fravors Tic Tac experience. The UFO world caught fire, but the rest of the world went \"meh\". I was surprised at this ",
+      "text": "@Holden_Culotta This was at Naval Air Weapons Station China Lake near Ridgecrest, CA. I saw these orbs near the eastern part of the base on April 27, 2024. Im not sure if the team was there around thi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681959276077161"
+      "url": "https://x.com/i/web/status/2075697049954340940"
     },
     {
       "type": "x",
-      "text": "@Gabe_Trust UFO doesn\u2019t mean aliens\u2026\u2026",
+      "text": "@Milajoy I\u2019ve seen that one!!! About a year ago above Redmond. Had Grok analyze it and he said it was about 99 percent probable it was a ufo.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681945380389201"
+      "url": "https://x.com/i/web/status/2075697000943952248"
     },
     {
       "type": "x",
-      "text": "https://t.co/9WLfNN67Vv Good video regarding the recent UFO shit",
+      "text": "@devgru1980mi @KermDawgENT UFO people didn't use the word tranche either until recently https://t.co/DR48J7SddO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681858294001988"
+      "url": "https://x.com/i/web/status/2075696976172138877"
     },
     {
       "type": "x",
-      "text": "@jsolomonReports @Love_All_Around \u203c\ufe0fMust watch: The Portal Is Open: UFO \ud83d\udef8 Files, Alien Races &amp; The Galactic \ud83d\udcab War We Never Knew About \u203c\ufe0f  https://t.co/Qa2KJOSqLu  \ud83d\udea8Note: This video contains variou",
+      "text": "@OliverWood2017 @SeanParnellASW Its a question. I've seen the highest levels talking &amp; doing a lot about the UAP and seemingly more than issues I raised. Thus my question. Nothing more....   take ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681814782640281"
+      "url": "https://x.com/i/web/status/2075696957767418112"
     },
     {
       "type": "x",
-      "text": "@JoeCal422 @InterstellarUAP This is official 2020 IR footage (DOW-UAP-PR116) just released by AARO/DVIDS from a US military sensor over the Atlantic.   Observer report: ~12-15 ft tall, darker maroon c",
+      "text": "@TXMCtrades @walterkirn I think ~85% of what we see in UFOology is either completely fake or disinformation.  Especially after you watch \"Mirage Men\" and you learn a HUGE chunk of still ongoing UFO Lo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075681813104586999"
+      "url": "https://x.com/i/web/status/2075696887324131660"
     },
     {
       "type": "swpc",
@@ -2052,6 +2052,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.9
+    },
+    {
+      "ts": "2026-07-10T21:42:07.899996Z",
+      "score": 31.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.8
     }
   ],
   "sources": [
