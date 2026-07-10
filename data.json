@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-10T22:40:11.017586Z",
-  "score": 44.2,
+  "generated_at": "2026-07-10T23:37:52.338490Z",
+  "score": 33.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 13.4,
-    "d24h": 7.6,
+    "d1h": 1.5,
+    "d24h": -0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 16.8,
+    "news_velocity": 0.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "22:40",
+    "generated_utc": "23:37",
     "top_drivers": [
-      "OVNI : Archivos desclasificados de EE . UU . ",
-      "News velocity +70% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 539 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3"
+      "X/Twitter chatter: 454 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
+      "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 40.0,
+    "live_signal": 26.6,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": null,
+    "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": 70.19808914672339,
-    "x_last_hour": 539,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 454,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "OVNI : Archivos desclasificados de EE . UU . ",
-      "source": "tctelevision.com",
-      "url": "https://tctelevision.com/lo-ultimo/ee-uu-desclasifica-su-cuarta-tanda-de-archivos-ovni-40-nuevos-registros-y-un-objeto-con-forma-de-estrella-de-seis-puntas/"
-    },
-    {
-      "type": "news",
-      "text": "Dayton UFO conference will explore paranormal activity on Saturday",
-      "source": "ideastream.org",
-      "url": "https://www.ideastream.org/2026-07-10/dayton-ufo-conference-will-explores-paranormal-activity-government-transparency-on-saturday"
-    },
-    {
-      "type": "news",
-      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me 8 cepa u ul mbi baz\u00ebn b\u00ebrthamore",
-      "source": "tetovasot.com",
-      "url": "https://tetovasot.com/2026/07/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore/"
-    },
-    {
-      "type": "news",
-      "text": "Flash flood warning issued for Tuscarawas County",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-tuscarawas-211931208.html"
-    },
-    {
-      "type": "news",
-      "text": "NASA pranon se ka pamje t\u00eb objekteve t\u00eb pashpjeguara : Nuk e dim\u00eb se \u00e7far\u00eb jan\u00eb",
-      "source": "zeri.info",
-      "url": "https://www.zeri.info/kuriozitetet/629548/nasa-pranon-se-ka-pamje-te-objekteve-te-pashpjeguara-nuk-e-dime-se-cfare-jane/"
-    },
-    {
-      "type": "news",
-      "text": "Shockwave Centers of America Provides Mark V Rolling Cart for Shockwave Therapy Equipment Mobility",
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/shockwave-centers-of-america-provides-mark-v-rolling-cart-for-shockwave-therapy-equipment-mobility/2382634"
-    },
-    {
-      "type": "news",
-      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me 8 cepa u ul mbi baz\u00ebn b\u00ebrthamore",
-      "source": "vna.al",
-      "url": "https://vna.al/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore-i26161"
-    },
-    {
-      "type": "news",
-      "text": "Metal Balls From Space Are Popping Up On Australia Beaches",
-      "source": "engadget.com",
-      "url": "https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/"
-    },
-    {
-      "type": "news",
-      "text": "Pilot progovorio o bliskom susretu sa NLO : Pentagon objavio tajne snimke",
-      "source": "blic.rs",
-      "url": "https://www.blic.rs/vesti/svet/pilot-progovorio-o-bliskom-susretu-sa-nlo-pentagon-objavio-tajne-snimke/tyjrc7t"
-    },
-    {
-      "type": "news",
-      "text": "Trump zbulon dosjen e re t\u00eb UFO - ve : Si objekti me - Syri",
-      "source": "syri.net",
-      "url": "https://www.syri.net/bote/902331/trump-zbulon-dosjen-e-re-te-ufo-ve-si-objekti-me-8-cepa-u-ul-mbi-bazen-berthamore/"
+      "type": "x",
+      "text": "The fact that we're getting declassified reports of unidentified objects near nuclear facilities nearly a decade later shows we need more transparency on UAPs in real-time, not years after the fact. #",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2075726160491679859"
     },
     {
       "type": "x",
-      "text": "@tacticalluddite My position was always, why do even care? Are they going to let me use laser guns? Can i ride the UFO? Can i fuck the alien? If the answer is no, then i really don\u2019t care about it",
+      "text": "UFO FIles Part 4 Live Stream https://t.co/mgMRsYyQPb via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711590108930313"
+      "url": "https://x.com/i/web/status/2075726137179722065"
     },
     {
       "type": "x",
-      "text": "I\u2019m #live now on https://t.co/IzCcnFn2jH https://t.co/fWwEZK9Fkt #nowplaying UFO - oh my #rocknroll #punk #psych #radio #tv #rock #twitch #mixcloud",
+      "text": "UFO FILES: Alien Spacecraft or Weather Balloon?  New Pentagon UAP video released nearly 5 minutes of electro-optical &amp; infrared footage.  Captured by a U.S. military sensor platform, the clip show",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711415298449865"
+      "url": "https://x.com/i/web/status/2075726072948326746"
     },
     {
       "type": "x",
-      "text": "The first time I saw one of those takeoff in person I legit thought it was a UFO for a second https://t.co/qt2mUtYNRb",
+      "text": "Busy day for @MiddleOfMayhem , he\u2019s the only account worth following for any real UAP news.  If he says something is convincing, I\u2019ll believe it. Until then, show me the bodies, otherwise I don\u2019t want",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711402887508117"
+      "url": "https://x.com/i/web/status/2075726029855801716"
     },
     {
       "type": "x",
-      "text": "I spotted a UFO from my house what do i do?",
+      "text": "@AshtonForbes Looks like those \u201cduck\u201d looking UFO video that came out around 2018 (looks like a rubber duck going across the desert)",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711398575800642"
+      "url": "https://x.com/i/web/status/2075726003884666946"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 The Pentagon just dropped footage of a bizarre, 6-pointed star UAP captured by a U.S. military platform.  What do you think we're seeing? https://t.co/Yikd509HqT",
+      "text": "@DanHollaway Wait so they have a video of him being probed WHILE taking the shot? Does this have to do with todays UAP files drop? Dan\u2026isn\u2019t a baby laying on you the best tho? Man im jealous of you br",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711391248314501"
-    },
-    {
-      "type": "x",
-      "text": "@supersean415 I have made my case, and I agree with you that your issues are important ones.   I have highlighted why zero hours are being wasted on UAP, which is a VITAL issue to deal with for many r",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075711376493093329"
+      "url": "https://x.com/i/web/status/2075725990756553202"
     },
     {
       "type": "swpc",
@@ -2066,6 +2005,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 40.0
+    },
+    {
+      "ts": "2026-07-10T23:37:52.262906Z",
+      "score": 33.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.6
     }
   ],
   "sources": [
