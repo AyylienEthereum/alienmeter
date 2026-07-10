@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T13:24:26.024547Z",
-  "score": 30.8,
+  "generated_at": "2026-07-10T15:44:55.220422Z",
+  "score": 35.0,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -7.4,
-    "d24h": -1.0,
+    "d1h": -0.8,
+    "d24h": 0.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 26,
     "date": "10.07.2026",
     "declassified": "10.07.26",
-    "generated_utc": "13:24",
+    "generated_utc": "15:44",
     "top_drivers": [
-      "New York Health Officials Warn Of Rare Opioid In Drug Supply",
-      "X/Twitter chatter: 223 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 504 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.8,
+    "live_signal": 28.2,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": -11.209873577370054,
-    "x_last_hour": 223,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 504,
     "wiki_spike_pct": -31.32972066910828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "New York Health Officials Warn Of Rare Opioid In Drug Supply",
-      "source": "wpdh.com",
-      "url": "https://wpdh.com/new-opioid-found-upstate-new-york/"
-    },
-    {
-      "type": "news",
-      "text": "Two Injured After Boat Catches Fire on Moosehead Lake",
-      "source": "92moose.fm",
-      "url": "https://92moose.fm/moosehead-lake-boat-fire/"
-    },
-    {
-      "type": "news",
-      "text": "Documenting as Protection - Columbia Journalism Review",
-      "source": "cjr.org",
-      "url": "https://www.cjr.org/laurels-and-darts/documenting-as-protection-roswell-encina-finn-gomez-getty-patriot-front-washington-dc-new-york-post-immigration-error-housing-cost-fox-business-wall-street-journal.php"
-    },
-    {
-      "type": "news",
-      "text": "First Look : comedy feature Out There",
-      "source": "televisual.com",
-      "url": "https://www.televisual.com/news/first-look-comedy-feature-out-there/"
-    },
-    {
-      "type": "news",
-      "text": "Bayeux Tapestry hidden secrets as it arrives at British Museum and how to get tickets",
-      "source": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/news/uk-news/bayeux-tapestry-tickets-british-museum-35529246"
-    },
-    {
-      "type": "news",
-      "text": "NASA chief confirms agency has unexplained UFO imagery :  We dont know what it is  ",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/news/science/articles/nasa-chief-confirms-agency-unexplained-213433306.html"
-    },
-    {
-      "type": "news",
-      "text": "Daily Mail \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043e \u0442\u0430\u0439\u043d\u043e\u0439 \u0440\u0435\u0442\u0443\u0448\u0438 \u041d\u0410\u0421\u0410 \u0441\u043d\u0438\u043c\u043a\u043e\u0432 \u041d\u041b\u041e \u0438 \u0437\u0430\u043f\u0443\u0433\u0438\u0432\u0430\u043d\u0438\u0438 \u0430\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u043e\u0432 :: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f / \u0412\u0417\u0413\u041b\u042f\u0414",
-      "source": "vz.ru",
-      "url": "https://vz.ru/news/2026/7/10/1433806.html"
-    },
-    {
-      "type": "news",
-      "text": "\u0410\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u043e\u0432 \u041d\u0410\u0421\u0410 \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u043c\u043e\u043b\u0447\u0430\u0442\u044c \u043e\u0431 \u0443\u0432\u0438\u0434\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u041b\u0443\u043d\u0435 \u043a\u043e\u0440\u0430\u0431\u043b\u044f\u0445 \u0432\u043d\u0435\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
-      "source": "runews24.ru",
-      "url": "https://runews24.ru/society/10/07/2026/astronavtov-nasa-zastavili-molchat-ob-uvidennyix-na-lune-korablyax-vnezemnogo-proisxozhdeniya"
-    },
-    {
-      "type": "news",
-      "text": "UFO Expert Reveals What Apps To Use And Actions To Take During UAP Or Suspected Alien Encounter",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/investigating-ufo-sightings-expert-tips-1808027"
-    },
-    {
-      "type": "news",
-      "text": "DM : \u0410\u0441\u0442\u0440\u043e\u043d\u0430\u0432\u0442\u0430\u043c \u0421\u0428\u0410 \u0437\u0430\u043f\u0440\u0435\u0442\u0438\u043b\u0438 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u043e\u0431 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u0445 \u043d\u0430 \u041b\u0443\u043d\u0435",
-      "source": "rg.ru",
-      "url": "https://rg.ru/2026/07/10/dm-astronavtam-ssha-zapretili-rasskazyvat-ob-inoplanetianah-na-lune.html"
+      "type": "x",
+      "text": "yooo $UAP almost on moonshot, only 133 votes to go  https://t.co/8hq4CwY6MN  FnBB26Dwb4TiuRkb61RhAms1iPauqWAqJ8DyFu9Tpump",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2075607145563963511"
     },
     {
       "type": "x",
-      "text": "From the most recent UAP files release https://t.co/MuuNKF1ca5",
+      "text": "Don't forget to join $UAP literally just opened the community  https://t.co/OgkALMDuNK  FnBB26Dwb4TiuRkb61RhAms1iPauqWAqJ8DyFu9Tpump",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571774021107810"
+      "url": "https://x.com/i/web/status/2075607143026167943"
     },
     {
       "type": "x",
-      "text": "What is this?!? | Photo taken of a video in the latest UFO Files drop. From Drop Four. https://t.co/2NiRkX750T",
+      "text": "I just voted YES for $UAP to get listed on FOMO!  \ud83d\udd17 https://t.co/eZbIDi95HU  Head over to their site to vote &amp; secure the listing!  FnBB26Dwb4TiuRkb61RhAms1iPauqWAqJ8DyFu9Tpump",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571687958155311"
+      "url": "https://x.com/i/web/status/2075607142858408038"
     },
     {
       "type": "x",
-      "text": "Pentagon releases UAP video from NORTHCOM from an undisclosed location in the western part of the U.S. filmed in 2020 https://t.co/WG7q51ew4M",
+      "text": "THE U.S. RELEASES NEW UFO FOOTAGE SHOWING AN EIGHT-POINTED OBJECT FLYING OVER THE YELLOW SEA IN 2025. https://t.co/gJrFk1InGw",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571559197016175"
+      "url": "https://x.com/i/web/status/2075607142162211044"
     },
     {
       "type": "x",
-      "text": "When Rep. Luna said we\u2019d already seen the meat and potatoes, she wasn\u2019t kidding. The 4th DOW UAP release lacks anything compelling. The STS-80 images are unexplained, but too small/blurry to examine. ",
+      "text": "@maniaUFO \"This Is a Real UFO No Effects No Fake\" https://t.co/hTo7GEOn5W",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571548035883416"
+      "url": "https://x.com/i/web/status/2075607122293744038"
     },
     {
       "type": "x",
-      "text": "NEW: The Pentagon has released additional files on UFOs today.  \"The United States Indo-Pacific Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution ",
+      "text": "The ufo films seem to be slowly getting progressively a little bit better. The films could show more, i know. and I believe the intel communities have more. Its a waiting game. Ok, we have to wait... ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571476485603340"
-    },
-    {
-      "type": "x",
-      "text": "Alien space ufo big strange   #ADogAndAPlaneEP7",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075571298848350261"
+      "url": "https://x.com/i/web/status/2075606970116026776"
     },
     {
       "type": "swpc",
@@ -2018,6 +1957,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.8
+    },
+    {
+      "ts": "2026-07-10T15:44:55.178056Z",
+      "score": 35.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.2
     }
   ],
   "sources": [
