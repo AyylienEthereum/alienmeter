@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-07-09T23:06:34.389180Z",
-  "score": 36.2,
+  "generated_at": "2026-07-10T00:18:37.337946Z",
+  "score": 38.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.1,
-    "d24h": -2.4,
+    "d1h": 2.1,
+    "d24h": 3.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.4,
+    "social_chatter": 10.9,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 8.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 25,
-    "day": 25,
-    "date": "09.07.2026",
-    "declassified": "09.07.26",
-    "generated_utc": "23:06",
+    "number": 26,
+    "day": 26,
+    "date": "10.07.2026",
+    "declassified": "10.07.26",
+    "generated_utc": "00:18",
     "top_drivers": [
-      "X/Twitter chatter: 158 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 182 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +87% above baseline",
+      "Wikipedia UFO pageviews +85% above baseline",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.7,
+    "live_signal": 32.2,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 158,
-    "wiki_spike_pct": 86.58252201649334,
+    "gdelt_spike_pct": -17.076705612911304,
+    "x_last_hour": 182,
+    "wiki_spike_pct": 84.90631135102788,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -59,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@CNBC Here\u2019s the brutal truth:   You bought a hype-driven, money-losing space spectacle at a $3 trillion valuation while the underlying business was bleeding nearly $5 billion a year on $18 billion in",
+      "text": "\ud83d\udea8 \ud83d\udea8 NOW LIVE: My interview with filmmaker Darcy Weir on his new film \"Dark Alliance: Next Generation.\" \ud83d\udef8  We dive into exposing UAP community frauds, the chilling Pascagoula abduction, and Project Sta",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355825162404293"
+      "url": "https://x.com/i/web/status/2075374003187781893"
     },
     {
       "type": "x",
-      "text": "@AmericanALCHMY trading card!!!! @AlchemyAmerican @RedPandaKoala @tupacabra @The_Astral_   He is doing more work than almost everyone in the old guard put together  I think half of those guys are CIA ",
+      "text": "@michaelshermer You say in this video that there\u2019s \u201cno new physics\u201d and \u201cquit bringing up new physics\u201d, because the LHC at CERN hasn\u2019t found any \u201cnew physics\u201d. You also claim @ProfAviLoeb says the sam",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355799472283943"
+      "url": "https://x.com/i/web/status/2075373846782238750"
     },
     {
       "type": "x",
-      "text": "@JohnDCook the double take when people explain UFO sightings is almost as funny as the math around it  just enjoy the mystery",
+      "text": "Premiering now - https://t.co/Skj92JTiOY - Review of a major mass UFO sighting over the Hawaiian islands, several individual angles and views from different witnesses. https://t.co/8pFWG7kCQy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355755973058603"
+      "url": "https://x.com/i/web/status/2075373754163900607"
     },
     {
       "type": "x",
-      "text": "Market Dashboard 07/10/2026  Market Conditions\uff1aNeutral \u2192 Positive ( 71 / 100 )  - Daily Leaders / Laggards $SIL $WGMI $COPX / $BOAT $XOP $MOO  - Weekly Leaders / Laggards $BOAT $KEWB $XBI / $REMX $LIT",
+      "text": "Joe Brill, \u201cItalian UFO Leaves Traces,\u201d Skylook, no. 86 (January 1975): 3\u20134; https://t.co/m9TO5yTa6e",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355575173656886"
+      "url": "https://x.com/i/web/status/2075373501469413847"
     },
     {
       "type": "x",
-      "text": "#SupportIndieFilm #IndieFilm #Horror #HorrorFamily #Horrorfilm #filmfestival #indiefilms #indiefilmmakers #indiefilm #Film #horrorfan #mystery #ufo #aliens #NeoNoir #LGBT #erotica #Indienanimation  pr",
+      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Italian UFO Leaves Traces July 10, 1974 \u2014 Pavia, Italy 1/ 10:35 p.m. Three girls are walking along a road south of Pavia, Italy, when they se",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355567871152429"
+      "url": "https://x.com/i/web/status/2075373494510981137"
     },
     {
       "type": "x",
-      "text": "@nonphysical9 @jamescfox Ronny LeBlanc (Expedition Bigfoot, Monsterland/Interdimensional books) views Bigfoot as:  - Physical: true (cast prints, transitory traces, physical manifestations) - Multidim",
+      "text": "The mysterious \"Enoch\" in the Bible Codes, \"Enoch he is heart Eric.\"  18 - in 1989 A.D. - part - name, Prediction, Intellectual, Superb, Existing - UFO - domain name, Tell - Armada - knowingly, Accomp",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075355467329552455"
+      "url": "https://x.com/i/web/status/2075373396037370139"
     },
     {
       "type": "swpc",
@@ -1923,6 +1923,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.7
+    },
+    {
+      "ts": "2026-07-10T00:18:37.261406Z",
+      "score": 38.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.2
     }
   ],
   "sources": [
