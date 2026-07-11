@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T09:58:15.705120Z",
-  "score": 45.4,
+  "generated_at": "2026-07-11T11:06:08.002181Z",
+  "score": 35.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "huh",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 11.1,
-    "d24h": 18.4,
+    "d1h": 1.5,
+    "d24h": 6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 14.5,
-    "social_chatter": 10.5,
+    "news_velocity": 0.0,
+    "social_chatter": 11.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
-    "seismic": 0.0,
-    "alien_variance": 4.0
+    "seismic": 3.2,
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "09:58",
+    "generated_utc": "11:06",
     "top_drivers": [
-      "News velocity +60% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 186 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -42,56 +41,56 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 41.5,
-    "baseline_recent": 25.1,
+    "live_signal": 28.8,
+    "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": 60.23049242650664,
-    "x_last_hour": 176,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 186,
     "wiki_spike_pct": -38.231400047882644,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Kind of interesting how all of the UAP disclosure is happening during AGI advancing.   It's almost like a metric fuckload of training data across the board, beliefs, science, motion tracking, images, ",
+      "text": "@MJTruthUltra UFO just means unidentified flying object. It doesn't mean aliens.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075882239515091103"
+      "url": "https://x.com/i/web/status/2075899366989242373"
     },
     {
       "type": "x",
-      "text": "That\u2019s really some Robocop kinda UFO \ud83d\udef8 https://t.co/X7k1HHXxS1 https://t.co/655qK2KUmc",
+      "text": "This video circulated widely across international paranormal and UFO communities on various platforms since early 2024 from accounts like @anonymoushadoww (known for sharing posts on digital artwort) ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075882109881766070"
+      "url": "https://x.com/i/web/status/2075899189670617591"
     },
     {
       "type": "x",
-      "text": "@GoodTroubleShow @michaelshermer Well done Matt. Refusing to platform @michaelshermer is not fear; it is editorial judgment, moral clarity and respect for the witnesses whose experiences have been tri",
+      "text": "@KeenanPeachy It is this simple Unidentified Flying Object UFO..... You don't know what it was... Duh. \ud83e\udd23",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075882038972789141"
+      "url": "https://x.com/i/web/status/2075899180858409059"
     },
     {
       "type": "x",
-      "text": "@BrettChiefsSzn Apparently hardly anybody cares about all these UFO files.",
+      "text": "@khloekir It's weird how it isn't that well known, yet had many witnesses. Plus, to have humanoid type figures waving from the UFO is wild \ud83d\ude06\ud83d\udc7d",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075882009495531943"
+      "url": "https://x.com/i/web/status/2075899113934139394"
     },
     {
       "type": "x",
-      "text": "@Gabe_Trust These smug skeptics could have a ufo land on their front lawn with a group of aliens walking out and they'd smugly say \"mmmm thats definitely a weather balloon\"",
+      "text": "4/ Trans-en-Provence, France 1981: French agency GEPAN ran a full probe \u2014 found soil compression + plant changes consistent with a landed craft. Never solved.  Follow for daily UFO facts and breaking ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075881657811263837"
+      "url": "https://x.com/i/web/status/2075899037291598275"
     },
     {
       "type": "x",
-      "text": "@patrickriitaaho @TheLastHopeUSA You can shape a balloon into any shape though\u2026 that doesn\u2019t make every UFO in question a balloon &amp; assuming that\u2019s all they are would be naive. And even if it is a",
+      "text": "\ud83e\uddf5 Most UFO stories are \"he said, she said.\" These 5 cases left something behind \u2014 physical evidence scientists couldn't explain away. [THREAD] \ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075881592799756579"
+      "url": "https://x.com/i/web/status/2075899033223065634"
     },
     {
       "type": "swpc",
@@ -110,6 +109,12 @@
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5382\r Issue Time: 2026 Jul 10 1151 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: South Sandwich Islands region",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -2048,6 +2053,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 41.5
+    },
+    {
+      "ts": "2026-07-11T11:06:07.945443Z",
+      "score": 35.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.8
     }
   ],
   "sources": [
