@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-11T06:34:51.596811Z",
-  "score": 33.8,
+  "generated_at": "2026-07-11T08:27:28.730265Z",
+  "score": 31.5,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -10.4,
-    "d24h": 0.4,
+    "d1h": -2.3,
+    "d24h": 1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 11.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 0.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "06:34",
+    "generated_utc": "08:27",
     "top_drivers": [
-      "X/Twitter chatter: 213 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 186 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.6,
+    "live_signal": 23.6,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": -81.79952605477243,
-    "x_last_hour": 213,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 186,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@TheUfoJoe @DrPhil I haven't heard anybody freaking out,   because of any of blurry ufo videos they released, so far !  \ud83e\udd23\ud83e\udd23",
+      "text": "The UFO Tall Man entered when I saw him was more of the classic round shaped UFO.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075831078686740973"
+      "url": "https://x.com/i/web/status/2075859434023121284"
     },
     {
       "type": "x",
-      "text": "Once everyone wakes up to the fact the \u201cUAP\u201d thing is a cover up for A-neutronic reactors, which we already have, Ashton Forbes will be exhumed. @AshtonForbes",
+      "text": "UFO files: Nancy Mace says agencies may be HIDING files from Trump | On ... https://t.co/3TcP0ppbdH via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075830898289983883"
+      "url": "https://x.com/i/web/status/2075859307350921267"
     },
     {
       "type": "x",
-      "text": "@Av8r07 @ageofdisclosure They're Nephilum. The UFO's are always around large bodies of water. No countries intelligence/satellites have ever seen a single UFO come into our atmosphere. Ever. They've a",
+      "text": "Hey y'all check it the new UFO blue ball files came out.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075830895810916704"
+      "url": "https://x.com/i/web/status/2075859305698369759"
     },
     {
       "type": "x",
-      "text": "https://t.co/bIWjOhJyxr,(Chinese tycoon sentenced to 30 years in US jail). I think this Chinese guy deserve to be punished. But it's this number \"30\" causing my concern. \"30\" as a symbol is the number",
+      "text": "@MarioNawfal This isn't doing anything marvelous in the air, mate, it's traveling with the wind, logic says it's a cluster of balloons, or a large party balloon. People should be asking where is Elizo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075830630718361892"
+      "url": "https://x.com/i/web/status/2075859024155951299"
     },
     {
       "type": "x",
-      "text": "@Jymere_owns_ @BrettChiefsSzn UFO means aliens hope this helps",
+      "text": "@BrettChiefsSzn Well well! Good work Brett. My critical thinking about the latest UFO observations does never stop. This release is clearly fooling people!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075830520726892756"
+      "url": "https://x.com/i/web/status/2075859011866448210"
     },
     {
       "type": "x",
-      "text": "Can\u2019t believe we got Dr Phil UAP disclosure before GTA VI",
+      "text": "Pentagon releases new set of UFO files: \"Unlike anything I had seen\" https://t.co/QgmeR7pbHa via @@YahooNews   Yep-but We STILL haven't SEEN less redacted Epstein files  judge ordered DOJ to produce &",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075830481103523851"
+      "url": "https://x.com/i/web/status/2075858988877705543"
     },
     {
       "type": "swpc",
@@ -2033,6 +2033,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.6
+    },
+    {
+      "ts": "2026-07-11T08:27:28.653774Z",
+      "score": 31.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.6
     }
   ],
   "sources": [
