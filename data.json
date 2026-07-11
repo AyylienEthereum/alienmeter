@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-11T16:49:16.506800Z",
-  "score": 35.7,
+  "generated_at": "2026-07-11T17:50:58.444092Z",
+  "score": 44.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -17.0,
-    "d24h": 1.1,
+    "d1h": 10.5,
+    "d24h": 8.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 12.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 3.6
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "16:49",
+    "generated_utc": "17:50",
     "top_drivers": [
-      "X/Twitter chatter: 338 UFO/UAP posts in the last hour",
+      "News velocity +50% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 278 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.9,
+    "live_signal": 40.6,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 338,
+    "gdelt_spike_pct": 49.941174530220906,
+    "x_last_hour": 278,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Pentagon has released a fourth batch of UFO files.  WATCH: Here are all the UFO videos released today in the Pentagon's four... https://t.co/S6PWj26foC via @YouTube",
+      "text": "I\u2019m watching the UFO reporting and videos  with much interest! I wonder why video on X and even traffic light videos are Hi Def quality and that UFO videos are black and white, grainy and look like no",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985707294953559"
+      "url": "https://x.com/i/web/status/2076001266367594510"
     },
     {
       "type": "x",
-      "text": "@AlexPag21070389 @UFOcop1 Alex, thanks for a great interview! Your show is about the best podcast there is on UFOs UAP and the alien situation.  This was a very comprehensive conversation that dispels",
+      "text": "Looks like the new ufo photo https://t.co/dLbytSNore",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985680413454506"
+      "url": "https://x.com/i/web/status/2076001138260824450"
     },
     {
       "type": "x",
-      "text": "@Mr_Q_Q17 If you take a closer look at this UFO, you will see a yellow triangle warning sticker near one of the back plates. It appears to be a warning to not stand in that location. Does that mean al",
+      "text": "@DestinyandBruce @TONYxTWO Regardless one thing is clear there are way too many problems with this case and too many questions not being answered or even asked coupled with the lockstep push of he's g",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985569008509411"
+      "url": "https://x.com/i/web/status/2076001081797271893"
     },
     {
       "type": "x",
-      "text": "@JonesSmythe @VettedPodcast That\u2019s still a deflection.  You\u2019ve now expanded it from criticizing one person to declaring basically the entire UFO topic \u201cclickbait bullshit.\u201d  So\u2026why are you even here? ",
+      "text": "Welp it turns out the UFO/UAPs are just advanced Flock cameras from the future equipped with anti gravitational propulsion\ud83d\ude31   Also they could just be a bunch of balloons \ud83d\ude02 https://t.co/VmbD6S4yDQ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985558703128893"
+      "url": "https://x.com/i/web/status/2076001064990519300"
     },
     {
       "type": "x",
-      "text": "@zerohedge Key findings:  We can take clearer pictures of Pluto than a UFO in our own atmosphere.",
+      "text": "UFO is not a synonym for alien.  It is just military crap.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985545944023347"
+      "url": "https://x.com/i/web/status/2076000899739131990"
     },
     {
       "type": "x",
-      "text": "The U.S. Department of Defense on Friday released 40 newly declassified files containing documents, videos, audio recordings and images related to Unidentified Anomalous Phenomena (UAP).  https://t.co",
+      "text": "Pentagon releases new UFO files https://t.co/GxksLMOFl0",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075985544925094251"
+      "url": "https://x.com/i/web/status/2076000770126749738"
     },
     {
       "type": "swpc",
@@ -2089,6 +2090,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.9
+    },
+    {
+      "ts": "2026-07-11T17:50:58.368375Z",
+      "score": 44.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 40.6
     }
   ],
   "sources": [
