@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-11T13:52:13.598498Z",
-  "score": 34.3,
+  "generated_at": "2026-07-11T14:47:18.836261Z",
+  "score": 35.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": -0.3,
+    "d1h": -10.4,
+    "d24h": 2.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 1.8
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "13:52",
+    "generated_utc": "14:47",
     "top_drivers": [
-      "X/Twitter chatter: 272 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 242 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 27.1,
+    "live_signal": 28.0,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 272,
+    "x_last_hour": 242,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@MJTruthUltra That\u2019s an ugly UFO \ud83d\udef8",
+      "text": "@travisstaylor1 I've got an unrelated question for you. When doing experiments at SWR why don't you use the UFODAS system. Then you could see UAP activity in real time. I've asked this question to Bra",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075941176616575141"
+      "url": "https://x.com/i/web/status/2075954953894375835"
     },
     {
       "type": "x",
-      "text": "Creepy UFO changes shape mid-flight.  https://t.co/TVIeZisYsg",
+      "text": "@bennyjohnson This is an older video taken over one of Our bases in Iraq in 2017.   The Dubbed it the \"jellyfish\" UAP  The official conclusion was that it was just a bunch of balloons.    https://t.co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075941160623673475"
+      "url": "https://x.com/i/web/status/2075954758565745126"
     },
     {
       "type": "x",
-      "text": "@JasonWilde108 Cleanest Ufo image in history of ufo history https://t.co/qXtgnFI2xw",
+      "text": "@MikeFRobinson Saw one this morning. Thought it was a ufo/uap at first as it appeared quite suddenly across the top of the houses opposite\u2026",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075941134682239067"
+      "url": "https://x.com/i/web/status/2075954715368542338"
     },
     {
       "type": "x",
-      "text": "There was a new UFO video? Must\u2019ve missed it\u2026 https://t.co/5qJNgSGL6R",
+      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   got my $HOLD. hands of diamond. jump in \ud83d\udc8e     $PROPHECY $PFP $UAP     78885807",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075940828619387225"
+      "url": "https://x.com/i/web/status/2075954645466575165"
     },
     {
       "type": "x",
-      "text": "@TheGamesDet Thanks for Hosting! I'm working on a UFO horror game based on Project Blue Book \ud83d\udc7d https://t.co/PtwQ022fFa",
+      "text": "@maniaUFO I guess u r supposed to post about ufo stuff",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075940646439809173"
+      "url": "https://x.com/i/web/status/2075954612839059726"
     },
     {
       "type": "x",
-      "text": "New declassified UAP files can be found here: https://t.co/1ogG6sSgbu https://t.co/gH9f2aPfhg",
+      "text": "\ud83d\udea8 RUMORS SPREAD OVER GASPI'S ALLEGED UNRELEASED DOCUMENTARY  Social media users are claiming YouTuber Gaspi possessed alleged photos of extraterrestrials and was preparing a documentary that was never",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075940470060962263"
+      "url": "https://x.com/i/web/status/2075954593025122724"
     },
     {
       "type": "swpc",
@@ -2068,6 +2068,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 27.1
+    },
+    {
+      "ts": "2026-07-11T14:47:18.761290Z",
+      "score": 35.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.0
     }
   ],
   "sources": [
