@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-11T15:49:15.817194Z",
-  "score": 33.2,
+  "generated_at": "2026-07-11T16:49:16.506800Z",
+  "score": 35.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.4,
-    "d24h": -6.7,
+    "d1h": -17.0,
+    "d24h": 1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 0.4
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "15:49",
+    "generated_utc": "16:49",
     "top_drivers": [
-      "X/Twitter chatter: 294 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 338 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.7,
+    "live_signal": 28.9,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 294,
+    "x_last_hour": 338,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   aped $HOLD. we all hold. join me \ud83d\udc8e     $UAP $RAGEGUY $LUCIA     1490963",
+      "text": "Pentagon has released a fourth batch of UFO files.  WATCH: Here are all the UFO videos released today in the Pentagon's four... https://t.co/S6PWj26foC via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970634396606701"
+      "url": "https://x.com/i/web/status/2075985707294953559"
     },
     {
       "type": "x",
-      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   holding $HOLD. selling isnt a feature. ur move \ud83d\ude4c     $UAP $DSCRIBE $Lobstar     831522868572683",
+      "text": "@AlexPag21070389 @UFOcop1 Alex, thanks for a great interview! Your show is about the best podcast there is on UFOs UAP and the alien situation.  This was a very comprehensive conversation that dispels",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970632798372024"
+      "url": "https://x.com/i/web/status/2075985680413454506"
     },
     {
       "type": "x",
-      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   aped $HOLD early. we all hold. come along \ud83e\udde4     $stdout $GINNAN $UAP     93846769101951",
+      "text": "@Mr_Q_Q17 If you take a closer look at this UFO, you will see a yellow triangle warning sticker near one of the back plates. It appears to be a warning to not stand in that location. Does that mean al",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970590783983725"
+      "url": "https://x.com/i/web/status/2075985569008509411"
     },
     {
       "type": "x",
-      "text": "@zerohedge At first they didn't want anyone to talk about UFO, saying is not true, now they are coming out with the truth",
+      "text": "@JonesSmythe @VettedPodcast That\u2019s still a deflection.  You\u2019ve now expanded it from criticizing one person to declaring basically the entire UFO topic \u201cclickbait bullshit.\u201d  So\u2026why are you even here? ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970489692848152"
+      "url": "https://x.com/i/web/status/2075985558703128893"
     },
     {
       "type": "x",
-      "text": "@JeninedUFO \"biological ufo\" The dude who lost his balloons: https://t.co/05NxdVHo5O",
+      "text": "@zerohedge Key findings:  We can take clearer pictures of Pluto than a UFO in our own atmosphere.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970429907292193"
+      "url": "https://x.com/i/web/status/2075985545944023347"
     },
     {
       "type": "x",
-      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   my hands are diamond. $HOLD. come \ud83d\ude4c     $https $UAP $ISHOW     147435363",
+      "text": "The U.S. Department of Defense on Friday released 40 newly declassified files containing documents, videos, audio recordings and images related to Unidentified Anomalous Phenomena (UAP).  https://t.co",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075970408298566095"
+      "url": "https://x.com/i/web/status/2075985544925094251"
     },
     {
       "type": "swpc",
@@ -2082,6 +2082,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.7
+    },
+    {
+      "ts": "2026-07-11T16:49:16.431047Z",
+      "score": 35.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.9
     }
   ],
   "sources": [
