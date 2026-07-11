@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-11T08:27:28.730265Z",
-  "score": 31.5,
+  "generated_at": "2026-07-11T09:58:15.705120Z",
+  "score": 45.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -2.3,
-    "d24h": 1.1,
+    "d1h": 11.1,
+    "d24h": 18.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 11.1,
+    "news_velocity": 14.5,
+    "social_chatter": 10.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.0
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "08:27",
+    "generated_utc": "09:58",
     "top_drivers": [
-      "X/Twitter chatter: 186 UFO/UAP posts in the last hour",
+      "News velocity +60% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.6,
+    "live_signal": 41.5,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 186,
+    "gdelt_spike_pct": 60.23049242650664,
+    "x_last_hour": 176,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +59,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "The UFO Tall Man entered when I saw him was more of the classic round shaped UFO.",
+      "text": "Kind of interesting how all of the UAP disclosure is happening during AGI advancing.   It's almost like a metric fuckload of training data across the board, beliefs, science, motion tracking, images, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075859434023121284"
+      "url": "https://x.com/i/web/status/2075882239515091103"
     },
     {
       "type": "x",
-      "text": "UFO files: Nancy Mace says agencies may be HIDING files from Trump | On ... https://t.co/3TcP0ppbdH via @YouTube",
+      "text": "That\u2019s really some Robocop kinda UFO \ud83d\udef8 https://t.co/X7k1HHXxS1 https://t.co/655qK2KUmc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075859307350921267"
+      "url": "https://x.com/i/web/status/2075882109881766070"
     },
     {
       "type": "x",
-      "text": "Hey y'all check it the new UFO blue ball files came out.",
+      "text": "@GoodTroubleShow @michaelshermer Well done Matt. Refusing to platform @michaelshermer is not fear; it is editorial judgment, moral clarity and respect for the witnesses whose experiences have been tri",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075859305698369759"
+      "url": "https://x.com/i/web/status/2075882038972789141"
     },
     {
       "type": "x",
-      "text": "@MarioNawfal This isn't doing anything marvelous in the air, mate, it's traveling with the wind, logic says it's a cluster of balloons, or a large party balloon. People should be asking where is Elizo",
+      "text": "@BrettChiefsSzn Apparently hardly anybody cares about all these UFO files.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075859024155951299"
+      "url": "https://x.com/i/web/status/2075882009495531943"
     },
     {
       "type": "x",
-      "text": "@BrettChiefsSzn Well well! Good work Brett. My critical thinking about the latest UFO observations does never stop. This release is clearly fooling people!",
+      "text": "@Gabe_Trust These smug skeptics could have a ufo land on their front lawn with a group of aliens walking out and they'd smugly say \"mmmm thats definitely a weather balloon\"",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075859011866448210"
+      "url": "https://x.com/i/web/status/2075881657811263837"
     },
     {
       "type": "x",
-      "text": "Pentagon releases new set of UFO files: \"Unlike anything I had seen\" https://t.co/QgmeR7pbHa via @@YahooNews   Yep-but We STILL haven't SEEN less redacted Epstein files  judge ordered DOJ to produce &",
+      "text": "@patrickriitaaho @TheLastHopeUSA You can shape a balloon into any shape though\u2026 that doesn\u2019t make every UFO in question a balloon &amp; assuming that\u2019s all they are would be naive. And even if it is a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075858988877705543"
+      "url": "https://x.com/i/web/status/2075881592799756579"
     },
     {
       "type": "swpc",
@@ -2040,6 +2041,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.6
+    },
+    {
+      "ts": "2026-07-11T09:58:15.629071Z",
+      "score": 45.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 41.5
     }
   ],
   "sources": [
