@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-11T14:47:18.836261Z",
-  "score": 35.0,
+  "generated_at": "2026-07-11T15:49:15.817194Z",
+  "score": 33.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -10.4,
-    "d24h": 2.1,
+    "d1h": -2.4,
+    "d24h": -6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 2.7
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 27,
     "date": "11.07.2026",
     "declassified": "11.07.26",
-    "generated_utc": "14:47",
+    "generated_utc": "15:49",
     "top_drivers": [
-      "X/Twitter chatter: 242 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 294 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.0,
+    "live_signal": 25.7,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 17.7660102475,
     "asteroid_name": "(2007 AA2)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 242,
+    "x_last_hour": 294,
     "wiki_spike_pct": -38.231400047882644,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@travisstaylor1 I've got an unrelated question for you. When doing experiments at SWR why don't you use the UFODAS system. Then you could see UAP activity in real time. I've asked this question to Bra",
+      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   aped $HOLD. we all hold. join me \ud83d\udc8e     $UAP $RAGEGUY $LUCIA     1490963",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954953894375835"
+      "url": "https://x.com/i/web/status/2075970634396606701"
     },
     {
       "type": "x",
-      "text": "@bennyjohnson This is an older video taken over one of Our bases in Iraq in 2017.   The Dubbed it the \"jellyfish\" UAP  The official conclusion was that it was just a bunch of balloons.    https://t.co",
+      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   holding $HOLD. selling isnt a feature. ur move \ud83d\ude4c     $UAP $DSCRIBE $Lobstar     831522868572683",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954758565745126"
+      "url": "https://x.com/i/web/status/2075970632798372024"
     },
     {
       "type": "x",
-      "text": "@MikeFRobinson Saw one this morning. Thought it was a ufo/uap at first as it appeared quite suddenly across the top of the houses opposite\u2026",
+      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   aped $HOLD early. we all hold. come along \ud83e\udde4     $stdout $GINNAN $UAP     93846769101951",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954715368542338"
+      "url": "https://x.com/i/web/status/2075970590783983725"
     },
     {
       "type": "x",
-      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   got my $HOLD. hands of diamond. jump in \ud83d\udc8e     $PROPHECY $PFP $UAP     78885807",
+      "text": "@zerohedge At first they didn't want anyone to talk about UFO, saying is not true, now they are coming out with the truth",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954645466575165"
+      "url": "https://x.com/i/web/status/2075970489692848152"
     },
     {
       "type": "x",
-      "text": "@maniaUFO I guess u r supposed to post about ufo stuff",
+      "text": "@JeninedUFO \"biological ufo\" The dude who lost his balloons: https://t.co/05NxdVHo5O",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954612839059726"
+      "url": "https://x.com/i/web/status/2075970429907292193"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 RUMORS SPREAD OVER GASPI'S ALLEGED UNRELEASED DOCUMENTARY  Social media users are claiming YouTuber Gaspi possessed alleged photos of extraterrestrials and was preparing a documentary that was never",
+      "text": "$HOLD   CA: HoLDfh7PbV8a3ViVBgCy5RBpVrMz4jWxVwYFBwWVA79h   my hands are diamond. $HOLD. come \ud83d\ude4c     $https $UAP $ISHOW     147435363",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2075954593025122724"
+      "url": "https://x.com/i/web/status/2075970408298566095"
     },
     {
       "type": "swpc",
@@ -2075,6 +2075,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.0
+    },
+    {
+      "ts": "2026-07-11T15:49:15.741641Z",
+      "score": 33.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.7
     }
   ],
   "sources": [
