@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T15:17:09.548358Z",
-  "score": 31.8,
+  "generated_at": "2026-07-12T16:26:32.261917Z",
+  "score": 30.6,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -10.3,
-    "d24h": -2.0,
+    "d1h": 4.4,
+    "d24h": -5.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.2,
+    "social_chatter": 9.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "15:17",
+    "generated_utc": "16:26",
     "top_drivers": [
-      "X/Twitter chatter: 154 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 161 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 7",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.6,
+    "live_signal": 22.1,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 154,
+    "x_last_hour": 161,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Trump Administration Releases Shocking UFO Video And Seemingly Nobody Cares https://t.co/tdBRlW47sy",
+      "text": "\ud83d\udca5Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon. https://t.co/WsyVoNwkSx",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324944942637170"
+      "url": "https://x.com/i/web/status/2076342095132946909"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8The Pentagon dropped Tranche 4, but what are they still hiding? \ud83d\udef8  We break down the latest UAP files, separate facts from distractions, and look at the irrefutable evidence of craft &amp; bodies hid",
+      "text": "@u_m_a_m_i At this point people have been so desensitized to the UFO/alien subject that most people won\u2019t even care anymore",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324836930891957"
+      "url": "https://x.com/i/web/status/2076341650331201963"
     },
     {
       "type": "x",
-      "text": "@seanhannity check this out #UFO #UAP ;USA Gov has been doing crash retrieval since at least the 40s.  https://t.co/qFbBaAAssw",
+      "text": "@JoshWhoX Technically all UFOs are UAPs\u2026 but not all UAPs are UFOs..  It\u2019s both a new category to include every possibility and using that category to minimise UFO sightings as just natural phenomena ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324534873911514"
+      "url": "https://x.com/i/web/status/2076341524304896046"
     },
     {
       "type": "x",
-      "text": "Anyways if u guys wanna watch the episode for yourself. It\u2019s.  On hbo max ufo witness. Season 1 episode 8. Where Ben Hanson speaks to a lady who claims she was abuducted impregnated and left w fetus l",
+      "text": "Absence of acoustic signatures is a common, defining trait  documented in UAP/UFO reports. Eyewitnesses &amp; military aviators describe observing objects perform rapid, high-G maneuvers, accelerate, ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324346327404609"
+      "url": "https://x.com/i/web/status/2076341517606924637"
     },
     {
       "type": "x",
-      "text": "@AdrianneCurry @Asdandapplesauc I\u2019m with ya. It\u2019s getting to be a fucking cliche at this point. Waiting for the inevitable \u201cUFO are Jews in Space!\u201d. https://t.co/ZX2TGtMfKL",
+      "text": "Watch: Pentagon releases 19 new UFO videos https://t.co/jjezGnNTWF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324210780069898"
+      "url": "https://x.com/i/web/status/2076341499617235221"
     },
     {
       "type": "x",
-      "text": "The Forgotten UFO Wave -- Wytheville, Virginia (1987-1988) https://t.co/ep2jbUttmZ via @YouTube",
+      "text": "The Galileo Project - #SciFi #UFO #Consipracy #Thriller  Robert Spire is about to be thrust into the rapidly evolving UFO #phenomenon, in this fast-paced #mystery thriller.  Learn More - https://t.co/",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076324181264810483"
+      "url": "https://x.com/i/web/status/2076341342460854525"
     },
     {
       "type": "swpc",
@@ -2194,6 +2194,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.6
+    },
+    {
+      "ts": "2026-07-12T16:26:32.193380Z",
+      "score": 30.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.1
     }
   ],
   "sources": [
