@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T20:38:27.159261Z",
-  "score": 53.3,
+  "generated_at": "2026-07-12T21:32:39.511480Z",
+  "score": 32.4,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 22.7,
-    "d24h": 26.2,
+    "d1h": 0.9,
+    "d24h": 6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 23.9,
-    "social_chatter": 11.0,
+    "news_velocity": 0.0,
+    "social_chatter": 9.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.1,
-    "alien_variance": 2.4
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,127 +31,72 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "20:38",
+    "generated_utc": "21:32",
     "top_drivers": [
-      "Why Missouri UFO Reports Near Whiteman AFB Are Rising",
-      "News velocity +100% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 183 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 7"
+      "X/Twitter chatter: 163 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 8",
+      "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 51.1,
-    "baseline_recent": 25.8,
+    "live_signal": 24.3,
+    "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": 99.75407768622834,
-    "x_last_hour": 183,
-    "wiki_spike_pct": -35.159459988260615,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 163,
+    "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.10922888670317,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 8
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Why Missouri UFO Reports Near Whiteman AFB Are Rising",
-      "source": "ksisradio.com",
-      "url": "https://ksisradio.com/ixp/463/p/whiteman-afb-ufo-reports/"
-    },
-    {
-      "type": "news",
-      "text": "Insiders Offer A Defense Of Netflix And Streaming TV",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/rickellis/2026/07/12/insiders-offer-a-defense-of-netflix-and-streaming-tv/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4b5e5a4tvtu01rjcmvj842mlf7"
-    },
-    {
-      "type": "news",
-      "text": "Natation : apr\u00e8s trois titres de champion de France juniors , le Can\u00e9tois Nathan Muratory est devenu champion dEurope U18 du 200 m dos",
-      "source": "lindependant.fr",
-      "url": "https://www.lindependant.fr/2026/07/12/natation-apres-trois-titres-de-champion-de-france-juniors-le-canetois-nathan-muratory-est-devenu-champion-deurope-u18-du-200-m-dos-13465939.php"
-    },
-    {
-      "type": "news",
-      "text": "En marcha el remake de una de las pel\u00edculas de terror m\u00e1s ic\u00f3nicas de los 80 con una estrella de DC",
-      "source": "almomento.mx",
-      "url": "https://almomento.mx/en-marcha-el-remake-de-una-de-las-peliculas-de-terror-mas-iconicas-de-los-80-con-una-estrella-de-dc/"
-    },
-    {
-      "type": "news",
-      "text": "  This Is an Industry - Wide Problem : Country Singer Cancels Concerts Due to Low Ticket Sales",
-      "source": "americansongwriter.com",
-      "url": "https://americansongwriter.com/this-is-an-industry-wide-problem-country-singer-cancels-concerts-due-to-low-ticket-sales/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gcp8nuqq4a2gu0km3sooa203l2"
-    },
-    {
-      "type": "news",
-      "text": "\u0421\u043b\u0435\u0434\u044b \u0447\u0443\u0436\u0438\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u043d\u0430 \u0431\u0435\u0437\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u043e\u043c \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u0435 : \u043e\u0447\u0435\u0432\u0438\u0434\u0446\u044b \u043f\u0440\u0435\u0440\u0432\u0430\u043b\u0438 \u043c\u043e\u043b\u0447\u0430\u043d\u0438\u0435 \u0441\u043f\u0443\u0441\u0442\u044f \u043f\u043e\u043b\u0432\u0435\u043a\u0430",
-      "source": "pravda.ru",
-      "url": "https://www.pravda.ru/news/science/2370067-lunar-space-anomalies/"
-    },
-    {
-      "type": "news",
-      "text": "Race Around the World recap : Catch the week six films",
-      "source": "abc.net.au",
-      "url": "https://www.abc.net.au/news/2026-07-13/race-around-the-world-documentary-wrap/106727980"
-    },
-    {
-      "type": "news",
-      "text": "Thumbs Up diner catches fire in Roswell",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/07/12/thumbs-up-diner-catches-fire-roswell/"
+      "type": "x",
+      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076419410001109380"
     },
     {
       "type": "x",
-      "text": "just end my shit bro i dont even care anymore. i no longer have my vintage UFO mascot from EXPO'85, Tsukuba, Japan https://t.co/vKfptwkJH3",
+      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076393508756390275"
+      "url": "https://x.com/i/web/status/2076419338559475955"
     },
     {
       "type": "x",
-      "text": "@LeoDiCaprio @RoKhanna Wars are waged to obtain UFO tech which I had TRW constuct so I may wipe Israel off of the map since I've protected Palestine from the Judeans who wish to ritually mutilate the ",
+      "text": "@TRUMP_ARMY_ You mean that weren\u2019t no ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076393180090831004"
+      "url": "https://x.com/i/web/status/2076419318095437837"
     },
     {
       "type": "x",
-      "text": "@diangelo01 Bro went from 'former Diet member' to 'UFO-believing 5-year-old with a sweet tooth' in one bio and still got the blue check  Dating apps don't match you with partners, they match you with ",
+      "text": "@UAPJames Just when you thought UFOs couldn't go any lower... &lt;.&gt; Here's 'UFO expert' @DrPhil? https://t.co/hOpID2R0FT",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076392816553402575"
+      "url": "https://x.com/i/web/status/2076419312357658667"
     },
     {
       "type": "x",
-      "text": "UFO \u2261 Alien Spaceship \u2261 Faster-than-light Gravitational Wave Spaceship https://t.co/95iJWtPFEy",
+      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076392663142863221"
+      "url": "https://x.com/i/web/status/2076419274315325626"
     },
     {
       "type": "x",
-      "text": "The title of this, \"The Most Amazing / Astonishing Case of All\" also appears in the comic I'm currently editing, published in \"Ceux Venus d'ailleurs\" in 1973   Also worth noting the authors say this n",
+      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076392556489842699"
+      "url": "https://x.com/i/web/status/2076419253515726951"
     },
     {
-      "type": "x",
-      "text": "@RobertShidler @JMilei Millions are Being WARNED RIGHT NOW \u2757\ud83d\ude32 - Aliens, UFO, Why Files, Joe Rog... https://t.co/9KILIs7dtE via @YouTube  mind control",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076392486826623301"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2250\r Issue Time: 2026 Jul 12 2101 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 5 expect",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -162,12 +107,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2249\r Issue Time: 2026 Jul 12 1411 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3715\r Issue Time: 2026 Jul 12 0532 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -2296,6 +2235,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 51.1
+    },
+    {
+      "ts": "2026-07-12T21:32:39.434618Z",
+      "score": 32.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.3
     }
   ],
   "sources": [
