@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T12:36:38.210353Z",
-  "score": 27.2,
+  "generated_at": "2026-07-12T14:13:43.793395Z",
+  "score": 38.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -16.7,
-    "d24h": -9.8,
+    "d1h": 8.0,
+    "d24h": 1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 5.1,
+    "news_velocity": 15.3,
+    "social_chatter": 8.1,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,84 +31,66 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "12:36",
+    "generated_utc": "14:13",
     "top_drivers": [
-      "X/Twitter chatter: 88 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
+      "News velocity +64% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 137 UFO/UAP posts in the last hour",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.7,
+    "live_signal": 32.7,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 88,
+    "gdelt_spike_pct": 63.617318435754186,
+    "x_last_hour": 137,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@realannapaulina @FIFAWorldCup Oh look one day she's an alien expert the next a football expert shut the fuck up you yank twat and release UFO footage that isn't in 144p after all your hype dumbarse",
+      "text": "getting you ip address and you entire data is easier than ppl think and i plan on burning my body cuz nah they do weird stuff and it is so easy to get u even by using fuckin uap",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284383447703931"
+      "url": "https://x.com/i/web/status/2076308871451205742"
     },
     {
       "type": "x",
-      "text": "Hynek's \"Most Puzzling\" UFO Case (1953)    Herewith an excerpt from a Saturday Evening POST story,  an interview with Dr. J. Allen Hynek:  _______         In 1953, the year of the Robertson report, th",
+      "text": "@RepEricBurlison @RepEricBurlison another load of BS UFO files released for the fourth release on the run. What is it going to take for all you journalists, whistleblowers, researchers, congress peopl",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284306943545788"
+      "url": "https://x.com/i/web/status/2076308792409461126"
     },
     {
       "type": "x",
-      "text": "@michaelshermer @FernandoFLongo Closer investigation of the Blue Book files released in the 1970s reveal a rate of about 70% Unknowns minus the insufficient bad data cases deliberately included in the",
+      "text": "Filmed a ufo after a hail storm in ND. zoom in 200% to get a close look :) there are birds flying but this was not a bird. https://t.co/I75ciqK3iv",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284279114301445"
+      "url": "https://x.com/i/web/status/2076308625182920945"
     },
     {
       "type": "x",
-      "text": "I see a celebration with roses in Italy. I don\u2019t know what kind of celebration this is but I see a whole lot of roses.   I see flashing lights a lot of cop cars. Another shooting of a particular race.",
+      "text": "@0rodruin @HighlyStrange Sarfatti has a legitimate PhD in physics and was part of the 1970s Fundamental Fysiks Group that helped promote early quantum entanglement concepts. He has long claimed 1970s ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284230800228545"
+      "url": "https://x.com/i/web/status/2076308392323281274"
     },
     {
       "type": "x",
-      "text": "Hynek's \"Most Puzzling\" UFO Case (1953)    Herewith an excerpt from a Saturday Evening POST story,  an interview with Dr. J. Allen Hynek:  _______         In 1953, the year of the Robertson report, th",
+      "text": "@TheLaikYobaz The underground ballroom\u2014which is actually a massive bunker for the president and top generals\u2014and the release of UFO footage... get ready, perhaps?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284060297568563"
+      "url": "https://x.com/i/web/status/2076308079105196124"
     },
     {
       "type": "x",
-      "text": "@RealAlexJones Those Flock cameras just seem to up and kill themselves.  They may be in a UFO cult.",
+      "text": "Ross Coulthart: NASA UFO moon mystery unraveling? | Reality Check https://t.co/JYAAKkV84X via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076284002223177816"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3715\r Issue Time: 2026 Jul 12 0532 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2673\r Issue Time: 2026 Jul 12 0346 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 714\r Issue Time: 2026 Jul 12 0212 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "url": "https://x.com/i/web/status/2076307977791754746"
     },
     {
       "type": "neo",
@@ -2180,6 +2162,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.7
+    },
+    {
+      "ts": "2026-07-12T14:13:43.717089Z",
+      "score": 38.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 32.7
     }
   ],
   "sources": [
