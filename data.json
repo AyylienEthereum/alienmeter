@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T10:14:01.257570Z",
-  "score": 42.1,
+  "generated_at": "2026-07-12T11:32:42.710408Z",
+  "score": 26.2,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 9.6,
-    "d24h": 6.9,
+    "d1h": -9.0,
+    "d24h": -10.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 16.7,
-    "social_chatter": 4.3,
+    "news_velocity": 0.0,
+    "social_chatter": 4.4,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
-    "seismic": 3.2,
-    "alien_variance": 0.9
+    "seismic": 0.0,
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,67 +31,127 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "10:14",
+    "generated_utc": "11:32",
     "top_drivers": [
-      "News velocity +70% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 77 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 36.8,
-    "baseline_recent": 25.7,
+    "live_signal": 16.4,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": 69.61726070771468,
-    "x_last_hour": 75,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 77,
     "wiki_spike_pct": -30.12135419251441,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.4,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 5
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "May be they are men made and they know it. Technology might be  UFO. https://t.co/33a0yJ1vKo",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076248522534367730"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g96m6o58air157fug832cdo1o4"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
+      "source": "mignews.com",
+      "url": "https://mignews.com/news/politic/pentagon-opublikoval-novuyu-partiyu-rassekrechennyh-materialov-ob-nlo.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0420\u0435\u0442\u0440\u043e\u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 . \u041d\u0435\u043c\u0430\u043d , \u043c\u043e\u0440\u0441\u043a\u0430\u044f \u043a\u0430\u043f\u0443\u0441\u0442\u0430 \u0438 \u041d\u041b\u041e \u043a\u0430\u043a \u0440\u0435\u0431\u044f\u0442\u0430 \u0438\u0437 \u0413\u0440\u043e\u0434\u043d\u043e \u043f\u043b\u044b\u043b\u0438 \u043f\u043e \u0440\u0435\u043a\u0435 \u0432 \u0410\u043b\u0438\u0442\u0443\u0441 \u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u0413\u0440\u043e\u0434\u043d\u043e",
+      "source": "vgr.by",
+      "url": "https://vgr.by/2026/07/12/retronastroenie-neman-morskaya-kapusta-i-nlo-kak-rebyata-iz-grodno-plyli-po-reke-v-alitus/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vprmcqv4n312tjnqu4qi4e8871"
+    },
+    {
+      "type": "news",
+      "text": "\u0411\u0435\u043b\u044b\u0439 \u0434\u043e\u043c \u043d\u0430\u0437\u043d\u0430\u0447\u0438\u043b \u0430\u0441\u0442\u0440\u043e\u0444\u0438\u0437\u0438\u043a\u0430 \u0410\u0432\u0438 \u041b\u0451\u0431\u0430 \u0433\u043b\u0430\u0432\u043e\u0439 \u043d\u043e\u0432\u043e\u0433\u043e \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430 \u043f\u043e \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u041d\u041b\u041e",
+      "source": "ixbt.com",
+      "url": "https://www.ixbt.com/news/2026/07/12/belyj-dom-naznachil-astrofizika-avi-ljoba-glavoj-novogo-nauchnogo-soveta-po-izucheniju-nlo.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n8ns2ut1ffghtiiak7m687c2t7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3qg9s71320rc4nnbup6slv5h61"
+    },
+    {
+      "type": "news",
+      "text": "West - Current Conditions",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_1c8ce4f5-2bd8-51e0-865d-c163fe4467a0.html"
+    },
+    {
+      "type": "news",
+      "text": "Giornale radio del mattino domenica 12 luglio",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-12/giornale-radio-del-mattino-domenica-12-luglio/19452232/"
+    },
+    {
+      "type": "news",
+      "text": "Ce que Victor Wembanyama glissera ( peut - \u00eatre ) dans sa valise cet \u00e9t\u00e9",
+      "source": "nouvelobs.com",
+      "url": "https://www.nouvelobs.com/culture/20260712.OBS116607/ce-que-victor-wembanyama-glissera-peut-etre-dans-sa-valise-cet-ete.html"
     },
     {
       "type": "x",
-      "text": "@Sasanhono Yep, you wouldn't believe how wrong it was. In one instance it said the #UAP was definitely a bunch of skydivers holding hands. Crazy!",
+      "text": "All the UFO delusionist.  It is not magic and MIT didn't just invent this.  Stay Grounded https://t.co/8WX0VloNkN",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076248301343584654"
+      "url": "https://x.com/i/web/status/2076267758631768407"
     },
     {
       "type": "x",
-      "text": "@Guitarbizon Yes I'm a long time fan of  \ud83c\udfb8#UFO\ud83d\udef8  Back in the day I saw them live in concert a few times  One very memorable time I saw them at #UTA_TexasHall in #Arlington\ud83c\udde8\ud83c\uddf1 on #CooperStreet where we ",
+      "text": "UFO Release #4: What Actually Matters? | Full Richard Dolan Analysis https://t.co/gO397D9ELu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076248090198020154"
+      "url": "https://x.com/i/web/status/2076267660069740892"
     },
     {
       "type": "x",
-      "text": "New videos released from declassified UFO files. https://t.co/dZ6iwYonyf",
+      "text": "@LoudOutside I guess ufo aliens really do exist...WTF is that thing?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076247736492408986"
+      "url": "https://x.com/i/web/status/2076267125950333088"
     },
     {
       "type": "x",
-      "text": "BREAKING: Former Pentagon UFO investigator Luis Elizondo claims the U.S. government possesses photos showing giant, monolith-like structures on the Moon.",
+      "text": "US Military Releases 4 Mysterious UFO Videos, Including 'Six-Pointed Star' Object https://t.co/3AXG5MSk7j",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076247143560434126"
+      "url": "https://x.com/i/web/status/2076266838627856654"
     },
     {
       "type": "x",
-      "text": "BREAKING: Former Pentagon UFO investigator Luis Elizondo claims the U.S. government possesses photos showing giant, monolith-like structures on the Moon.",
+      "text": "@dragon011926 1991 - Black triangular UFO. I've always said it was enormous\u2014as big as an aircraft carrier\u2014with a light pattern similar to the one in Lubbock. It blocked out the stars; it was blacker t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076246532257644992"
+      "url": "https://x.com/i/web/status/2076266618359849259"
+    },
+    {
+      "type": "x",
+      "text": "@Share_Talk Weekly Stock Market News Review, Sunday 12th July 2026 \ud83c\udf79 #AVCT #EZJ #FMET #FCM #PALM #QHE #ZEN #PLSR #VOD #GDR #PXC #SKA #ARCM #XTR #QBT #KEN #GST #MKA #ECR #HAMA #UJO #SVML #GMET #PYC #GS",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076266313324896729"
     },
     {
       "type": "swpc",
@@ -110,12 +170,6 @@
       "text": "Space Weather Message Code: ALTTP4\r Serial Number: 714\r Issue Time: 2026 Jul 12 0212 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: South Sandwich Islands region",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -2173,6 +2227,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 36.8
+    },
+    {
+      "ts": "2026-07-12T11:32:42.635142Z",
+      "score": 26.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.4
     }
   ],
   "sources": [
