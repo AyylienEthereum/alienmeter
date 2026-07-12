@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T14:13:43.793395Z",
-  "score": 38.9,
+  "generated_at": "2026-07-12T15:17:09.548358Z",
+  "score": 31.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 8.0,
-    "d24h": 1.7,
+    "d1h": -10.3,
+    "d24h": -2.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 15.3,
-    "social_chatter": 8.1,
+    "news_velocity": 0.0,
+    "social_chatter": 9.2,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,84 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "14:13",
+    "generated_utc": "15:17",
     "top_drivers": [
-      "News velocity +64% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 137 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 154 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 7",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 32.7,
+    "live_signal": 23.6,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": 63.617318435754186,
-    "x_last_hour": 137,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 154,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 7
   },
   "ticker": [
     {
       "type": "x",
-      "text": "getting you ip address and you entire data is easier than ppl think and i plan on burning my body cuz nah they do weird stuff and it is so easy to get u even by using fuckin uap",
+      "text": "Trump Administration Releases Shocking UFO Video And Seemingly Nobody Cares https://t.co/tdBRlW47sy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076308871451205742"
+      "url": "https://x.com/i/web/status/2076324944942637170"
     },
     {
       "type": "x",
-      "text": "@RepEricBurlison @RepEricBurlison another load of BS UFO files released for the fourth release on the run. What is it going to take for all you journalists, whistleblowers, researchers, congress peopl",
+      "text": "\ud83d\udea8The Pentagon dropped Tranche 4, but what are they still hiding? \ud83d\udef8  We break down the latest UAP files, separate facts from distractions, and look at the irrefutable evidence of craft &amp; bodies hid",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076308792409461126"
+      "url": "https://x.com/i/web/status/2076324836930891957"
     },
     {
       "type": "x",
-      "text": "Filmed a ufo after a hail storm in ND. zoom in 200% to get a close look :) there are birds flying but this was not a bird. https://t.co/I75ciqK3iv",
+      "text": "@seanhannity check this out #UFO #UAP ;USA Gov has been doing crash retrieval since at least the 40s.  https://t.co/qFbBaAAssw",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076308625182920945"
+      "url": "https://x.com/i/web/status/2076324534873911514"
     },
     {
       "type": "x",
-      "text": "@0rodruin @HighlyStrange Sarfatti has a legitimate PhD in physics and was part of the 1970s Fundamental Fysiks Group that helped promote early quantum entanglement concepts. He has long claimed 1970s ",
+      "text": "Anyways if u guys wanna watch the episode for yourself. It\u2019s.  On hbo max ufo witness. Season 1 episode 8. Where Ben Hanson speaks to a lady who claims she was abuducted impregnated and left w fetus l",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076308392323281274"
+      "url": "https://x.com/i/web/status/2076324346327404609"
     },
     {
       "type": "x",
-      "text": "@TheLaikYobaz The underground ballroom\u2014which is actually a massive bunker for the president and top generals\u2014and the release of UFO footage... get ready, perhaps?",
+      "text": "@AdrianneCurry @Asdandapplesauc I\u2019m with ya. It\u2019s getting to be a fucking cliche at this point. Waiting for the inevitable \u201cUFO are Jews in Space!\u201d. https://t.co/ZX2TGtMfKL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076308079105196124"
+      "url": "https://x.com/i/web/status/2076324210780069898"
     },
     {
       "type": "x",
-      "text": "Ross Coulthart: NASA UFO moon mystery unraveling? | Reality Check https://t.co/JYAAKkV84X via @YouTube",
+      "text": "The Forgotten UFO Wave -- Wytheville, Virginia (1987-1988) https://t.co/ep2jbUttmZ via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076307977791754746"
+      "url": "https://x.com/i/web/status/2076324181264810483"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2039\r Issue Time: 2026 Jul 12 1503 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2249\r Issue Time: 2026 Jul 12 1411 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3715\r Issue Time: 2026 Jul 12 0532 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
@@ -2169,6 +2187,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 32.7
+    },
+    {
+      "ts": "2026-07-12T15:17:09.472732Z",
+      "score": 31.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.6
     }
   ],
   "sources": [
