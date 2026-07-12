@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T00:10:05.143111Z",
-  "score": 32.5,
+  "generated_at": "2026-07-12T03:55:12.921920Z",
+  "score": 35.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -14.1,
-    "d24h": 1.4,
+    "d1h": 2.2,
+    "d24h": 3.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.2,
+    "social_chatter": 10.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 6.0,
     "seismic": 3.2,
-    "alien_variance": 3.2
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "00:10",
+    "generated_utc": "03:55",
     "top_drivers": [
-      "Desclasificaci\u00f3n de archivos sobre OVNIS de EU desata ola de memes ; internautas lo toman a broma",
-      "X/Twitter chatter: 187 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.5,
+    "live_signal": 28.0,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -50,13 +50,37 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 187,
-    "wiki_spike_pct": -38.28444335789013,
+    "x_last_hour": 176,
+    "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ih177fc2b50pml1a09giltrcb4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3948kmg8kmmc5v5psc8vvc72t5"
+    },
+    {
+      "type": "news",
+      "text": "I Watched Independence Day With A Zoomer Who Had Never Seen It . Her Reactions Were Maddening",
+      "source": "cinemablend.com",
+      "url": "https://www.cinemablend.com/movies/i-watched-independence-day-zoomer-had-never-seen-it-reactions-maddening-bill-pullman"
+    },
+    {
+      "type": "news",
+      "text": "Est - ce quun c\u00e2ble a aid\u00e9 Bellingham et les Anglais \u00e0 se qualifier en demi - finales ? - Mondial 2026 - Quarts - Norv\u00e8ge - Angleterre ( 1 - 2 ) ",
+      "source": "sofoot.com",
+      "url": "https://www.sofoot.com/breves/coupe-du-monde-2026-est-ce-quun-cable-de-camera-a-aide-jude-bellingham-et-les-anglais-a-se-qualifier-en-demie-finale-de-coupe-du-monde-2026"
+    },
     {
       "type": "news",
       "text": "Desclasificaci\u00f3n de archivos sobre OVNIS de EU desata ola de memes ; internautas lo toman a broma",
@@ -94,68 +118,56 @@
       "url": "https://www.dailystar.co.uk/news/latest-news/white-house-release-clearest-ufo-37419424"
     },
     {
-      "type": "news",
-      "text": "Estados Unidos desclasifica archivos de ovnis con fotos de la Nasa",
-      "source": "pulzo.com",
-      "url": "https://www.pulzo.com/mundo/estados-unidos-desclasifica-archivos-ovnis-con-fotos-nasa-PP5243194"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/693c998d-7211-551a-9835-0092eef8a23e/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "EUA divulgam imagens de objeto n\u00e3o identificado registrado por astronautas da Columbia",
-      "source": "meionews.com",
-      "url": "https://www.meionews.com/curiosidades/eua-divulgam-imagens-de-objeto-nao-identificado-registrado-por-astronautas-da-columbia-569252"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ao58jle059bk3a360e2jc0rph2"
+      "type": "x",
+      "text": "@notrealanarchy @OwenBenjamin That new ufo video was clearer and I dont know what the hell it was either.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076153135966343321"
     },
     {
       "type": "x",
-      "text": "@PeteHegseth Thank you for declassifying the UAP technology so that it can be used against our communist enemies.",
+      "text": "@realannapaulina @FIFAWorldCup But I do appreciate all the UAP stuff you\u2019re doing. Thanks for that.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076096591774077315"
+      "url": "https://x.com/i/web/status/2076153085433684378"
     },
     {
       "type": "x",
-      "text": "@TheAboveLimits_ @OwenShroyer1776 This video isn't from the official US government or White House. It has a fake White House logo and \"Interstellar UAP\" text overlay. It's edited/satirical content cir",
+      "text": "Orders to blow up any satellite or spaceship or UFO or ticket or drone or and device whatsoever which \u00e9mits freqencies or radiation or vibrations  to my residence - 1863 Queen at East Toronto , or tha",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076096432948285670"
+      "url": "https://x.com/i/web/status/2076152671254577328"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP Brilliant deduction of something the UFO community has known for 40 years, Mace. You\u2019re quite the shrewd detective. \ud83d\ude44",
+      "text": "@Milajoy We\u2019re interested in what\u2019s inside. Flying objects have become a daily occurrence. 'Hey! Look at that UFO.'",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076096284130197927"
+      "url": "https://x.com/i/web/status/2076152612177486300"
     },
     {
       "type": "x",
-      "text": "@I_D_Official The power capabilities attributed to the 2004 USS Nimitz Tic Tac UFO incident defy conventional aerospace engineering, requiring an estimated 1300 GW of power, can they get all that powe",
+      "text": "How exactly would UFO Disclosure ruin religion?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076096263766913149"
+      "url": "https://x.com/i/web/status/2076152454048063995"
     },
     {
       "type": "x",
-      "text": "@chadcollyer @ZachBrowne This is a photo from the declassified 1948 USAF Project SIGN progress report (one of the files in the DoD's July 10, 2026 UAP release). It shows an object tied to an early sig",
+      "text": "@Milajoy That doesn\u2019t look like a UFO but and Israel drone. Just saying",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076096177435447706"
-    },
-    {
-      "type": "x",
-      "text": "Are UFOs No Longer a Myth? Where are UAP Coming From? https://t.co/xUQq9XaW2M via @YouTube",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076095934157500835"
+      "url": "https://x.com/i/web/status/2076152218248519914"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3714\r Issue Time: 2026 Jul 11 0501 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2673\r Issue Time: 2026 Jul 12 0346 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 714\r Issue Time: 2026 Jul 12 0212 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1515\r Issue Time: 2026 Jul 12 0211 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -2193,6 +2205,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.5
+    },
+    {
+      "ts": "2026-07-12T03:55:12.854728Z",
+      "score": 35.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 28.0
     }
   ],
   "sources": [
