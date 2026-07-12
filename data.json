@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T16:26:32.261917Z",
-  "score": 30.6,
+  "generated_at": "2026-07-12T17:32:37.124157Z",
+  "score": 31.5,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.4,
-    "d24h": -5.6,
+    "d1h": 4.3,
+    "d24h": -2.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.6,
+    "social_chatter": 9.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "16:26",
+    "generated_utc": "17:32",
     "top_drivers": [
-      "X/Twitter chatter: 161 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 163 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 7",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.1,
+    "live_signal": 23.3,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 161,
-    "wiki_spike_pct": -30.12135419251441,
+    "gdelt_spike_pct": -82.40481641651827,
+    "x_last_hour": 163,
+    "wiki_spike_pct": -16.193379271997934,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 7
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "\ud83d\udca5Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon. https://t.co/WsyVoNwkSx",
+      "text": "by demons or by MK Ultra?  #ufo\u30ad\u30e3\u30c3\u30c1\u30e3\u30fc\u306e\u65e5  #ufotwitter  #ufox  #Patriots  #Jesus https://t.co/m8qtcQSeir",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076342095132946909"
+      "url": "https://x.com/i/web/status/2076358640240361673"
     },
     {
       "type": "x",
-      "text": "@u_m_a_m_i At this point people have been so desensitized to the UFO/alien subject that most people won\u2019t even care anymore",
+      "text": "Why haven\u2019t #aliens visited Earth yet? Well, I recently\u00a0saw an article\u00a0that gave three reasons why #extraterrestrial visits might not be occurring. I\u2019ll share those with you, and then I\u2019ll offer a rea",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076341650331201963"
+      "url": "https://x.com/i/web/status/2076358499337191857"
     },
     {
       "type": "x",
-      "text": "@JoshWhoX Technically all UFOs are UAPs\u2026 but not all UAPs are UFOs..  It\u2019s both a new category to include every possibility and using that category to minimise UFO sightings as just natural phenomena ",
+      "text": "@BeMuslimNow I need a UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076341524304896046"
+      "url": "https://x.com/i/web/status/2076358417040457958"
     },
     {
       "type": "x",
-      "text": "Absence of acoustic signatures is a common, defining trait  documented in UAP/UFO reports. Eyewitnesses &amp; military aviators describe observing objects perform rapid, high-G maneuvers, accelerate, ",
+      "text": "@HighlyStrange UFO business model continues. Making it up as ya go!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076341517606924637"
+      "url": "https://x.com/i/web/status/2076358199293161778"
     },
     {
       "type": "x",
-      "text": "Watch: Pentagon releases 19 new UFO videos https://t.co/jjezGnNTWF",
+      "text": "@Ryanmatta @BasedSamParker You\u2019re worse than the UFO disclosure peeps. All smoke!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076341499617235221"
+      "url": "https://x.com/i/web/status/2076358070473474523"
     },
     {
       "type": "x",
-      "text": "The Galileo Project - #SciFi #UFO #Consipracy #Thriller  Robert Spire is about to be thrust into the rapidly evolving UFO #phenomenon, in this fast-paced #mystery thriller.  Learn More - https://t.co/",
+      "text": "@fifamedia It did hit, right in front of the circle, but you see this also, but after 5 minutes, you find it was too late to cancel the goal. But you should react immediately,we can see the speed goes",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076341342460854525"
+      "url": "https://x.com/i/web/status/2076358069290783122"
     },
     {
       "type": "swpc",
@@ -2201,6 +2201,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.1
+    },
+    {
+      "ts": "2026-07-12T17:32:37.050213Z",
+      "score": 31.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.3
     }
   ],
   "sources": [
