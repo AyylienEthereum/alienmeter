@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T17:32:37.124157Z",
-  "score": 31.5,
+  "generated_at": "2026-07-12T18:36:46.818317Z",
+  "score": 34.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 4.3,
-    "d24h": -2.7,
+    "d1h": -4.1,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.7,
+    "social_chatter": 10.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
-    "seismic": 0.0,
-    "alien_variance": 1.9
+    "seismic": 2.1,
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "17:32",
+    "generated_utc": "18:36",
     "top_drivers": [
-      "X/Twitter chatter: 163 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 167 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 7",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,56 +41,56 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.3,
+    "live_signal": 27.5,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": -82.40481641651827,
-    "x_last_hour": 163,
-    "wiki_spike_pct": -16.193379271997934,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 167,
+    "wiki_spike_pct": -30.12135419251441,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 4.10922888670317,
     "swpc_alerts_24h": 7
   },
   "ticker": [
     {
       "type": "x",
-      "text": "by demons or by MK Ultra?  #ufo\u30ad\u30e3\u30c3\u30c1\u30e3\u30fc\u306e\u65e5  #ufotwitter  #ufox  #Patriots  #Jesus https://t.co/m8qtcQSeir",
+      "text": "@catturd2 The autopsy report will be locked down tighter than a UFO photo. And keep in mind... https://t.co/NEpTSeqSC4",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358640240361673"
+      "url": "https://x.com/i/web/status/2076375071623704740"
     },
     {
       "type": "x",
-      "text": "Why haven\u2019t #aliens visited Earth yet? Well, I recently\u00a0saw an article\u00a0that gave three reasons why #extraterrestrial visits might not be occurring. I\u2019ll share those with you, and then I\u2019ll offer a rea",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/lrsyNlFq6u  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358499337191857"
+      "url": "https://x.com/i/web/status/2076375046667337907"
     },
     {
       "type": "x",
-      "text": "@BeMuslimNow I need a UFO",
+      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358417040457958"
+      "url": "https://x.com/i/web/status/2076375040212259281"
     },
     {
       "type": "x",
-      "text": "@HighlyStrange UFO business model continues. Making it up as ya go!",
+      "text": "Laura Eisenhower &amp; her Cohorts Journey To Truth Are Set Up For The Fall  Sadly, these selfish characters spent years blocking my intel   They prefer to pretend I don't exist, along with Devon Walk",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358199293161778"
+      "url": "https://x.com/i/web/status/2076375028854383104"
     },
     {
       "type": "x",
-      "text": "@Ryanmatta @BasedSamParker You\u2019re worse than the UFO disclosure peeps. All smoke!",
+      "text": "@bradsteaks @AlchemyAmerican @neiltyson @ericweinstein The only people you find interesting are UAP cultists who believe shitty grainy blurry photos and videos and anecdotes are enough evidence that a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358070473474523"
+      "url": "https://x.com/i/web/status/2076375018334769427"
     },
     {
       "type": "x",
-      "text": "@fifamedia It did hit, right in front of the circle, but you see this also, but after 5 minutes, you find it was too late to cancel the goal. But you should react immediately,we can see the speed goes",
+      "text": "@SubRosaMagick Just to add authentic UFO experiences also has these phenomena happen to them! Usually just before an abduction or heavy UFO sighting.  This phenomenon isn't always a protease of death ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076358069290783122"
+      "url": "https://x.com/i/web/status/2076374671633658052"
     },
     {
       "type": "swpc",
@@ -109,6 +109,12 @@
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3715\r Issue Time: 2026 Jul 12 0532 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 2 km ESE of Frazier Park, CA",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -2208,6 +2214,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.3
+    },
+    {
+      "ts": "2026-07-12T18:36:46.741317Z",
+      "score": 34.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.5
     }
   ],
   "sources": [
