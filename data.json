@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:32:39.511480Z",
-  "score": 32.4,
+  "generated_at": "2026-07-12T22:30:40.482347Z",
+  "score": 37.6,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,12 +10,12 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": 6.7,
+    "d1h": 2.8,
+    "d24h": 12.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 6.1,
     "social_chatter": 9.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.1,
-    "alien_variance": 0.8
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,25 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "21:32",
+    "generated_utc": "22:30",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +25% vs 7-day baseline (GDELT)",
       "X/Twitter chatter: 163 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 8",
-      "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
+      "NOAA space-weather alerts active: 8"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.3,
+    "live_signal": 31.0,
     "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 25.436872909699005,
     "x_last_hour": 163,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419410001109380"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=van2nbo8afsukf1ivvmr535511"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9c4mrghofqoc788rhjlv0usui6"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon Releases New Batch Of UFO Files , China Tianwen - 2 Reaches Its Asteroid Target , And More Science Stories",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/2213137/pentagon-releases-ufo-files-china-tianwen-2-asteroid-science-news/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a946pgpbq947iih4qb80nlo483"
+    },
+    {
+      "type": "news",
+      "text": "Why Missouri UFO Reports Near Whiteman AFB Are Rising",
+      "source": "ksisradio.com",
+      "url": "https://ksisradio.com/ixp/463/p/whiteman-afb-ufo-reports/"
+    },
+    {
+      "type": "news",
+      "text": "Insiders Offer A Defense Of Netflix And Streaming TV",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/rickellis/2026/07/12/insiders-offer-a-defense-of-netflix-and-streaming-tv/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4b5e5a4tvtu01rjcmvj842mlf7"
+    },
+    {
+      "type": "news",
+      "text": "Natation : apr\u00e8s trois titres de champion de France juniors , le Can\u00e9tois Nathan Muratory est devenu champion dEurope U18 du 200 m dos",
+      "source": "lindependant.fr",
+      "url": "https://www.lindependant.fr/2026/07/12/natation-apres-trois-titres-de-champion-de-france-juniors-le-canetois-nathan-muratory-est-devenu-champion-deurope-u18-du-200-m-dos-13465939.php"
+    },
+    {
+      "type": "news",
+      "text": "En marcha el remake de una de las pel\u00edculas de terror m\u00e1s ic\u00f3nicas de los 80 con una estrella de DC",
+      "source": "almomento.mx",
+      "url": "https://almomento.mx/en-marcha-el-remake-de-una-de-las-peliculas-de-terror-mas-iconicas-de-los-80-con-una-estrella-de-dc/"
+    },
+    {
+      "type": "news",
+      "text": "  This Is an Industry - Wide Problem : Country Singer Cancels Concerts Due to Low Ticket Sales",
+      "source": "americansongwriter.com",
+      "url": "https://americansongwriter.com/this-is-an-industry-wide-problem-country-singer-cancels-concerts-due-to-low-ticket-sales/"
     },
     {
       "type": "x",
-      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
+      "text": "\ud83d\udef8\ud83d\udc7d Mysterious UFO Sighting at Leasowe Bay! \ud83d\ude31\ud83c\udf0a https://t.co/MU5X8MFDR5",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419338559475955"
+      "url": "https://x.com/i/web/status/2076433924788523202"
     },
     {
       "type": "x",
-      "text": "@TRUMP_ARMY_ You mean that weren\u2019t no ufo",
+      "text": "What if we've been asking the wrong question? For decades, the conversation has been: \"Do UFOs exist?\" Today, governments are holding hearings.\u2028Military pilots are sharing their experiences.\u2028Scientist",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419318095437837"
+      "url": "https://x.com/i/web/status/2076433600216760348"
     },
     {
       "type": "x",
-      "text": "@UAPJames Just when you thought UFOs couldn't go any lower... &lt;.&gt; Here's 'UFO expert' @DrPhil? https://t.co/hOpID2R0FT",
+      "text": "@SilvaRecord You forgot to add a comma, then \u201con crack\u201d after UFO disclosure advocates.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419312357658667"
+      "url": "https://x.com/i/web/status/2076433292849815576"
     },
     {
       "type": "x",
-      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
+      "text": "The authentic \"UFO\" sightings are merely those who found the \"egg\" inside of them and activated it... Metamorphosis complete... birth of the Sons of Light. They join the \"Wild Hunt\" to destroy \"Jah\" a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419274315325626"
+      "url": "https://x.com/i/web/status/2076433060636262698"
     },
     {
       "type": "x",
-      "text": "This conversation was wild...   I just had an AI Deep Tech CEO on and we went deep into UFO disclosure misinformation campaigns, The weaponisation of our data, the elite takeovers in the AI sector and",
+      "text": "...THE INCREDIBLE STRING BAND, NICK DRAKE, VASHTI BUNYAN. HE ALSO PRODUCED PINK FLOYD\u2019S FIRST SINGLE AND CO-FOUNDED THE GREAT PSYCHEDELIC ROCK CLUB, UFO. AFTER RESHAPING THE UK\u2019S MUSICAL LANDSCAPE, WI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076419253515726951"
+      "url": "https://x.com/i/web/status/2076432978469646625"
+    },
+    {
+      "type": "x",
+      "text": "Back in the days when M.U.F.O.N. stood for Midwest UFO Network, John Schuessler was there. In 1969, along with Walt Andrus, John, an aerospace engineer with an interest in Unidentified Flying Objects,",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076432903559668051"
     },
     {
       "type": "swpc",
@@ -2242,6 +2303,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.3
+    },
+    {
+      "ts": "2026-07-12T22:30:40.414151Z",
+      "score": 37.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 31.0
     }
   ],
   "sources": [
