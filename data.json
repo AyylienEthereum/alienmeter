@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T03:55:12.921920Z",
-  "score": 35.2,
+  "generated_at": "2026-07-12T06:28:37.553686Z",
+  "score": 43.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 2.2,
-    "d24h": 3.3,
+    "d1h": 9.5,
+    "d24h": 12.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 10.5,
+    "news_velocity": 16.0,
+    "social_chatter": 6.4,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.2,
-    "alien_variance": 2.6
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,68 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "03:55",
+    "generated_utc": "06:28",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5",
-      "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
+      "Pentagon releases new videos of UFOs",
+      "News velocity +67% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 109 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.0,
+    "live_signal": 39.2,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 176,
+    "gdelt_spike_pct": 66.72018495921907,
+    "x_last_hour": 109,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Pentagon releases new videos of UFOs",
+      "source": "azernews.az",
+      "url": "https://www.azernews.az/region/260937.html"
+    },
+    {
+      "type": "news",
+      "text": " Ce jeu permet de d\u00e9couvrir des lieux improbables et incroyables  : T\u00e8rra Aventura , lapplication de g\u00e9ocaching qui attire des millions de curieux dans les villages secrets de Nouvelle - Aquitaine",
+      "source": "sudouest.fr",
+      "url": "https://www.sudouest.fr/tourisme/nature/ce-jeu-permet-de-decouvrir-des-lieux-improbables-et-incroyables-terra-aventura-l-application-de-geocaching-qui-attire-des-millions-de-curieux-dans-les-villages-secrets-de-nouvelle-aquitaine-29273901.php"
+    },
+    {
+      "type": "news",
+      "text": "FotoDocs : Los dep\u00f3sitos de agua de Can Boada",
+      "source": "lavanguardia.com",
+      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260712/11588135/fotodocs-depositos-agua-can-boada.html"
+    },
+    {
+      "type": "news",
+      "text": "OVNIs en Huelva : los testimonios que mantienen vivo uno de los grandes enigmas de Andaluc\u00eda",
+      "source": "huelvainformacion.es",
+      "url": "https://www.huelvainformacion.es/huelva/ovnis-huelva-testimonios-mantienen-vivo-enigmas-andalucia_0_2007368686.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b1224f54oqkg4brho6kb0d4sf6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ndjhj02tt7dirhq6hprgevr781"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -82,76 +118,46 @@
       "url": "https://www.sofoot.com/breves/coupe-du-monde-2026-est-ce-quun-cable-de-camera-a-aide-jude-bellingham-et-les-anglais-a-se-qualifier-en-demie-finale-de-coupe-du-monde-2026"
     },
     {
-      "type": "news",
-      "text": "Desclasificaci\u00f3n de archivos sobre OVNIS de EU desata ola de memes ; internautas lo toman a broma",
-      "source": "eluniversal.com.mx",
-      "url": "https://www.eluniversal.com.mx/tendencias/desclasificacion-de-archivos-sobre-ovnis-de-eu-desata-ola-de-memes-internautas-lo-toman-a-broma/"
-    },
-    {
-      "type": "news",
-      "text": "Inc\u00eandio letal no sul da Espanha evolui favoravelmente ap\u00f3s dois dias",
-      "source": "correiobraziliense.com.br",
-      "url": "https://www.correiobraziliense.com.br/mundo/2026/07/7459599-incendio-letal-no-sul-da-espanha-evolui-favoravelmente-apos-dois-dias.html"
-    },
-    {
-      "type": "news",
-      "text": "UFOs : The Lost Evidence",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/7ba2b74d-6839-598d-9804-c93408c293f4/ufos-the-lost-evidence"
-    },
-    {
-      "type": "news",
-      "text": "Blackgrove Global Risk Launches Intelligence Platform Treating UAP as an Institutional and Capital Risk Variable",
-      "source": "hawaiitelegraph.com",
-      "url": "http://www.hawaiitelegraph.com/news/279181306/blackgrove-global-risk-launches-intelligence-platform-treating-uap-as-an-institutional-and-capital-risk-variable"
-    },
-    {
-      "type": "news",
-      "text": "Why Missouri UFO Reports Near Whiteman AFB Are Rising",
-      "source": "979kickfm.com",
-      "url": "https://979kickfm.com/ixp/463/p/whiteman-afb-ufo-reports/"
-    },
-    {
-      "type": "news",
-      "text": "White House release clearest UFO footage ever in biggest proof yet that aliens exist",
-      "source": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/news/latest-news/white-house-release-clearest-ufo-37419424"
+      "type": "x",
+      "text": "@grok This one here I found this awhile back, stuck in between some old 1800's UAP stuff but this one here was clearly more modern surveillance pic. Just recently saw someone else post it so I went ba",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076191848742162512"
     },
     {
       "type": "x",
-      "text": "@notrealanarchy @OwenBenjamin That new ufo video was clearer and I dont know what the hell it was either.",
+      "text": "In 1961, Betty &amp; Barney Hill lost hours on a lonely highway. Under hypnosis, they described an alien abduction, strange medical exams, and a star map linked to Zeta Reticuli. One of history's most",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076153135966343321"
+      "url": "https://x.com/i/web/status/2076191306481864992"
     },
     {
       "type": "x",
-      "text": "@realannapaulina @FIFAWorldCup But I do appreciate all the UAP stuff you\u2019re doing. Thanks for that.",
+      "text": "Two things need to happen. 1. @NASA needs to cough up everything they have on the Apollo Missions and the Black Knight satellite. 2. @DeptofWar needs to cough up everything they have on the Roswell cr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076153085433684378"
+      "url": "https://x.com/i/web/status/2076191269705904510"
     },
     {
       "type": "x",
-      "text": "Orders to blow up any satellite or spaceship or UFO or ticket or drone or and device whatsoever which \u00e9mits freqencies or radiation or vibrations  to my residence - 1863 Queen at East Toronto , or tha",
+      "text": "@DrPhil @EnvoyNewsFeed Wake up babe the UFO ziop isn't working so now they're putting ol' Dr Phil to work \ud83e\udd23",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076152671254577328"
+      "url": "https://x.com/i/web/status/2076191199757848821"
     },
     {
       "type": "x",
-      "text": "@Milajoy We\u2019re interested in what\u2019s inside. Flying objects have become a daily occurrence. 'Hey! Look at that UFO.'",
+      "text": "Security officers CHASED UFO by car near a nuclear site | Elizabeth Varg... https://t.co/IoNo0LnvyK via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076152612177486300"
+      "url": "https://x.com/i/web/status/2076190911835295930"
     },
     {
       "type": "x",
-      "text": "How exactly would UFO Disclosure ruin religion?",
+      "text": "@MattDaWhite How bad has it become? Let me tell you how bad it's become. Even Grok has had enough of this UFO Grifting that he's started blocking UFO inquiries from people.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076152454048063995"
+      "url": "https://x.com/i/web/status/2076190863261352104"
     },
     {
-      "type": "x",
-      "text": "@Milajoy That doesn\u2019t look like a UFO but and Israel drone. Just saying",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076152218248519914"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3715\r Issue Time: 2026 Jul 12 0532 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -162,12 +168,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP4\r Serial Number: 714\r Issue Time: 2026 Jul 12 0212 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1515\r Issue Time: 2026 Jul 12 0211 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -2212,6 +2212,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.0
+    },
+    {
+      "ts": "2026-07-12T06:28:37.478766Z",
+      "score": 43.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 39.2
     }
   ],
   "sources": [
