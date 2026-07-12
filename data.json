@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T11:32:42.710408Z",
-  "score": 26.2,
+  "generated_at": "2026-07-12T12:36:38.210353Z",
+  "score": 27.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -9.0,
-    "d24h": -10.0,
+    "d1h": -16.7,
+    "d24h": -9.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.4,
+    "social_chatter": 5.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "11:32",
+    "generated_utc": "12:36",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 77 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 88 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.4,
-    "baseline_recent": 25.8,
+    "live_signal": 17.7,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 77,
+    "x_last_hour": 88,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g96m6o58air157fug832cdo1o4"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
-      "source": "mignews.com",
-      "url": "https://mignews.com/news/politic/pentagon-opublikoval-novuyu-partiyu-rassekrechennyh-materialov-ob-nlo.html"
-    },
-    {
-      "type": "news",
-      "text": "\u0420\u0435\u0442\u0440\u043e\u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 . \u041d\u0435\u043c\u0430\u043d , \u043c\u043e\u0440\u0441\u043a\u0430\u044f \u043a\u0430\u043f\u0443\u0441\u0442\u0430 \u0438 \u041d\u041b\u041e \u043a\u0430\u043a \u0440\u0435\u0431\u044f\u0442\u0430 \u0438\u0437 \u0413\u0440\u043e\u0434\u043d\u043e \u043f\u043b\u044b\u043b\u0438 \u043f\u043e \u0440\u0435\u043a\u0435 \u0432 \u0410\u043b\u0438\u0442\u0443\u0441 \u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u0413\u0440\u043e\u0434\u043d\u043e",
-      "source": "vgr.by",
-      "url": "https://vgr.by/2026/07/12/retronastroenie-neman-morskaya-kapusta-i-nlo-kak-rebyata-iz-grodno-plyli-po-reke-v-alitus/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vprmcqv4n312tjnqu4qi4e8871"
-    },
-    {
-      "type": "news",
-      "text": "\u0411\u0435\u043b\u044b\u0439 \u0434\u043e\u043c \u043d\u0430\u0437\u043d\u0430\u0447\u0438\u043b \u0430\u0441\u0442\u0440\u043e\u0444\u0438\u0437\u0438\u043a\u0430 \u0410\u0432\u0438 \u041b\u0451\u0431\u0430 \u0433\u043b\u0430\u0432\u043e\u0439 \u043d\u043e\u0432\u043e\u0433\u043e \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430 \u043f\u043e \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u041d\u041b\u041e",
-      "source": "ixbt.com",
-      "url": "https://www.ixbt.com/news/2026/07/12/belyj-dom-naznachil-astrofizika-avi-ljoba-glavoj-novogo-nauchnogo-soveta-po-izucheniju-nlo.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n8ns2ut1ffghtiiak7m687c2t7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3qg9s71320rc4nnbup6slv5h61"
-    },
-    {
-      "type": "news",
-      "text": "West - Current Conditions",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_1c8ce4f5-2bd8-51e0-865d-c163fe4467a0.html"
-    },
-    {
-      "type": "news",
-      "text": "Giornale radio del mattino domenica 12 luglio",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-12/giornale-radio-del-mattino-domenica-12-luglio/19452232/"
-    },
-    {
-      "type": "news",
-      "text": "Ce que Victor Wembanyama glissera ( peut - \u00eatre ) dans sa valise cet \u00e9t\u00e9",
-      "source": "nouvelobs.com",
-      "url": "https://www.nouvelobs.com/culture/20260712.OBS116607/ce-que-victor-wembanyama-glissera-peut-etre-dans-sa-valise-cet-ete.html"
+      "type": "x",
+      "text": "@realannapaulina @FIFAWorldCup Oh look one day she's an alien expert the next a football expert shut the fuck up you yank twat and release UFO footage that isn't in 144p after all your hype dumbarse",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076284383447703931"
     },
     {
       "type": "x",
-      "text": "All the UFO delusionist.  It is not magic and MIT didn't just invent this.  Stay Grounded https://t.co/8WX0VloNkN",
+      "text": "Hynek's \"Most Puzzling\" UFO Case (1953)    Herewith an excerpt from a Saturday Evening POST story,  an interview with Dr. J. Allen Hynek:  _______         In 1953, the year of the Robertson report, th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076267758631768407"
+      "url": "https://x.com/i/web/status/2076284306943545788"
     },
     {
       "type": "x",
-      "text": "UFO Release #4: What Actually Matters? | Full Richard Dolan Analysis https://t.co/gO397D9ELu",
+      "text": "@michaelshermer @FernandoFLongo Closer investigation of the Blue Book files released in the 1970s reveal a rate of about 70% Unknowns minus the insufficient bad data cases deliberately included in the",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076267660069740892"
+      "url": "https://x.com/i/web/status/2076284279114301445"
     },
     {
       "type": "x",
-      "text": "@LoudOutside I guess ufo aliens really do exist...WTF is that thing?",
+      "text": "I see a celebration with roses in Italy. I don\u2019t know what kind of celebration this is but I see a whole lot of roses.   I see flashing lights a lot of cop cars. Another shooting of a particular race.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076267125950333088"
+      "url": "https://x.com/i/web/status/2076284230800228545"
     },
     {
       "type": "x",
-      "text": "US Military Releases 4 Mysterious UFO Videos, Including 'Six-Pointed Star' Object https://t.co/3AXG5MSk7j",
+      "text": "Hynek's \"Most Puzzling\" UFO Case (1953)    Herewith an excerpt from a Saturday Evening POST story,  an interview with Dr. J. Allen Hynek:  _______         In 1953, the year of the Robertson report, th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076266838627856654"
+      "url": "https://x.com/i/web/status/2076284060297568563"
     },
     {
       "type": "x",
-      "text": "@dragon011926 1991 - Black triangular UFO. I've always said it was enormous\u2014as big as an aircraft carrier\u2014with a light pattern similar to the one in Lubbock. It blocked out the stars; it was blacker t",
+      "text": "@RealAlexJones Those Flock cameras just seem to up and kill themselves.  They may be in a UFO cult.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076266618359849259"
-    },
-    {
-      "type": "x",
-      "text": "@Share_Talk Weekly Stock Market News Review, Sunday 12th July 2026 \ud83c\udf79 #AVCT #EZJ #FMET #FCM #PALM #QHE #ZEN #PLSR #VOD #GDR #PXC #SKA #ARCM #XTR #QBT #KEN #GST #MKA #ECR #HAMA #UJO #SVML #GMET #PYC #GS",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076266313324896729"
+      "url": "https://x.com/i/web/status/2076284002223177816"
     },
     {
       "type": "swpc",
@@ -2234,6 +2173,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.4
+    },
+    {
+      "ts": "2026-07-12T12:36:38.133185Z",
+      "score": 27.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.7
     }
   ],
   "sources": [
