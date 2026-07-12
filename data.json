@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T06:28:37.553686Z",
-  "score": 43.9,
+  "generated_at": "2026-07-12T08:38:50.080010Z",
+  "score": 30.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 9.5,
-    "d24h": 12.9,
+    "d1h": -26.7,
+    "d24h": -1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 16.0,
-    "social_chatter": 6.4,
+    "news_velocity": 0.0,
+    "social_chatter": 4.2,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.2,
-    "alien_variance": 1.9
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,62 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "06:28",
+    "generated_utc": "08:38",
     "top_drivers": [
-      "Pentagon releases new videos of UFOs",
-      "News velocity +67% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 109 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 5"
+      "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
+      "X/Twitter chatter: 74 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 5",
+      "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 39.2,
+    "live_signal": 22.4,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": 66.72018495921907,
-    "x_last_hour": 109,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 74,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
+      "source": "mignews.com",
+      "url": "http://mignews.com/news/politic/pentagon-opublikoval-novuyu-partiyu-rassekrechennyh-materialov-ob-nlo.html"
+    },
+    {
+      "type": "news",
+      "text": "HBO Max : notre top 10 des meilleures s\u00e9ries \u00e0 voir en streaming en juillet 2026",
+      "source": "lesnumeriques.com",
+      "url": "https://www.lesnumeriques.com/cine-svod/hbo-max-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-juillet-2026-n259029.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=mrv223d37gcq3r8oscf92rn8s0"
+    },
+    {
+      "type": "news",
+      "text": "\u041d\u041b\u041e \u0438 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u044b . \u0413\u043b\u0430\u0432\u0430 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0432\u043d\u0435\u0437\u0435\u043c\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438",
+      "source": "aif.ru",
+      "url": "https://aif.ru/society/science/nlo-i-prishelcy-glava-pravitelstva-izrailya-rasskazal-o-vnezemnoy-zhizni"
+    },
+    {
+      "type": "news",
+      "text": "White House UFO adviser claims US government is baffled by bizarre  alien  sightings | Science | News",
+      "source": "express.co.uk",
+      "url": "https://www.express.co.uk/news/science/2228118/white-house-ufo-adviser-claims-avi-loeb-aliens"
+    },
     {
       "type": "news",
       "text": "Pentagon releases new videos of UFOs",
@@ -88,70 +118,40 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b1224f54oqkg4brho6kb0d4sf6"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ndjhj02tt7dirhq6hprgevr781"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ih177fc2b50pml1a09giltrcb4"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3948kmg8kmmc5v5psc8vvc72t5"
-    },
-    {
-      "type": "news",
-      "text": "I Watched Independence Day With A Zoomer Who Had Never Seen It . Her Reactions Were Maddening",
-      "source": "cinemablend.com",
-      "url": "https://www.cinemablend.com/movies/i-watched-independence-day-zoomer-had-never-seen-it-reactions-maddening-bill-pullman"
-    },
-    {
-      "type": "news",
-      "text": "Est - ce quun c\u00e2ble a aid\u00e9 Bellingham et les Anglais \u00e0 se qualifier en demi - finales ? - Mondial 2026 - Quarts - Norv\u00e8ge - Angleterre ( 1 - 2 ) ",
-      "source": "sofoot.com",
-      "url": "https://www.sofoot.com/breves/coupe-du-monde-2026-est-ce-quun-cable-de-camera-a-aide-jude-bellingham-et-les-anglais-a-se-qualifier-en-demie-finale-de-coupe-du-monde-2026"
+      "type": "x",
+      "text": "\"UFO honcho\"  How do I get that job title? https://t.co/mFYR7idumg",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076224554184143046"
     },
     {
       "type": "x",
-      "text": "@grok This one here I found this awhile back, stuck in between some old 1800's UAP stuff but this one here was clearly more modern surveillance pic. Just recently saw someone else post it so I went ba",
+      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: SUIUSDT Reading result since publish: +0.70%  Market reading only, not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xX",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076191848742162512"
+      "url": "https://x.com/i/web/status/2076224417248530794"
     },
     {
       "type": "x",
-      "text": "In 1961, Betty &amp; Barney Hill lost hours on a lonely highway. Under hypnosis, they described an alien abduction, strange medical exams, and a star map linked to Zeta Reticuli. One of history's most",
+      "text": "Hey dear X, you know the pink UFO FLEET is rising again. Let's check the area.  Jump in!   \ud83d\ude01\ud83d\udc4d\ud83c\udffb https://t.co/J3kv4R7mFz",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076191306481864992"
+      "url": "https://x.com/i/web/status/2076224284188668415"
     },
     {
       "type": "x",
-      "text": "Two things need to happen. 1. @NASA needs to cough up everything they have on the Apollo Missions and the Black Knight satellite. 2. @DeptofWar needs to cough up everything they have on the Roswell cr",
+      "text": "Not sure most people realize what @GrantLavac message really meant. Simply put, if you ask AI to make a balloon that looks like the UFO and West (lol), AI will easily succeed. It does not prove anythi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076191269705904510"
+      "url": "https://x.com/i/web/status/2076224249547587852"
     },
     {
       "type": "x",
-      "text": "@DrPhil @EnvoyNewsFeed Wake up babe the UFO ziop isn't working so now they're putting ol' Dr Phil to work \ud83e\udd23",
+      "text": "\ud83d\udfe2 UFO detected this move early before it fully developed  Symbol: ZECUSDT Reading result since publish: +1.00%  Market reading only, not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time:",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076191199757848821"
+      "url": "https://x.com/i/web/status/2076224233626034583"
     },
     {
       "type": "x",
-      "text": "Security officers CHASED UFO by car near a nuclear site | Elizabeth Varg... https://t.co/IoNo0LnvyK via @YouTube",
+      "text": "@kabarufo Fix UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076190911835295930"
-    },
-    {
-      "type": "x",
-      "text": "@MattDaWhite How bad has it become? Let me tell you how bad it's become. Even Grok has had enough of this UFO Grifting that he's started blocking UFO inquiries from people.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076190863261352104"
+      "url": "https://x.com/i/web/status/2076224163686326732"
     },
     {
       "type": "swpc",
@@ -2219,6 +2219,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 39.2
+    },
+    {
+      "ts": "2026-07-12T08:38:50.003769Z",
+      "score": 30.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.4
     }
   ],
   "sources": [
