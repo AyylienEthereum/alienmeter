@@ -1,97 +1,157 @@
 {
-  "generated_at": "2026-07-11T23:09:39.280055Z",
-  "score": 57.6,
+  "generated_at": "2026-07-12T00:10:05.143111Z",
+  "score": 32.5,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -3.6,
-    "d24h": 25.5,
+    "d1h": -14.1,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 31.3,
-    "social_chatter": 12.0,
+    "news_velocity": 0.0,
+    "social_chatter": 11.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 5.2,
+    "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 1.4
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 27,
-    "day": 27,
-    "date": "11.07.2026",
-    "declassified": "11.07.26",
-    "generated_utc": "23:09",
+    "number": 28,
+    "day": 28,
+    "date": "12.07.2026",
+    "declassified": "12.07.26",
+    "generated_utc": "00:10",
     "top_drivers": [
-      "News velocity +130% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 227 UFO/UAP posts in the last hour",
+      "Desclasificaci\u00f3n de archivos sobre OVNIS de EU desata ola de memes ; internautas lo toman a broma",
+      "X/Twitter chatter: 187 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
-      "NEO (2007 AA2) passing Earth at 17.8 lunar distances"
+      "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 56.8,
-    "baseline_recent": 25.6,
+    "live_signal": 24.5,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 17.7660102475,
-    "asteroid_name": "(2007 AA2)",
-    "gdelt_spike_pct": 130.3729943738279,
-    "x_last_hour": 227,
-    "wiki_spike_pct": -38.231400047882644,
+    "closest_asteroid_ld": 30.1474234448,
+    "asteroid_name": "(2016 NB1)",
+    "gdelt_spike_pct": null,
+    "x_last_hour": 187,
+    "wiki_spike_pct": -38.28444335789013,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@CaptKylePatriot Looking forward to a Terrific Show! The amount of relevant events unfolding is mind bending isn't it? From UfO Declass met with a big Yawn by America to Iran, Re-Migration and Massive",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081437670035903"
+      "type": "news",
+      "text": "Desclasificaci\u00f3n de archivos sobre OVNIS de EU desata ola de memes ; internautas lo toman a broma",
+      "source": "eluniversal.com.mx",
+      "url": "https://www.eluniversal.com.mx/tendencias/desclasificacion-de-archivos-sobre-ovnis-de-eu-desata-ola-de-memes-internautas-lo-toman-a-broma/"
+    },
+    {
+      "type": "news",
+      "text": "Inc\u00eandio letal no sul da Espanha evolui favoravelmente ap\u00f3s dois dias",
+      "source": "correiobraziliense.com.br",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/07/7459599-incendio-letal-no-sul-da-espanha-evolui-favoravelmente-apos-dois-dias.html"
+    },
+    {
+      "type": "news",
+      "text": "UFOs : The Lost Evidence",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/7ba2b74d-6839-598d-9804-c93408c293f4/ufos-the-lost-evidence"
+    },
+    {
+      "type": "news",
+      "text": "Blackgrove Global Risk Launches Intelligence Platform Treating UAP as an Institutional and Capital Risk Variable",
+      "source": "hawaiitelegraph.com",
+      "url": "http://www.hawaiitelegraph.com/news/279181306/blackgrove-global-risk-launches-intelligence-platform-treating-uap-as-an-institutional-and-capital-risk-variable"
+    },
+    {
+      "type": "news",
+      "text": "Why Missouri UFO Reports Near Whiteman AFB Are Rising",
+      "source": "979kickfm.com",
+      "url": "https://979kickfm.com/ixp/463/p/whiteman-afb-ufo-reports/"
+    },
+    {
+      "type": "news",
+      "text": "White House release clearest UFO footage ever in biggest proof yet that aliens exist",
+      "source": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/news/latest-news/white-house-release-clearest-ufo-37419424"
+    },
+    {
+      "type": "news",
+      "text": "Estados Unidos desclasifica archivos de ovnis con fotos de la Nasa",
+      "source": "pulzo.com",
+      "url": "https://www.pulzo.com/mundo/estados-unidos-desclasifica-archivos-ovnis-con-fotos-nasa-PP5243194"
+    },
+    {
+      "type": "news",
+      "text": "UFOs : The Lost Evidence",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/693c998d-7211-551a-9835-0092eef8a23e/ufos-the-lost-evidence"
+    },
+    {
+      "type": "news",
+      "text": "EUA divulgam imagens de objeto n\u00e3o identificado registrado por astronautas da Columbia",
+      "source": "meionews.com",
+      "url": "https://www.meionews.com/curiosidades/eua-divulgam-imagens-de-objeto-nao-identificado-registrado-por-astronautas-da-columbia-569252"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ao58jle059bk3a360e2jc0rph2"
     },
     {
       "type": "x",
-      "text": "This is a satanic ritual. Their way of thinking positive. While people are jumping and bodies are burning. Barbara Bush was Aliester Crowley's daughter. ONLY!! on UFO RadioX. https://t.co/Do6yiltT55 #",
+      "text": "@PeteHegseth Thank you for declassifying the UAP technology so that it can be used against our communist enemies.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081408364171450"
+      "url": "https://x.com/i/web/status/2076096591774077315"
     },
     {
       "type": "x",
-      "text": "pentagon is releasing ufo sightings but i lowk got stuff going on",
+      "text": "@TheAboveLimits_ @OwenShroyer1776 This video isn't from the official US government or White House. It has a fake White House logo and \"Interstellar UAP\" text overlay. It's edited/satirical content cir",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081404849389816"
+      "url": "https://x.com/i/web/status/2076096432948285670"
     },
     {
       "type": "x",
-      "text": "@rtenews There had been a few reports of a UFO yesterday flying about Belfast. Clearly it was an Unidentified Flying Orangeman. \ud83e\udd2a\ud83e\udd2a",
+      "text": "@InterstellarUAP Brilliant deduction of something the UFO community has known for 40 years, Mace. You\u2019re quite the shrewd detective. \ud83d\ude44",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081365573927192"
+      "url": "https://x.com/i/web/status/2076096284130197927"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 UFO Disclosure is Grooming Celebrities / Just Like Scientology\u2019s Celebrity Center  @RedPandaKoala nailed it: the sudden flood of A-listers \u201cwaking up\u201d to UAP/NHI is mirroring Scientology\u2019s playbook.",
+      "text": "@I_D_Official The power capabilities attributed to the 2004 USS Nimitz Tic Tac UFO incident defy conventional aerospace engineering, requiring an estimated 1300 GW of power, can they get all that powe",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081238616813836"
+      "url": "https://x.com/i/web/status/2076096263766913149"
     },
     {
       "type": "x",
-      "text": "@pavelibarrameda I remember when the 1980's and 1990's daytime talk shows had UFO researchers and experiencers on all the time, but it was always to mock them. Oprah at least was decent to them, but e",
+      "text": "@chadcollyer @ZachBrowne This is a photo from the declassified 1948 USAF Project SIGN progress report (one of the files in the DoD's July 10, 2026 UAP release). It shows an object tied to an early sig",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076081210606924066"
+      "url": "https://x.com/i/web/status/2076096177435447706"
+    },
+    {
+      "type": "x",
+      "text": "Are UFOs No Longer a Myth? Where are UAP Coming From? https://t.co/xUQq9XaW2M via @YouTube",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076095934157500835"
     },
     {
       "type": "swpc",
@@ -107,7 +167,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2007 AA2) passing at 17.77 LD (~71m, 7.2 km/s)",
+      "text": "NEO (2016 NB1) passing at 30.15 LD (~99m, 8.4 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -2126,6 +2186,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 56.8
+    },
+    {
+      "ts": "2026-07-12T00:10:05.066942Z",
+      "score": 32.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.5
     }
   ],
   "sources": [
