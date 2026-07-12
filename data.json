@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T08:38:50.080010Z",
-  "score": 30.9,
+  "generated_at": "2026-07-12T10:14:01.257570Z",
+  "score": 42.1,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -26.7,
-    "d24h": -1.4,
+    "d1h": 9.6,
+    "d24h": 6.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 4.2,
+    "news_velocity": 16.7,
+    "social_chatter": 4.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.2,
-    "alien_variance": 0.8
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 28,
     "date": "12.07.2026",
     "declassified": "12.07.26",
-    "generated_utc": "08:38",
+    "generated_utc": "10:14",
     "top_drivers": [
-      "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
-      "X/Twitter chatter: 74 UFO/UAP posts in the last hour",
+      "News velocity +70% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 5",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -42,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.4,
+    "live_signal": 36.8,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 74,
+    "gdelt_spike_pct": 69.61726070771468,
+    "x_last_hour": 75,
     "wiki_spike_pct": -30.12135419251441,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,100 +58,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u0440\u0442\u0438\u044e \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e | MigNews - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0438 \u041c\u0438\u0440\u0430 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435",
-      "source": "mignews.com",
-      "url": "http://mignews.com/news/politic/pentagon-opublikoval-novuyu-partiyu-rassekrechennyh-materialov-ob-nlo.html"
-    },
-    {
-      "type": "news",
-      "text": "HBO Max : notre top 10 des meilleures s\u00e9ries \u00e0 voir en streaming en juillet 2026",
-      "source": "lesnumeriques.com",
-      "url": "https://www.lesnumeriques.com/cine-svod/hbo-max-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-juillet-2026-n259029.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=mrv223d37gcq3r8oscf92rn8s0"
-    },
-    {
-      "type": "news",
-      "text": "\u041d\u041b\u041e \u0438 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u044b . \u0413\u043b\u0430\u0432\u0430 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0432\u043d\u0435\u0437\u0435\u043c\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438",
-      "source": "aif.ru",
-      "url": "https://aif.ru/society/science/nlo-i-prishelcy-glava-pravitelstva-izrailya-rasskazal-o-vnezemnoy-zhizni"
-    },
-    {
-      "type": "news",
-      "text": "White House UFO adviser claims US government is baffled by bizarre  alien  sightings | Science | News",
-      "source": "express.co.uk",
-      "url": "https://www.express.co.uk/news/science/2228118/white-house-ufo-adviser-claims-avi-loeb-aliens"
-    },
-    {
-      "type": "news",
-      "text": "Pentagon releases new videos of UFOs",
-      "source": "azernews.az",
-      "url": "https://www.azernews.az/region/260937.html"
-    },
-    {
-      "type": "news",
-      "text": " Ce jeu permet de d\u00e9couvrir des lieux improbables et incroyables  : T\u00e8rra Aventura , lapplication de g\u00e9ocaching qui attire des millions de curieux dans les villages secrets de Nouvelle - Aquitaine",
-      "source": "sudouest.fr",
-      "url": "https://www.sudouest.fr/tourisme/nature/ce-jeu-permet-de-decouvrir-des-lieux-improbables-et-incroyables-terra-aventura-l-application-de-geocaching-qui-attire-des-millions-de-curieux-dans-les-villages-secrets-de-nouvelle-aquitaine-29273901.php"
-    },
-    {
-      "type": "news",
-      "text": "FotoDocs : Los dep\u00f3sitos de agua de Can Boada",
-      "source": "lavanguardia.com",
-      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260712/11588135/fotodocs-depositos-agua-can-boada.html"
-    },
-    {
-      "type": "news",
-      "text": "OVNIs en Huelva : los testimonios que mantienen vivo uno de los grandes enigmas de Andaluc\u00eda",
-      "source": "huelvainformacion.es",
-      "url": "https://www.huelvainformacion.es/huelva/ovnis-huelva-testimonios-mantienen-vivo-enigmas-andalucia_0_2007368686.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b1224f54oqkg4brho6kb0d4sf6"
+      "type": "x",
+      "text": "May be they are men made and they know it. Technology might be  UFO. https://t.co/33a0yJ1vKo",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076248522534367730"
     },
     {
       "type": "x",
-      "text": "\"UFO honcho\"  How do I get that job title? https://t.co/mFYR7idumg",
+      "text": "@Sasanhono Yep, you wouldn't believe how wrong it was. In one instance it said the #UAP was definitely a bunch of skydivers holding hands. Crazy!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224554184143046"
+      "url": "https://x.com/i/web/status/2076248301343584654"
     },
     {
       "type": "x",
-      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: SUIUSDT Reading result since publish: +0.70%  Market reading only, not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xX",
+      "text": "@Guitarbizon Yes I'm a long time fan of  \ud83c\udfb8#UFO\ud83d\udef8  Back in the day I saw them live in concert a few times  One very memorable time I saw them at #UTA_TexasHall in #Arlington\ud83c\udde8\ud83c\uddf1 on #CooperStreet where we ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224417248530794"
+      "url": "https://x.com/i/web/status/2076248090198020154"
     },
     {
       "type": "x",
-      "text": "Hey dear X, you know the pink UFO FLEET is rising again. Let's check the area.  Jump in!   \ud83d\ude01\ud83d\udc4d\ud83c\udffb https://t.co/J3kv4R7mFz",
+      "text": "New videos released from declassified UFO files. https://t.co/dZ6iwYonyf",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224284188668415"
+      "url": "https://x.com/i/web/status/2076247736492408986"
     },
     {
       "type": "x",
-      "text": "Not sure most people realize what @GrantLavac message really meant. Simply put, if you ask AI to make a balloon that looks like the UFO and West (lol), AI will easily succeed. It does not prove anythi",
+      "text": "BREAKING: Former Pentagon UFO investigator Luis Elizondo claims the U.S. government possesses photos showing giant, monolith-like structures on the Moon.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224249547587852"
+      "url": "https://x.com/i/web/status/2076247143560434126"
     },
     {
       "type": "x",
-      "text": "\ud83d\udfe2 UFO detected this move early before it fully developed  Symbol: ZECUSDT Reading result since publish: +1.00%  Market reading only, not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time:",
+      "text": "BREAKING: Former Pentagon UFO investigator Luis Elizondo claims the U.S. government possesses photos showing giant, monolith-like structures on the Moon.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224233626034583"
-    },
-    {
-      "type": "x",
-      "text": "@kabarufo Fix UFO",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076224163686326732"
+      "url": "https://x.com/i/web/status/2076246532257644992"
     },
     {
       "type": "swpc",
@@ -2226,6 +2166,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.4
+    },
+    {
+      "ts": "2026-07-12T10:14:01.183130Z",
+      "score": 42.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 36.8
     }
   ],
   "sources": [
