@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T16:03:17.142200Z",
-  "score": 23.5,
+  "generated_at": "2026-07-13T18:05:57.236107Z",
+  "score": 34.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -5.3,
-    "d24h": -9.6,
+    "d1h": 9.7,
+    "d24h": 7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 0.0,
+    "social_chatter": 11.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 1.6
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,90 +31,66 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "16:03",
+    "generated_utc": "18:05",
     "top_drivers": [
-      "Former WWE Star Chris Masters Almost Worked With Steven Spielberg",
+      "X/Twitter chatter: 183 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.9,
+    "live_signal": 27.5,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 0,
+    "x_last_hour": 183,
     "wiki_spike_pct": -31.786386791728887,
-    "earthquakes_24h": 2,
+    "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Former WWE Star Chris Masters Almost Worked With Steven Spielberg",
-      "source": "wrestlinginc.com",
-      "url": "https://www.wrestlinginc.com/2213299/former-wwe-star-chris-masters-steven-spielberg-disclosure-day/"
+      "type": "x",
+      "text": "@JVMonte2 UFO \"Strangers In The Night\" and Thin Lizzy \"Live And Dangerous\" are two that are always in my Top 5.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076729592371450189"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4jgvp8jd7k2i320j1oj7e9iv27"
+      "type": "x",
+      "text": "If ONE government admits contact with non-human intelligence, every other nation is forced to respond instantly \u2014 markets, military, religion, all at once. No single administration can make that call ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076729410833510752"
     },
     {
-      "type": "news",
-      "text": "68th White Deer Rodeo : Dates , Tickets , Schedule",
-      "source": "1025kiss.com",
-      "url": "https://1025kiss.com/ixp/195/p/white-deer-rodeo-2026/"
+      "type": "x",
+      "text": "@RyanDBledsoe @monroeinstitute Can\u2019t wait to see the Ryan \u201ctower of Babel\u201d Bledsoe back in action flooding the discourse with that special corn pone nascar loving Egyptian goddess worshipping ufo cult",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076729067328692643"
     },
     {
-      "type": "news",
-      "text": "2026 Big 12 Media Day Storylines : Cincinnati Bearcats",
-      "source": "underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/big-12/44015/2026-big-12-media-day-storylines-cincinnati-bearcats"
+      "type": "x",
+      "text": "UFO zipped near airplane at LAX Los Angeles ,California https://t.co/W47k6sMMUt via @YouTube",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076728858863128798"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kh4r97081cis9ifv52j9uuida0"
+      "type": "x",
+      "text": "@Kabamur_Taygeta i have video of a ufo cloud morphing into different shapes that looked like common shape ufos, and one of them looked like a dove. i don't know whether there's a ship that looks that ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076728842115244219"
     },
     {
-      "type": "news",
-      "text": "Cercavo una distro Linux , ho trovato una guida contro gli alieni",
-      "source": "punto-informatico.it",
-      "url": "https://www.punto-informatico.it/cercavo-distro-linux-trovato-guida-contro-alieni/"
-    },
-    {
-      "type": "news",
-      "text": "68th White Deer Rodeo : Dates , Tickets , Schedule",
-      "source": "koolfmabilene.com",
-      "url": "https://koolfmabilene.com/ixp/195/p/white-deer-rodeo-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=okfctvi5cmve635j3239dv6d51"
-    },
-    {
-      "type": "news",
-      "text": "Pentagon UFO files are a  distraction  to hide terrifying  nuclear  truth",
-      "source": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/news/us-news/pentagons-ufo-files-distraction-hide-37423543"
-    },
-    {
-      "type": "news",
-      "text": "River Valley Restaurant Inspections : Brown slimy build up on soda fountain nozzles , ice grabbed with bare hands",
-      "source": "nwaonline.com",
-      "url": "https://www.nwaonline.com/news/2026/jul/13/river-valley-restaurant-inspections-brown-slimy/"
+      "type": "x",
+      "text": "also I can't believe people were claiming that UFO picture was \"balloons\" or something when it was obviously the Lewis and Clark, cmon https://t.co/M8qqk0jwWe",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076728716894314931"
     },
     {
       "type": "swpc",
@@ -130,13 +106,13 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: southeast of the Loyalty Islands",
+      "text": "Significant seismic event: 18 km WSW of Johannesburg, CA",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 191 km SE of Lorengau, Papua New Guinea",
+      "text": "Significant seismic event: southeast of the Loyalty Islands",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -2322,6 +2298,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.9
+    },
+    {
+      "ts": "2026-07-13T18:05:57.161745Z",
+      "score": 34.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 27.5
     }
   ],
   "sources": [
