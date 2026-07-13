@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T04:45:55.598830Z",
-  "score": 28.8,
+  "generated_at": "2026-07-13T07:56:34.954558Z",
+  "score": 25.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.6,
-    "d24h": 1.5,
+    "d1h": -12.4,
+    "d24h": -5.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.1,
+    "social_chatter": 2.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 2.1,
-    "alien_variance": 1.0
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "04:45",
+    "generated_utc": "07:56",
     "top_drivers": [
-      "X/Twitter chatter: 104 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 4",
+      "X/Twitter chatter: 49 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.7,
+    "live_signal": 15.0,
     "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,48 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 104,
+    "x_last_hour": 49,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.10922888670317,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "Different type of #UAP captured by overhead surveillance. https://t.co/4h03i6uIGJ",
+      "text": "@realtjhaines The most realistic thing here is that one or two priests in DC had it out for Rossetti, got the Cardinal's ear, and pressured him into doing this, he had the easy excuse of the UFO thing",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076528001156526378"
+      "url": "https://x.com/i/web/status/2076575377086927308"
     },
     {
       "type": "x",
-      "text": "@JonStewartIL We call this UAP the Loofah",
+      "text": ".@AlienMetals Geochemical Review Confirms Munni Munni Targets https://t.co/mLxbNagTFD #UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076527414621171969"
+      "url": "https://x.com/i/web/status/2076574389907153351"
     },
     {
       "type": "x",
-      "text": "UFO INSIDER WAS STOPPED ON SAYING THIS https://t.co/q7JsYSxauZ via @YouTube",
+      "text": "Well happy birthday to Ziggy Marley's eldest son Daniel Bambaata Marley July 12th  Took me a little bit to find the channel Follow BAMBAATA   Instagram:/\u00a0bambaata Listen to BAMBAATA On: iTunes and Spo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076527016136859852"
+      "url": "https://x.com/i/web/status/2076574185069957365"
     },
     {
       "type": "x",
-      "text": "A mysterious \"UFO\" was spotted hovering over Disneyland in Florida. Visitors to Epcot Park noticed a glowing orb and reported that it hovered for several minutes before disappearing. https://t.co/B5fw",
+      "text": "UFO Back of the Envelope Ideas https://t.co/kwkUW0Od76 https://t.co/Rgu6r2qPGu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076526990689972424"
+      "url": "https://x.com/i/web/status/2076573491621433717"
     },
     {
       "type": "x",
-      "text": "I Found the REAL Roswell UFO Crash Site https://t.co/Qkd6JPoHxH via @YouTube",
+      "text": "@ericweinstein You're a master of a mathematics and I'm wondering if for the sake of jubilation and jubilee you would be willing to examine the UAP from the dimensions of z to the Zed to the Zion to t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076526830069108958"
+      "url": "https://x.com/i/web/status/2076573244623122622"
     },
     {
       "type": "x",
-      "text": "The Paranormal UFO Connection (2023) #truth+ https://t.co/pV550WzHoe https://t.co/fxNchBmXqb",
+      "text": "@teoriadacons Release UFO files \u2705 Reveal Epstein's list \u2716\ufe0f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076526393454665922"
+      "url": "https://x.com/i/web/status/2076573051819270614"
     },
     {
       "type": "swpc",
@@ -2270,6 +2270,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.7
+    },
+    {
+      "ts": "2026-07-13T07:56:34.877645Z",
+      "score": 25.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.0
     }
   ],
   "sources": [
