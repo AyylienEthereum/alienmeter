@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T19:47:41.979659Z",
-  "score": 31.7,
+  "generated_at": "2026-07-13T20:53:16.177804Z",
+  "score": 32.1,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 5.5,
-    "d24h": -6.0,
+    "d1h": 1.1,
+    "d24h": 2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 10.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 3.5
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "19:47",
+    "generated_utc": "20:53",
     "top_drivers": [
-      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.5,
+    "live_signal": 24.0,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 147,
+    "x_last_hour": 176,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "#BREAKING   Coincidence or the moment we\u2019ve all been waiting for? \ud83d\udef8 This Thursday, Trump addresses the nation, and the topic remains an absolute mystery. Could this finally be the announcement regardi",
+      "text": "@HYPEX Tying the free First Win umbrella to the Simpsons Reload launch is a smart play. That UFO design is going to be all over every lobby on July 30. Worth the win grind for you?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754994628297057"
+      "url": "https://x.com/i/web/status/2076771843273547847"
     },
     {
       "type": "x",
-      "text": "@Toluwas03976486 @NenkMonica He exposed the wasp nest to gasoline vapors (uap bensin) to demonstrate their reaction. He positioned a source of the fumes nearby (looks like using a pan/container and to",
+      "text": "@AlchemyAmerican @neiltyson @ericweinstein It appears your only concern is to get more clicks by inviting controversial subjects who add nothing to the UAP topic and disclosure.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754940957983100"
+      "url": "https://x.com/i/web/status/2076771810612224233"
     },
     {
       "type": "x",
-      "text": "@RapidResponse47 1% chance it's about UAP. 99% chance he's going to tell us to endure 6$ a gallon gas because we're going to bomb Iran into the stone age for 76th time.",
+      "text": "Has John Kerry become an #UAP or #UFO insider?!?!? https://t.co/ZOS66Zl3Iu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754812687785993"
+      "url": "https://x.com/i/web/status/2076771790668390825"
     },
     {
       "type": "x",
-      "text": "@sentdefender UFO twitter freaking out now lmao.  This is the government shutdown or Iran War next level.",
+      "text": "@umarfaroukosu @mrbretjolliffe @objktcom Thank u Ufo\ud83d\ude4f\ud83c\udffc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754526141587712"
+      "url": "https://x.com/i/web/status/2076771728483598369"
     },
     {
       "type": "x",
-      "text": "@19k0011 Clearly it will be about him, Iran, Dead Mitch's seat and all of the election fraud he thinks is occuring. UAP/NHI won't get a mention.",
+      "text": "@DeItaone Ufo disclosure with immunity for first hand evidence whistleblowers.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754453244367055"
+      "url": "https://x.com/i/web/status/2076771499818856613"
     },
     {
       "type": "x",
-      "text": "@NEWSMAX Happy to be wrong, but it's more likely that before we get passage to end daylight savings time, we'll get full and complete alien, UAP, and Industrial Military Complex discloure including al",
+      "text": "Deadly Festival Shootout Ends with Unexpected UFO Landing and World's Most Expensive Dinosaur Auction https://t.co/QclqooJRQX",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076754169784893505"
+      "url": "https://x.com/i/web/status/2076771426745426090"
     },
     {
       "type": "swpc",
@@ -2312,6 +2312,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.5
+    },
+    {
+      "ts": "2026-07-13T20:53:16.101812Z",
+      "score": 32.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.0
     }
   ],
   "sources": [
