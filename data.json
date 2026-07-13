@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T10:56:09.105622Z",
-  "score": 26.2,
+  "generated_at": "2026-07-13T13:21:46.639706Z",
+  "score": 31.0,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -12.0,
-    "d24h": -17.4,
+    "d1h": -2.1,
+    "d24h": 3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 2.3,
+    "social_chatter": 7.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.2,
-    "alien_variance": 0.3
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "10:56",
+    "generated_utc": "13:21",
     "top_drivers": [
-      "X/Twitter chatter: 43 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 123 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.3,
-    "baseline_recent": 25.9,
+    "live_signal": 22.5,
+    "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": -67.45074977947662,
-    "x_last_hour": 43,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 123,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.4,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Im meesed up dudes two cranes just flew by tinking UFO internal structure. no joke.",
+      "text": "THE THEATRE OF THE WORLD  In 1570, Abraham Ortelius published the Theatrum Orbis Terrarum\u2014\u201cTheatre of the World\u201d\u2014widely regarded as the first modern atlas. Its title still feels prophetic: maps do not",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076621645800689822"
+      "url": "https://x.com/i/web/status/2076658160002076691"
     },
     {
       "type": "x",
-      "text": "Im meesed up dudes two crans just flew by tinking UFO internal structure. no joke.",
+      "text": "@ericweinstein Eric,  everything you say is eloquent as usual.  Regarding UAP you did a complete 180 just like DeGrasse Tyson.  Shermer simply hasn\u2019t been \u201cread in\u201d like many of you.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076621561952379236"
+      "url": "https://x.com/i/web/status/2076658086769758566"
     },
     {
       "type": "x",
-      "text": "Have we discovered the \"magic wand\" of pampered white men around the world?  I am a Japanese contactee.  Among my alien Grey friends, there is also a Sister Christian.  Jesus Christ is the only begott",
+      "text": "@AshCrypto @AshCrypto Ignoring the UFO/Alien hype is a terrible sin to your portfolio Ash \u274c\u2049\ufe0f  I'v been building this complete Gem in silence since last year, check me out \ud83d\udef8 \ud83e\udde1 https://t.co/IzaB57hjK7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076621533209088437"
+      "url": "https://x.com/i/web/status/2076657858427449586"
     },
     {
       "type": "x",
-      "text": "@TheProjectUnity Finally, thank you for covering this topic. It deserves far more attention. Whether or not every claim holds up, there are interesting parallels between AI and the UFO disclosure conv",
+      "text": "**Massive Buried UFO at Mining Site**  A gigantic circular metallic object is revealed in a deep excavation pit at a mining site. The scale suggests an ancient or advanced craft hidden underground.  R",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076621362626445445"
+      "url": "https://x.com/i/web/status/2076657581049676038"
     },
     {
       "type": "x",
-      "text": "Grok says  \"This video is not AI-generated. It's real Ring doorbell camera footage, but the glowing object is almost certainly a drone with bright lights, not a UFO.   A drone \ud83e\udd23Im saying its an Newbie",
+      "text": "@UAPWixy Unless video source is confirmed this video is generated ai garbage. All images and videos of any UFO on the web are now considred as AI generated content and is not real. You can thank all t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076621110657901050"
+      "url": "https://x.com/i/web/status/2076657419216691621"
     },
     {
       "type": "x",
-      "text": "@TraderGirlQ Also, that ex-politician English lady, who just got brutally murdered in her own house - at the age of 78. Hmmmm... both born in 1947... when Roswell happened... UFO-disclosure next, anyo",
+      "text": "@EliRoseWalkerRP rest of the year. Thank you, lovely.\u201d  He took the bottle of water, opening it up. Allowing the crisp cool water to enter.   \u201cThat\u2019s fair\u2026Did you see a UFO or something? Mind describi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076620611799966017"
+      "url": "https://x.com/i/web/status/2076657281144438822"
     },
     {
       "type": "swpc",
@@ -2284,6 +2284,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.3
+    },
+    {
+      "ts": "2026-07-13T13:21:46.564470Z",
+      "score": 31.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.5
     }
   ],
   "sources": [
