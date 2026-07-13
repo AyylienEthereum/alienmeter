@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T13:21:46.639706Z",
-  "score": 31.0,
+  "generated_at": "2026-07-13T16:03:17.142200Z",
+  "score": 23.5,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -2.1,
-    "d24h": 3.7,
+    "d1h": -5.3,
+    "d24h": -9.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.3,
+    "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 2.4,
     "seismic": 3.2,
-    "alien_variance": 1.5
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "13:21",
+    "generated_utc": "16:03",
     "top_drivers": [
-      "X/Twitter chatter: 123 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 4",
+      "Former WWE Star Chris Masters Almost Worked With Steven Spielberg",
+      "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.5,
+    "live_signal": 12.9,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,72 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 123,
+    "x_last_hour": 0,
     "wiki_spike_pct": -31.786386791728887,
-    "earthquakes_24h": 1,
+    "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.4,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "THE THEATRE OF THE WORLD  In 1570, Abraham Ortelius published the Theatrum Orbis Terrarum\u2014\u201cTheatre of the World\u201d\u2014widely regarded as the first modern atlas. Its title still feels prophetic: maps do not",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076658160002076691"
+      "type": "news",
+      "text": "Former WWE Star Chris Masters Almost Worked With Steven Spielberg",
+      "source": "wrestlinginc.com",
+      "url": "https://www.wrestlinginc.com/2213299/former-wwe-star-chris-masters-steven-spielberg-disclosure-day/"
     },
     {
-      "type": "x",
-      "text": "@ericweinstein Eric,  everything you say is eloquent as usual.  Regarding UAP you did a complete 180 just like DeGrasse Tyson.  Shermer simply hasn\u2019t been \u201cread in\u201d like many of you.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076658086769758566"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4jgvp8jd7k2i320j1oj7e9iv27"
     },
     {
-      "type": "x",
-      "text": "@AshCrypto @AshCrypto Ignoring the UFO/Alien hype is a terrible sin to your portfolio Ash \u274c\u2049\ufe0f  I'v been building this complete Gem in silence since last year, check me out \ud83d\udef8 \ud83e\udde1 https://t.co/IzaB57hjK7",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076657858427449586"
+      "type": "news",
+      "text": "68th White Deer Rodeo : Dates , Tickets , Schedule",
+      "source": "1025kiss.com",
+      "url": "https://1025kiss.com/ixp/195/p/white-deer-rodeo-2026/"
     },
     {
-      "type": "x",
-      "text": "**Massive Buried UFO at Mining Site**  A gigantic circular metallic object is revealed in a deep excavation pit at a mining site. The scale suggests an ancient or advanced craft hidden underground.  R",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076657581049676038"
+      "type": "news",
+      "text": "2026 Big 12 Media Day Storylines : Cincinnati Bearcats",
+      "source": "underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/big-12/44015/2026-big-12-media-day-storylines-cincinnati-bearcats"
     },
     {
-      "type": "x",
-      "text": "@UAPWixy Unless video source is confirmed this video is generated ai garbage. All images and videos of any UFO on the web are now considred as AI generated content and is not real. You can thank all t",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076657419216691621"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kh4r97081cis9ifv52j9uuida0"
     },
     {
-      "type": "x",
-      "text": "@EliRoseWalkerRP rest of the year. Thank you, lovely.\u201d  He took the bottle of water, opening it up. Allowing the crisp cool water to enter.   \u201cThat\u2019s fair\u2026Did you see a UFO or something? Mind describi",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076657281144438822"
+      "type": "news",
+      "text": "Cercavo una distro Linux , ho trovato una guida contro gli alieni",
+      "source": "punto-informatico.it",
+      "url": "https://www.punto-informatico.it/cercavo-distro-linux-trovato-guida-contro-alieni/"
+    },
+    {
+      "type": "news",
+      "text": "68th White Deer Rodeo : Dates , Tickets , Schedule",
+      "source": "koolfmabilene.com",
+      "url": "https://koolfmabilene.com/ixp/195/p/white-deer-rodeo-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=okfctvi5cmve635j3239dv6d51"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon UFO files are a  distraction  to hide terrifying  nuclear  truth",
+      "source": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/news/us-news/pentagons-ufo-files-distraction-hide-37423543"
+    },
+    {
+      "type": "news",
+      "text": "River Valley Restaurant Inspections : Brown slimy build up on soda fountain nozzles , ice grabbed with bare hands",
+      "source": "nwaonline.com",
+      "url": "https://www.nwaonline.com/news/2026/jul/13/river-valley-restaurant-inspections-brown-slimy/"
     },
     {
       "type": "swpc",
@@ -105,10 +129,10 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2039\r Issue Time: 2026 Jul 12 1503 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: southeast of the Loyalty Islands",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "seismic",
@@ -2291,6 +2315,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.5
+    },
+    {
+      "ts": "2026-07-13T16:03:17.067138Z",
+      "score": 23.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.9
     }
   ],
   "sources": [
