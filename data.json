@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T20:53:16.177804Z",
-  "score": 32.1,
+  "generated_at": "2026-07-13T21:51:12.588517Z",
+  "score": 30.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.1,
-    "d24h": 2.6,
+    "d1h": 7.2,
+    "d24h": -8.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 10.5,
+    "social_chatter": 8.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 2.2
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,18 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "20:53",
+    "generated_utc": "21:51",
     "top_drivers": [
-      "X/Twitter chatter: 176 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 2",
+      "Roswell Daily Record ceases operations",
+      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.0,
+    "live_signal": 22.2,
     "baseline_recent": 25.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,58 +50,112 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 176,
+    "x_last_hour": 147,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.4,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@HYPEX Tying the free First Win umbrella to the Simpsons Reload launch is a smart play. That UFO design is going to be all over every lobby on July 30. Worth the win grind for you?",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771843273547847"
+      "type": "news",
+      "text": "Roswell Daily Record ceases operations",
+      "source": "ruidosonews.com",
+      "url": "https://ruidosonews.com/roswell-daily-record-ceases-operations/"
+    },
+    {
+      "type": "news",
+      "text": "Comment d\u00e9carboner laviation ? \u2013 13 / 07",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/comment-decarboner-l-aviation-13-07_EN-202607130672.html"
+    },
+    {
+      "type": "news",
+      "text": "Fran\u00e7ois Bourrier - Soifer , directeur g\u00e9n\u00e9ral d\u00e9l\u00e9gu\u00e9 de Safran . AI \u2013 13 / 07",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/francois-bourrier-soifer-directeur-general-delegue-de-safran-ai-13-07_EN-202607130686.html"
+    },
+    {
+      "type": "news",
+      "text": "Roswell Daily Record ceases operations",
+      "source": "riograndesun.com",
+      "url": "https://riograndesun.com/roswell-daily-record-ceases-operations/"
+    },
+    {
+      "type": "news",
+      "text": "Paul - Fran\u00e7ois Fournier , directeur ex\u00e9cutif chez Bpifrance et Jean Schmitt , pr\u00e9sident et fondateur de Jolt Capital \u2013 13 / 07",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-francois-fournier-directeur-executif-chez-bpifrance-et-jean-schmitt-president-et-fondateur-de-jolt-capital-13-07_EN-202607130655.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/f92d5726-f6d0-5ed5-a4df-1ba01f4e38ee/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/ca34a41b-3692-54a2-8a43-b49c3d692a5f/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "Archbishop Hartmayer writes letter to the faithful on SSPX schism - Georgia Bulletin",
+      "source": "georgiabulletin.org",
+      "url": "https://georgiabulletin.org/news/2026/07/archbishop-hartmayer-writes-letter-to-the-faithful-on-sspx-schism/"
+    },
+    {
+      "type": "news",
+      "text": "Mad Cool festival 2026 review : Wolf Alice , Pixies , David Byrne , Pulp and more deliver scorching sets under Madrid sun",
+      "source": "shortlist.com",
+      "url": "https://www.shortlist.com/music/mad-cool-festival-2026-review-wolf-alice-pixies-david-byrne-pulp-madrid"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u044a\u0442 \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u0432\u0430 \u043d\u043e\u0432\u0430 \u043f\u0430\u0440\u0442\u0438\u0434\u0430 \u0440\u0430\u0437\u0441\u0435\u043a\u0440\u0435\u0442\u0435\u043d\u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0438 \u0437\u0430 \u041d\u041b\u041e \u0441 \u0434\u0435\u0441\u0435\u0442\u043a\u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u0438 \u0441\u043b\u0443\u0447\u0430\u0438",
+      "source": "manager.bg",
+      "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/pentagonat-publikuva-nova-partida-razsekreteni-materiali-za-nlo-s-desetki-stranni-sluchai"
     },
     {
       "type": "x",
-      "text": "@AlchemyAmerican @neiltyson @ericweinstein It appears your only concern is to get more clicks by inviting controversial subjects who add nothing to the UAP topic and disclosure.",
+      "text": "@DeptofWar @CIA @FBI @DARPA @POTUS @JDVance these new UFO/\u201cUAP\u201d files are nothing. The public has much better footage all over YouTube and there is a TON of it. @NASA has also been LYING TO US for dec",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771810612224233"
+      "url": "https://x.com/i/web/status/2076786412331110660"
     },
     {
       "type": "x",
-      "text": "Has John Kerry become an #UAP or #UFO insider?!?!? https://t.co/ZOS66Zl3Iu",
+      "text": "Since the government began their UFO file releases, I've uploaded a thread to X each time, with every video they've put out in that batch.  Here is a thread, of those threads, linking you to every vid",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771790668390825"
+      "url": "https://x.com/i/web/status/2076785786511659053"
     },
     {
       "type": "x",
-      "text": "@umarfaroukosu @mrbretjolliffe @objktcom Thank u Ufo\ud83d\ude4f\ud83c\udffc",
+      "text": "@Eyes_OnTheSkies If AARO maintains a database of unremarkable and prosaic unknowns intended for public consumption while rejecting offers of high resolution UAP videos from IC agencies for study, this",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771728483598369"
+      "url": "https://x.com/i/web/status/2076785560535146847"
     },
     {
       "type": "x",
-      "text": "@DeItaone Ufo disclosure with immunity for first hand evidence whistleblowers.",
+      "text": "@DeptofWar @CIA @FBI @DARPA @POTUS @JDVance these new UFO/\u201cUAP\u201d files are nothing. The public has much better footage all over YouTube and there is a TON of it. @NASA has also been LYING TO US for dec",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771499818856613"
+      "url": "https://x.com/i/web/status/2076785189070532899"
     },
     {
       "type": "x",
-      "text": "Deadly Festival Shootout Ends with Unexpected UFO Landing and World's Most Expensive Dinosaur Auction https://t.co/QclqooJRQX",
+      "text": "The fourth batch of declassified UAP files includes documents detailing unexplained encounters and objects \"unlike anything\" military aviators have ever seen. Christian UFO researcher Tim Alberino say",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076771426745426090"
+      "url": "https://x.com/i/web/status/2076785141872025602"
+    },
+    {
+      "type": "x",
+      "text": "@DeptofWar @CIA @FBI @DARPA @POTUS @JDVance these new UFO/\u201cUAP\u201d files are nothing. The public has much better footage all over YouTube and there is a TON of it. @NASA has also been LYING TO US for dec",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076784850942488671"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3716\r Issue Time: 2026 Jul 13 1027 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2250\r Issue Time: 2026 Jul 12 2101 UTC\r \r CANCEL WARNING: Geomagnetic K-index of 5 expect",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -2319,6 +2374,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.0
+    },
+    {
+      "ts": "2026-07-13T21:51:12.513584Z",
+      "score": 30.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.2
     }
   ],
   "sources": [
