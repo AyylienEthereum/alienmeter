@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T22:50:47.193723Z",
-  "score": 29.6,
+  "generated_at": "2026-07-13T23:48:59.657994Z",
+  "score": 30.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -5.3,
-    "d24h": 0.3,
+    "d1h": -1.2,
+    "d24h": 0.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.9,
-    "social_chatter": 7.1,
+    "news_velocity": 0.0,
+    "social_chatter": 9.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 1.7
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "22:50",
+    "generated_utc": "23:48",
     "top_drivers": [
-      "LIFE WITH LINDZAY : Adventuring Pickaway County , meeting interesting people",
-      "X/Twitter chatter: 120 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 156 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.8,
-    "baseline_recent": 25.8,
+    "live_signal": 21.9,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": 7.75567696773093,
-    "x_last_hour": 120,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 156,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.4,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "LIFE WITH LINDZAY : Adventuring Pickaway County , meeting interesting people",
-      "source": "circlevilleherald.com",
-      "url": "http://www.circlevilleherald.com/community/life-with-lindzay-adventuring-pickaway-county-meeting-interesting-people/article_ba320be7-a7f3-4dfa-b894-9bba4191ce69.html"
-    },
-    {
-      "type": "news",
-      "text": "Albers named Georgia State Firefighters Association Legislator of the Year",
-      "source": "mdjonline.com",
-      "url": "https://www.mdjonline.com/news/frontpage/albers-named-georgia-state-firefighters-association-legislator-of-the-year/article_79ec957b-3299-4637-8a3a-c04ddde35b50.html"
-    },
-    {
-      "type": "news",
-      "text": "U . S . conducted successful UFO  Luring Operation , advocate claims , as government files detail orb encounters",
-      "source": "sott.net",
-      "url": "https://www.sott.net/article/507400-US-conducted-successful-UFO-Luring-Operation-advocate-claims-as-government-files-detail-orb-encounters"
-    },
-    {
-      "type": "news",
-      "text": "Water main break disrupts service for 100 metro Atlanta homes",
-      "source": "wsbtv.com",
-      "url": "https://www.wsbtv.com/news/local/north-fulton-county/water-main-break-disrupts-service-100-metro-atlanta-homes/VAWC5C6BEBACNKHXP4NHTS3XAM/"
-    },
-    {
-      "type": "news",
-      "text": "Roswell Daily Record ceases operations",
-      "source": "ruidosonews.com",
-      "url": "https://ruidosonews.com/roswell-daily-record-ceases-operations/"
-    },
-    {
-      "type": "news",
-      "text": "Comment d\u00e9carboner laviation ? \u2013 13 / 07",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/comment-decarboner-l-aviation-13-07_EN-202607130672.html"
-    },
-    {
-      "type": "news",
-      "text": "Fran\u00e7ois Bourrier - Soifer , directeur g\u00e9n\u00e9ral d\u00e9l\u00e9gu\u00e9 de Safran . AI \u2013 13 / 07",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/francois-bourrier-soifer-directeur-general-delegue-de-safran-ai-13-07_EN-202607130686.html"
-    },
-    {
-      "type": "news",
-      "text": "Roswell Daily Record ceases operations",
-      "source": "riograndesun.com",
-      "url": "https://riograndesun.com/roswell-daily-record-ceases-operations/"
-    },
-    {
-      "type": "news",
-      "text": "Paul - Fran\u00e7ois Fournier , directeur ex\u00e9cutif chez Bpifrance et Jean Schmitt , pr\u00e9sident et fondateur de Jolt Capital \u2013 13 / 07",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-francois-fournier-directeur-executif-chez-bpifrance-et-jean-schmitt-president-et-fondateur-de-jolt-capital-13-07_EN-202607130655.html"
-    },
-    {
-      "type": "news",
-      "text": "Archbishop Hartmayer writes letter to the faithful on SSPX schism - Georgia Bulletin",
-      "source": "georgiabulletin.org",
-      "url": "https://georgiabulletin.org/news/2026/07/archbishop-hartmayer-writes-letter-to-the-faithful-on-sspx-schism/"
+      "type": "x",
+      "text": "@michaelshermer @ericweinstein Eric has done a 180 on the UFO topic as of recently.  He indicated on recent podcasts he has been informed by \u201cinsiders\u201d the phenomenon is real.  Don\u2019t forget Neil DeGra",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2076815747561721866"
     },
     {
       "type": "x",
-      "text": "@BrianCoryDobbs @JeanWardMars Not the same comparison, and not the same thing.  The Gimbal object was recorded with a completely different camera system, in infrared, and on video. The black blobs in ",
+      "text": "@John_A_Held @BrianRoemmele **No official government announcement specifies the topic.**  President Trump posted on Truth Social that he will deliver a primetime address to the nation on Thursday, Jul",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076801445798756696"
+      "url": "https://x.com/i/web/status/2076815714124501041"
     },
     {
       "type": "x",
-      "text": "Anyone trying to pull you into the headlines is playing into the script of this reality.. the headlines are the manipulation tool they use to push your perception of truth.. false light moves in waves",
+      "text": "Military Aviator Describes Object 'Unlike Anything I Had Seen' in Latest Declassified UFO Files  Source: Latin Times https://t.co/plPvouRXGS",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076801376827711547"
+      "url": "https://x.com/i/web/status/2076814878338162792"
     },
     {
       "type": "x",
-      "text": "Astronomer Cosmic Ray does it again! I Solved the Pentagon\u2019s FLOATING BRAIN UFO | 4th Batch EXPLAINED https://t.co/HhPDfW7uU4 via @YouTube",
+      "text": "@KyleKulinski We also had the 4th drop of super secret ufo files. There\u2019s a lot happening.   Just not on the Epstein files.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076801132278514070"
+      "url": "https://x.com/i/web/status/2076814758368416042"
     },
     {
       "type": "x",
-      "text": "@theblackvault PURSUE UAP Releases 2026: Expanded Forensic Report &amp; NHI Interaction Probability  Background The @theblackvault X post (ID 2076785786511659053) compiles threads indexing every video",
+      "text": "@NgReddot @ImAstroNana Drawing a cartoon is not the same as making it. If China made A UFO or a Death Star, you'd all be saying it stole it too.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076801018071781413"
+      "url": "https://x.com/i/web/status/2076814651447468354"
     },
     {
       "type": "x",
-      "text": "Those weird UAP photos released the other day?  Flying oil tankers  That\u2019s how they get around Iran\u2019s absolute and complete control of the Strait  Don\u2019t let anyone fool you otherwise https://t.co/Eogz",
+      "text": "This is exactly the way I feel and what I have tried to articulate. Every time a skeptic/debunker uses Occam\u2019s Razor, or extraordinary claims require extraordinary evidence I\u2019m like \u201cHold Up\u201d\u2026 there i",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076800659941392512"
-    },
-    {
-      "type": "x",
-      "text": "@wowolili @DocAlienista The video is old footage from July 2020 (clear text overlay in the clip), not a new 2026 event. No news reports exist of UFO chaos or mass sightings in Saigon today.   The two ",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076800493796376846"
+      "url": "https://x.com/i/web/status/2076814547822788936"
     },
     {
       "type": "swpc",
@@ -2388,6 +2327,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.8
+    },
+    {
+      "ts": "2026-07-13T23:48:59.582254Z",
+      "score": 30.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 21.9
     }
   ],
   "sources": [
