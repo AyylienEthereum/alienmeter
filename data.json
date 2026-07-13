@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T01:06:36.042631Z",
-  "score": 33.1,
+  "generated_at": "2026-07-13T04:45:55.598830Z",
+  "score": 28.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -20.2,
-    "d24h": 3.4,
+    "d1h": -3.6,
+    "d24h": 1.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.4,
+    "social_chatter": 6.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 4.8,
     "seismic": 2.1,
-    "alien_variance": 3.9
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "01:06",
+    "generated_utc": "04:45",
     "top_drivers": [
-      "X/Twitter chatter: 126 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 8",
+      "X/Twitter chatter: 104 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.1,
+    "live_signal": 19.7,
     "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
@@ -49,48 +49,48 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 126,
-    "wiki_spike_pct": -30.059333996294278,
+    "x_last_hour": 104,
+    "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.10922888670317,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "I have been a vocal campaigner, the resident crazy UFO guy in my group, and been burned time and again \"it's coming up, might be crazy\" it makes me look credulous Nobody believes free energy is being ",
+      "text": "Different type of #UAP captured by overhead surveillance. https://t.co/4h03i6uIGJ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076472645151809834"
+      "url": "https://x.com/i/web/status/2076528001156526378"
     },
     {
       "type": "x",
-      "text": "On the Trail of UFOs Season 1 Marathon! (Full UAP documentary and witnes... https://t.co/OYDGMe34Am via @YouTube",
+      "text": "@JonStewartIL We call this UAP the Loofah",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076472112743624951"
+      "url": "https://x.com/i/web/status/2076527414621171969"
     },
     {
       "type": "x",
-      "text": "UFO Files: IC Official's first-hand Orb ENCOUNTER points to more likely ... https://t.co/Rp1Gopd1BC via @YouTube",
+      "text": "UFO INSIDER WAS STOPPED ON SAYING THIS https://t.co/q7JsYSxauZ via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076472103138730204"
+      "url": "https://x.com/i/web/status/2076527016136859852"
     },
     {
       "type": "x",
-      "text": "@rosscoulthart @disclosurefound @jordanflowers @ODNIgov Just a correction: the correct date for the S\u00edtio Gama UFO incident is June 20, 1978. Gemini got the date wrong in the summary above. I used it ",
+      "text": "A mysterious \"UFO\" was spotted hovering over Disneyland in Florida. Visitors to Epcot Park noticed a glowing orb and reported that it hovered for several minutes before disappearing. https://t.co/B5fw",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076472101691875604"
+      "url": "https://x.com/i/web/status/2076526990689972424"
     },
     {
       "type": "x",
-      "text": "What's UFO toilet doing up there?? https://t.co/DVZWidoHJS",
+      "text": "I Found the REAL Roswell UFO Crash Site https://t.co/Qkd6JPoHxH via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076471935656136770"
+      "url": "https://x.com/i/web/status/2076526830069108958"
     },
     {
       "type": "x",
-      "text": "In case you missed it; here is the link to, Breaking the Taboo: Reviving Academic UAP, Abduction, and Experiencer Research. https://t.co/IxCNWe808J via @YouTube",
+      "text": "The Paranormal UFO Connection (2023) #truth+ https://t.co/pV550WzHoe https://t.co/fxNchBmXqb",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076471892567863611"
+      "url": "https://x.com/i/web/status/2076526393454665922"
     },
     {
       "type": "swpc",
@@ -2263,6 +2263,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.1
+    },
+    {
+      "ts": "2026-07-13T04:45:55.523369Z",
+      "score": 28.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.7
     }
   ],
   "sources": [
