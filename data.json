@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:56:34.954558Z",
-  "score": 25.2,
+  "generated_at": "2026-07-13T10:56:09.105622Z",
+  "score": 26.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -12.4,
-    "d24h": -5.3,
+    "d1h": -12.0,
+    "d24h": -17.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 2.7,
+    "social_chatter": 2.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
-    "seismic": 2.1,
-    "alien_variance": 0.9
+    "space_weather_alerts": 4.8,
+    "seismic": 3.2,
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,72 @@
     "day": 29,
     "date": "13.07.2026",
     "declassified": "13.07.26",
-    "generated_utc": "07:56",
+    "generated_utc": "10:56",
     "top_drivers": [
-      "X/Twitter chatter: 49 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "X/Twitter chatter: 43 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.0,
+    "live_signal": 16.3,
     "baseline_recent": 25.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 49,
+    "gdelt_spike_pct": -67.45074977947662,
+    "x_last_hour": 43,
     "wiki_spike_pct": -31.786386791728887,
     "earthquakes_24h": 1,
-    "max_quake_mag_24h": 4.10922888670317,
-    "swpc_alerts_24h": 3
+    "max_quake_mag_24h": 6.4,
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@realtjhaines The most realistic thing here is that one or two priests in DC had it out for Rossetti, got the Cardinal's ear, and pressured him into doing this, he had the easy excuse of the UFO thing",
+      "text": "Im meesed up dudes two cranes just flew by tinking UFO internal structure. no joke.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076575377086927308"
+      "url": "https://x.com/i/web/status/2076621645800689822"
     },
     {
       "type": "x",
-      "text": ".@AlienMetals Geochemical Review Confirms Munni Munni Targets https://t.co/mLxbNagTFD #UFO",
+      "text": "Im meesed up dudes two crans just flew by tinking UFO internal structure. no joke.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076574389907153351"
+      "url": "https://x.com/i/web/status/2076621561952379236"
     },
     {
       "type": "x",
-      "text": "Well happy birthday to Ziggy Marley's eldest son Daniel Bambaata Marley July 12th  Took me a little bit to find the channel Follow BAMBAATA   Instagram:/\u00a0bambaata Listen to BAMBAATA On: iTunes and Spo",
+      "text": "Have we discovered the \"magic wand\" of pampered white men around the world?  I am a Japanese contactee.  Among my alien Grey friends, there is also a Sister Christian.  Jesus Christ is the only begott",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076574185069957365"
+      "url": "https://x.com/i/web/status/2076621533209088437"
     },
     {
       "type": "x",
-      "text": "UFO Back of the Envelope Ideas https://t.co/kwkUW0Od76 https://t.co/Rgu6r2qPGu",
+      "text": "@TheProjectUnity Finally, thank you for covering this topic. It deserves far more attention. Whether or not every claim holds up, there are interesting parallels between AI and the UFO disclosure conv",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076573491621433717"
+      "url": "https://x.com/i/web/status/2076621362626445445"
     },
     {
       "type": "x",
-      "text": "@ericweinstein You're a master of a mathematics and I'm wondering if for the sake of jubilation and jubilee you would be willing to examine the UAP from the dimensions of z to the Zed to the Zion to t",
+      "text": "Grok says  \"This video is not AI-generated. It's real Ring doorbell camera footage, but the glowing object is almost certainly a drone with bright lights, not a UFO.   A drone \ud83e\udd23Im saying its an Newbie",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076573244623122622"
+      "url": "https://x.com/i/web/status/2076621110657901050"
     },
     {
       "type": "x",
-      "text": "@teoriadacons Release UFO files \u2705 Reveal Epstein's list \u2716\ufe0f",
+      "text": "@TraderGirlQ Also, that ex-politician English lady, who just got brutally murdered in her own house - at the age of 78. Hmmmm... both born in 1947... when Roswell happened... UFO-disclosure next, anyo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076573051819270614"
+      "url": "https://x.com/i/web/status/2076620611799966017"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3716\r Issue Time: 2026 Jul 13 1027 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -105,14 +111,8 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2249\r Issue Time: 2026 Jul 12 1411 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "seismic",
-      "text": "Significant seismic event: 2 km ESE of Frazier Park, CA",
+      "text": "Significant seismic event: 191 km SE of Lorengau, Papua New Guinea",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -2277,6 +2277,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.0
+    },
+    {
+      "ts": "2026-07-13T10:56:09.028573Z",
+      "score": 26.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.3
     }
   ],
   "sources": [
