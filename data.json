@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T07:08:11.058088Z",
-  "score": 28.4,
+  "generated_at": "2026-07-14T09:16:55.562309Z",
+  "score": 26.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.2,
-    "d24h": 0.3,
+    "d1h": -3.8,
+    "d24h": -1.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.0,
+    "social_chatter": 4.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
-    "seismic": 3.2,
-    "alien_variance": 2.7
+    "seismic": 3.1,
+    "alien_variance": 0.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "07:08",
+    "generated_utc": "09:16",
     "top_drivers": [
-      "X/Twitter chatter: 70 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 81 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,56 +41,56 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.2,
-    "baseline_recent": 25.8,
+    "live_signal": 17.1,
+    "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": -82.41663986276401,
-    "x_last_hour": 70,
+    "gdelt_spike_pct": -65.18837459634015,
+    "x_last_hour": 81,
     "wiki_spike_pct": -31.604120125342966,
-    "earthquakes_24h": 3,
-    "max_quake_mag_24h": 6.4,
+    "earthquakes_24h": 2,
+    "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "The 1994 Lake Michigan UFO Sightings  Examine one of the largest mass UFO sightings witnessed over Lake Michigan. Explore radar evidence, eyewitness reports, and the mystery that remains unsolved.  ht",
+      "text": "@SKizzleAXE @grok If by UFO you mean AI, then yes",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076926572750151892"
+      "url": "https://x.com/i/web/status/2076959015251431906"
     },
     {
       "type": "x",
-      "text": "@overclassifiedx Just keep doing your own thing dude. The UAP community is fun but can be toxic. I prefer to stay in my lane and just observe.",
+      "text": "Inside UFO Shapeship  Demo &amp; Source Code: https://t.co/oQcMNx0lPP  Support me by PayPal: https://t.co/UpY98EwIB7  #threejs #webgl #shader https://t.co/G5lI62zALL",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076925720022909035"
+      "url": "https://x.com/i/web/status/2076958718718296519"
     },
     {
       "type": "x",
-      "text": "Think the government ignored UFOs back in 1948? Think again. This deep dive reveals how Project Sign was a serious intelligence priority behind closed doors, despite the public ridicule. #UFO #Project",
+      "text": "@UAPWatchers Good that the UFO exactly knew where is the camera. \ud83d\ude05",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076925287925977116"
+      "url": "https://x.com/i/web/status/2076958191372423665"
     },
     {
       "type": "x",
-      "text": "@dom_lucre james franco alien thing? did he actually find a UFO or just a glitch?",
+      "text": "Pentagon UFO Files Detail Mystery Object Near Texas Nuclear Plant \u2013 https://t.co/2F7K2pEww5 https://t.co/oh5U6s1GU9",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076925070715339047"
+      "url": "https://x.com/i/web/status/2076957846588018758"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe @greta NDT wrote a UFO book, after ridiculing UFOs for over a decade - changing your mind is one thing, but this doesn't seem like that at all imo - and I get the philosophical sarcasm/skep",
+      "text": "@TheBlockCo Even if a UFO landed tomorrow, this Act still wouldn\u2019t get passed. Somehow. \ud83d\udc7d\ud83d\udcc9",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076924741940883703"
+      "url": "https://x.com/i/web/status/2076957753470259387"
     },
     {
       "type": "x",
-      "text": "@goodmorningufo Jesus fucking Christ James Franco can\u2019t be fucking serious with this?!?!? Is this April fools day?\u2026it\u2019s shit like this or shit fake ufo clips that when Aliens ACTUALLY come visit us NO",
+      "text": "@UFOTruth I'll judge for myself when I see it, but fair play for putting it out there. The UAP field needs more evidence and less teasing.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076923503521992912"
+      "url": "https://x.com/i/web/status/2076957337898614942"
     },
     {
       "type": "swpc",
@@ -2367,6 +2367,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.2
+    },
+    {
+      "ts": "2026-07-14T09:16:55.490948Z",
+      "score": 26.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.1
     }
   ],
   "sources": [
