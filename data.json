@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T12:39:24.436264Z",
-  "score": 32.0,
+  "generated_at": "2026-07-14T14:27:33.862974Z",
+  "score": 32.1,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": 2.4,
-    "d24h": 4.7,
+    "d1h": 3.7,
+    "d24h": 4.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 6.6,
+    "news_velocity": 0.1,
+    "social_chatter": 10.3,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 3.6
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "12:39",
+    "generated_utc": "14:27",
     "top_drivers": [
-      "X/Twitter chatter: 112 UFO/UAP posts in the last hour",
+      "5 less crowded Colorado destinations for camping , biking and more",
+      "X/Twitter chatter: 172 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.9,
+    "live_signal": 24.0,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 112,
+    "gdelt_spike_pct": 0.6095895648754063,
+    "x_last_hour": 172,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "All of the UFO shit makes me feel retarded.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077009625744875752"
+      "type": "news",
+      "text": "5 less crowded Colorado destinations for camping , biking and more",
+      "source": "canoncitydailyrecord.com",
+      "url": "https://www.canoncitydailyrecord.com/2026/07/14/less-crowded-destinations-colorado/"
+    },
+    {
+      "type": "news",
+      "text": "Foreo Expands Beauty Technology Lineup With New LED Devices and Wellness Supplement",
+      "source": "ganderbeacon.ca",
+      "url": "https://www.ganderbeacon.ca/foreo-expands-beauty-technology-lineup-with-new-led-devices-and-wellness-supplement/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nmlctqa644s273b4kfs86677d0"
+    },
+    {
+      "type": "news",
+      "text": "Summoning the Gods : A prophetic warning from the frontlines of the digital apocalypse \u2013 NaturalNews . com",
+      "source": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-14-summoning-the-gods-prophetic-warning-digital-apocalypse.html"
+    },
+    {
+      "type": "news",
+      "text": "Ve\u00edculo cai em ribanceira na PR - 986 e motorista fica ferida em Rol\u00e2ndia",
+      "source": "tnonline.uol.com.br",
+      "url": "https://tnonline.uol.com.br/noticias/parana/veiculo-cai-em-ribanceira-na-pr-986-e-motorista-fica-ferida-em-rolandia-1117622"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/6d878c07-bd95-51b0-95cf-08aa570df277/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vq469ijnmftunat8o9udadthf5"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon Releases New UFO Files With Strange Videos",
+      "source": "mykisscountry937.com",
+      "url": "https://mykisscountry937.com/ixp/33/p/pentagon-new-ufo-files-2026/"
+    },
+    {
+      "type": "news",
+      "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u0442\u0443\u043f\u044f\u0442 \u043f\u0440\u0438 \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u043c\u0438 \u043d\u0430 \u041c\u041a\u0421 , \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b \u043a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442 \u0414\u0443\u0431\u0440\u043e\u0432",
+      "source": "rodina-history.ru",
+      "url": "https://rodina-history.ru/2026/07/14/kak-postupiat-pri-vstreche-s-inoplanetianami-na-mks-obiasnil-kosmonavt-dubrov.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9uqgegk7g9c4ag0agfrqjae040"
     },
     {
       "type": "x",
-      "text": "@AdamsHstev90384 @nypost While your point is taken - it has zero to do with a \"political\" effort to rig an election by intelligence and government officials using false data and by lying under oath.  ",
+      "text": "@FrankTumwebazek @IraUganda There  is this insurance called @uap",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077008973497020541"
+      "url": "https://x.com/i/web/status/2077037167012892840"
     },
     {
       "type": "x",
-      "text": "BRITISH DISCLOSURE THREAD   We must contribute more towards UAP/NHI disclosure in this country (the UK). I know for certain our armed forces, intelligence community, and 'private groups' have tremendo",
+      "text": "With states with different laws for example \u201chomelessness\u201d and \u201cliving in your car\u201d being illegal, puts multiple communist countries in America going unannounced being: Oregon, Montana, Washington Sta",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077008455877935269"
+      "url": "https://x.com/i/web/status/2077037165666779265"
     },
     {
       "type": "x",
-      "text": "Moon Swag - https://t.co/HbTGv2hP4W Wallets for space cadets #nasa #space #ufo https://t.co/SSs77FjHU0",
+      "text": "is this the monolith lui elizondo is talking about ? Credit to lunacognita. #disclosure  #uap https://t.co/XFdet2lq6A",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077008455836033170"
+      "url": "https://x.com/i/web/status/2077037043561947299"
     },
     {
       "type": "x",
-      "text": "If I had a UFO podcast like everybody and their brother. https://t.co/cKacutHwH8 via #ufotwitter https://t.co/VKwFPhsk2y",
+      "text": "@Kam_epic26 @gyshcnn Yeah even on Ao3, where yaoi ships usually occupy top 3 spots, Giyushino is second most written ship under DS tag, same with Wattpad, and every other fanfiction site, while in mar",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077008230962585920"
+      "url": "https://x.com/i/web/status/2077036857385504907"
     },
     {
       "type": "x",
-      "text": "@WarHorizon Lots of pilots don't report UFO for that reason",
+      "text": "@ufocryptocoin @MichaelSalla Because 'UFO experts' are using this to cloud-chase bullocks.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077007548184436936"
+      "url": "https://x.com/i/web/status/2077036609359302766"
+    },
+    {
+      "type": "x",
+      "text": "@CenturiiC ain't nobody looking at that UFO",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077036554971734228"
     },
     {
       "type": "swpc",
@@ -2382,6 +2443,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.9
+    },
+    {
+      "ts": "2026-07-14T14:27:33.788754Z",
+      "score": 32.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.0
     }
   ],
   "sources": [
