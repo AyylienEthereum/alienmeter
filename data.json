@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T11:04:44.688640Z",
-  "score": 30.0,
+  "generated_at": "2026-07-14T12:39:24.436264Z",
+  "score": 32.0,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "that's... unusual",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -16.0,
-    "d24h": 0.9,
+    "d1h": 2.4,
+    "d24h": 4.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.9,
+    "social_chatter": 6.6,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 3.2
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "11:04",
+    "generated_utc": "12:39",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 112 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.3,
+    "live_signal": 23.9,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": -51.029559905113686,
-    "x_last_hour": 117,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 112,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vq469ijnmftunat8o9udadthf5"
-    },
-    {
-      "type": "news",
-      "text": "Pentagon Releases New UFO Files With Strange Videos",
-      "source": "mykisscountry937.com",
-      "url": "https://mykisscountry937.com/ixp/33/p/pentagon-new-ufo-files-2026/"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u0442\u0443\u043f\u044f\u0442 \u043f\u0440\u0438 \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u043c\u0438 \u043d\u0430 \u041c\u041a\u0421 , \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b \u043a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442 \u0414\u0443\u0431\u0440\u043e\u0432",
-      "source": "rodina-history.ru",
-      "url": "https://rodina-history.ru/2026/07/14/kak-postupiat-pri-vstreche-s-inoplanetianami-na-mks-obiasnil-kosmonavt-dubrov.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9uqgegk7g9c4ag0agfrqjae040"
-    },
-    {
-      "type": "news",
-      "text": "Expozi\u021bia de pictur\u0103 \u201e Reveriile locuirii , vernisat\u0103 la T\u00e2rgu Jiu - \u015etiri locale de ultima ora , stiri video",
-      "source": "gorjeanul.ro",
-      "url": "https://www.gorjeanul.ro/ultima-ora/expozitia-de-pictura-reveriile-locuirii-vernisata-la-targu-jiu/"
-    },
-    {
-      "type": "news",
-      "text": "Elwood Watson : A photo says a thousand racist words",
-      "source": "dailyfreeman.com",
-      "url": "https://www.dailyfreeman.com/2026/07/14/elwood-watson-a-photo-says-a-thousand-racist-words/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=30786vqc41dtu96kpp4rkhekn7"
-    },
-    {
-      "type": "news",
-      "text": "Increasing monsoon storms & flood threats",
-      "source": "koat.com",
-      "url": "https://www.koat.com/article/increasing-monsoon-storms-flood-threats/71923147"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=aiuuv0ut7dq50rq9o1e1665h75"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cs145adi2vfvff8ds5mpc8ppa1"
+      "type": "x",
+      "text": "All of the UFO shit makes me feel retarded.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077009625744875752"
     },
     {
       "type": "x",
-      "text": "4/ Nimitz Incident, 2004: Navy pilots intercepted a Tic-Tac craft that dropped from 80,000ft to sea level with no visible propulsion. Pentagon confirmed the footage in 2020.  Follow for daily UFO fact",
+      "text": "@AdamsHstev90384 @nypost While your point is taken - it has zero to do with a \"political\" effort to rig an election by intelligence and government officials using false data and by lying under oath.  ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076986107388960898"
+      "url": "https://x.com/i/web/status/2077008973497020541"
     },
     {
       "type": "x",
-      "text": "Spin and counter-spin can result in an \"upwelling\" force, say for ocean currents. Two alien-made crop pictures suggest that UFO levitation may act in a similar way. I will try to test that hypothesis ",
+      "text": "BRITISH DISCLOSURE THREAD   We must contribute more towards UAP/NHI disclosure in this country (the UK). I know for certain our armed forces, intelligence community, and 'private groups' have tremendo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076985820591038528"
+      "url": "https://x.com/i/web/status/2077008455877935269"
     },
     {
       "type": "x",
-      "text": "@PEJ1952 It's certain that plenty of people have captured unidentified flying objects on their cameras - but it's also certain none of them are from alien planets. Here's a famous UFO image out of Den",
+      "text": "Moon Swag - https://t.co/HbTGv2hP4W Wallets for space cadets #nasa #space #ufo https://t.co/SSs77FjHU0",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076985448841289851"
+      "url": "https://x.com/i/web/status/2077008455836033170"
     },
     {
       "type": "x",
-      "text": "@rationalaussie Brothers of the Serpent podcast @SnkBrs  Specifically their extensive UFO series featuring Marty Garza (of Monster truck fame)  Get well Marty we miss you bro  \u2764\ufe0f\u271d\ufe0f\ud83d\ude4f",
+      "text": "If I had a UFO podcast like everybody and their brother. https://t.co/cKacutHwH8 via #ufotwitter https://t.co/VKwFPhsk2y",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076985279681069269"
+      "url": "https://x.com/i/web/status/2077008230962585920"
     },
     {
       "type": "x",
-      "text": "@GuntherEagleman What happened to all Epstein crap? Nobody arrested to assaulting and raping kids\u2026 that\u2019s right we got a war and ufo disclosure. I\u2019ll remember each of you child rapist supporter\u2019s\u2026",
+      "text": "@WarHorizon Lots of pilots don't report UFO for that reason",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076985227528876488"
-    },
-    {
-      "type": "x",
-      "text": "@zamaniii00 When UFO starts mingling with humans?",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076985087485263951"
+      "url": "https://x.com/i/web/status/2077007548184436936"
     },
     {
       "type": "swpc",
@@ -2436,6 +2375,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.3
+    },
+    {
+      "ts": "2026-07-14T12:39:24.360757Z",
+      "score": 32.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.9
     }
   ],
   "sources": [
