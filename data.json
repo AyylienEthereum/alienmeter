@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-14T22:53:02.592167Z",
-  "score": 33.8,
+  "generated_at": "2026-07-14T23:46:42.603568Z",
+  "score": 33.4,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.8,
-    "d24h": 0.9,
+    "d1h": 1.2,
+    "d24h": 2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 3.0
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "22:53",
+    "generated_utc": "23:46",
     "top_drivers": [
       "X/Twitter chatter: 203 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
@@ -41,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 26.2,
+    "live_signal": 25.7,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -44.352806668960696,
     "x_last_hour": 203,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 1,
@@ -2432,6 +2432,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 26.2
+    },
+    {
+      "ts": "2026-07-14T23:46:42.530198Z",
+      "score": 33.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.7
     }
   ],
   "sources": [
