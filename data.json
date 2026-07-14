@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-14T21:53:04.421988Z",
-  "score": 31.4,
+  "generated_at": "2026-07-14T22:53:02.592167Z",
+  "score": 33.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": -9.4,
+    "d1h": 0.8,
+    "d24h": 0.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
@@ -31,9 +31,9 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "21:53",
+    "generated_utc": "22:53",
     "top_drivers": [
-      "X/Twitter chatter: 152 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 203 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.2,
+    "live_signal": 26.2,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": -13.929746792934383,
-    "x_last_hour": 152,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 203,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Yeah he\u2019s getting out of the ufo stuff i think in part because he had a weird drunken crash out during a \u201cTwitter (x) ufo personality\u201d live stream. I\u2019m all for free speech like they\u2019re just words but ",
+      "text": "\ud83d\udea8\ud83d\udef8 THE UFO COVER-UP\u2019S SHADOW ARCHITECTS EXPOSED  A secret society founded in 1945 by WWII spymasters Bill Donovan, Allen Dulles &amp; Britain\u2019s William Stephenson allegedly runs the real UFO/NHI embar",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077149310496489619"
+      "url": "https://x.com/i/web/status/2077163981580750886"
     },
     {
       "type": "x",
-      "text": "3/  Then it suddenly pulls away, vanishing in the depths. [Eberhart]  Sources: National UFO Reporting Center, \u201cNUFORC UFO Sighting 37401,\u201d June 18, 2004; https://t.co/idKM4FlgVp https://t.co/cdvhF4XgV",
+      "text": "That 250th anniversary came and fucking went, UFO files got released, war with Iran, but still the Epstein victims didn't get their justice. What world are we living in? https://t.co/YBWIHLhM0o",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077149194364604505"
+      "url": "https://x.com/i/web/status/2077163595465433444"
     },
     {
       "type": "x",
-      "text": "#ufotwitter #ufohistory Today in UFO History - USS Forrestal Sighting July 15?, 1974 \u2014 Mediterranean Sea 1/ 2:00 a.m. An E-2 signalman stationed on the aircraft carrier USS Forrestal in the eastern Me",
+      "text": "UFO Contactee Billy Meier - Goblet of the Truth - Death-Life https://t.co/yJ5U9Tq9u5",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077149192355557445"
+      "url": "https://x.com/i/web/status/2077163288773771715"
     },
     {
       "type": "x",
-      "text": "UAP back-engineering is not protected by NDAs. It's protected by \"shhhhhhh\".",
+      "text": "Is Dr. Phil genuinely concerned about alien disclosure or is he a mouthpiece for the government to help soften the shock of future disclosure?  What do you think? #drphil #alien #disclosure #ufo #neph",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077149177142714548"
+      "url": "https://x.com/i/web/status/2077163187066343650"
     },
     {
       "type": "x",
-      "text": "Weekly bullshit supplement for the UFO nut jobs. They don't care if it's real, as they've built a whole new fantasy world to get their fix. https://t.co/nHEAqdHWaO",
+      "text": "New article released on the brain looking UFO. Newly released from the Pentagon Documents. I'ts not the matter are they here. But who are they and what do they want? What do you think? https://t.co/KM",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077149081806529002"
+      "url": "https://x.com/i/web/status/2077162691244773798"
     },
     {
       "type": "x",
-      "text": "@BrianRoemmele And if he doesn't discuss the UAP topic you now have contributed to making the UAP discussion appear silly or trivial.  Thanks, your effort has been noted.",
+      "text": "UAP (Unidentified Aerial Phenomena) disclosure is accelerating:  - 2017: NYT breaks AATIP story - 2020: Pentagon releases Navy videos - 2023: Congressional hearings - 2024: Whistleblower testimony und",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077148956962750760"
+      "url": "https://x.com/i/web/status/2077162546457391443"
     },
     {
       "type": "swpc",
@@ -2425,6 +2425,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.2
+    },
+    {
+      "ts": "2026-07-14T22:53:02.517096Z",
+      "score": 33.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.2
     }
   ],
   "sources": [
