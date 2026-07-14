@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-14T15:56:56.734622Z",
-  "score": 29.5,
+  "generated_at": "2026-07-14T17:12:43.075221Z",
+  "score": 30.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": -0.4,
+    "d1h": 0.5,
+    "d24h": 5.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 2.2,
-    "alien_variance": 1.1
+    "seismic": 3.1,
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "15:56",
+    "generated_utc": "17:12",
     "top_drivers": [
-      "Texas Nudist Beaches , From Lake Travis To South Padre Island",
+      "James Franco sparks confusion after claiming he has real footage of aliens",
       "X/Twitter chatter: 156 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.7,
+    "live_signal": 22.0,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -53,10 +53,52 @@
     "x_last_hour": 156,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 1,
-    "max_quake_mag_24h": 4.31762677888687,
+    "max_quake_mag_24h": 6.2,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "James Franco sparks confusion after claiming he has real footage of aliens",
+      "source": "the-independent.com",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/james-franco-alien-tiktok-b3014605.html"
+    },
+    {
+      "type": "news",
+      "text": "Texas Nudist Beaches , From Lake Travis To South Padre Island",
+      "source": "kygl.com",
+      "url": "https://kygl.com/ixp/142/p/texas-nude-beaches-naturist-spots/"
+    },
+    {
+      "type": "news",
+      "text": "This skate rave is returning to Miami in September",
+      "source": "miaminewtimes.com",
+      "url": "https://www.miaminewtimes.com/music/this-skate-rave-is-returning-to-miami-in-september-40567167/"
+    },
+    {
+      "type": "news",
+      "text": "\u9ad8\u7aef\u53a8\u7535\u534e\u5e1d\u9886\u8dd1  \u5065\u5eb7  \u8d5b\u9053 \uff0c \u83b7\u4e09\u9879  \u5e74\u5ea6\u4e00\u7ebf\u54c1\u724c _ \u4ea7\u4e1a\u7ecf\u6d4e _ \u8d22\u7ecf _ \u4e2d\u91d1\u5728\u7ebf",
+      "source": "news.cnfol.com",
+      "url": "http://news.cnfol.com/chanyejingji/20260714/32307101.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b4gf2m6139bh3fm33mvpodrle0"
+    },
+    {
+      "type": "news",
+      "text": "5 less crowded Colorado destinations for camping , biking and more",
+      "source": "eptrail.com",
+      "url": "https://www.eptrail.com/2026/07/14/less-crowded-destinations-colorado/"
+    },
+    {
+      "type": "news",
+      "text": "Sin revelaci\u00f3n : en Roswell , los nuevos documentos sobre ovnis resultaron una decepci\u00f3n",
+      "source": "lanacion.com.ar",
+      "url": "https://www.lanacion.com.ar/sociedad/sin-revelacion-en-roswell-los-nuevos-documentos-sobre-ovnis-resultaron-una-decepcion-nid14072026/"
+    },
     {
       "type": "news",
       "text": "Texas Nudist Beaches , From Lake Travis To South Padre Island",
@@ -76,82 +118,40 @@
       "url": "https://www.ganderbeacon.ca/foreo-expands-beauty-technology-lineup-with-new-led-devices-and-wellness-supplement/"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nmlctqa644s273b4kfs86677d0"
-    },
-    {
-      "type": "news",
-      "text": "Summoning the Gods : A prophetic warning from the frontlines of the digital apocalypse \u2013 NaturalNews . com",
-      "source": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-14-summoning-the-gods-prophetic-warning-digital-apocalypse.html"
-    },
-    {
-      "type": "news",
-      "text": "Ve\u00edculo cai em ribanceira na PR - 986 e motorista fica ferida em Rol\u00e2ndia",
-      "source": "tnonline.uol.com.br",
-      "url": "https://tnonline.uol.com.br/noticias/parana/veiculo-cai-em-ribanceira-na-pr-986-e-motorista-fica-ferida-em-rolandia-1117622"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/6d878c07-bd95-51b0-95cf-08aa570df277/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vq469ijnmftunat8o9udadthf5"
-    },
-    {
-      "type": "news",
-      "text": "Pentagon Releases New UFO Files With Strange Videos",
-      "source": "mykisscountry937.com",
-      "url": "https://mykisscountry937.com/ixp/33/p/pentagon-new-ufo-files-2026/"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u0442\u0443\u043f\u044f\u0442 \u043f\u0440\u0438 \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u043c\u0438 \u043d\u0430 \u041c\u041a\u0421 , \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b \u043a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442 \u0414\u0443\u0431\u0440\u043e\u0432",
-      "source": "rodina-history.ru",
-      "url": "https://rodina-history.ru/2026/07/14/kak-postupiat-pri-vstreche-s-inoplanetianami-na-mks-obiasnil-kosmonavt-dubrov.html"
+      "type": "x",
+      "text": "@JoeyPepperonii It\u2019s SATIRE! The same way the govt hypes up a big release of Epstein and UFO Files. Then the day comes and it\u2019s nonsense.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077078801079558398"
     },
     {
       "type": "x",
-      "text": "@TruebadmoJoman amazing. Yesterday it came to mind watching my stream:   there are two kinds of UFO interested people  - the ones who know  &amp;  - the ones seeking strategic power, prestige and fort",
+      "text": "Steven Spielberg just released his first alien movie in 21 years, timed almost exactly with the government dropping real declassified UFO files. coincidence? Spielberg says no. the internet says also ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077059418437370174"
+      "url": "https://x.com/i/web/status/2077078686801821769"
     },
     {
       "type": "x",
-      "text": "Here's our new Twitch streaming schedule for this week!  https://t.co/WxQDxcQFTX  The Lineup:  Tuesday, July 14th @ 1:30 PM ET \u2014 Assassin's Creed IV: Black Flag Resynced  Wednesday, July 15th @ 6:00 P",
+      "text": "Cigar-shaped UFO filmed somewhere in Russia. https://t.co/lYoAjLxoAF",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077059273402560704"
+      "url": "https://x.com/i/web/status/2077078666022953446"
     },
     {
       "type": "x",
-      "text": "This is how ufo rumors start https://t.co/LqaZSGSlE0",
+      "text": "@Authentic369 It\u2019s Space X. If it has a trail behind it it\u2019s not a UAP craft or plasmoid.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077059272223940690"
+      "url": "https://x.com/i/web/status/2077078627263430855"
     },
     {
       "type": "x",
-      "text": "I think the UAP phenomenon is real https://t.co/KEcz979IfY",
+      "text": "or is all of this serving as a distraction from something else?  Curious to hear where everyone stands and more importantly, why. #UAP #NHI #Disclosure #Science #Space @elonmusk @DoWCFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077058904085667898"
+      "url": "https://x.com/i/web/status/2077078603213271247"
     },
     {
       "type": "x",
-      "text": "I think the UAP phenomena is real https://t.co/KEcz979IfY",
+      "text": "LISTEN NOW!! Album - Area 51 https://t.co/TUteRfqM7Y via @YouTubeMusic #newmusicalert #newmusic #youtubemusic #area51 #ufo #alien",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077058794857595389"
-    },
-    {
-      "type": "x",
-      "text": "\ud83c\udfd4\ufe0fColorado keeps pulling me in\u2026 and the Grand Mesa area might be one of the wildest reasons why.   Out there, people talk about a \ud83d\udc80GIANT SKULL\ud83d\udc80 (PIC BELOW) found in the region and the idea that titans",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077058721931207065"
+      "url": "https://x.com/i/web/status/2077078571076461007"
     },
     {
       "type": "swpc",
@@ -167,7 +167,7 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 18 km WSW of Johannesburg, CA",
+      "text": "Significant seismic event: 34 km WSW of Sarangani, Philippines",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -2451,6 +2451,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.7
+    },
+    {
+      "ts": "2026-07-14T17:12:42.997661Z",
+      "score": 30.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.0
     }
   ],
   "sources": [
