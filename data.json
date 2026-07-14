@@ -1,96 +1,109 @@
 {
-  "generated_at": "2026-07-13T23:48:59.657994Z",
-  "score": 30.5,
+  "generated_at": "2026-07-14T01:54:32.384602Z",
+  "score": 46.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": -1.2,
-    "d24h": 0.9,
+    "d1h": 13.9,
+    "d24h": 16.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 9.3,
+    "news_velocity": 17.1,
+    "social_chatter": 10.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 3.6,
     "seismic": 3.2,
-    "alien_variance": 2.5
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 29,
-    "day": 29,
-    "date": "13.07.2026",
-    "declassified": "13.07.26",
-    "generated_utc": "23:48",
+    "number": 30,
+    "day": 30,
+    "date": "14.07.2026",
+    "declassified": "14.07.26",
+    "generated_utc": "01:54",
     "top_drivers": [
-      "X/Twitter chatter: 156 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "News velocity +71% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 173 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.9,
+    "live_signal": 41.8,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 156,
-    "wiki_spike_pct": -31.786386791728887,
+    "gdelt_spike_pct": 71.36144245285024,
+    "x_last_hour": 173,
+    "wiki_spike_pct": -33.97042551051202,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 6.4,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@michaelshermer @ericweinstein Eric has done a 180 on the UFO topic as of recently.  He indicated on recent podcasts he has been informed by \u201cinsiders\u201d the phenomenon is real.  Don\u2019t forget Neil DeGra",
+      "text": "@dom_lucre one take away is it is a prank or for some reason , a direct opposition to current UAP / ET releases.   incase no one wondered about et's is they travel through space , yet roam the earth n",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076815747561721866"
+      "url": "https://x.com/i/web/status/2076847573055492296"
     },
     {
       "type": "x",
-      "text": "@John_A_Held @BrianRoemmele **No official government announcement specifies the topic.**  President Trump posted on Truth Social that he will deliver a primetime address to the nation on Thursday, Jul",
+      "text": "@20th_Centurygal Rock Bottom - UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076815714124501041"
+      "url": "https://x.com/i/web/status/2076847474946560285"
     },
     {
       "type": "x",
-      "text": "Military Aviator Describes Object 'Unlike Anything I Had Seen' in Latest Declassified UFO Files  Source: Latin Times https://t.co/plPvouRXGS",
+      "text": "@MatthewLauseng @Resisting313392 And shackled and chaingca tall grey a 2 year prisoner how cruel!  They are the good guys seen in photos when vacationer's take a photo bear a waterway later once photo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076814878338162792"
+      "url": "https://x.com/i/web/status/2076847420097360340"
     },
     {
       "type": "x",
-      "text": "@KyleKulinski We also had the 4th drop of super secret ufo files. There\u2019s a lot happening.   Just not on the Epstein files.",
+      "text": "@BuraianUFO If you successfully summoned a UFO you\u2019d know the government has not the slightest clue",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076814758368416042"
+      "url": "https://x.com/i/web/status/2076847297137135809"
     },
     {
       "type": "x",
-      "text": "@NgReddot @ImAstroNana Drawing a cartoon is not the same as making it. If China made A UFO or a Death Star, you'd all be saying it stole it too.",
+      "text": "Has anyone seen a glowing orb or some sort of UFO?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076814651447468354"
+      "url": "https://x.com/i/web/status/2076847216543879296"
     },
     {
       "type": "x",
-      "text": "This is exactly the way I feel and what I have tried to articulate. Every time a skeptic/debunker uses Occam\u2019s Razor, or extraordinary claims require extraordinary evidence I\u2019m like \u201cHold Up\u201d\u2026 there i",
+      "text": "Is 16 th july the date? #disclosure #uap #aliens",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2076814547822788936"
+      "url": "https://x.com/i/web/status/2076847010498637871"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2674\r Issue Time: 2026 Jul 14 0008 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5384\r Issue Time: 2026 Jul 13 2350 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -2334,6 +2347,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 21.9
+    },
+    {
+      "ts": "2026-07-14T01:54:32.307171Z",
+      "score": 46.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 41.8
     }
   ],
   "sources": [
