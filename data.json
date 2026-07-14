@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-14T18:16:49.540733Z",
-  "score": 33.0,
+  "generated_at": "2026-07-14T19:51:02.302668Z",
+  "score": 32.2,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "huh",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.0,
-    "d24h": 4.5,
+    "d1h": 0.1,
+    "d24h": -3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.0,
+    "social_chatter": 10.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.2,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 3.0
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 30,
     "date": "14.07.2026",
     "declassified": "14.07.26",
-    "generated_utc": "18:16",
+    "generated_utc": "19:51",
     "top_drivers": [
-      "Texas Nudist Beaches , From Lake Travis To South Padre Island",
-      "X/Twitter chatter: 183 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 169 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 2",
       "NEO (2016 NB1) passing Earth at 30.1 lunar distances"
     ],
@@ -42,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.2,
+    "live_signal": 24.2,
     "baseline_recent": 25.7,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +49,7 @@
     "closest_asteroid_ld": 30.1474234448,
     "asteroid_name": "(2016 NB1)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 183,
+    "x_last_hour": 169,
     "wiki_spike_pct": -31.231596931913195,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Texas Nudist Beaches , From Lake Travis To South Padre Island",
-      "source": "1470kyyw.com",
-      "url": "https://1470kyyw.com/ixp/142/p/texas-nude-beaches-naturist-spots/"
-    },
-    {
-      "type": "news",
-      "text": "James Franco sparks confusion after claiming he has real footage of aliens",
-      "source": "the-independent.com",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/james-franco-alien-tiktok-b3014605.html"
-    },
-    {
-      "type": "news",
-      "text": "Texas Nudist Beaches , From Lake Travis To South Padre Island",
-      "source": "kygl.com",
-      "url": "https://kygl.com/ixp/142/p/texas-nude-beaches-naturist-spots/"
-    },
-    {
-      "type": "news",
-      "text": "This skate rave is returning to Miami in September",
-      "source": "miaminewtimes.com",
-      "url": "https://www.miaminewtimes.com/music/this-skate-rave-is-returning-to-miami-in-september-40567167/"
-    },
-    {
-      "type": "news",
-      "text": "\u9ad8\u7aef\u53a8\u7535\u534e\u5e1d\u9886\u8dd1  \u5065\u5eb7  \u8d5b\u9053 \uff0c \u83b7\u4e09\u9879  \u5e74\u5ea6\u4e00\u7ebf\u54c1\u724c _ \u4ea7\u4e1a\u7ecf\u6d4e _ \u8d22\u7ecf _ \u4e2d\u91d1\u5728\u7ebf",
-      "source": "news.cnfol.com",
-      "url": "http://news.cnfol.com/chanyejingji/20260714/32307101.shtml"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b4gf2m6139bh3fm33mvpodrle0"
-    },
-    {
-      "type": "news",
-      "text": "5 less crowded Colorado destinations for camping , biking and more",
-      "source": "eptrail.com",
-      "url": "https://www.eptrail.com/2026/07/14/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Sin revelaci\u00f3n : en Roswell , los nuevos documentos sobre ovnis resultaron una decepci\u00f3n",
-      "source": "lanacion.com.ar",
-      "url": "https://www.lanacion.com.ar/sociedad/sin-revelacion-en-roswell-los-nuevos-documentos-sobre-ovnis-resultaron-una-decepcion-nid14072026/"
-    },
-    {
-      "type": "news",
-      "text": "Texas Nudist Beaches , From Lake Travis To South Padre Island",
-      "source": "keyj.com",
-      "url": "https://keyj.com/texas-nude-beaches-naturist-spots/"
-    },
-    {
-      "type": "news",
-      "text": "5 less crowded Colorado destinations for camping , biking and more",
-      "source": "canoncitydailyrecord.com",
-      "url": "https://www.canoncitydailyrecord.com/2026/07/14/less-crowded-destinations-colorado/"
+      "type": "x",
+      "text": "No, not necessarily, and not even likely. Transient lunar phenomena (TLP), particularly from or around Aristarchus, were observed by amateur astronomers, lay people, and scientists of all stripes for ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077118620866646034"
     },
     {
       "type": "x",
-      "text": "@MrMosis @goodmorningufo \"as time progresses\"  its been 80 years of UFO lore. Can you name a single thing that has been confidently asserted as true, but has gone totally unsubstantiated in that time ",
+      "text": "@TheCryptoMando What about UFO? Xen said they can adjust the % and use it however, why not use full % to buy ETH too? @TheGray369",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094892560592908"
+      "url": "https://x.com/i/web/status/2077118362581176682"
     },
     {
       "type": "x",
-      "text": "@Hot_Pepper76 Stones, Zep, AC/DC.  Stones just put out a new album which is really good.  More late 70s heavy metal bands:  Judas Priest, Motorhead, UFO, Uriah Heep.",
+      "text": "@Real123Here @QBlazedog61029J @WhiteHouse The UFO video you're referring to is from the Fourth UAP File Release posted by the White House on July 10. It features declassified infrared footage and repo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094720858476708"
+      "url": "https://x.com/i/web/status/2077118249163006270"
     },
     {
       "type": "x",
-      "text": "\ud83d\udd25\ud83d\udef8\ud83d\udc7d EXCLUSIVE: Hal Puthoff Opens the Door to Sharing All of His UFO Knowledge \ud83d\udc7d\ud83d\udef8\ud83d\udd25  (Just a short back and forth between Dr. Hal Puthoff  and myself, via email over the last week.  Dr. Eric Davis has s",
+      "text": "@lippyent It\u2019s a ufo.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094709567365612"
+      "url": "https://x.com/i/web/status/2077118157051801731"
     },
     {
       "type": "x",
-      "text": "The Expulsion of Satan to Hell to Achieve the New Order  Author: Long T. Doan Founder &amp; CEO, eCyberForce The Expulsion of Satan to Hell to Achieve the New Order  This article presents a conceptual",
+      "text": "@celinedionysus_ I am not a conservative political elite, but primarily for 2 reasons. (a) there are overlapping details b/w the UAP stuff and many Bible prophecies. (b) and phenomena pertaining to do",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094544739303853"
+      "url": "https://x.com/i/web/status/2077118145005855033"
     },
     {
       "type": "x",
-      "text": "MUFON CO-FOUNDER JOHN SCHUESSLER HAS PASSED!  Back in the days when M.U.F.O.N. stood for Midwest UFO Network, John Schuessler was there. In 1969, along with Walt Andrus, John, an aerospace engineer wi",
+      "text": "enjoyed the Jackie Gleason cameo in DISCLOSURE DAY but major flub not to end the story at his custom built UFO house upstate. https://t.co/VyqpsXd5E3",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094408613142772"
-    },
-    {
-      "type": "x",
-      "text": "Do Laser Produced Plasmas Explain Some of the UAP Orbs? by Avi Loeb https://t.co/ThOeupW9yr",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077094138198036685"
+      "url": "https://x.com/i/web/status/2077118142585651316"
     },
     {
       "type": "swpc",
@@ -2465,6 +2404,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.2
+    },
+    {
+      "ts": "2026-07-14T19:51:02.228483Z",
+      "score": 32.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.2
     }
   ],
   "sources": [
