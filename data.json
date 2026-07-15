@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T01:51:33.106419Z",
-  "score": 22.2,
+  "generated_at": "2026-07-15T04:47:03.867831Z",
+  "score": 27.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -9.8,
-    "d24h": -10.4,
+    "d1h": -4.0,
+    "d24h": -7.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 2.3,
-    "social_chatter": 0.0,
+    "news_velocity": 0.0,
+    "social_chatter": 8.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.1,
-    "alien_variance": 1.6
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "01:51",
+    "generated_utc": "04:47",
     "top_drivers": [
+      "X/Twitter chatter: 135 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
@@ -40,21 +41,57 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.4,
+    "live_signal": 18.1,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": 9.491871724260463,
-    "x_last_hour": 0,
-    "wiki_spike_pct": -29.658941564894054,
+    "gdelt_spike_pct": -81.46286990508096,
+    "x_last_hour": 135,
+    "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "x",
+      "text": "@TomiLahren I'm a 1 issue voter 1. UFO Disclosure \ud83d\udef8 \ud83d\udc7d",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077253483347014053"
+    },
+    {
+      "type": "x",
+      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: PENGUUSDT Reading result since publish: +1.01%  Not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xXPE  #UFOCryptoRadar",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077253227079241760"
+    },
+    {
+      "type": "x",
+      "text": "@TheUfoJoe @greta You should really learn how visual perception works.  That\u2019s why it\u2019s been changed to UAP and NHI",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077253145474797691"
+    },
+    {
+      "type": "x",
+      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: XPLUSDT Reading result since publish: +1.20%  Not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xXPE  #UFOCryptoRadar #",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077253000674832398"
+    },
+    {
+      "type": "x",
+      "text": "@YetiDroppings @UAPJames @disclosureorg Let\u2019s not forget the ufo crash retrieval 1940,s  David grusch mentioned the great USA scooped up under the approval of the then pope. They wanted it covered up ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077252763784982711"
+    },
+    {
+      "type": "x",
+      "text": "@sebatheepan This is so wildly creative! A UFO series would be awesome!?",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077252665294336349"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5385\r Issue Time: 2026 Jul 15 0144 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -2403,6 +2440,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.4
+    },
+    {
+      "ts": "2026-07-15T04:47:03.793887Z",
+      "score": 27.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.1
     }
   ],
   "sources": [
