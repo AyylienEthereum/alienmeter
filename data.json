@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T14:26:30.348523Z",
-  "score": 31.7,
+  "generated_at": "2026-07-15T16:00:58.245119Z",
+  "score": 29.2,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 5.4,
-    "d24h": -1.7,
+    "d1h": 3.7,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 8.9,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
-    "seismic": 3.1,
-    "alien_variance": 3.9
+    "seismic": 0.0,
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "14:26",
+    "generated_utc": "16:00",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
+      "  Inventer la vie qui va avec  \u00a0 : la Twingo , premi\u00e8re voiture queer\u00a0 ? ",
+      "X/Twitter chatter: 149 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.7,
+    "live_signal": 20.5,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -50,13 +50,19 @@
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 147,
+    "x_last_hour": 149,
     "wiki_spike_pct": -30.33670592138,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.2,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "  Inventer la vie qui va avec  \u00a0 : la Twingo , premi\u00e8re voiture queer\u00a0 ? ",
+      "source": "tetu.com",
+      "url": "https://tetu.com/2026/07/03/auto-renault-relance-nouvelle-twingo-electrique-premiere-voiture-queer/"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -112,46 +118,40 @@
       "url": "https://www.novella2000.it/adam-kadmon-vita-difficile-dopo-mistero-ecco-che-fine-ha-fatto/"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=s05s4d8qs89f5u74a3p8mmc824"
+      "type": "x",
+      "text": "@UAPWatchers @KarenJoyLyster Honestly we need a fkg reboot! The UAP narrative is getting stranger by the day the door opens and in walks Franco and now Dr Phil!  We have had our tricksters of recent t",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077422950819455480"
     },
     {
       "type": "x",
-      "text": "Mythbound\u2019s Actress #DonnaDErrico Discusses Her UFO Encounter, the Vegas Aliens... https://t.co/1AMGgveRpP via @YouTube #uap #ufo @missmayim @TheUfoJoe @g_knapp @BryceZabel @ZacharyLevi @rosscoulthart",
+      "text": "Captured by a U.S. military infrared sensor in the Middle East, this video was submitted by U.S. Central Command.  Now publicly released, it's one of hundreds of declassified UAP cases available to ex",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077399235054755896"
+      "url": "https://x.com/i/web/status/2077422943588810826"
     },
     {
       "type": "x",
-      "text": "David Grusch calls out the Vatican over the Magenta 1933 UFO Crash Retri... https://t.co/PWYEZaAYED via @YouTube",
+      "text": "The 2027 Script: Why Military Drills &amp; UFO Disclosure Timelines are Aligning  If you want to know what the future looks like, stop watching the news and start watching the simulation schedules. Ri",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077399121019724225"
+      "url": "https://x.com/i/web/status/2077422173501702538"
     },
     {
       "type": "x",
-      "text": "@storm1news @ICEgov WTF is that?? Is this some of the UFO leaks \ud83e\udd2a",
+      "text": "The Catholics Are Hiding UAP Secrets? \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022  Let\u2019s start by acknowledging that there is no evidence the Catholic Church knows anything more about UAP than anyone else or is concealing ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077398937627979866"
+      "url": "https://x.com/i/web/status/2077421476375052504"
     },
     {
       "type": "x",
-      "text": "i'm not sure if i'm supposed to post about this or not.  i wrote about it in my journal, but i'm not ganna say when it happened.  i feel like experiencers need to be a part of disclosure.  i might sta",
+      "text": "If you breakdown shot for shot the moment the little glider UFO thing charges at him you'll realise how poorly edited the little sequence is. https://t.co/EH16PHQl94",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077398795139023107"
+      "url": "https://x.com/i/web/status/2077421352001176029"
     },
     {
       "type": "x",
-      "text": "Agape  Ufo Princess Valkyrie OST https://t.co/Di99KDp2SU",
+      "text": "@coffee_anytime Now would be a good time to use that reverse engineered UFO/UAP technology David Grusch testified to Congress about.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077398710582235430"
-    },
-    {
-      "type": "x",
-      "text": "@MichaelSalla It's not that secret.. there's a UFO airport there..  Yajweh with a j (5\" 11\" Kenio W56 with Hawaiian Shirt) has been there many times..  You make it sound more great than what it is..",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077398592273141910"
+      "url": "https://x.com/i/web/status/2077421124288131437"
     },
     {
       "type": "swpc",
@@ -170,12 +170,6 @@
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5386\r Issue Time: 2026 Jul 15 0554 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 34 km WSW of Sarangani, Philippines",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -2555,6 +2549,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 23.7
+    },
+    {
+      "ts": "2026-07-15T16:00:58.174176Z",
+      "score": 29.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.5
     }
   ],
   "sources": [
