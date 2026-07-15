@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T16:00:58.245119Z",
-  "score": 29.2,
+  "generated_at": "2026-07-15T17:24:49.238332Z",
+  "score": 30.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 3.7,
-    "d24h": 1.4,
+    "d1h": 4.1,
+    "d24h": 3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.9,
+    "social_chatter": 10.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "16:00",
+    "generated_utc": "17:24",
     "top_drivers": [
-      "  Inventer la vie qui va avec  \u00a0 : la Twingo , premi\u00e8re voiture queer\u00a0 ? ",
-      "X/Twitter chatter: 149 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 177 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.5,
+    "live_signal": 22.6,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 149,
+    "gdelt_spike_pct": -41.9688714215533,
+    "x_last_hour": 177,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "  Inventer la vie qui va avec  \u00a0 : la Twingo , premi\u00e8re voiture queer\u00a0 ? ",
-      "source": "tetu.com",
-      "url": "https://tetu.com/2026/07/03/auto-renault-relance-nouvelle-twingo-electrique-premiere-voiture-queer/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9c6j37r0j2agcfdq297t26iln3"
-    },
-    {
-      "type": "news",
-      "text": "Festival Off\u00a0 :  Philtre damour  ou quand Madonna rencontre Wagner , un ovni musical entre musique savante et culture populaire",
-      "source": "laprovence.com",
-      "url": "https://www.laprovence.com/article/culture-loisirs/8097775737693114/festival-off-philtre-damour-ou-quand-madonna-rencontre-wagner-un-ovni-musical-entre-musique-savante-et-culture-populaire"
-    },
-    {
-      "type": "news",
-      "text": "Dr Phil : Ive reviewed hundreds of secret government UFO files",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/vertical-galleries/article-15979535/Dr-Phil-Ive-reviewed-hundreds-secret-government-UFO-files.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=esq2j0k468kvb3abvj2kvoh3t5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=42769vi2gipsum6i84le7hji62"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n1voebikktgen0e465m7onpvt7"
-    },
-    {
-      "type": "news",
-      "text": "Gdzie obejrze\u0107 hit o UFO ? Film Spielberga wkr\u00f3tce na VOD",
-      "source": "film.wp.pl",
-      "url": "https://film.wp.pl/gdzie-obejrzec-hit-o-ufo-film-spielberga-wkrotce-na-vod-7307730474821632a"
-    },
-    {
-      "type": "news",
-      "text": "Information Warfare : Ukraine War Comments",
-      "source": "strategypage.com",
-      "url": "http://www.strategypage.com/htmw/htiw/articles/202607156498.aspx"
-    },
-    {
-      "type": "news",
-      "text": "Adam Kadmon , vita difficile dopo Mistero : ecco che fine ha fatto",
-      "source": "novella2000.it",
-      "url": "https://www.novella2000.it/adam-kadmon-vita-difficile-dopo-mistero-ecco-che-fine-ha-fatto/"
+      "type": "x",
+      "text": "@NaskovNikolai @debunked3282 Or maybe because labeling a bot account (that has no actual knowledge about the actual studio/animation) and is known for stirring up controversy as a \"Ufo fan\"? Also all ",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077443929327259864"
     },
     {
       "type": "x",
-      "text": "@UAPWatchers @KarenJoyLyster Honestly we need a fkg reboot! The UAP narrative is getting stranger by the day the door opens and in walks Franco and now Dr Phil!  We have had our tricksters of recent t",
+      "text": "@TrueGemHunter UFO cycle is about to begin !",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077422950819455480"
+      "url": "https://x.com/i/web/status/2077443831650222133"
     },
     {
       "type": "x",
-      "text": "Captured by a U.S. military infrared sensor in the Middle East, this video was submitted by U.S. Central Command.  Now publicly released, it's one of hundreds of declassified UAP cases available to ex",
+      "text": "\ud83d\udea8 Congressman Eric Burlison on Brazil's 1996 UFO crash:  \"We have requested that the FBI exhume the body that came in to contact with the Alien\" \ud83d\udc7d\ud83d\udef8\ud83c\udde7\ud83c\uddf7  \"I'm in search of the truth and I'm not going to ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077422943588810826"
+      "url": "https://x.com/i/web/status/2077443606869057548"
     },
     {
       "type": "x",
-      "text": "The 2027 Script: Why Military Drills &amp; UFO Disclosure Timelines are Aligning  If you want to know what the future looks like, stop watching the news and start watching the simulation schedules. Ri",
+      "text": "@SmaragdinaVisio John Keel\u2019s investigations reveal that these entities have been with us since the beginning. UFO lore maps almost perfectly to medieval faerie lore. I\u2019d entertain the idea that Crowle",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077422173501702538"
+      "url": "https://x.com/i/web/status/2077443536593797472"
     },
     {
       "type": "x",
-      "text": "The Catholics Are Hiding UAP Secrets? \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022  Let\u2019s start by acknowledging that there is no evidence the Catholic Church knows anything more about UAP than anyone else or is concealing ",
+      "text": "@TrumpDailyPosts They\u2019ll show us ufo videos before they show the gold",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077421476375052504"
+      "url": "https://x.com/i/web/status/2077443411561357810"
     },
     {
       "type": "x",
-      "text": "If you breakdown shot for shot the moment the little glider UFO thing charges at him you'll realise how poorly edited the little sequence is. https://t.co/EH16PHQl94",
+      "text": "Looks like the Bob White UFO object (molten high purity aluminum with some silver and other elements) has been wiped off Youtube.  Unsolved Mysteries featured the Bob White Artifact in its Season 8, E",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077421352001176029"
-    },
-    {
-      "type": "x",
-      "text": "@coffee_anytime Now would be a good time to use that reverse engineered UFO/UAP technology David Grusch testified to Congress about.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077421124288131437"
+      "url": "https://x.com/i/web/status/2077443258259493099"
     },
     {
       "type": "swpc",
@@ -2556,6 +2495,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.5
+    },
+    {
+      "ts": "2026-07-15T17:24:49.163116Z",
+      "score": 30.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.6
     }
   ],
   "sources": [
