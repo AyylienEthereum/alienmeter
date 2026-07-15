@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T04:47:03.867831Z",
-  "score": 27.4,
+  "generated_at": "2026-07-15T07:11:06.106491Z",
+  "score": 26.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -4.0,
-    "d24h": -7.4,
+    "d1h": -7.5,
+    "d24h": -2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.0,
+    "social_chatter": 4.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 3.6,
     "seismic": 3.1,
-    "alien_variance": 2.6
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,78 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "04:47",
+    "generated_utc": "07:11",
     "top_drivers": [
-      "X/Twitter chatter: 135 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.1,
+    "live_signal": 16.7,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": -81.46286990508096,
-    "x_last_hour": 135,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 75,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@TomiLahren I'm a 1 issue voter 1. UFO Disclosure \ud83d\udef8 \ud83d\udc7d",
+      "text": "The Hill Abduction Case  Explore the groundbreaking Betty and Barney Hill alien abduction story that shaped modern UFO history. Examine the evidence, hypnosis sessions, and lasting controversy.  https",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077253483347014053"
+      "url": "https://x.com/i/web/status/2077289524686639153"
     },
     {
       "type": "x",
-      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: PENGUUSDT Reading result since publish: +1.01%  Not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xXPE  #UFOCryptoRadar",
+      "text": "Not just tea. It\u2019s a little ritual you look forward to.   Open the box. Pour the tea. Watch the leaves unfold. Enjoy the moment.  Our UFO Drip Tea brings a pour-over style tea experience into your eve",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077253227079241760"
+      "url": "https://x.com/i/web/status/2077289151464931347"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe @greta You should really learn how visual perception works.  That\u2019s why it\u2019s been changed to UAP and NHI",
+      "text": "@UAPJames I think Disclosure will be particularly painful to Caucasians. I think there is a reason a lot of the ufo/nhi presence is predominantly in America and the Caucasian countries. If what I've s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077253145474797691"
+      "url": "https://x.com/i/web/status/2077289080657002896"
     },
     {
       "type": "x",
-      "text": "\ud83d\udfe2 Market confirmed the UFO reading  Symbol: XPLUSDT Reading result since publish: +1.20%  Not financial advice.  \ud83d\udef8 Follow all live UFO readings in real time: https://t.co/RQMQp7xXPE  #UFOCryptoRadar #",
+      "text": "Until President Trump issues an executive order concerning UAP (nope, he hasnt. WHY NOT?) im taking what the Trump administration says concerning UAP with a giant grain of salt \ud83e\uddc2.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077253000674832398"
+      "url": "https://x.com/i/web/status/2077289049019031600"
     },
     {
       "type": "x",
-      "text": "@YetiDroppings @UAPJames @disclosureorg Let\u2019s not forget the ufo crash retrieval 1940,s  David grusch mentioned the great USA scooped up under the approval of the then pope. They wanted it covered up ",
+      "text": "A UFO Landed in His Driveway &amp; Gave Him Pancakes!  #UFO #UAP #Paranormal #Mystery #Wisconsin #Unexplained https://t.co/RWOtyJGI7E",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077252763784982711"
+      "url": "https://x.com/i/web/status/2077288931222286694"
     },
     {
       "type": "x",
-      "text": "@sebatheepan This is so wildly creative! A UFO series would be awesome!?",
+      "text": "@ChrisKMellon @ExploreSCU I believe that UFO advocate Danny Sheehan agrees with my take that Reptilians, collaborating with Tech Oligarchs &amp; other elites are trying to tweak our species into becom",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077252665294336349"
+      "url": "https://x.com/i/web/status/2077288701441552561"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2675\r Issue Time: 2026 Jul 15 0558 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5386\r Issue Time: 2026 Jul 15 0554 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -2447,6 +2459,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.1
+    },
+    {
+      "ts": "2026-07-15T07:11:06.032871Z",
+      "score": 26.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.7
     }
   ],
   "sources": [
