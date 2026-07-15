@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T07:11:06.106491Z",
-  "score": 26.3,
+  "generated_at": "2026-07-15T09:21:09.760174Z",
+  "score": 25.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.5,
-    "d24h": -2.3,
+    "d1h": -7.9,
+    "d24h": 1.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.3,
+    "social_chatter": 3.6,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 3.1,
-    "alien_variance": 2.5
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,66 +31,133 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "07:11",
+    "generated_utc": "09:21",
     "top_drivers": [
-      "X/Twitter chatter: 75 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 3",
+      "Does Cheese Increase Breast Cancer Risk ? Does Yogurt Lower It ? ",
+      "X/Twitter chatter: 63 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.7,
+    "live_signal": 15.7,
     "baseline_recent": 25.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 75,
+    "gdelt_spike_pct": -81.45859085290482,
+    "x_last_hour": 63,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "The Hill Abduction Case  Explore the groundbreaking Betty and Barney Hill alien abduction story that shaped modern UFO history. Examine the evidence, hypnosis sessions, and lasting controversy.  https",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077289524686639153"
+      "type": "news",
+      "text": "Does Cheese Increase Breast Cancer Risk ? Does Yogurt Lower It ? ",
+      "source": "science20.com",
+      "url": "http://science20.com/news_staff/does_cheese_increase_breast_cancer_risk_does_yogurt_lower_it-224944"
+    },
+    {
+      "type": "news",
+      "text": "West - Current Conditions",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_92cafe9c-01df-5e6e-9e71-889cd0918a98.html"
+    },
+    {
+      "type": "news",
+      "text": "Trump  UFO hunter :  One alien - made object would be science greatest discovery  ",
+      "source": "ynetnews.com",
+      "url": "https://www.ynetnews.com/health_science/article/rj4jkcvvme"
+    },
+    {
+      "type": "news",
+      "text": "  The Cold Song  par Klaus Nomi : \u00e9pisode 13 / 20 du podcast Music Queer",
+      "source": "radiofrance.fr",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/music-queer/music-queers-du-mercredi-15-juillet-2026-6614310"
+    },
+    {
+      "type": "news",
+      "text": "\u7f85\u4f2f\u7279 \u00b7 \u535a\u4e16\u7372\u6676\u7247\u6cd5\u68482 . 25\u5104\u7f8e\u5143\u88dc\u52a9 \u5f37\u5316\u7f8e\u570b\u534a\u5c0e\u9ad4\u751f\u7522",
+      "source": "n.yam.com",
+      "url": "https://n.yam.com/Article/20260715103421"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ke758k55en5n9vk8s13u5885u1"
+    },
+    {
+      "type": "news",
+      "text": "  \u05e6\u05d9\u05d9\u05d3 \u05d4\u05e2\u05d1  \u05de\u05d9\u05dd  \u05e9\u05dc \u05d8\u05e8\u05d0\u05de\u05e4 :  \u05d0\u05dd \u05e2\u05e6\u05dd \u05d0\u05d7\u05d3 \u05d4\u05d2\u05d9\u05e2 \u05de\u05ea\u05e8\u05d1\u05d5\u05ea \u05d7\u05d5\u05e6\u05e0\u05d9\u05ea - \u05d6\u05d5 \u05ea\u05d4\u05d9\u05d4 \u05d4\u05ea\u05d2\u05dc\u05d9\u05ea \u05d4\u05d7\u05e9\u05d5\u05d1\u05d4 \u05d1\u05de\u05d3\u05e2  ",
+      "source": "ynet.co.il",
+      "url": "https://www.ynet.co.il/environment-science/article/rjrpoo74mx"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a2miev86cf4bu1s983011bh3d5"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nui4v656lf7rmvl9gduhp0iup6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=221lpvbclaf8klfadda2fcfpn5"
     },
     {
       "type": "x",
-      "text": "Not just tea. It\u2019s a little ritual you look forward to.   Open the box. Pour the tea. Watch the leaves unfold. Enjoy the moment.  Our UFO Drip Tea brings a pour-over style tea experience into your eve",
+      "text": "@TheShadowIntelX BINGO! I remember guests / survivors on the Anneke Lucas podcast and elsewhere talking about Cabal interest in Ashkenazi bloodlines, and also Sumerian Myths / Ocuult stuff (+ UAP rela",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077289151464931347"
+      "url": "https://x.com/i/web/status/2077322151753896299"
     },
     {
       "type": "x",
-      "text": "@UAPJames I think Disclosure will be particularly painful to Caucasians. I think there is a reason a lot of the ufo/nhi presence is predominantly in America and the Caucasian countries. If what I've s",
+      "text": "@BRICSinfo Just like th UFO footage.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077289080657002896"
+      "url": "https://x.com/i/web/status/2077321448859800018"
     },
     {
       "type": "x",
-      "text": "Until President Trump issues an executive order concerning UAP (nope, he hasnt. WHY NOT?) im taking what the Trump administration says concerning UAP with a giant grain of salt \ud83e\uddc2.",
+      "text": "@latestincosmos except the ai powered ufo facility in the bermuda triangle.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077289049019031600"
+      "url": "https://x.com/i/web/status/2077321294563979777"
     },
     {
       "type": "x",
-      "text": "A UFO Landed in His Driveway &amp; Gave Him Pancakes!  #UFO #UAP #Paranormal #Mystery #Wisconsin #Unexplained https://t.co/RWOtyJGI7E",
+      "text": "@RedPandaKoala The Vatican could accelerate disclosure if they were honest about the events surrounding the Magenta UFO incident. \ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077288931222286694"
+      "url": "https://x.com/i/web/status/2077319216240206224"
     },
     {
       "type": "x",
-      "text": "@ChrisKMellon @ExploreSCU I believe that UFO advocate Danny Sheehan agrees with my take that Reptilians, collaborating with Tech Oligarchs &amp; other elites are trying to tweak our species into becom",
+      "text": "@Osint613 Mr. Peace is now using a foresight far more advanced than a UFO, pulling off a new game of checkmate straight from space that will leave everyone stunned. This new drama to please his favori",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077288701441552561"
+      "url": "https://x.com/i/web/status/2077319161236373702"
+    },
+    {
+      "type": "x",
+      "text": "Unidentified objects were over a US air base for 17 consecutive days! \ud83d\udef8\u2728#UFO https://t.co/Y4Y4koSrmH",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077318647673147857"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5387\r Issue Time: 2026 Jul 15 0853 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -101,12 +168,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5386\r Issue Time: 2026 Jul 15 0554 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5385\r Issue Time: 2026 Jul 15 0144 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -2466,6 +2527,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.7
+    },
+    {
+      "ts": "2026-07-15T09:21:09.685467Z",
+      "score": 25.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.7
     }
   ],
   "sources": [
