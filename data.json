@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T18:37:20.231766Z",
-  "score": 27.4,
+  "generated_at": "2026-07-15T19:50:36.326244Z",
+  "score": 30.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.3,
-    "d24h": -7.0,
+    "d1h": -0.8,
+    "d24h": 1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.2,
+    "social_chatter": 12.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "18:37",
+    "generated_utc": "19:50",
     "top_drivers": [
-      "Lineup set : Roswell National Championship Air Races ready for 2026",
-      "X/Twitter chatter: 154 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 208 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.1,
-    "baseline_recent": 25.5,
+    "live_signal": 22.6,
+    "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 154,
+    "x_last_hour": 208,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Lineup set : Roswell National Championship Air Races ready for 2026",
-      "source": "kob.com",
-      "url": "https://www.kob.com/news/top-news/lineup-set-roswell-national-championship-air-races-ready-for-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h8a3l05iu4jb6u3020ngck9o81"
-    },
-    {
-      "type": "news",
-      "text": "Lil Uzi Vert Reveals He Working on a New Album",
-      "source": "xxlmag.com",
-      "url": "https://www.xxlmag.com/lil-uzi-vert-working-new-album/"
-    },
-    {
-      "type": "news",
-      "text": "Tomorrowland to broadcast sets via Apple Music Club Radio during 2026 festival",
-      "source": "djmag.com",
-      "url": "https://djmag.com/news/tomorrowland-broadcast-sets-apple-music-club-radio-during-2026-festival"
-    },
-    {
-      "type": "news",
-      "text": "Review : At Pizzeria Mari in Troy , owner pushes flavor  as far as it can go  ",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/lifestyle/articles/review-pizzeria-mari-troy-owner-163000778.html"
-    },
-    {
-      "type": "news",
-      "text": "Roswell saca su primera victoria en las finales de la Liga Superior de Baloncesto",
-      "source": "nacion.com",
-      "url": "https://www.nacion.com/puro-deporte/roswell-saca-su-primera-victoria-en-las-finales-de/GKUHWMTVPBES3DQH25P226BME4/story/"
-    },
-    {
-      "type": "news",
-      "text": "  One of the rarest and most revered hard rock icons : Gibson has revived one of the most sought - after guitars it has ever produced",
-      "source": "guitarworld.com",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/gibson-custom-1971-flying-v-medallion-reissue"
-    },
-    {
-      "type": "news",
-      "text": "Tab\u0103ra de pictur\u0103 a Muzeului Na\u021bional al Bucovinei , edi\u021bia a XIV - a , la M\u0103n\u0103stirea Humorului",
-      "source": "monitorulsv.ro",
-      "url": "https://www.monitorulsv.ro/tabara-de-pictura-a-muzeului-national-al-bucovinei-editia-a-xiv-a-la-manastirea-humorului_69b279/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g8n6k08hqekrm972rb8648sec3"
-    },
-    {
-      "type": "news",
-      "text": "  Inventer la vie qui va avec  \u00a0 : la Twingo , premi\u00e8re voiture queer\u00a0 ? ",
-      "source": "tetu.com",
-      "url": "https://tetu.com/2026/07/03/auto-renault-relance-nouvelle-twingo-electrique-premiere-voiture-queer/"
+      "type": "x",
+      "text": "The Quantum Physics of Aliens and Demons\u2014Now you can call in live, anytime.  This is Its in the Fan's first interactive podcast. Listen, interact, and ask your questions whenever you want. No waiting.",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077480890180030600"
     },
     {
       "type": "x",
-      "text": "James Franco Just Released NEW 'Alien' Videos &amp; SHOCKING HD Images! https://t.co/HnMy8YgkKh via @TheNerdReport #UFO #UAP",
+      "text": "BREAKING: New ownership will keep the Roswell Daily Record in business! #ufo https://t.co/OOae6WVnBE",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077462450912518615"
+      "url": "https://x.com/i/web/status/2077480783477121395"
     },
     {
       "type": "x",
-      "text": "James Franco Just Released NEW 'Alien' Videos &amp; SHOCKING HD Images! https://t.co/53mBsdDskL via @TheNerdReport #UFO #UAP",
+      "text": "Red exposes the contradiction (policy flip from Graham\u2019s earlier opposition, Trump\u2019s later \u201cprotection fee\u201d declaration). Hollow Purple erases the assumption that such strikes can be executed without ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077462273279627647"
+      "url": "https://x.com/i/web/status/2077480647199736081"
     },
     {
       "type": "x",
-      "text": "@ufouapam Used to like and defend this guy after he got screwed over by metoo hysteria but he\u2019s obviously making fun of experiencers and the UAP topic so I\u2019m OUT",
+      "text": "Retired U.S. Army Colonel Karl E. Nell. He presented it during his talk at the Sol Foundation Symposium held at Stanford University on November 17\u201318, 2023.   The slide is titled\u2026  \u201cWay Forward: UAP C",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077462225095422276"
+      "url": "https://x.com/i/web/status/2077480643026726921"
     },
     {
       "type": "x",
-      "text": "'...exhilarating science fiction novel...'  https://t.co/9G5FUAAJRN  '5\u2b50\ufe0f- @Z_Gottlieb is a fresh and smart voice I highly recommend to anyone\u2019s must read SciFi shelf.'  #UFO #scifi #aliens #alieninva",
+      "text": "@freemind10x @UAPWatchers Again, we have a treaty with the aliens that only allows them to be filmed in black and white.  See current UAP drops by the government.  Also, he's the 'talent' which means ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077462209358106694"
+      "url": "https://x.com/i/web/status/2077480614912029031"
     },
     {
       "type": "x",
-      "text": "@joeroganhq Whistleblower handler. named you Joe Rogan. we also remember you sold your soul to see real UFO -  Tell that. Trump is not evil - too many. across. whole earth. are either impacted affecte",
+      "text": "@JDVance How the hec$ do you have time to do the view, go to ufc and go on podcasts like Rogan but no time to look into aliens or ufo? Dont believe for one second.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077462176009277862"
-    },
-    {
-      "type": "x",
-      "text": "\"Yourstory is someone'sinspiration\" #GD #artwork\ud83c\udfa8 #ArtistOnTwitter #fantasyart\u00a0 #Magic #bunny\u00a0 #painting #Metaverse #ufotwitter #smily #UFO #space #PeaceOfMind #peaceful #soul\u00a0 #characterart #painttin",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077461988083638351"
+      "url": "https://x.com/i/web/status/2077480548453564787"
     },
     {
       "type": "swpc",
@@ -2570,6 +2509,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.1
+    },
+    {
+      "ts": "2026-07-15T19:50:36.251408Z",
+      "score": 30.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.6
     }
   ],
   "sources": [
