@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T21:53:44.650083Z",
-  "score": 32.3,
+  "generated_at": "2026-07-15T22:53:47.563876Z",
+  "score": 29.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 1.4,
-    "d24h": 1.2,
+    "d1h": 2.0,
+    "d24h": 3.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 11.1,
+    "social_chatter": 10.2,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "21:53",
+    "generated_utc": "22:53",
     "top_drivers": [
-      "\u00c1udio de piloto relatando avistamento de OVNI em Londrina viraliza :  \u00c9 impressionante  ",
-      "X/Twitter chatter: 185 UFO/UAP posts in the last hour",
+      "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "X/Twitter chatter: 170 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.5,
+    "live_signal": 20.8,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
@@ -50,13 +50,43 @@
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 185,
+    "x_last_hour": 170,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "source": "radio945fm.iheart.com",
+      "url": "https://radio945fm.iheart.com/content/2026-07-15-phoebe-bridgers-performs-new-single-lost-boys-with-a-child-band-watch/"
+    },
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "source": "alt1047.iheart.com",
+      "url": "https://alt1047.iheart.com/content/2026-07-15-phoebe-bridgers-performs-new-single-lost-boys-with-a-child-band-watch/"
+    },
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "source": "1041theedge.iheart.com",
+      "url": "https://1041theedge.iheart.com/content/2026-07-15-phoebe-bridgers-performs-new-single-lost-boys-with-a-child-band-watch/"
+    },
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "source": "alt1073.iheart.com",
+      "url": "https://alt1073.iheart.com/content/2026-07-15-phoebe-bridgers-performs-new-single-lost-boys-with-a-child-band-watch/"
+    },
+    {
+      "type": "news",
+      "text": "Phoebe Bridgers Performs New Single  Lost Boy With A Child Band : Watch",
+      "source": "star991hawaii.iheart.com",
+      "url": "https://star991hawaii.iheart.com/content/2026-07-15-phoebe-bridgers-performs-new-single-lost-boys-with-a-child-band-watch/"
+    },
     {
       "type": "news",
       "text": "\u00c1udio de piloto relatando avistamento de OVNI em Londrina viraliza :  \u00c9 impressionante  ",
@@ -88,70 +118,40 @@
       "url": "https://www.inlander.com/culture/may-pang-s-photos-from-john-lennon-s-lost-weekend-get-a-dedicated-weekend-at/article_413689cc-a44b-44e5-8cbe-9836b65469ad.html"
     },
     {
-      "type": "news",
-      "text": "US Forecast",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/us-forecast/article_d1886d71-8ae6-547d-80ee-0153dae19e9d.html"
-    },
-    {
-      "type": "news",
-      "text": "Lil Uzi Vert Reveals He Working on a New Album",
-      "source": "wblk.com",
-      "url": "https://wblk.com/ixp/812/p/lil-uzi-vert-working-new-album/"
-    },
-    {
-      "type": "news",
-      "text": "Paul Wesley has married model Natalie Kuckenburg - 16 - Jul - 2026",
-      "source": "home.nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=449884&fm=psp,tst"
-    },
-    {
-      "type": "news",
-      "text": "Lil Uzi Vert Reveals He Working on a New Album",
-      "source": "mykiss1031.com",
-      "url": "https://mykiss1031.com/ixp/812/p/lil-uzi-vert-working-new-album/"
-    },
-    {
-      "type": "news",
-      "text": "L\u00f3pez Amor\u00edn asegur\u00f3 en el programa de Laje que vio un ovni cuando mostraban el cielo para dar el pron\u00f3stico del clima",
-      "source": "diarioregistrado.com",
-      "url": "https://www.diarioregistrado.com/espectaculos/lopez-amorin-aseguro-en-el-programa-de-laje-que-vio-un-ovni-cuando-mostraban-el-cielo-para-dar-el-pronostico-del-clima_a6a57a89273b2e6c5544ddad8"
+      "type": "x",
+      "text": "I It's so funny when somebody who says they believe in demons and ghosts all of a sudden is adamantly certain that UFO are not demons",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077526978505433359"
     },
     {
       "type": "x",
-      "text": "@TkMe2UrLeader11 Relax it\u2019s ufo twitter no legacy here go outside and touch some grass. The entire ufo thing is a psyop and we\u2019re all useful idiots for wasting so much time on the subject.",
+      "text": "@cravekeshaa @KeshaRose She turned the album into an art exhibit, worked w someone she always wanted to on it, did a space themed live performance in a ufo. Her last contractual album.   But it was a ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511645220290632"
+      "url": "https://x.com/i/web/status/2077526974168551890"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Why not as long as he sticks to the undeniable evidence and doesn\u2019t base his ufo research on a couple movies, doesn\u2019t quote Bob lazar.",
+      "text": "my final prediction for the l4mps feature is netaro host nagi subhost in fukuoka and the card will be netaro making the hama nice trip pose in front of the sign at ufo museum https://t.co/PEabbNdyaM",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511586470654103"
+      "url": "https://x.com/i/web/status/2077526833239605284"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ After years of highly effective anti-UFO conditioning, the admin is trying to take 80 years of secrecy and offer it up in a friendly, welcoming package. And Trump doesn\u2019t have many people",
+      "text": "This argument fails @joerogan once you realize someone like Jeremy Corbell has had dozens of supposed classified ISR videos of supposed UFOs leaked to him from a cellphone recording monitors over the ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511503972905382"
+      "url": "https://x.com/i/web/status/2077526615026712766"
     },
     {
       "type": "x",
-      "text": "A former U.S. Air Force captain shares video and firsthand details of a UAP encounter he says defied conventional aviation, while the founder of 'Make Aliens Great Again' discusses the push for greate",
+      "text": "@UAPLuigi @AlgolAluvaia I bet he has never even heard of Jesus in a UFO Cult https://t.co/KvoYHhO3cm",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511502018613699"
+      "url": "https://x.com/i/web/status/2077526597872357878"
     },
     {
       "type": "x",
-      "text": "@uBF2fV1cVQxRjQo It looks like \"Die  Glocke\" the nazi bell ufo https://t.co/D7SIfT9Tpu",
+      "text": "\ud83d\udea8 JD Vance tells Joe Rogan: Alien abduction stories are either crazy people lying or demons. No aliens, just lies or demons. The UFO community is not happy.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511454715203676"
-    },
-    {
-      "type": "x",
-      "text": "@Go_Kick_Rocks88 He won't ever do it during his remaining years as Vice-president. He's just talking the talk...he won't walk the walk. He will leave office &amp; when questioned about UAP afterwards,",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077511409139884388"
+      "url": "https://x.com/i/web/status/2077526472164819133"
     },
     {
       "type": "swpc",
@@ -2591,6 +2591,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 24.5
+    },
+    {
+      "ts": "2026-07-15T22:53:47.492869Z",
+      "score": 29.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.8
     }
   ],
   "sources": [
