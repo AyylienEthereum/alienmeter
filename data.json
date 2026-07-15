@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T12:41:46.837346Z",
-  "score": 29.7,
+  "generated_at": "2026-07-15T14:26:30.348523Z",
+  "score": 31.7,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 2.3,
-    "d24h": 2.8,
+    "d1h": 5.4,
+    "d24h": -1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.3,
+    "social_chatter": 8.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.1,
-    "alien_variance": 3.7
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,18 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "12:41",
+    "generated_utc": "14:26",
     "top_drivers": [
-      "X/Twitter chatter: 107 UFO/UAP posts in the last hour",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 147 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.1,
+    "live_signal": 23.7,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +50,7 @@
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 107,
+    "x_last_hour": 147,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "Hey @DrPhil the citizens of this country doesn\u2019t need your help to deal with the realization that these UFO videos are birds, drones, balloons, flares, etc.   This is NOT evidence of aliens. Last time",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077372974307422667"
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9c6j37r0j2agcfdq297t26iln3"
+    },
+    {
+      "type": "news",
+      "text": "Festival Off\u00a0 :  Philtre damour  ou quand Madonna rencontre Wagner , un ovni musical entre musique savante et culture populaire",
+      "source": "laprovence.com",
+      "url": "https://www.laprovence.com/article/culture-loisirs/8097775737693114/festival-off-philtre-damour-ou-quand-madonna-rencontre-wagner-un-ovni-musical-entre-musique-savante-et-culture-populaire"
+    },
+    {
+      "type": "news",
+      "text": "Dr Phil : Ive reviewed hundreds of secret government UFO files",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/vertical-galleries/article-15979535/Dr-Phil-Ive-reviewed-hundreds-secret-government-UFO-files.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=esq2j0k468kvb3abvj2kvoh3t5"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=42769vi2gipsum6i84le7hji62"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n1voebikktgen0e465m7onpvt7"
+    },
+    {
+      "type": "news",
+      "text": "Gdzie obejrze\u0107 hit o UFO ? Film Spielberga wkr\u00f3tce na VOD",
+      "source": "film.wp.pl",
+      "url": "https://film.wp.pl/gdzie-obejrzec-hit-o-ufo-film-spielberga-wkrotce-na-vod-7307730474821632a"
+    },
+    {
+      "type": "news",
+      "text": "Information Warfare : Ukraine War Comments",
+      "source": "strategypage.com",
+      "url": "http://www.strategypage.com/htmw/htiw/articles/202607156498.aspx"
+    },
+    {
+      "type": "news",
+      "text": "Adam Kadmon , vita difficile dopo Mistero : ecco che fine ha fatto",
+      "source": "novella2000.it",
+      "url": "https://www.novella2000.it/adam-kadmon-vita-difficile-dopo-mistero-ecco-che-fine-ha-fatto/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=s05s4d8qs89f5u74a3p8mmc824"
     },
     {
       "type": "x",
-      "text": "\u2b55 UFO \u2022 Row Of Orbs? \u2022 Date And Location Unknown.  Lights in the sky are becoming a common occurrence but how many of the orbs have you seen explode? None? Wait until 03 minutes 12 seconds \ud83d\udca5  What do ",
+      "text": "Mythbound\u2019s Actress #DonnaDErrico Discusses Her UFO Encounter, the Vegas Aliens... https://t.co/1AMGgveRpP via @YouTube #uap #ufo @missmayim @TheUfoJoe @g_knapp @BryceZabel @ZacharyLevi @rosscoulthart",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077372280242356705"
+      "url": "https://x.com/i/web/status/2077399235054755896"
     },
     {
       "type": "x",
-      "text": "Mind = blown. \ud83e\udd2f One second the UFO was right there\u2026 and the next second, it vanished instantly. How do you think it moved that fast? Let me know in the comments! \ud83d\udc47#UFO #Aliens #Unexplained #UAP #SciFi",
+      "text": "David Grusch calls out the Vatican over the Magenta 1933 UFO Crash Retri... https://t.co/PWYEZaAYED via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077372104966844580"
+      "url": "https://x.com/i/web/status/2077399121019724225"
     },
     {
       "type": "x",
-      "text": "@Truthpole This is a real UFO I think. Finally a true capture.",
+      "text": "@storm1news @ICEgov WTF is that?? Is this some of the UFO leaks \ud83e\udd2a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077371997579813044"
+      "url": "https://x.com/i/web/status/2077398937627979866"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 A fast-moving light was captured above Bethnal Green, London, on June 28th at 9:51 PM from a house party roof. The object displayed a light source, moved with drone-like speed, then turned off abrup",
+      "text": "i'm not sure if i'm supposed to post about this or not.  i wrote about it in my journal, but i'm not ganna say when it happened.  i feel like experiencers need to be a part of disclosure.  i might sta",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077371453335277762"
+      "url": "https://x.com/i/web/status/2077398795139023107"
     },
     {
       "type": "x",
-      "text": "In early May 1940, near the base of Boulder Mountain in Broadwater County, Montana, gold prospector Udo Wartena was working his remote mining claim.   He had been diverting water from a nearby stream ",
+      "text": "Agape  Ufo Princess Valkyrie OST https://t.co/Di99KDp2SU",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077371360649900398"
+      "url": "https://x.com/i/web/status/2077398710582235430"
+    },
+    {
+      "type": "x",
+      "text": "@MichaelSalla It's not that secret.. there's a UFO airport there..  Yajweh with a j (5\" 11\" Kenio W56 with Hawaiian Shirt) has been there many times..  You make it sound more great than what it is..",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077398592273141910"
     },
     {
       "type": "swpc",
@@ -2487,6 +2548,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.1
+    },
+    {
+      "ts": "2026-07-15T14:26:30.271534Z",
+      "score": 31.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 23.7
     }
   ],
   "sources": [
