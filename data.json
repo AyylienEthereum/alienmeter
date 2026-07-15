@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T19:50:36.326244Z",
-  "score": 30.9,
+  "generated_at": "2026-07-15T20:53:24.290096Z",
+  "score": 32.3,
   "band": {
     "name": "THAT'S WEIRD",
     "flavor": "keep an eye on the sky",
@@ -10,20 +10,20 @@
     "min": 30
   },
   "deltas": {
-    "d1h": -0.8,
-    "d24h": 1.2,
+    "d1h": 3.1,
+    "d24h": 5.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 12.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "19:50",
+    "generated_utc": "20:53",
     "top_drivers": [
-      "X/Twitter chatter: 208 UFO/UAP posts in the last hour",
+      "Lil Uzi Vert Reveals He Working on a New Album",
+      "X/Twitter chatter: 222 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
@@ -41,15 +42,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.6,
+    "live_signal": 24.5,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 208,
+    "gdelt_spike_pct": -36.97041022192333,
+    "x_last_hour": 222,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,40 +58,100 @@
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "The Quantum Physics of Aliens and Demons\u2014Now you can call in live, anytime.  This is Its in the Fan's first interactive podcast. Listen, interact, and ask your questions whenever you want. No waiting.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480890180030600"
+      "type": "news",
+      "text": "Lil Uzi Vert Reveals He Working on a New Album",
+      "source": "mykiss1031.com",
+      "url": "https://mykiss1031.com/ixp/812/p/lil-uzi-vert-working-new-album/"
+    },
+    {
+      "type": "news",
+      "text": "L\u00f3pez Amor\u00edn asegur\u00f3 en el programa de Laje que vio un ovni cuando mostraban el cielo para dar el pron\u00f3stico del clima",
+      "source": "diarioregistrado.com",
+      "url": "https://www.diarioregistrado.com/espectaculos/lopez-amorin-aseguro-en-el-programa-de-laje-que-vio-un-ovni-cuando-mostraban-el-cielo-para-dar-el-pronostico-del-clima_a6a57a89273b2e6c5544ddad8"
+    },
+    {
+      "type": "news",
+      "text": "Lil Uzi Vert Reveals He Working on a New Album",
+      "source": "wblk.com",
+      "url": "https://wblk.com/ixp/812/p/lil-uzi-vert-working-new-album/"
+    },
+    {
+      "type": "news",
+      "text": "Paul Wesley has married model Natalie Kuckenburg - 16 - Jul - 2026",
+      "source": "home.nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=449884&fm=psp,tst"
+    },
+    {
+      "type": "news",
+      "text": "Tim Hortons Holds Its Annual Camp Day Fundraiser Today",
+      "source": "bigcountry969.com",
+      "url": "https://bigcountry969.com/tim-hortons-camp-day-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Review : Arduboy FX - C",
+      "source": "makezine.com",
+      "url": "https://makezine.com/article/technology/review-arduboy-fx-c/"
+    },
+    {
+      "type": "news",
+      "text": "One Night in a Cold War - Era Bunker Turned Airbnb in New Mexico",
+      "source": "dwell.com",
+      "url": "https://www.dwell.com:443/article/one-night-in-a-cold-war-era-bunker-turned-airbnb-in-new-mexico-8ea8eac3"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/406f4f72-4b73-55ca-86d5-8ad80763062a/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "Lineup set : Roswell National Championship Air Races ready for 2026",
+      "source": "kob.com",
+      "url": "https://www.kob.com/news/top-news/lineup-set-roswell-national-championship-air-races-ready-for-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h8a3l05iu4jb6u3020ngck9o81"
     },
     {
       "type": "x",
-      "text": "BREAKING: New ownership will keep the Roswell Daily Record in business! #ufo https://t.co/OOae6WVnBE",
+      "text": "@SenRickScott Is this a UFO sighting",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480783477121395"
+      "url": "https://x.com/i/web/status/2077496720510902587"
     },
     {
       "type": "x",
-      "text": "Red exposes the contradiction (policy flip from Graham\u2019s earlier opposition, Trump\u2019s later \u201cprotection fee\u201d declaration). Hollow Purple erases the assumption that such strikes can be executed without ",
+      "text": "@DOWResponse @SecWar You know, I heard that from defense contractors that have been locked out of the UFO/UAP recovery/engineering projects out of DoW and Energy.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480647199736081"
+      "url": "https://x.com/i/web/status/2077496682695037175"
     },
     {
       "type": "x",
-      "text": "Retired U.S. Army Colonel Karl E. Nell. He presented it during his talk at the Sol Foundation Symposium held at Stanford University on November 17\u201318, 2023.   The slide is titled\u2026  \u201cWay Forward: UAP C",
+      "text": "The reason why this post is so significant and imperative, if you study the Bible @Bible365_ then the sons of God that mated with the women of the earth \ud83c\udf0e and created giants, the prophet Enok, Ezekiel",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480643026726921"
+      "url": "https://x.com/i/web/status/2077496619692679368"
     },
     {
       "type": "x",
-      "text": "@freemind10x @UAPWatchers Again, we have a treaty with the aliens that only allows them to be filmed in black and white.  See current UAP drops by the government.  Also, he's the 'talent' which means ",
+      "text": "Vice President JD Vance on Joe Rogan:  I've said that I'm going to look into the UFO thing. I've been saying that for about a year and a half, but I still haven't done it because I just haven't had th",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480614912029031"
+      "url": "https://x.com/i/web/status/2077496612620730382"
     },
     {
       "type": "x",
-      "text": "@JDVance How the hec$ do you have time to do the view, go to ufc and go on podcasts like Rogan but no time to look into aliens or ufo? Dont believe for one second.",
+      "text": "You guys know that I am a UFO nut, right.  A wee observation:  I have seen, in recent months, 1000s of images of Unidentified Flying Objects (UFOs) that have been photographed/filmed all over the worl",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077480548453564787"
+      "url": "https://x.com/i/web/status/2077496602244136961"
+    },
+    {
+      "type": "x",
+      "text": "@itsD3lay this is why aliens and ufo are fake and our or other countries technologies are covered up as uav ufo's",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077496530974457930"
     },
     {
       "type": "swpc",
@@ -2516,6 +2577,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.6
+    },
+    {
+      "ts": "2026-07-15T20:53:24.214017Z",
+      "score": 32.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.5
     }
   ],
   "sources": [
