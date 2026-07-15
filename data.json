@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T20:53:24.290096Z",
+  "generated_at": "2026-07-15T21:53:44.650083Z",
   "score": 32.3,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 3.1,
-    "d24h": 5.2,
+    "d1h": 1.4,
+    "d24h": 1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 12.0,
+    "social_chatter": 11.1,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "20:53",
+    "generated_utc": "21:53",
     "top_drivers": [
-      "Lil Uzi Vert Reveals He Working on a New Album",
-      "X/Twitter chatter: 222 UFO/UAP posts in the last hour",
+      "\u00c1udio de piloto relatando avistamento de OVNI em Londrina viraliza :  \u00c9 impressionante  ",
+      "X/Twitter chatter: 185 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
@@ -49,8 +49,8 @@
     "xray_class": "C",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": -36.97041022192333,
-    "x_last_hour": 222,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 185,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -59,15 +59,39 @@
   "ticker": [
     {
       "type": "news",
-      "text": "Lil Uzi Vert Reveals He Working on a New Album",
-      "source": "mykiss1031.com",
-      "url": "https://mykiss1031.com/ixp/812/p/lil-uzi-vert-working-new-album/"
+      "text": "\u00c1udio de piloto relatando avistamento de OVNI em Londrina viraliza :  \u00c9 impressionante  ",
+      "source": "bonde.com.br",
+      "url": "https://www.bonde.com.br/bondenews/londrina/audio-de-piloto-relatando-avistamento-de-ovni-em-londrina-viraliza-e-impressionante"
     },
     {
       "type": "news",
-      "text": "L\u00f3pez Amor\u00edn asegur\u00f3 en el programa de Laje que vio un ovni cuando mostraban el cielo para dar el pron\u00f3stico del clima",
-      "source": "diarioregistrado.com",
-      "url": "https://www.diarioregistrado.com/espectaculos/lopez-amorin-aseguro-en-el-programa-de-laje-que-vio-un-ovni-cuando-mostraban-el-cielo-para-dar-el-pronostico-del-clima_a6a57a89273b2e6c5544ddad8"
+      "text": "Proposed legislation aims to lower prescription drug costs , reduce barriers for drug manufacturers",
+      "source": "wbng.com",
+      "url": "https://www.wbng.com/2026/07/15/proposed-legislation-aims-lower-prescription-drug-costs-reduce-barriers-drug-manufacturers/"
+    },
+    {
+      "type": "news",
+      "text": "Lil Uzi Vert Reveals He Working on a New Album",
+      "source": "107jamz.com",
+      "url": "https://107jamz.com/ixp/812/p/lil-uzi-vert-working-new-album/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kmb1mlfh7vmn6j54g273se6k87"
+    },
+    {
+      "type": "news",
+      "text": "May Pang photos from John Lennon  Lost Weekend  get a dedicated weekend at Marmot Art Space | Arts & Culture",
+      "source": "inlander.com",
+      "url": "https://www.inlander.com/culture/may-pang-s-photos-from-john-lennon-s-lost-weekend-get-a-dedicated-weekend-at/article_413689cc-a44b-44e5-8cbe-9836b65469ad.html"
+    },
+    {
+      "type": "news",
+      "text": "US Forecast",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/us-forecast/article_d1886d71-8ae6-547d-80ee-0153dae19e9d.html"
     },
     {
       "type": "news",
@@ -83,75 +107,51 @@
     },
     {
       "type": "news",
-      "text": "Tim Hortons Holds Its Annual Camp Day Fundraiser Today",
-      "source": "bigcountry969.com",
-      "url": "https://bigcountry969.com/tim-hortons-camp-day-2026/"
+      "text": "Lil Uzi Vert Reveals He Working on a New Album",
+      "source": "mykiss1031.com",
+      "url": "https://mykiss1031.com/ixp/812/p/lil-uzi-vert-working-new-album/"
     },
     {
       "type": "news",
-      "text": "Review : Arduboy FX - C",
-      "source": "makezine.com",
-      "url": "https://makezine.com/article/technology/review-arduboy-fx-c/"
-    },
-    {
-      "type": "news",
-      "text": "One Night in a Cold War - Era Bunker Turned Airbnb in New Mexico",
-      "source": "dwell.com",
-      "url": "https://www.dwell.com:443/article/one-night-in-a-cold-war-era-bunker-turned-airbnb-in-new-mexico-8ea8eac3"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/406f4f72-4b73-55ca-86d5-8ad80763062a/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "Lineup set : Roswell National Championship Air Races ready for 2026",
-      "source": "kob.com",
-      "url": "https://www.kob.com/news/top-news/lineup-set-roswell-national-championship-air-races-ready-for-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h8a3l05iu4jb6u3020ngck9o81"
+      "text": "L\u00f3pez Amor\u00edn asegur\u00f3 en el programa de Laje que vio un ovni cuando mostraban el cielo para dar el pron\u00f3stico del clima",
+      "source": "diarioregistrado.com",
+      "url": "https://www.diarioregistrado.com/espectaculos/lopez-amorin-aseguro-en-el-programa-de-laje-que-vio-un-ovni-cuando-mostraban-el-cielo-para-dar-el-pronostico-del-clima_a6a57a89273b2e6c5544ddad8"
     },
     {
       "type": "x",
-      "text": "@SenRickScott Is this a UFO sighting",
+      "text": "@TkMe2UrLeader11 Relax it\u2019s ufo twitter no legacy here go outside and touch some grass. The entire ufo thing is a psyop and we\u2019re all useful idiots for wasting so much time on the subject.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496720510902587"
+      "url": "https://x.com/i/web/status/2077511645220290632"
     },
     {
       "type": "x",
-      "text": "@DOWResponse @SecWar You know, I heard that from defense contractors that have been locked out of the UFO/UAP recovery/engineering projects out of DoW and Energy.",
+      "text": "@The_Astral_ Why not as long as he sticks to the undeniable evidence and doesn\u2019t base his ufo research on a couple movies, doesn\u2019t quote Bob lazar.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496682695037175"
+      "url": "https://x.com/i/web/status/2077511586470654103"
     },
     {
       "type": "x",
-      "text": "The reason why this post is so significant and imperative, if you study the Bible @Bible365_ then the sons of God that mated with the women of the earth \ud83c\udf0e and created giants, the prophet Enok, Ezekiel",
+      "text": "@The_Astral_ After years of highly effective anti-UFO conditioning, the admin is trying to take 80 years of secrecy and offer it up in a friendly, welcoming package. And Trump doesn\u2019t have many people",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496619692679368"
+      "url": "https://x.com/i/web/status/2077511503972905382"
     },
     {
       "type": "x",
-      "text": "Vice President JD Vance on Joe Rogan:  I've said that I'm going to look into the UFO thing. I've been saying that for about a year and a half, but I still haven't done it because I just haven't had th",
+      "text": "A former U.S. Air Force captain shares video and firsthand details of a UAP encounter he says defied conventional aviation, while the founder of 'Make Aliens Great Again' discusses the push for greate",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496612620730382"
+      "url": "https://x.com/i/web/status/2077511502018613699"
     },
     {
       "type": "x",
-      "text": "You guys know that I am a UFO nut, right.  A wee observation:  I have seen, in recent months, 1000s of images of Unidentified Flying Objects (UFOs) that have been photographed/filmed all over the worl",
+      "text": "@uBF2fV1cVQxRjQo It looks like \"Die  Glocke\" the nazi bell ufo https://t.co/D7SIfT9Tpu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496602244136961"
+      "url": "https://x.com/i/web/status/2077511454715203676"
     },
     {
       "type": "x",
-      "text": "@itsD3lay this is why aliens and ufo are fake and our or other countries technologies are covered up as uav ufo's",
+      "text": "@Go_Kick_Rocks88 He won't ever do it during his remaining years as Vice-president. He's just talking the talk...he won't walk the walk. He will leave office &amp; when questioned about UAP afterwards,",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077496530974457930"
+      "url": "https://x.com/i/web/status/2077511409139884388"
     },
     {
       "type": "swpc",
@@ -2580,6 +2580,13 @@
     },
     {
       "ts": "2026-07-15T20:53:24.214017Z",
+      "score": 32.3,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 24.5
+    },
+    {
+      "ts": "2026-07-15T21:53:44.591993Z",
       "score": 32.3,
       "band": "THAT'S WEIRD",
       "i": 2,
