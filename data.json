@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T11:07:47.870575Z",
-  "score": 26.8,
+  "generated_at": "2026-07-15T12:41:46.837346Z",
+  "score": 29.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.6,
-    "d24h": 1.6,
+    "d1h": 2.3,
+    "d24h": 2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.8,
+    "social_chatter": 6.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.7,
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.1,
-    "alien_variance": 0.4
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 31,
     "date": "15.07.2026",
     "declassified": "15.07.26",
-    "generated_utc": "11:07",
+    "generated_utc": "12:41",
     "top_drivers": [
-      "X/Twitter chatter: 99 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 107 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 4",
       "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
     ],
@@ -41,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.3,
+    "live_signal": 21.1,
     "baseline_recent": 25.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 45.8588667853,
     "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": -59.50158586316267,
-    "x_last_hour": 99,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 107,
     "wiki_spike_pct": -30.33670592138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.2,
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Take someone who is an academic, an intellectual, scientist, popular TV personality, and self-professed UFO skeptic, and have them make a sudden announcement that they have now been shown or have seen",
+      "text": "Hey @DrPhil the citizens of this country doesn\u2019t need your help to deal with the realization that these UFO videos are birds, drones, balloons, flares, etc.   This is NOT evidence of aliens. Last time",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077349301299073485"
+      "url": "https://x.com/i/web/status/2077372974307422667"
     },
     {
       "type": "x",
-      "text": "@MerkabahStar Yo bro, check out my project !  UFO Believe Index for yesterday is live ! https://t.co/XnRfSbcqs7",
+      "text": "\u2b55 UFO \u2022 Row Of Orbs? \u2022 Date And Location Unknown.  Lights in the sky are becoming a common occurrence but how many of the orbs have you seen explode? None? Wait until 03 minutes 12 seconds \ud83d\udca5  What do ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077349257053372797"
+      "url": "https://x.com/i/web/status/2077372280242356705"
     },
     {
       "type": "x",
-      "text": "@UAPWixy All I know is this.  I\u2019ve actually tried to use AI to make videos.   Specifically ufo type videos for fun  And I\u2019ve never had a result that was this good.    And we KNOW this design has been ",
+      "text": "Mind = blown. \ud83e\udd2f One second the UFO was right there\u2026 and the next second, it vanished instantly. How do you think it moved that fast? Let me know in the comments! \ud83d\udc47#UFO #Aliens #Unexplained #UAP #SciFi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077349066795528661"
+      "url": "https://x.com/i/web/status/2077372104966844580"
     },
     {
       "type": "x",
-      "text": "It must be \"Alien\" \"UFO/UAP\" Day \ud83d\ude43xXx",
+      "text": "@Truthpole This is a real UFO I think. Finally a true capture.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077348599982150121"
+      "url": "https://x.com/i/web/status/2077371997579813044"
     },
     {
       "type": "x",
-      "text": "#ufo #uap spotted yesterday during a walk in the forest with my family. My 9 year old son had seen it first before I started filming. It had the shape of a triangle with the sides rounded. It was blac",
+      "text": "\ud83d\udea8 A fast-moving light was captured above Bethnal Green, London, on June 28th at 9:51 PM from a house party roof. The object displayed a light source, moved with drone-like speed, then turned off abrup",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077348581774655590"
+      "url": "https://x.com/i/web/status/2077371453335277762"
     },
     {
       "type": "x",
-      "text": "4/ James Webb has already detected possible biosignature gases on exoplanets like K2-18b. We're not just theorizing anymore \u2014 we're measuring.  Follow for daily UFO facts and disclosure news \ud83d\udc41\ufe0f #UFO #",
+      "text": "In early May 1940, near the base of Boulder Mountain in Broadwater County, Montana, gold prospector Udo Wartena was working his remote mining claim.   He had been diverting water from a nearby stream ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077348570361909605"
+      "url": "https://x.com/i/web/status/2077371360649900398"
     },
     {
       "type": "swpc",
@@ -2480,6 +2480,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.3
+    },
+    {
+      "ts": "2026-07-15T12:41:46.762136Z",
+      "score": 29.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.1
     }
   ],
   "sources": [
