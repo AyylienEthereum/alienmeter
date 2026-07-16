@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T19:01:58.749821Z",
-  "score": 24.0,
+  "generated_at": "2026-07-16T20:11:31.304841Z",
+  "score": 30.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 3.2,
-    "d24h": -11.8,
+    "d1h": -9.1,
+    "d24h": 4.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 9.0,
+    "news_velocity": 6.6,
+    "social_chatter": 10.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,25 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "19:01",
+    "generated_utc": "20:11",
     "top_drivers": [
-      "X/Twitter chatter: 151 UFO/UAP posts in the last hour",
+      "News velocity +28% vs 7-day baseline (GDELT)",
+      "X/Twitter chatter: 170 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.0,
+    "live_signal": 22.3,
     "baseline_recent": 25.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 151,
+    "gdelt_spike_pct": 27.582457412105843,
+    "x_last_hour": 170,
     "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Curiosity has never grown in isolation.  It grows when people challenge what they think they know.  Questions move humanity forward.  Discovery begins with someone willing to ask, \"Could there be more",
+      "text": "@f5ve_official correct answer is ufo btw!!!!!!!!!!!!!",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830948251480258"
+      "url": "https://x.com/i/web/status/2077848537623110125"
     },
     {
       "type": "x",
-      "text": "An absolute classic years ahead of it's time #UFO @rewindtvuk  #RewindTV https://t.co/8Z2tN6ylbg",
+      "text": "Jesuit Astronomer Consolmagno Backpedals on Alien Disclosure as Vatican\u2019s Secret Control Over UFO Narrative Crumbles  https://t.co/U59RFspMMG",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830782723170627"
+      "url": "https://x.com/i/web/status/2077848358589251850"
     },
     {
       "type": "x",
-      "text": "90% chance Trump brings out a real extraterrestrial and a UFO lands with fireworks\u2026   It\u2019s possible \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+      "text": "@HoverThereal bro passed the UFO super frame perfect",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830594789089688"
+      "url": "https://x.com/i/web/status/2077848298577109348"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe He\u2019s taking criticism for being narrow-minded. Part of the problem is that many people don\u2019t understand what the Judeo-Christian tradition actually means by the word demon. They picture the",
+      "text": "UFO so low I need a minute https://t.co/jyi8zeeHEK",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830559653339158"
+      "url": "https://x.com/i/web/status/2077848049338991103"
     },
     {
       "type": "x",
-      "text": "@joerogan @Spotify Joe I think it's so cool that you're now just a PR tool for the GOP. I hated that ufo and psychodelics crap.  I always wanted your show to be used by the rich and powerful to launde",
+      "text": "@bluecrayon71 \u201cI saw a UFO but nobody believes me.\u201d  https://t.co/onpBUNHuu7",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830202806149303"
+      "url": "https://x.com/i/web/status/2077848022176997598"
     },
     {
       "type": "x",
-      "text": "On August 19, 2024, a mysterious object was caught on video hovering over Chennai, India \ud83c\uddee\ud83c\uddf3   The object looked solid, starting off still but then slowly moving from east to west. Multiple witnesses r",
+      "text": "@tessalpfs WHAT!!! 0_0  UFO invasion but it's Oren and Simon taking away Brud, lol",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077830143926575300"
+      "url": "https://x.com/i/web/status/2077847961477017889"
     },
     {
       "type": "neo",
@@ -2595,6 +2596,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.0
+    },
+    {
+      "ts": "2026-07-16T20:11:31.229402Z",
+      "score": 30.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 22.3
     }
   ],
   "sources": [
