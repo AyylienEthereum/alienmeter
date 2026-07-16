@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T11:29:16.282554Z",
-  "score": 21.2,
+  "generated_at": "2026-07-16T13:01:48.833092Z",
+  "score": 20.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.4,
-    "d24h": -14.9,
+    "d1h": -3.6,
+    "d24h": -9.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.3,
+    "social_chatter": 7.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "11:29",
+    "generated_utc": "13:01",
     "top_drivers": [
-      "X/Twitter chatter: 91 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 119 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.3,
-    "baseline_recent": 25.3,
+    "live_signal": 9.8,
+    "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": null,
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": -48.30827067669173,
-    "x_last_hour": 91,
-    "wiki_spike_pct": -35.41780403735636,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 119,
+    "wiki_spike_pct": -22.748296256881474,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
@@ -57,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "Given the insane level of microscopic detail produced in the manufacturing of these sub 7nm chips....(freakn wild).   And the fact the only place on earth that produces them is a tiny island of captia",
+      "text": "@ShaneFrakes I call BS on your thesis. Existing biology could easily identify humans with statistically improbable DNA characteristics or with DNA fragments never seen before in human populations the ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077716948805468519"
+      "url": "https://x.com/i/web/status/2077740395648139438"
     },
     {
       "type": "x",
-      "text": "Most people remember the Phoenix Lights as a single event The evidence suggests there were two separate events that night Confusing those two events has shaped the debate for nearly three decades Full",
+      "text": "One statement by J.D. Vance on Joe Rogan started a war between Christians and alien believers. People think there is a fanatical Christian faction infiltrated within the government that keeps the UFO ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077716715660574769"
+      "url": "https://x.com/i/web/status/2077740279822491650"
     },
     {
       "type": "x",
-      "text": "@Dragonflynda @VanguardEnterpr I'm putting forward a new narrative  Few of the people claimed while sleeping have ever been abducted and the bulk are silent abductions and the times we come across the",
+      "text": "Igb0 core:  Dyk that If you identify a UFO as a UFO, it becomes an FO. And when it has landed, it just becomes and O https://t.co/uR3hLuum0Q",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077716083725992412"
+      "url": "https://x.com/i/web/status/2077740066038759837"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ the second man in the us and don't know about ufo or aliens if they exist or not come on ...",
+      "text": "@Gorky1965 @Kabamur_Taygeta @UAPJames Stay out of UFO/UAP and alien/extraterrestrials topics,  this doesnt concern you religious people,  Focus on your book everyday and less on social medias   Today ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077716031397618038"
+      "url": "https://x.com/i/web/status/2077739383235477693"
     },
     {
       "type": "x",
-      "text": "@Rifat_EE I think alien dropped his kid from ufo",
+      "text": "\ud83d\udea8\u203c\ufe0fBREAKING\u203c\ufe0f\ud83d\udea8  Tim, Phil and I will be meeting later this week to strategize about the roll out!!  #Disclosure is so close!  #ufotwitter #ufo #alien https://t.co/x0S8xezTWI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077715522595246390"
+      "url": "https://x.com/i/web/status/2077739373102010842"
     },
     {
       "type": "x",
-      "text": "@overclassifiedx These are just more claims from yet another person! His status does not validate the accuracy of such claims. You could show him all the UFO hoaxes out there, and he wouldn't be able ",
+      "text": "Revisiting the 1984 Dimbulagala UFO landing. \ud83d\udef8 What really happened? Uncover the historical truth with CEURA's latest investigation. https://t.co/9MHeUK8g74 \u200b#CEURA #UFO #UAP #SriLanka #Dimbulagala ht",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077715341174624315"
+      "url": "https://x.com/i/web/status/2077738937603555642"
     },
     {
       "type": "neo",
@@ -2560,6 +2560,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.3
+    },
+    {
+      "ts": "2026-07-16T13:01:48.754259Z",
+      "score": 20.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.8
     }
   ],
   "sources": [
