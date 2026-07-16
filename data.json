@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T16:41:52.883851Z",
-  "score": 24.3,
+  "generated_at": "2026-07-16T17:51:40.621950Z",
+  "score": 23.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 5.0,
-    "d24h": -11.9,
+    "d1h": 2.5,
+    "d24h": -14.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.8,
+    "social_chatter": 9.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "16:41",
+    "generated_utc": "17:51",
     "top_drivers": [
-      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 155 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.4,
+    "live_signal": 13.6,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
@@ -48,7 +48,7 @@
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 164,
+    "x_last_hour": 155,
     "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@johnkoenigcmdr @itzWicks They had a much more grounded premise in mind with UFO: 1999 (UFO s2 - the original basis for most of 1999's production design) but ITC NY kept moving the goalpost and forced",
+      "text": "@OwenBenjamin im always curious- for every christian or religious person i meet, but Ill ask you Owen, as an intelligent guy with a high IQ, good pattern recognition, an eagerness to sniff out a fraud",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795798507552887"
+      "url": "https://x.com/i/web/status/2077813133293600934"
     },
     {
       "type": "x",
-      "text": "\ud83d\udda4(hesitantly) ufo on my th... \u27a1\ufe0fhttps://t.co/FFStuZrtgC https://t.co/VfFkFHH2l6",
+      "text": "@prairiebanana Where can I find the new ufo token address",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795455799611792"
+      "url": "https://x.com/i/web/status/2077813085507866845"
     },
     {
       "type": "x",
-      "text": "The UFO phenomenon is deeply connected to ancient religions and the evolution of the soul.  Those orbs you see are made of \"fire,\" just like the jinn, which means they were once made of Earth, just li",
+      "text": "US Supreme Courts rule that 'undocumented foreigners' 'popping up' on citizens 1. Have no 'rights' 2. Are strictly at fault 3. Are subject to arrest &amp; confinement. Justices remarks- As if a UFO la",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795300346106181"
+      "url": "https://x.com/i/web/status/2077812993942069441"
     },
     {
       "type": "x",
-      "text": "@AshtonForbes Just watched your video on the Rogan interview with JD. Very painful to see JD\u2019s lack of knowledge on the UFO topic.",
+      "text": "@JR5_Crypto You have to add a UFO ticker bro, it's a must with what is about to happen !!!!!!  @ufocryptocoin",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795256268153280"
+      "url": "https://x.com/i/web/status/2077812865784832080"
     },
     {
       "type": "x",
-      "text": "@AmrananmAnRa I don't know what the whole Brazilian UFO community thinks.",
+      "text": "@WuckMickett @K1975Daniel @jamiesfocus @RedPandaKoala Nah check your reading comprehension. He said if disclosure = aliens killing EVERYONE, would you still want it?  So to rephrase it, if reptilians ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795131923870157"
+      "url": "https://x.com/i/web/status/2077812771908137078"
     },
     {
       "type": "x",
-      "text": "\"Lost\" Disney UFO documentary: Alien Encounters from New Tomorrowland, 1995 https://t.co/S0drdh7sPX via @YouTube",
+      "text": "@RedPandaKoala @ArrowOfArtemisX @UFOintros @Mavmetax Like I said - poor soul.  As someone who came to ufo X after your fall out and the narratives and accusations after CITD.  I was expected to take s",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077795101770699042"
+      "url": "https://x.com/i/web/status/2077812684460798311"
     },
     {
       "type": "neo",
@@ -2581,6 +2581,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.4
+    },
+    {
+      "ts": "2026-07-16T17:51:40.551359Z",
+      "score": 23.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.6
     }
   ],
   "sources": [
