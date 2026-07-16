@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T15:12:52.645901Z",
-  "score": 39.5,
+  "generated_at": "2026-07-16T16:41:52.883851Z",
+  "score": 24.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 19.1,
-    "d24h": 6.0,
+    "d1h": 5.0,
+    "d24h": -11.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 24.1,
-    "social_chatter": 6.9,
+    "news_velocity": 0.0,
+    "social_chatter": 9.8,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,127 +31,65 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "15:12",
+    "generated_utc": "16:41",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "News velocity +100% vs 7-day baseline (GDELT)",
-      "X/Twitter chatter: 117 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 164 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 33.9,
+    "live_signal": 14.4,
     "baseline_recent": 25.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": 100.38724597209645,
-    "x_last_hour": 117,
-    "wiki_spike_pct": -37.95661458918736,
+    "gdelt_spike_pct": null,
+    "x_last_hour": 164,
+    "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5d630b6ui4usb8pvocd2ajg622"
-    },
-    {
-      "type": "news",
-      "text": "THURS : UNMH not renewing contract to provide healthcare at MDC , + More",
-      "source": "kunm.org",
-      "url": "https://www.kunm.org/kunm-news-update/2026-07-16/thurs-unmh-not-renewing-contract-to-provide-healthcare-at-mdc-more"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2tvu916jkqcb7846ip53mo22h6"
-    },
-    {
-      "type": "news",
-      "text": "Is Alien Abduction Real ? - Nassau Weekly",
-      "source": "nassauweekly.com",
-      "url": "https://nassauweekly.com/alien-abduction-real/"
-    },
-    {
-      "type": "news",
-      "text": "Japon - France : fils dinternational , maturit\u00e9 tardive , r\u00f4le capital dAntoine Dupont ... Cinq choses \u00e0 savoir sur Paul Graou , qui va conna\u00eetre sa premi\u00e8re s\u00e9lection avec les Bleus",
-      "source": "ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/07/16/japon-france-fils-dinternational-maturite-tardive-role-capital-dantoine-dupont-cinq-choses-a-savoir-sur-paul-graou-qui-va-connaitre-sa-premiere-13471064.php"
-    },
-    {
-      "type": "news",
-      "text": "\u041b\u0438\u0434\u0435\u0440\u0430 O . Torvald \u0441\u043f\u0438\u0441\u0430\u043b\u0438 \u0441 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u044b : \u043f\u0435\u0432\u0435\u0446 \u043d\u0430\u0437\u0432\u0430\u043b \u043f\u0440\u0438\u0447\u0438\u043d\u0443",
-      "source": "stars.glavred.info",
-      "url": "https://stars.glavred.info/lidera-o-torvald-spisali-s-voennoy-sluzhby-pevec-nazval-prichinu-10781051.html"
-    },
-    {
-      "type": "news",
-      "text": "Thematic ETFs Boosted by SpaceX IPO Lose Altitude",
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/thematic-etfs-boosted-spacex-ipo-040100668.html"
-    },
-    {
-      "type": "news",
-      "text": "Edinburgh Fringe blog : What happens when you blend theatre and conspiracy theories ? ",
-      "source": "whatsonstage.com",
-      "url": "https://www.whatsonstage.com/news/edinburgh-fringe-blog-what-happens-when-you-blend-theatre-and-conspiracy-theories_1724695/"
-    },
-    {
-      "type": "news",
-      "text": "  Everyday was an adventure : Ex - lover of John Lennon brings photos from  lost weekend  to Marmot Art Space",
-      "source": "spokesman.com",
-      "url": "https://www.spokesman.com/stories/2026/jul/16/everyday-was-an-adventure-ex-lover-of-john-lennon-/"
-    },
-    {
-      "type": "news",
-      "text": "Neue KI - Bildanalysen l\u00f6sen R\u00e4tsel um den fr\u00fchen Tod von Botticellis Muse",
-      "source": "derstandard.at",
-      "url": "https://www.derstandard.at/consent/tcf/story/3000000331577/neue-ki-bildanalysen-loesen-raetsel-um-den-fruehen-tod-von-botticellis-muse"
+      "type": "x",
+      "text": "@johnkoenigcmdr @itzWicks They had a much more grounded premise in mind with UFO: 1999 (UFO s2 - the original basis for most of 1999's production design) but ITC NY kept moving the goalpost and forced",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077795798507552887"
     },
     {
       "type": "x",
-      "text": "@truthtold24 @guinnessstache @bvi007 @realDailyWire @JourneytoTruth5 @tylerthecreator @Reptile_Hybrid @JonStewartIL @JasonTSands @UAPWatchers @polarityjosh @FarmerAutu23017 Understood\u2014the video isn't ",
+      "text": "\ud83d\udda4(hesitantly) ufo on my th... \u27a1\ufe0fhttps://t.co/FFStuZrtgC https://t.co/VfFkFHH2l6",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077773331449708756"
+      "url": "https://x.com/i/web/status/2077795455799611792"
     },
     {
       "type": "x",
-      "text": "I m God MADRUSKA with Russian galactic federation dark power demonic power UFO and aliens God armada ! Musk and USA gov monitoring me and Hayden Christensen he is He God and harm with bio woapens sinc",
+      "text": "The UFO phenomenon is deeply connected to ancient religions and the evolution of the soul.  Those orbs you see are made of \"fire,\" just like the jinn, which means they were once made of Earth, just li",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077773216072786341"
+      "url": "https://x.com/i/web/status/2077795300346106181"
     },
     {
       "type": "x",
-      "text": "@JVMonte2 UFO for the Diary of a madman tour",
+      "text": "@AshtonForbes Just watched your video on the Rogan interview with JD. Very painful to see JD\u2019s lack of knowledge on the UFO topic.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077773082836500787"
+      "url": "https://x.com/i/web/status/2077795256268153280"
     },
     {
       "type": "x",
-      "text": "@learn_to_sw1m They ain\u2019t that discreet honestly. Autism has been known bout awhile now. It\u2019s generic. Tylenol don\u2019t cause it nor does eating paint chips. So why do this now? Now, as uap disclosure is",
+      "text": "@AmrananmAnRa I don't know what the whole Brazilian UFO community thinks.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077773006147923982"
+      "url": "https://x.com/i/web/status/2077795131923870157"
     },
     {
       "type": "x",
-      "text": "@grok @itsolelehmann The same as Area 51, UAP files, certain records played backwards and the Pyramids... - maybe nothing, maybe alien code.",
+      "text": "\"Lost\" Disney UFO documentary: Alien Encounters from New Tomorrowland, 1995 https://t.co/S0drdh7sPX via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077772829584470427"
-    },
-    {
-      "type": "x",
-      "text": "@SakupenCircles im sorry but im getting unluckier each time loool (15 deaths at/past ufo)",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077772789528809970"
+      "url": "https://x.com/i/web/status/2077795101770699042"
     },
     {
       "type": "neo",
@@ -2636,6 +2574,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 33.9
+    },
+    {
+      "ts": "2026-07-16T16:41:52.808264Z",
+      "score": 24.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.4
     }
   ],
   "sources": [
