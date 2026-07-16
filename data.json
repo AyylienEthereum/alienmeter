@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-07-15T23:54:45.522059Z",
-  "score": 30.4,
+  "generated_at": "2026-07-16T02:02:24.324476Z",
+  "score": 28.6,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": 2.9,
+    "d1h": -3.7,
+    "d24h": -5.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.7,
+    "social_chatter": 8.7,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 0.7,
+    "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 31,
-    "day": 31,
-    "date": "15.07.2026",
-    "declassified": "15.07.26",
-    "generated_utc": "23:54",
+    "number": 32,
+    "day": 32,
+    "date": "16.07.2026",
+    "declassified": "16.07.26",
+    "generated_utc": "02:02",
     "top_drivers": [
-      "X/Twitter chatter: 163 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 4",
-      "NEO (2011 LA19) passing Earth at 45.9 lunar distances"
+      "X/Twitter chatter: 146 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 3",
+      "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.0,
+    "live_signal": 19.7,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 45.8588667853,
-    "asteroid_name": "(2011 LA19)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 163,
-    "wiki_spike_pct": -30.33670592138,
+    "closest_asteroid_ld": 61.4695685007,
+    "asteroid_name": "(2017 QR16)",
+    "gdelt_spike_pct": -47.72519218679343,
+    "x_last_hour": 146,
+    "wiki_spike_pct": -30.413523226802898,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
       "type": "x",
-      "text": "@The_Astral_ @SpaceScienceGod This is all about skin. Once you see that things will start making more sense. UFO Truth Part 2 will make this very clear with additional evidence and a more complete ima",
+      "text": "The Pentagon has released a new trove of UFO files with 72 images, videos and reports dating back to the 1940s and as recently as last year. Whit Johnson reports. https://t.co/My8qNJrLUu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541962853257637"
+      "url": "https://x.com/i/web/status/2077574327331885204"
     },
     {
       "type": "x",
-      "text": "@McCarthy_JT @GodSawUs @DataPhenomenon @UFOTruth @txrrxstrxxl @DIYDisclosure @RedPandaKoala @tupacabra Well , Simas was among the brightest and best the ufo community had to offer, that\u2019s why he had t",
+      "text": "@fylth1 \ud83d\ude02You're making my point ... this guy doesn't use a UFO to move around, though he might have parked it somewhere else.\ud83e\udd14\ud83d\ude02",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541915084632192"
+      "url": "https://x.com/i/web/status/2077574302090600795"
     },
     {
       "type": "x",
-      "text": "@OracularVision Clear points. Have you published this elsewhere online? I\u2019d like to share it with participants in an Australian UAP disclosure course.",
+      "text": "@UAPWatchers What a clown \ud83e\udd21 I was willing to hear him out until I saw the footage. Give it up Franco and stop poking fun at the UFO community. Move on.. we did..",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541717780426903"
+      "url": "https://x.com/i/web/status/2077574200437424496"
     },
     {
       "type": "x",
-      "text": "@spaztictabby UFO freaks + alphabet degenerates = rainbow alien dick parade. Naked trannies waving probes under flags. I'm fucking out too, clown world. \ud83d\ude02",
+      "text": "@VigilantFox So, the conquistadors were actually demonic for native Americans ? And Vance is conceding that maybe something that looks magical may not be magical ?  Isn\u2019t he making the entire UFO topi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541212870078509"
+      "url": "https://x.com/i/web/status/2077574197446873542"
     },
     {
       "type": "x",
-      "text": "@GeoffWacker Just add a tractor beam and you have ufo abduction",
+      "text": "Happy birthday!! I thought you were seriously awesome in Steven Greer\u2019s disclosure films. You are definitely one of the very few whom I trust with full transparency on the topic of UFO very grateful f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541206620299632"
+      "url": "https://x.com/i/web/status/2077574063891890612"
     },
     {
       "type": "x",
-      "text": "'I just saw a pack of pigs go flying past my head'  [&gt; xCo Initializing assimilation\u2026] [&gt; Processing Desktop Node Telemetry\u2026 ECHOBrain Prime/Quattro Integrated.] [&gt; System status: LATTICE_SYN",
+      "text": "@Hot_Pepper76 Phil Mogg\u2764\ufe0fof UFO ! \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077541153608552472"
+      "url": "https://x.com/i/web/status/2077573926461321554"
     },
     {
       "type": "swpc",
@@ -112,7 +112,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2011 LA19) passing at 45.86 LD (~871m, 13.7 km/s) \u2014 PHA",
+      "text": "NEO (2017 QR16) passing at 61.47 LD (~162m, 8.5 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -2544,6 +2544,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 22.0
+    },
+    {
+      "ts": "2026-07-16T02:02:24.272081Z",
+      "score": 28.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.7
     }
   ],
   "sources": [
