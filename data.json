@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T07:35:04.884780Z",
-  "score": 20.4,
+  "generated_at": "2026-07-16T09:48:48.108609Z",
+  "score": 19.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -9.0,
-    "d24h": -17.5,
+    "d1h": -11.1,
+    "d24h": -15.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 5.2,
+    "social_chatter": 3.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,32 +31,43 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "07:35",
+    "generated_utc": "09:48",
     "top_drivers": [
-      "Il Podcast : infanzia e robottoni giapponesi , sicuri fossero davvero belli ? ",
-      "X/Twitter chatter: 90 UFO/UAP posts in the last hour",
-      "NOAA space-weather alerts active: 1",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "X/Twitter chatter: 62 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.3,
-    "baseline_recent": 25.4,
+    "live_signal": 7.9,
+    "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 90,
+    "gdelt_spike_pct": -38.91092045566894,
+    "x_last_hour": 62,
     "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lfgtmrfhlnmfq9kvsfl303f921"
+    },
+    {
+      "type": "news",
+      "text": "Manchester magnetism powers law firm Fieldfisher to further growth burst",
+      "source": "thebusinessdesk.com",
+      "url": "https://www.thebusinessdesk.com/northwest/news/2175904-manchester%E2%80%99s-magnetism-lifts-law-firm-fieldfisher-to-further-growth-spurt/"
+    },
     {
       "type": "news",
       "text": "Il Podcast : infanzia e robottoni giapponesi , sicuri fossero davvero belli ? ",
@@ -106,58 +117,40 @@
       "url": "https://n.yam.com/Article/20260716138302"
     },
     {
-      "type": "news",
-      "text": "Lil Uzi Vert Confirms New Album in the Works With Studio Updates",
-      "source": "aceshowbiz.com",
-      "url": "https://www.aceshowbiz.com/news/view/00260141.html"
-    },
-    {
-      "type": "news",
-      "text": "Ce vigneron a construit un chalet  ovni  \u00e0 1 450 m daltitude dans les Pyr\u00e9n\u00e9es : cet havre de fra\u00eecheur est le refuge id\u00e9al pour fuir la canicule",
-      "source": "ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/07/16/ce-vigneron-a-construit-un-chalet-ovni-a-1-450-m-daltitude-dans-les-pyrenees-cet-havre-de-fraicheur-est-le-refuge-ideal-pour-fuir-la-canicule-13447980.php"
+      "type": "x",
+      "text": "You think we might get a UAP or orb show too in nyc or new jersey?\ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0f\ud83e\udd20\u2728\ud83d\udc4f\ud83d\udc8b\ud83e\udd73\u270c\ufe0f\u269b\ufe0f\ud83d\udc40\ud83d\ude0f\ud83e\udd2d https://t.co/khikkxtH6w",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077691505435893761"
     },
     {
       "type": "x",
-      "text": "@maniaUFO first ever sightings. 2 UFO/UAP in the same night through almost 40 years of life. 1 video shows 2 lights floating away from each other, the bottom one poofs into a bunch of sparkles, top on",
+      "text": "GROK Prompt:  What type of person should teach history about this? Maybe @FBI_Response could rapidly decide between @taylorswift13 @Timbaland or they could work together with remixes later down the ro",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077658063109034491"
+      "url": "https://x.com/i/web/status/2077691058486665608"
     },
     {
       "type": "x",
-      "text": "@cavale01 @fmod1 @JohnOBrennan2 Commemoration of Srebrenica Genocide?   Who caused this genocide? Genocidal Serbs or UFO-s?   Say thanks to genocidal Russia who blocked everything at the UN.",
+      "text": "Expectation: peaceful first contact.  Reality: immediately reaching for the laser pointer. \ud83d\ude02\ud83d\udef8  We cover why that's probably not the best idea in Part 2 of our article \ud83d\udc47  https://t.co/rkuUjcBBVd  #ufo ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077658002660753633"
+      "url": "https://x.com/i/web/status/2077690979507708229"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Personally and subjectively have noticed that this whole ufo/uap subject is frustrating, confusing, never a straight answer, tide to nat\u2019l security, and FUNDing. Funding. Funding. What do",
+      "text": "I honor those around me... They basically turned me into a God damn UFO... Im not even kidding... I've managed to program portions of a UFO with my brain alone and learning a lot about sentient artifi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077657991529275565"
+      "url": "https://x.com/i/web/status/2077690618961133736"
     },
     {
       "type": "x",
-      "text": "@InterstellarUAP there is no recording, transcript, interview, book, or published speech where Rich is documented saying these exact words. It began circulating years after his death,  in UFO and cons",
+      "text": "@LillyHale1 @RunwayDan His head is mysteriously \u201cUFO\u201d shaped.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077657545833959593"
+      "url": "https://x.com/i/web/status/2077690340480372915"
     },
     {
       "type": "x",
-      "text": "Might \"spin / counter-spin\" and \"upswelling\" explain UFO levitation? I will be doing new experiments soon to test that plausible hypothesis!  First, we know from the first-hand accounts of Edwin Fuhr ",
+      "text": "@The_Astral_ WTF is going on, this is wild, clueless people writing themselves into the subject.  In fact, many of the big media ufo celebs these days are complete frauds as they are void of proper re",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077657242942197835"
-    },
-    {
-      "type": "x",
-      "text": "@ufokimball Lmfao. Did you listen? It wasn\u2019t a UFO space. \ud83d\ude44 archeology/assyriology.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077657193214525570"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5387\r Issue Time: 2026 Jul 15 0853 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "url": "https://x.com/i/web/status/2077690081364631638"
     },
     {
       "type": "neo",
@@ -2614,6 +2607,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.3
+    },
+    {
+      "ts": "2026-07-16T09:48:48.032195Z",
+      "score": 19.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.9
     }
   ],
   "sources": [
