@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T22:17:07.237220Z",
-  "score": 24.2,
+  "generated_at": "2026-07-16T23:23:48.608893Z",
+  "score": 22.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.5,
-    "d24h": -6.6,
+    "d1h": -1.5,
+    "d24h": -12.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 9.1,
+    "social_chatter": 7.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "22:17",
+    "generated_utc": "23:23",
     "top_drivers": [
-      "Canadian wildfires fill NJ skies here what happening",
-      "X/Twitter chatter: 153 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 130 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.3,
-    "baseline_recent": 25.1,
+    "live_signal": 12.1,
+    "baseline_recent": 25.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 153,
+    "x_last_hour": 130,
     "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Canadian wildfires fill NJ skies here what happening",
-      "source": "nj1015.com",
-      "url": "https://nj1015.com/canada-wildfire-smoke-midwest-air-quality/"
-    },
-    {
-      "type": "news",
-      "text": "Could Gun Control Crowd Have Pushed Too Far in Colorado ? ",
-      "source": "bearingarms.com",
-      "url": "https://bearingarms.com/tomknighton/2026/07/16/could-gun-control-crowd-have-pushed-too-far-in-colorado-n1233192"
-    },
-    {
-      "type": "news",
-      "text": "Um , James Franco alien story sounds bogus",
-      "source": "stcatharinesstandard.ca",
-      "url": "https://www.stcatharinesstandard.ca/entertainment/james-franco-says-he-has-proof-an-alien-visited-him-why-would-it-choose-an-actor-who-peaked-in-2018/article_7d1f82ef-caad-5fa2-b029-299cc45a6429.html"
-    },
-    {
-      "type": "news",
-      "text": "New Jersey Gunnison Beach Named One of Best Nude Beaches in united states ",
-      "source": "catcountry1073.com",
-      "url": "https://catcountry1073.com/nude-beach-new-jersey-among-best/"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/86c2c243-03e9-53a9-a7e3-67e6fd51855c/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/871cc3ab-a3ca-5bd1-aff1-ebb926b7facb/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=k6qo2k6chn55gctn56rvvft297"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0gtk0n84970t9l9tqr0kkq8nr3"
-    },
-    {
-      "type": "news",
-      "text": "Complete Family Healthcare Receives 2026 BusinessRate Recognition in Alpharetta",
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/complete-family-healthcare-receives-2026-businessrate-recognition-in-alpharetta/2386212"
-    },
-    {
-      "type": "news",
-      "text": "Terrence Howard , Kate Bosworth to Star in Legal Thriller  Broken Ones  ",
-      "source": "variety.com",
-      "url": "https://variety.com/2026/film/news/terrence-howard-kate-bosworth-legal-thriller-broken-ones-1236812216/"
+      "type": "x",
+      "text": "@SomaKazima2 This is like that uap ufo bullshit",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077896658596052998"
     },
     {
       "type": "x",
-      "text": "@Jalenlxx @EltreceHombre @Kannas_Ricebowl Went to it after watching the first season and I immediately stood up to give ufo a standing ovation cause what they did was nothing short of a miracle \ud83d\ude2d",
+      "text": "@IvMathers Right now with the ufo files being released and all that. It also touches on stuff no other alien movie has ever done as far as our place in the universe how it\u2019ll affect religion and all t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077880121621393598"
+      "url": "https://x.com/i/web/status/2077896271575097765"
     },
     {
       "type": "x",
-      "text": "\"Although the likelihood of Trump addressing the topic of UAPs tonight is minimal, we can't rule it out completely. After all, if anyone is going to make aliens trendy again, maybe it's time for that ",
+      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Can FBI Staff Join NICAP? July 17, 1961 \u2014  1/ After an FBI staffer in New Orleans inquiries about the propriety of joining NICAP, the Special",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077880044563886565"
+      "url": "https://x.com/i/web/status/2077896222518477202"
     },
     {
       "type": "x",
-      "text": "@grok Grok it\u2019s interesting chat used a UFO \ud83d\udef8 but all I was just wondering is flight chances with this ionic thrust.   What are you anticipating guesstimates of flight success or if this theory serves",
+      "text": "@conlin_lauren @FrancMilburn @FBI When I complained that Franc was harassing me, Bob McGwier came out  of the woodwork to defend Franc as HIS boy. Franc is being used by McGwier to threaten and silenc",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077879949579505906"
+      "url": "https://x.com/i/web/status/2077896167040397514"
     },
     {
       "type": "x",
-      "text": "@RedPandaKoala UAP have been present in war zones since atom bombs of '45. Interdimensional allies have monitored global nuclear activity closely since then. They deactivate/interfere when warranted. ",
+      "text": "\ud83d\udc7d DID YOU KNOW: In 2017 the first interstellar object ever seen tore through our solar system \u2014 'Oumuamua.  It didn't act like a comet. It accelerated leaving the sun. Harvard's Avi Loeb says alien te",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077879943476773122"
+      "url": "https://x.com/i/web/status/2077896081438920824"
     },
     {
       "type": "x",
-      "text": "The recent UAP/NHI disclosures by the US government are disappointing, feels like they\u2019ve redacted all the good parts\u2014 https://t.co/GAwCSEG0fR",
+      "text": "A passenger films a \"Disc\" shaped UFO that comes in to check out the plane..  Then shows speed hat no human could handle if they were inside!  Himalayas.   November, 2014. https://t.co/851k0h4Quy",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077879818792689805"
-    },
-    {
-      "type": "x",
-      "text": "@joerogan @Spotify Not a fan of his response to the UFO question, but I like the guy.",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077879404655702307"
+      "url": "https://x.com/i/web/status/2077896057414201623"
     },
     {
       "type": "neo",
@@ -2677,6 +2616,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.3
+    },
+    {
+      "ts": "2026-07-16T23:23:48.533946Z",
+      "score": 22.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.1
     }
   ],
   "sources": [
