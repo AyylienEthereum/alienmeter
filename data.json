@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-16T09:48:48.108609Z",
-  "score": 19.3,
+  "generated_at": "2026-07-16T11:29:16.282554Z",
+  "score": 21.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -11.1,
-    "d24h": -15.8,
+    "d1h": -7.4,
+    "d24h": -14.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.5,
+    "social_chatter": 5.3,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "09:48",
+    "generated_utc": "11:29",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "X/Twitter chatter: 62 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 91 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.9,
+    "live_signal": 10.3,
     "baseline_recent": 25.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": -38.91092045566894,
-    "x_last_hour": 62,
+    "gdelt_spike_pct": -48.30827067669173,
+    "x_last_hour": 91,
     "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lfgtmrfhlnmfq9kvsfl303f921"
-    },
-    {
-      "type": "news",
-      "text": "Manchester magnetism powers law firm Fieldfisher to further growth burst",
-      "source": "thebusinessdesk.com",
-      "url": "https://www.thebusinessdesk.com/northwest/news/2175904-manchester%E2%80%99s-magnetism-lifts-law-firm-fieldfisher-to-further-growth-spurt/"
-    },
-    {
-      "type": "news",
-      "text": "Il Podcast : infanzia e robottoni giapponesi , sicuri fossero davvero belli ? ",
-      "source": "lavocedivenezia.it",
-      "url": "https://www.lavocedivenezia.it/il-podcast-infanzia-e-robottoni-giapponesi-sicuri-fossero-davvero-belli/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8dt7q85vtg74ha205gnce1ds36"
-    },
-    {
-      "type": "news",
-      "text": "West - Current Conditions",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_59d0cb50-582b-587d-bb13-3f7afae72f46.html"
-    },
-    {
-      "type": "news",
-      "text": "Festivada 2026 : concerts , pr\u00e8s de 35 000 festivaliers attendus ... Cest parti pour trois soirs dun rendez - vous incontournable \u00e0 Rodez",
-      "source": "centrepresseaveyron.fr",
-      "url": "https://www.centrepresseaveyron.fr/2026/07/16/festivada-2026-concerts-pres-de-35-000-festivaliers-attendus-cest-parti-pour-trois-soirs-dun-rendez-vous-incontournable-a-rodez-13470265.php"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=aff9gr33u419h2ujj8uvb0i9v0"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=shfsqpercoj8sksj2v8v1db207"
-    },
-    {
-      "type": "news",
-      "text": "\u7f85\u4f2f\u7279 \u00b7 \u535a\u4e16\u7372\u7f8e\u6676\u7247\u88dc\u52a92 . 25\u5104\u7f8e\u5143 \u7f8e\u5370\u52a0\u78bc\u6676\u7247\u570b\u7522\u5316",
-      "source": "n.yam.com",
-      "url": "https://n.yam.com/Article/20260716876247"
-    },
-    {
-      "type": "news",
-      "text": "\u7f85\u4f2f\u7279 \u00b7 \u535a\u4e16\u7372\u7f8e\u6676\u7247\u88dc\u52a92 . 25\u5104\u7f8e\u5143 \u7f8e\u5370\u52a0\u78bc\u6676\u7247\u570b\u7522\u5316",
-      "source": "n.yam.com",
-      "url": "https://n.yam.com/Article/20260716138302"
+      "type": "x",
+      "text": "Given the insane level of microscopic detail produced in the manufacturing of these sub 7nm chips....(freakn wild).   And the fact the only place on earth that produces them is a tiny island of captia",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077716948805468519"
     },
     {
       "type": "x",
-      "text": "You think we might get a UAP or orb show too in nyc or new jersey?\ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0f\ud83e\udd20\u2728\ud83d\udc4f\ud83d\udc8b\ud83e\udd73\u270c\ufe0f\u269b\ufe0f\ud83d\udc40\ud83d\ude0f\ud83e\udd2d https://t.co/khikkxtH6w",
+      "text": "Most people remember the Phoenix Lights as a single event The evidence suggests there were two separate events that night Confusing those two events has shaped the debate for nearly three decades Full",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077691505435893761"
+      "url": "https://x.com/i/web/status/2077716715660574769"
     },
     {
       "type": "x",
-      "text": "GROK Prompt:  What type of person should teach history about this? Maybe @FBI_Response could rapidly decide between @taylorswift13 @Timbaland or they could work together with remixes later down the ro",
+      "text": "@Dragonflynda @VanguardEnterpr I'm putting forward a new narrative  Few of the people claimed while sleeping have ever been abducted and the bulk are silent abductions and the times we come across the",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077691058486665608"
+      "url": "https://x.com/i/web/status/2077716083725992412"
     },
     {
       "type": "x",
-      "text": "Expectation: peaceful first contact.  Reality: immediately reaching for the laser pointer. \ud83d\ude02\ud83d\udef8  We cover why that's probably not the best idea in Part 2 of our article \ud83d\udc47  https://t.co/rkuUjcBBVd  #ufo ",
+      "text": "@The_Astral_ the second man in the us and don't know about ufo or aliens if they exist or not come on ...",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077690979507708229"
+      "url": "https://x.com/i/web/status/2077716031397618038"
     },
     {
       "type": "x",
-      "text": "I honor those around me... They basically turned me into a God damn UFO... Im not even kidding... I've managed to program portions of a UFO with my brain alone and learning a lot about sentient artifi",
+      "text": "@Rifat_EE I think alien dropped his kid from ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077690618961133736"
+      "url": "https://x.com/i/web/status/2077715522595246390"
     },
     {
       "type": "x",
-      "text": "@LillyHale1 @RunwayDan His head is mysteriously \u201cUFO\u201d shaped.",
+      "text": "@overclassifiedx These are just more claims from yet another person! His status does not validate the accuracy of such claims. You could show him all the UFO hoaxes out there, and he wouldn't be able ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077690340480372915"
-    },
-    {
-      "type": "x",
-      "text": "@The_Astral_ WTF is going on, this is wild, clueless people writing themselves into the subject.  In fact, many of the big media ufo celebs these days are complete frauds as they are void of proper re",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077690081364631638"
+      "url": "https://x.com/i/web/status/2077715341174624315"
     },
     {
       "type": "neo",
@@ -2614,6 +2553,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.9
+    },
+    {
+      "ts": "2026-07-16T11:29:16.208791Z",
+      "score": 21.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.3
     }
   ],
   "sources": [
