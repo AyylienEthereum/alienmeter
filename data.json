@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T02:02:24.324476Z",
-  "score": 28.6,
+  "generated_at": "2026-07-16T05:19:37.035759Z",
+  "score": 24.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -3.7,
-    "d24h": -5.2,
+    "d1h": -7.9,
+    "d24h": -9.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.7,
+    "social_chatter": 5.2,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 32,
     "date": "16.07.2026",
     "declassified": "16.07.26",
-    "generated_utc": "02:02",
+    "generated_utc": "05:19",
     "top_drivers": [
-      "X/Twitter chatter: 146 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 90 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 3",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.7,
+    "live_signal": 14.3,
     "baseline_recent": 25.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": -47.72519218679343,
-    "x_last_hour": 146,
-    "wiki_spike_pct": -30.413523226802898,
+    "gdelt_spike_pct": -20.35456480242227,
+    "x_last_hour": 90,
+    "wiki_spike_pct": -35.41780403735636,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -58,39 +58,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "The Pentagon has released a new trove of UFO files with 72 images, videos and reports dating back to the 1940s and as recently as last year. Whit Johnson reports. https://t.co/My8qNJrLUu",
+      "text": "@justicecometh1 @IngLockwoodInc There's this little German ufo in their page. https://t.co/ADUZHaHh19",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077574327331885204"
+      "url": "https://x.com/i/web/status/2077623405965365466"
     },
     {
       "type": "x",
-      "text": "@fylth1 \ud83d\ude02You're making my point ... this guy doesn't use a UFO to move around, though he might have parked it somewhere else.\ud83e\udd14\ud83d\ude02",
+      "text": "@DrPhil shows us proof that our government's been lying to us about the UAP/UFO phenomenon for 80 years now. This shit is \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f   https://t.co/9AdiLdWXcr",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077574302090600795"
+      "url": "https://x.com/i/web/status/2077623043581518295"
     },
     {
       "type": "x",
-      "text": "@UAPWatchers What a clown \ud83e\udd21 I was willing to hear him out until I saw the footage. Give it up Franco and stop poking fun at the UFO community. Move on.. we did..",
+      "text": "@MinuteofZombie Is this image of an M2 Bradley entangled with razor wire a possible representation of how some UAP are affected by our nuclear bomb detonations? Does it fuck with time and space? (tota",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077574200437424496"
+      "url": "https://x.com/i/web/status/2077622700344791339"
     },
     {
       "type": "x",
-      "text": "@VigilantFox So, the conquistadors were actually demonic for native Americans ? And Vance is conceding that maybe something that looks magical may not be magical ?  Isn\u2019t he making the entire UFO topi",
+      "text": "@The_Astral_ Nobody wants to go near the real thing, I'll prove it to you, not even believers   Use lake cote a government photo as the baseline of what a genuine ufo is and work from there linking ev",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077574197446873542"
+      "url": "https://x.com/i/web/status/2077622559449997635"
     },
     {
       "type": "x",
-      "text": "Happy birthday!! I thought you were seriously awesome in Steven Greer\u2019s disclosure films. You are definitely one of the very few whom I trust with full transparency on the topic of UFO very grateful f",
+      "text": "@RedPandaKoala What if UFO Disclosure led to aliens making sweet love to everyone?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077574063891890612"
+      "url": "https://x.com/i/web/status/2077622181803208767"
     },
     {
       "type": "x",
-      "text": "@Hot_Pepper76 Phil Mogg\u2764\ufe0fof UFO ! \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f",
+      "text": "@RepLuna @timburchett That ufo cake is the best for sure. Extraterrestrial type of cake. \ud83d\udd25\ud83d\ude0e",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077573926461321554"
+      "url": "https://x.com/i/web/status/2077622088966471976"
     },
     {
       "type": "swpc",
@@ -2551,6 +2551,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.7
+    },
+    {
+      "ts": "2026-07-16T05:19:36.960102Z",
+      "score": 24.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.3
     }
   ],
   "sources": [
