@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T20:47:12.103285Z",
-  "score": 26.0,
+  "generated_at": "2026-07-17T21:45:01.113514Z",
+  "score": 26.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -26.7,
+    "d1h": -0.1,
+    "d24h": -7.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.4,
+    "social_chatter": 8.1,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.6,
-    "alien_variance": 1.2
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "20:47",
+    "generated_utc": "21:45",
     "top_drivers": [
-      "Jaime Maussan asegura que Trump podr\u00eda impulsar nuevas revelaciones sobre los ovnis",
-      "X/Twitter chatter: 141 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 136 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
@@ -42,15 +41,15 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.9,
+    "live_signal": 17.4,
     "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 141,
+    "gdelt_spike_pct": -31.59312609941815,
+    "x_last_hour": 136,
     "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7.3,
@@ -58,100 +57,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Jaime Maussan asegura que Trump podr\u00eda impulsar nuevas revelaciones sobre los ovnis",
-      "source": "eldiariodesonora.com.mx",
-      "url": "https://eldiariodesonora.com.mx/internacional/2026/07/17/jaime-maussan-trump-ovnis.html"
-    },
-    {
-      "type": "news",
-      "text": "Czy kosmici to demony ? G\u0142os z wy\u017cyn polityki united states ",
-      "source": "pch24.pl",
-      "url": "https://pch24.pl/wiadomosci/czy-kosmici-to-demony-glos-z-wyzyn-polityki-usa,726947"
-    },
-    {
-      "type": "news",
-      "text": "Um , James Franco alien story sounds bogus",
-      "source": "wellandtribune.ca",
-      "url": "https://www.wellandtribune.ca/entertainment/james-franco-says-he-has-proof-an-alien-visited-him-why-would-it-choose-an-actor-who-peaked-in-2018/article_c603ac60-8905-5abe-a42a-e4a937611152.html"
-    },
-    {
-      "type": "news",
-      "text": "Ancient Aliens",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/7c298765-863d-5cb8-af21-6f5ad75f539d/ancient-aliens"
-    },
-    {
-      "type": "news",
-      "text": "Mai successo prima Terremoto nel centrodestra lultimo sondaggio \u00e8 clamoroso",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-17/mai-successo-prima-terremoto-nel-centrodestra-lultimo-sondaggio-e-clamoroso/19472759/"
-    },
-    {
-      "type": "news",
-      "text": "Enforcement Watch Alert : 188 Enforcement Actions Initiated ; 16 Resolved In June 2026",
-      "source": "ladailypost.com",
-      "url": "https://ladailypost.com/enforcement-watch-alert-188-enforcement-actions-initiated-16-resolved-in-june-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Strange Horizons - Orca and Bird by Anna Chilvers By Kate Macdonald",
-      "source": "strangehorizons.com",
-      "url": "https://strangehorizons.com/wordpress/non-fiction/orca-and-bird-by-anna-chilvers/"
-    },
-    {
-      "type": "news",
-      "text": "A origem dos  homenzinhos verdes  \u2013 e o fasc\u00ednio da humanidade por alien\u00edgenas",
-      "source": "super.abril.com.br",
-      "url": "https://super.abril.com.br/sociedade/a-origem-dos-homenzinhos-verdes-e-o-fascinio-da-humanidade-por-alienigenas/"
-    },
-    {
-      "type": "news",
-      "text": "Cad\u00ea os aliens ? Entenda como a ci\u00eancia busca por vida extraterrestre inteligente",
-      "source": "super.abril.com.br",
-      "url": "https://super.abril.com.br/ciencia/cade-os-aliens-entenda-como-a-ciencia-busca-por-vida-extraterrestre-inteligente/"
-    },
-    {
-      "type": "news",
-      "text": "Do and Donts of Overland Truck Modification",
-      "source": "recoilweb.com",
-      "url": "https://www.recoilweb.com/dos-and-donts-of-overland-truck-modification-172403.html"
+      "type": "x",
+      "text": "The Pattern Nobody's Talking About Nuclear UAP Clusters https://t.co/wPxxCrwMKf",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078234484705775759"
     },
     {
       "type": "x",
-      "text": "\ud83d\udca5The Whitehouse releases a photo of a UFO that is strikingly similar to the spaceship used to send Superman to Earth in the 1978 Blockbuster movie. https://t.co/dZSzvuYKg1",
+      "text": "Don\u2019t let ufo believers see this. https://t.co/j341H1dLQA",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219868823027800"
+      "url": "https://x.com/i/web/status/2078234464358916248"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 Dr. Steven Greer EXPOSED: Breaking HIPAA to Blow Open UAP/NHI Secrets? \ud83d\udc7d  As a licensed MD turned Disclosure Project founder, Dr. Steven Greer has repeatedly shared detailed patient testimonies abou",
+      "text": "Report coming in about UFO over Galway. No need to panic folks, turned out to be just a cloud. Meanwhile in other news. My dad bought me a small pool. He put my paws in it and I panicked, then I reali",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219740208902514"
+      "url": "https://x.com/i/web/status/2078234307475193926"
     },
     {
       "type": "x",
-      "text": "@_Mithraic @UAPGERB Giving the guy too much credit. He\u2019s a F list UAP influencer",
+      "text": "@BrandonFugal the Soviet USR-1 Bis high altitude reconnaissance balloon is the credible cause of the Roswell UFO crash story. Soviets used these balloons to spy on the White Sands Range and Nevada Tes",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219379926327641"
+      "url": "https://x.com/i/web/status/2078234280581636247"
     },
     {
       "type": "x",
-      "text": "@TheUfoJoe Exactly!! They have been stalling on everything NHI, alien, ufo. China interfering with our elections is important but no where close to the NHI, alien, ufo subject. Why is there 0 deadline",
+      "text": "@RepJackKimble @grok 2Hot2Handle UFO tribute is all female...they said I wouldn't be able to pull it off but it happened :) UFO even liked us lol :)",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219257133887767"
+      "url": "https://x.com/i/web/status/2078233903022931969"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8\ud83d\udc7d ALIEN FARMER COIN IS LIVE \ud83e\ude99 The cosmic farmer has landed. \ud83d\ude9c\ud83c\udf31 Growing memes across the galaxy. \ud83c\udf0c Join the farm \ud83d\udc7d $UFO",
+      "text": "The metamaterials question keeps coming up in UAP testimony. Here's what materials science can currently say about the samples that have been described \u0097 and what analysis would be required to say any",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219157150024061"
-    },
-    {
-      "type": "x",
-      "text": "@BFree63 @DeanAlioto Always a good guest.  I listened to his interview with Martin Willis on Podcast UFO @PodcastUFO several days ago \u2728",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078219138909266265"
+      "url": "https://x.com/i/web/status/2078233655919759732"
     },
     {
       "type": "swpc",
@@ -2788,6 +2727,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.9
+    },
+    {
+      "ts": "2026-07-17T21:45:01.035284Z",
+      "score": 26.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.4
     }
   ],
   "sources": [
