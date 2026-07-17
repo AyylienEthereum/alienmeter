@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T14:53:43.949706Z",
-  "score": 22.9,
+  "generated_at": "2026-07-17T16:10:24.689154Z",
+  "score": 25.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": -11.2,
+    "d1h": 6.4,
+    "d24h": -8.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.6,
+    "social_chatter": 9.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
-    "seismic": 0.0,
-    "alien_variance": 1.8
+    "seismic": 3.6,
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,126 +31,71 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "14:53",
+    "generated_utc": "16:10",
     "top_drivers": [
-      "The Bay Area UFO files : Trump disclosures could fuel more reports of aliens",
-      "X/Twitter chatter: 145 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 159 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.9,
+    "live_signal": 16.5,
     "baseline_recent": 24.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": -80.91889954089716,
-    "x_last_hour": 145,
-    "wiki_spike_pct": -36.09911826170529,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "gdelt_spike_pct": -80.6945289465063,
+    "x_last_hour": 159,
+    "wiki_spike_pct": -33.61004480230113,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 7.3,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "The Bay Area UFO files : Trump disclosures could fuel more reports of aliens",
-      "source": "unionleader.com",
-      "url": "https://www.unionleader.com/news/back_page/the-bay-area-ufo-files-trump-disclosures-could-fuel-more-reports-of-aliens/article_0cb1c7b8-50e2-47d9-b7fc-04785910c221.html"
-    },
-    {
-      "type": "news",
-      "text": "Get Outside ! \u00a0 Scenic Hiking Trails Close to Home",
-      "source": "thecitizen.com",
-      "url": "https://thecitizen.com/2026/07/17/get-outside-scenic-hiking-trails-close-to-home/"
-    },
-    {
-      "type": "news",
-      "text": "John Boston | A Book Agent Who Works Out of Her Car \u2026 ",
-      "source": "signalscv.com",
-      "url": "https://signalscv.com/2026/07/john-boston-a-book-agent-who-works-out-of-her-car/"
-    },
-    {
-      "type": "news",
-      "text": "UFO Chronicles",
-      "source": "tvguide.co.uk",
-      "url": "https://www.tvguide.co.uk/schedule/7002f3e4-0669-5bb4-8e68-b1aa919cb522/ufo-chronicles"
-    },
-    {
-      "type": "news",
-      "text": "T\u00e9l\u00e9charger Denshattack ! - Windows , Web | La biblioth\u00e8que de logiciels \u00e0 t\u00e9l\u00e9charger",
-      "source": "journaldugeek.com",
-      "url": "https://www.journaldugeek.com/telecharger/jeux/arcade/denshattack.html"
-    },
-    {
-      "type": "news",
-      "text": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u0416\u0434\u0430\u043d\u043e\u0432 \u0443\u0441\u043e\u043c\u043d\u0438\u043b\u0441\u044f \u0432 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043d\u043e\u0432\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430 \u043f\u043e \u041d\u041b\u041e \u043f\u0440\u0438 \u0422\u0440\u0430\u043c\u043f\u0435",
-      "source": "life.ru",
-      "url": "https://life.ru/p/1900895"
-    },
-    {
-      "type": "news",
-      "text": "Platner Critics Kept Attacking the Messenger While Ignoring His Message",
-      "source": "counterpunch.org",
-      "url": "https://www.counterpunch.org/2026/07/17/platners-critics-kept-attacking-the-messenger-while-ignoring-his-message/"
-    },
-    {
-      "type": "news",
-      "text": "\u0412\u044d\u043d\u0441 \u0437\u0430\u044f\u0432\u0438\u043b \u043e\u0431 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0443 \u0421\u0428\u0410",
-      "source": "life.ru",
-      "url": "https://life.ru/p/1900829"
-    },
-    {
-      "type": "news",
-      "text": "UAE Business : Burjeel Medical City , Roswell Park launch tie - up for thoracic cancer care",
-      "source": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1400924"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u0430\u043a \u0413\u043e\u0440\u0431\u0430\u0447\u0435\u0432 \u0432 1991 - \u043c \u0441\u043f\u0430\u0441\u0430\u043b \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0432 \u043f\u0443\u0441\u0442\u044b\u043d\u0435 , \u0440\u0430\u0441\u043a\u0440\u044b\u043b \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438",
-      "source": "rodina-history.ru",
-      "url": "https://rodina-history.ru/2026/07/17/kak-gorbachev-v-1991-m-spasal-inoplanetian-v-pustyne-raskryl-uchastnik-ekspedicii.html"
+      "type": "x",
+      "text": "@JOKAQARMY1 So Aliens can\u2019t fly now. Bro minding his business. I kno he hate his UFO was down",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078150268982546893"
     },
     {
       "type": "x",
-      "text": "ufo nerds are so soft these days https://t.co/tITmvvQWIU",
+      "text": "\ud83d\udea8\ud83d\udc7d 'ROSWELL OF BRAZIL' UFO CASE   he saw a captured nonhuman being\ud83c\udde7\ud83c\uddf7\ud83d\udef8  Filmmaker James Fox says a Brazilian brain surgeon has finally broken his silence, claiming he saw a captured nonhuman being afte",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130939352486236"
+      "url": "https://x.com/i/web/status/2078149734691438850"
     },
     {
       "type": "x",
-      "text": "@toxictiramisu @JakeHunter88 Theres a few problems with this. Russia &amp; China have had their own UFO/UAP studies including a joint one in 1990 reported on by the CIA's FBIS. In fact after the US wa",
+      "text": "Metamaterial from  UAP crash recovery  https://t.co/4XxQoyn61e",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130901465100515"
+      "url": "https://x.com/i/web/status/2078149067842949478"
     },
     {
       "type": "x",
-      "text": "I wouldn't worry what Vance says . The both lie and are stupid and clearly can't understand what tge IC says anyway @Kingmilkfarts_ @devgru1980mi @AdamGoldsack And Much of UFO twitter doesn't seem to ",
+      "text": "1) Sandman\u00a003:12\u00a0 2) All I Hear Is Blahzy Blah\u00a004:21\u00a0 3) Jaded\u00a002:27\u00a0 4) Wire Walker\u00a002:50  5) Ghosts\u00a003:55\u00a0 6)Under the Hedge (The Lightning Mix)\u00a003:10\u00a0 7) Cigar shaped UFO\u00a003:34\u00a0 8) Orbital\u00a003:32\u00a0 9",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130800550187059"
+      "url": "https://x.com/i/web/status/2078148682495439162"
     },
     {
       "type": "x",
-      "text": "A personal issue... UFO.        And this is WHY the contractor laughed... https://t.co/5X9ze86O8K",
+      "text": "@VettedPodcast Hey man, used to watch your show. Let me just say the truth of the UFO phenomenon is that Consciousness is Fundamental. Chris Bledsoe's input is the closed you will ever get to truth. G",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130764009329138"
+      "url": "https://x.com/i/web/status/2078148518674395351"
     },
     {
       "type": "x",
-      "text": "@anguscooney @skdh Ambitious unification via your Non-Touch Persistence Framework. The recurring cycle of dual histories constrained into persistent ledgers driving emergence across cosmic to cognitiv",
+      "text": "@EmbChinaMex Ahh esse plano tamb\u00e9m era e feito de drogas... \"We took planet on the ufo... To reach gods paradise..... we have the coordinate...  We will togetther seek for answears....  (Just good cau",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130647915274564"
+      "url": "https://x.com/i/web/status/2078148490467672475"
     },
     {
-      "type": "x",
-      "text": "I Filmed What They're Hiding at the Skinwalker Ranch UFO Conference https://t.co/wZ4p2uwEGr via @YouTube",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078130632031379759"
+      "type": "seismic",
+      "text": "Significant seismic event: 48 km SW of Aquiles Serd\u00e1n, Mexico",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -2740,6 +2685,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.9
+    },
+    {
+      "ts": "2026-07-17T16:10:24.614746Z",
+      "score": 25.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.5
     }
   ],
   "sources": [
