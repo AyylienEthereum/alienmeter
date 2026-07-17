@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T17:30:00.336903Z",
-  "score": 26.5,
+  "generated_at": "2026-07-17T18:35:33.738371Z",
+  "score": 25.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 7.6,
-    "d24h": -5.0,
+    "d1h": 1.9,
+    "d24h": -20.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 9.6,
+    "news_velocity": 0.1,
+    "social_chatter": 6.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 1.2,
     "seismic": 3.6,
-    "alien_variance": 1.8
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,65 +31,72 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "17:30",
+    "generated_utc": "18:35",
     "top_drivers": [
-      "X/Twitter chatter: 161 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 110 UFO/UAP posts in the last hour",
+      "NOAA space-weather alerts active: 1",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.5,
-    "baseline_recent": 24.7,
+    "live_signal": 15.9,
+    "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 161,
-    "wiki_spike_pct": -22.36370225049046,
+    "gdelt_spike_pct": 0.315908684508557,
+    "x_last_hour": 110,
+    "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7.3,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "x",
-      "text": "For all you UFO people https://t.co/xd1UazzyWz",
+      "text": "Decoding JD Vance on Joe Rogan Podcast: 1) JD Vance said Joe Biden didn\u2019t read as a crazy person as a dig at Trump because he is a crazy person  2) They talked about Trump being anointed by god to bri",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078170249040429228"
+      "url": "https://x.com/i/web/status/2078186763995255016"
     },
     {
       "type": "x",
-      "text": "\ud83d\udea8 The \"Jellyfish UAP\" That Matches the Leaked Immaculate Constellation Report https://t.co/fhMLsFZzRU",
+      "text": "Smith &amp; Tell UFO  I've been terrified Running all my life Flying object still unidentified In the atmosphere all alone Oh, won't you take me to where I belong  People talk to me Still don't unders",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078170217427972277"
+      "url": "https://x.com/i/web/status/2078186596151722405"
     },
     {
       "type": "x",
-      "text": "@cosmic_clock Thanks, I missed it as I didn't click on 'show more' to reveal that \ud83d\ude06 I have real video filmed by a friend inside a ufo during an abduction which has survived all forensic work.  One of ",
+      "text": "\ud83d\udca1 Warehouse lighting upgrade completed in the 23454 area! We installed 12 new LED UFO high bays, converted fluorescent fixtures to direct-wire LED, and completed the project in one day with minimal do",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078169701704688025"
+      "url": "https://x.com/i/web/status/2078186437002797464"
     },
     {
       "type": "x",
-      "text": "@WhiteHouse The White House\u2019s release of bombshell evidence last night turned out to be giant fat turds, just like the Epstein, MLK, JFK and UFO \u201cbombshells.\u201d They have no evidence! Only \u201ctheories\u201d an",
+      "text": "\" Resonant frequency \" #GD #artwork\ud83c\udfa8 #ArtistOnTwitter #fantasyart\u00a0 #Magic #bunny\u00a0 #painting #Metaverse #ufotwitter #smily #UFO #space #PeaceOfMind #peaceful #soul\u00a0 #characterart #paintting #artwork\ud83c\udfa8#a",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078169318718681205"
+      "url": "https://x.com/i/web/status/2078186314017702078"
     },
     {
       "type": "x",
-      "text": "Another excellent UAP/NH(S)I update report from Cristina. It delves into the sincerity regarding the personal research of Vice President Vance and Representative Burlison. It includes the CIA's infamo",
+      "text": "@FiresOfTruth He needs about 500 more UFO books if he wants to be considered an expert.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078169176724685028"
+      "url": "https://x.com/i/web/status/2078186302193746386"
     },
     {
       "type": "x",
-      "text": "SIOANI FILES (Brazil) \ud83c\udde7\ud83c\uddf7 Case #017 \ud83d\udef8  The seventeenth documented case in Brazil's SIOANI archive dates back to 1955, making it one of the earliest sightings included in the official files.  \ud83d\udccd Location",
+      "text": "@gornalalbion @drew4worldruler Well, in the US in the 70s people were very much into UFOs. Very little difference between now &amp; today as far as \u201cstigma\u201d is concerned. Nobody was really called \u201cwei",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078169106982076780"
+      "url": "https://x.com/i/web/status/2078185782968250524"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3717\r Issue Time: 2026 Jul 17 1822 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "seismic",
@@ -2699,6 +2706,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.5
+    },
+    {
+      "ts": "2026-07-17T18:35:33.661968Z",
+      "score": 25.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.9
     }
   ],
   "sources": [
