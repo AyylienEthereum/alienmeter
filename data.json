@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:26:52.365630Z",
-  "score": 18.7,
+  "generated_at": "2026-07-17T08:33:52.066603Z",
+  "score": 21.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -5.5,
-    "d24h": -15.3,
+    "d1h": -1.3,
+    "d24h": -10.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 4.2,
+    "social_chatter": 4.7,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "06:26",
+    "generated_utc": "08:33",
     "top_drivers": [
-      "X/Twitter chatter: 74 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 81 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.4,
+    "live_signal": 10.6,
     "baseline_recent": 24.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 74,
+    "gdelt_spike_pct": -23.45185456711494,
+    "x_last_hour": 81,
     "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,39 +57,39 @@
   "ticker": [
     {
       "type": "x",
-      "text": "@BrandonFugal @wotzitt It's not even within current theoretical frameworks.   The council is an absolute joke with no teeth and anyone that could truly give us answers has an NDA because they work for",
+      "text": "@ShaneFrakes OK, Shane, this UFO thing pushed me into a ZEN Buddhism Community. I'm in a cult now. Self Realisation.  Is this where it'll all head to once this 'disclosure' train chugs along slowly?",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078003323538477513"
+      "url": "https://x.com/i/web/status/2078034818970059086"
     },
     {
       "type": "x",
-      "text": "@maniaUFO UFO Mania ,you hoaxed UFOs 10 years ago and starting all over again...we all know this is cheap CGI",
+      "text": "Sometime you have to reflect the own behavior.  And if it just to motivate yourself.   As many of you within the UFO community are aware, https://t.co/bApWREGck1 and the Ezekiel Project have recently ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078003085742690611"
+      "url": "https://x.com/i/web/status/2078034618477904204"
     },
     {
       "type": "x",
-      "text": "@wotzitt Feynman said...\"The next great era of awakening of human intellect may well produce a method of understanding the qualitative content of equations. Today we cannot.\" Known physics has huge su",
+      "text": "Lizzo could've made another choice but she chose correctly because I knew you'd enslave anyone you could and @lizzo didn't choose that even remotely! I stand for USA &amp; UAP &amp; \ud83c\udf0e https://t.co/id2",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078003030960509346"
+      "url": "https://x.com/i/web/status/2078034162422849997"
     },
     {
       "type": "x",
-      "text": "One of my favourite books all year!   @JonMajerowski  is looking at the UFO phenomenon from a unique vantage point due to his esoteric background, this is the kind of research that helps push the subj",
+      "text": "@realannapaulina @RepMarkAlford It isnt. We were promised disclosure and weve gotten nothing. The released uap files come from NDAA 2024. This administration hasnt done what was promised.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078001812309672144"
+      "url": "https://x.com/i/web/status/2078033143395700978"
     },
     {
       "type": "x",
-      "text": "Our new week of #CoasttoCoastAM shows have just been posted! Topics include Antarctic mysteries, Salem Witch trials, reincarnation, ghost hunting, Cape Girardeau UFO crash, psychic insights, the singu",
+      "text": "@riebinx @elonmusk The truth is not free here on x lot of shadow banning going on, only the truth has that problem. Reptilian overlords, they had AI when they came to our planet already back then, ant",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078001129208815752"
+      "url": "https://x.com/i/web/status/2078032709079777550"
     },
     {
       "type": "x",
-      "text": "The instructions were easy to understand.  \ud83d\udc49 https://t.co/fa8WdyT01K  #UFO $UFO https://t.co/FCzkkNuCLD",
+      "text": "@SenSchumer By delusional bias, you mean the UFO files in black and white. Now we know aliens exist. Who advised the President that folks are dying to know if aliens do exist, got to be the little Dr.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078000993036296251"
+      "url": "https://x.com/i/web/status/2078032289972285841"
     },
     {
       "type": "neo",
@@ -2644,6 +2644,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.4
+    },
+    {
+      "ts": "2026-07-17T08:33:51.990872Z",
+      "score": 21.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.6
     }
   ],
   "sources": [
