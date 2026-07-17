@@ -1,46 +1,47 @@
 {
-  "generated_at": "2026-07-16T23:23:48.608893Z",
-  "score": 22.5,
+  "generated_at": "2026-07-17T00:58:34.272845Z",
+  "score": 22.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.5,
-    "d24h": -12.5,
+    "d1h": -8.3,
+    "d24h": -8.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 7.7,
+    "social_chatter": 8.5,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 0.6
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 32,
-    "day": 32,
-    "date": "16.07.2026",
-    "declassified": "16.07.26",
-    "generated_utc": "23:23",
+    "number": 33,
+    "day": 33,
+    "date": "17.07.2026",
+    "declassified": "17.07.26",
+    "generated_utc": "00:58",
     "top_drivers": [
-      "X/Twitter chatter: 130 UFO/UAP posts in the last hour",
+      "Boy drowning death leads to Roswell grandmother arrest",
+      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.1,
+    "live_signal": 11.6,
     "baseline_recent": 25.0,
     "score_gain": 1.3,
     "kp": null,
@@ -48,48 +49,108 @@
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 130,
-    "wiki_spike_pct": -35.41780403735636,
+    "x_last_hour": 143,
+    "wiki_spike_pct": -34.47794187449991,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "@SomaKazima2 This is like that uap ufo bullshit",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896658596052998"
+      "type": "news",
+      "text": "Boy drowning death leads to Roswell grandmother arrest",
+      "source": "ajc.com",
+      "url": "https://www.ajc.com/news/2026/07/grandmother-charged-after-2-year-old-boys-drowning-death-at-roswell-pool/"
+    },
+    {
+      "type": "news",
+      "text": "Paul Wesley says  I do  as The Vampire Diaries star marries model Natalie Kuckenburg",
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/paul-wesley-says-i-do-as-the-vampire-diaries-star-marries-model-natalie-kuckenburg-c-22573658"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h1me0bvpr0kkr9675608tf0p53"
+    },
+    {
+      "type": "news",
+      "text": "Metro Atlanta grandmother charged in 2 - year - old grandson drowning \u2013 95 . 5 WSB",
+      "source": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/local/metro-atlanta-grandmother-charged-2-year-old-grandsons-drowning/NY52XCCCAJG4LGLGRTCYF2AVFM/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o3ubtfi19kgosbvho116n4gul1"
+    },
+    {
+      "type": "news",
+      "text": "Texas named No . 4 most financially stressed state in 2026",
+      "source": "dallas.culturemap.com",
+      "url": "https://dallas.culturemap.com/news/city-life/most-financially-stressed-states/"
+    },
+    {
+      "type": "news",
+      "text": "Eolo Toys crece en Gij\u00f3n : nueva sede y salida a bolsa | El Comercio : Diario de Asturias",
+      "source": "elcomercio.es",
+      "url": "https://www.elcomercio.es/gijon/eolo-toys-crece-gijon-nueva-sede-salida-20260716233349-nt.html"
+    },
+    {
+      "type": "news",
+      "text": "Canon New Children Book Has Aliens Explaining Why Cameras Are Awesome",
+      "source": "petapixel.com",
+      "url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/"
+    },
+    {
+      "type": "news",
+      "text": "Um , James Franco alien story sounds bogus",
+      "source": "niagarafallsreview.ca",
+      "url": "https://www.niagarafallsreview.ca/entertainment/james-franco-says-he-has-proof-an-alien-visited-him-why-would-it-choose-an-actor-who-peaked-in-2018/article_01ef7576-139a-51d4-8136-54b0eaa7e49c.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1smg3rljcpujpjspdmf5qid991"
     },
     {
       "type": "x",
-      "text": "@IvMathers Right now with the ufo files being released and all that. It also touches on stuff no other alien movie has ever done as far as our place in the universe how it\u2019ll affect religion and all t",
+      "text": "@MattDevittWX They stopped the Reddit  ufo invasion.",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896271575097765"
+      "url": "https://x.com/i/web/status/2077920639504056600"
     },
     {
       "type": "x",
-      "text": "#ufotwitter #ufox #uapx #ufohistory Today in UFO History - Can FBI Staff Join NICAP? July 17, 1961 \u2014  1/ After an FBI staffer in New Orleans inquiries about the propriety of joining NICAP, the Special",
+      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896222518477202"
+      "url": "https://x.com/i/web/status/2077920364785463402"
     },
     {
       "type": "x",
-      "text": "@conlin_lauren @FrancMilburn @FBI When I complained that Franc was harassing me, Bob McGwier came out  of the woodwork to defend Franc as HIS boy. Franc is being used by McGwier to threaten and silenc",
+      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896167040397514"
+      "url": "https://x.com/i/web/status/2077920306509824441"
     },
     {
       "type": "x",
-      "text": "\ud83d\udc7d DID YOU KNOW: In 2017 the first interstellar object ever seen tore through our solar system \u2014 'Oumuamua.  It didn't act like a comet. It accelerated leaving the sun. Harvard's Avi Loeb says alien te",
+      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896081438920824"
+      "url": "https://x.com/i/web/status/2077920241020010992"
     },
     {
       "type": "x",
-      "text": "A passenger films a \"Disc\" shaped UFO that comes in to check out the plane..  Then shows speed hat no human could handle if they were inside!  Himalayas.   November, 2014. https://t.co/851k0h4Quy",
+      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077896057414201623"
+      "url": "https://x.com/i/web/status/2077920166839460281"
+    },
+    {
+      "type": "x",
+      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077920103727759613"
     },
     {
       "type": "neo",
@@ -2623,6 +2684,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.1
+    },
+    {
+      "ts": "2026-07-17T00:58:34.203556Z",
+      "score": 22.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.6
     }
   ],
   "sources": [
