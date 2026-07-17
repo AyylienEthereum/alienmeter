@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T19:46:45.210995Z",
-  "score": 25.8,
+  "generated_at": "2026-07-17T20:47:12.103285Z",
+  "score": 26.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.9,
-    "d24h": -9.8,
+    "d1h": 0.3,
+    "d24h": -26.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.6,
-    "alien_variance": 1.0
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "19:46",
+    "generated_utc": "20:47",
     "top_drivers": [
-      "Czy kosmici to demony ? G\u0142os z wy\u017cyn polityki united states ",
+      "Jaime Maussan asegura que Trump podr\u00eda impulsar nuevas revelaciones sobre los ovnis",
       "X/Twitter chatter: 141 UFO/UAP posts in the last hour",
       "NOAA space-weather alerts active: 1",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.7,
+    "live_signal": 16.9,
     "baseline_recent": 24.6,
     "score_gain": 1.3,
     "kp": null,
@@ -51,12 +51,18 @@
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
     "x_last_hour": 141,
-    "wiki_spike_pct": -33.61004480230113,
+    "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Jaime Maussan asegura que Trump podr\u00eda impulsar nuevas revelaciones sobre los ovnis",
+      "source": "eldiariodesonora.com.mx",
+      "url": "https://eldiariodesonora.com.mx/internacional/2026/07/17/jaime-maussan-trump-ovnis.html"
+    },
     {
       "type": "news",
       "text": "Czy kosmici to demony ? G\u0142os z wy\u017cyn polityki united states ",
@@ -112,46 +118,40 @@
       "url": "https://www.recoilweb.com/dos-and-donts-of-overland-truck-modification-172403.html"
     },
     {
-      "type": "news",
-      "text": "When a photo says a thousand racist words | Guest Commentary",
-      "source": "lompocrecord.com",
-      "url": "https://lompocrecord.com/opinion/commentary/when-a-photo-says-a-thousand-racist-words-guest-commentary/article_69837966-b343-5f91-bd7e-700214faf9bd.html"
+      "type": "x",
+      "text": "\ud83d\udca5The Whitehouse releases a photo of a UFO that is strikingly similar to the spaceship used to send Superman to Earth in the 1978 Blockbuster movie. https://t.co/dZSzvuYKg1",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078219868823027800"
     },
     {
       "type": "x",
-      "text": "UFO Contactee Billy Meier - Goblet of the Truth - Individuals https://t.co/EX0aSq94ny",
+      "text": "\ud83d\udea8 Dr. Steven Greer EXPOSED: Breaking HIPAA to Blow Open UAP/NHI Secrets? \ud83d\udc7d  As a licensed MD turned Disclosure Project founder, Dr. Steven Greer has repeatedly shared detailed patient testimonies abou",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078204258176954417"
+      "url": "https://x.com/i/web/status/2078219740208902514"
     },
     {
       "type": "x",
-      "text": "@vortroxx wave ufo and ball have main color rainbow",
+      "text": "@_Mithraic @UAPGERB Giving the guy too much credit. He\u2019s a F list UAP influencer",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078203713362014588"
+      "url": "https://x.com/i/web/status/2078219379926327641"
     },
     {
       "type": "x",
-      "text": "@rosscoulthart @VP @POTUS @DefenseIntel @DeptofWar @ENERGY @CIA @ODNIgov Because, Ross, they never intend to 'disclose' anything other than fuzzy videos. The CIA won't allow them to do otherwise. Vanc",
+      "text": "@TheUfoJoe Exactly!! They have been stalling on everything NHI, alien, ufo. China interfering with our elections is important but no where close to the NHI, alien, ufo subject. Why is there 0 deadline",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078203711361327338"
+      "url": "https://x.com/i/web/status/2078219257133887767"
     },
     {
       "type": "x",
-      "text": "UFO Triangular shaped making a super bright flashbulbs in two different colors. Filmed this from my balcony while using crop circle tones. I zoomed in on one video; in the original video, it happens a",
+      "text": "\ud83d\udea8\ud83d\udc7d ALIEN FARMER COIN IS LIVE \ud83e\ude99 The cosmic farmer has landed. \ud83d\ude9c\ud83c\udf31 Growing memes across the galaxy. \ud83c\udf0c Join the farm \ud83d\udc7d $UFO",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078202830993637631"
+      "url": "https://x.com/i/web/status/2078219157150024061"
     },
     {
       "type": "x",
-      "text": "@chrisramsay52 @UAPGERB @AlchemyAmerican Looking forward it it! UFO Trifecta \ud83e\udd29",
+      "text": "@BFree63 @DeanAlioto Always a good guest.  I listened to his interview with Martin Willis on Podcast UFO @PodcastUFO several days ago \u2728",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078202712085115183"
-    },
-    {
-      "type": "x",
-      "text": "@QE4Everyone Unfortunately I get booted from spaces that talk about UFO stuff. Didn't want to you to think I was rude and left because of your topic, but it is just some glitch in my system for some r",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078202526294561183"
+      "url": "https://x.com/i/web/status/2078219138909266265"
     },
     {
       "type": "swpc",
@@ -2781,6 +2781,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.7
+    },
+    {
+      "ts": "2026-07-17T20:47:12.029125Z",
+      "score": 26.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.9
     }
   ],
   "sources": [
