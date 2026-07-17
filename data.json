@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T10:25:40.496247Z",
-  "score": 19.3,
+  "generated_at": "2026-07-17T11:50:52.375310Z",
+  "score": 18.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.8,
-    "d24h": -24.9,
+    "d1h": -1.6,
+    "d24h": -14.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 3.1,
+    "social_chatter": 3.9,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,16 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "10:25",
+    "generated_utc": "11:50",
     "top_drivers": [
-      "Platner Critics Kept Attacking the Messenger While Ignoring His Message",
-      "X/Twitter chatter: 55 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 68 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.2,
+    "live_signal": 7.7,
     "baseline_recent": 24.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +48,7 @@
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 55,
+    "x_last_hour": 68,
     "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
@@ -57,100 +56,40 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Platner Critics Kept Attacking the Messenger While Ignoring His Message",
-      "source": "counterpunch.org",
-      "url": "https://www.counterpunch.org/2026/07/17/platners-critics-kept-attacking-the-messenger-while-ignoring-his-message/"
-    },
-    {
-      "type": "news",
-      "text": "\u0412\u044d\u043d\u0441 \u0437\u0430\u044f\u0432\u0438\u043b \u043e\u0431 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0443 \u0421\u0428\u0410",
-      "source": "life.ru",
-      "url": "https://life.ru/p/1900829"
-    },
-    {
-      "type": "news",
-      "text": "UAE Business : Burjeel Medical City , Roswell Park launch tie - up for thoracic cancer care",
-      "source": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1400924"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u0430\u043a \u0413\u043e\u0440\u0431\u0430\u0447\u0435\u0432 \u0432 1991 - \u043c \u0441\u043f\u0430\u0441\u0430\u043b \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0432 \u043f\u0443\u0441\u0442\u044b\u043d\u0435 , \u0440\u0430\u0441\u043a\u0440\u044b\u043b \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438",
-      "source": "rodina-history.ru",
-      "url": "https://rodina-history.ru/2026/07/17/kak-gorbachev-v-1991-m-spasal-inoplanetian-v-pustyne-raskryl-uchastnik-ekspedicii.html"
-    },
-    {
-      "type": "news",
-      "text": "\u5f00\u653e\u4e16\u754c\u5c04\u51fb\u7c7b\u624b\u6e38\u5927\u5168\u4e0b\u8f7d - \u5f00\u653e\u4e16\u754c\u5c04\u51fb\u7c7b\u624b\u6e38\u5927\u5168\u63a8\u8350",
-      "source": "jinghua.cn",
-      "url": "https://www.jinghua.cn/zt/kfsjsjlsydq/"
-    },
-    {
-      "type": "news",
-      "text": "Information Warfare : Ukraine War Comments",
-      "source": "strategypage.com",
-      "url": "http://www.strategypage.com/%5Chtmw%5Chtiw%5Carticles%5C202607156498.aspx"
-    },
-    {
-      "type": "news",
-      "text": "\u0412\u0438\u0446\u0435 - \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0421\u0428\u0410 \u0432\u044b\u0441\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u043e \u0441\u043a\u0440\u044b\u0432\u0430\u0435\u043c\u044b\u0445 \u0432\u043b\u0430\u0441\u0442\u044f\u043c\u0438 \u043e\u0441\u0442\u0430\u043d\u043a\u0430\u0445 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d",
-      "source": "lenta.ru",
-      "url": "https://lenta.ru/news/2026/07/17/vitse-prezident-ssha-vyskazalsya-o-skryvaemyh-vlastyami-ostankah-inoplanetyan/"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0448\u0438\u0440\u0438\u043b \u0430\u0440\u0445\u0438\u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043e\u0431 \u041d\u041b\u041e : \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u043d\u043e\u0432\u044b\u0435 \u0432\u0438\u0434\u0435\u043e \u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b",
-      "source": "isra.com",
-      "url": "https://www.isra.com/news/281892"
-    },
-    {
-      "type": "news",
-      "text": "President Trump claims 18 state voter data was compromised",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/07/17/president-trump-claims-18-states-voter-data-has-been-compromised/"
-    },
-    {
-      "type": "news",
-      "text": "Restaurant Report Card : Golestan fails with 58 ; Casa Bembe earns 100",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/07/16/restaurant-report-card-golestan-fails-with-58-casa-bembe-earns-100/"
+      "type": "x",
+      "text": "If you wanna know you crop circles are made. Here is a research result from May 2025.  https://t.co/43Jxd5l3G7  #UAP #UFO #CIA #Disclosure #UFODIsclosure #classifiedUFO #NHI #Alien #UFOtwitter #USO #D",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078084137395609848"
     },
     {
       "type": "x",
-      "text": "Today\u2019s Indie Gem of the Day is Who Are You!?, a psychological horror game inspired by real UFO research. @hauntinghumans2   A missing family, an alleged alien abduction, and a mystery built around fe",
+      "text": "Wonder will The Kentucky Secretary Adam be cleared?  What would he say now following this crime being committed in our Nation, election, Foriegn and CIA involvement after he said no voting machines is",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078063467525816426"
+      "url": "https://x.com/i/web/status/2078083990808875371"
     },
     {
       "type": "x",
-      "text": "Do you remember the 2012 UFO panic? \ud83d\udef8 Strange lights in the sky had all of Sri Lanka talking. CEURA finally reveals the real story behind the mystery. https://t.co/wxX7HuI2bE  \u200b#CEURA #UFO #SriLanka #",
+      "text": "@The_Astral_ Here is the fake UFO footage of Jupiter that I recorded a couple of years ago to prove something to a friend that was sending me links to these type of videos on YouTube https://t.co/KIuD",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078063329571168675"
+      "url": "https://x.com/i/web/status/2078083639959601541"
     },
     {
       "type": "x",
-      "text": "Art- 32 Another hand-drawn piece for the Dlicom universe. \ud83d\udc7d\ud83d\udef8 A friendly alien, a curious explorer, and a UFO landing\u2014because imagination has no limits. Every sketch tells a story, and this is mine. Wh",
+      "text": "It\u2019s crazy cause UFO can travel this fast and just stop on a dime. Wild to think about  https://t.co/PDdhmc4t3Q",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078062817580843429"
+      "url": "https://x.com/i/web/status/2078083336426094970"
     },
     {
       "type": "x",
-      "text": "@timburchett @DrPhil That is precisely why @TheProjectUnity question matters.   If Dr. Phil was given privileged access to classified or sensitive UAP material the issue is not whether people trust hi",
+      "text": "@BnejiBneji5 @deprs_r @foidcollector @AntAlien_ they did also they found ufo",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078062666455584979"
+      "url": "https://x.com/i/web/status/2078083220361330747"
     },
     {
       "type": "x",
-      "text": "@alienlead No, that's not my position. The universe is enormous\u2014life elsewhere is statistically probable. But current evidence, including the latest PURSUE declassifications, shows no verified proof t",
+      "text": "[TAS] PC UFO 50: Rock On! Island \"game over\" in 01:14.100 by synabler https://t.co/0IVH72ViDr via YouTube #gaming #retrogaming #GamersUnite",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078062442794357051"
-    },
-    {
-      "type": "x",
-      "text": "\ud83d\udea8Lue Elizondo is now a Maussan Television Collaborator   Jaime Maussan describes Lue as being a 'collaborator' on his channel Maussan Television. Where Lue will be giving 'Exclusive information' he sa",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078062262158311904"
+      "url": "https://x.com/i/web/status/2078083217924493381"
     },
     {
       "type": "neo",
@@ -2719,6 +2658,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.2
+    },
+    {
+      "ts": "2026-07-17T11:50:52.306985Z",
+      "score": 18.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.7
     }
   ],
   "sources": [
