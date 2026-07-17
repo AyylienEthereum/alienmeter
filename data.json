@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T11:50:52.375310Z",
-  "score": 18.9,
+  "generated_at": "2026-07-17T13:14:52.850686Z",
+  "score": 23.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.6,
-    "d24h": -14.9,
+    "d1h": 4.6,
+    "d24h": -11.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
-    "social_chatter": 3.9,
+    "news_velocity": 2.1,
+    "social_chatter": 8.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,65 +31,126 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "11:50",
+    "generated_utc": "13:14",
     "top_drivers": [
-      "X/Twitter chatter: 68 UFO/UAP posts in the last hour",
+      "John Boston | A Book Agent Who Works Out of Her Car \u2026 ",
+      "X/Twitter chatter: 135 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.7,
-    "baseline_recent": 24.8,
+    "live_signal": 13.4,
+    "baseline_recent": 24.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": null,
-    "x_last_hour": 68,
-    "wiki_spike_pct": -33.16910467753272,
+    "gdelt_spike_pct": 8.911638932787953,
+    "x_last_hour": 135,
+    "wiki_spike_pct": -33.61004480230113,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "x",
-      "text": "If you wanna know you crop circles are made. Here is a research result from May 2025.  https://t.co/43Jxd5l3G7  #UAP #UFO #CIA #Disclosure #UFODIsclosure #classifiedUFO #NHI #Alien #UFOtwitter #USO #D",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078084137395609848"
+      "type": "news",
+      "text": "John Boston | A Book Agent Who Works Out of Her Car \u2026 ",
+      "source": "signalscv.com",
+      "url": "https://signalscv.com/2026/07/john-boston-a-book-agent-who-works-out-of-her-car/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Chronicles",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/7002f3e4-0669-5bb4-8e68-b1aa919cb522/ufo-chronicles"
+    },
+    {
+      "type": "news",
+      "text": "T\u00e9l\u00e9charger Denshattack ! - Windows , Web | La biblioth\u00e8que de logiciels \u00e0 t\u00e9l\u00e9charger",
+      "source": "journaldugeek.com",
+      "url": "https://www.journaldugeek.com/telecharger/jeux/arcade/denshattack.html"
+    },
+    {
+      "type": "news",
+      "text": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u0416\u0434\u0430\u043d\u043e\u0432 \u0443\u0441\u043e\u043c\u043d\u0438\u043b\u0441\u044f \u0432 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043d\u043e\u0432\u043e\u0433\u043e \u0441\u043e\u0432\u0435\u0442\u0430 \u043f\u043e \u041d\u041b\u041e \u043f\u0440\u0438 \u0422\u0440\u0430\u043c\u043f\u0435",
+      "source": "life.ru",
+      "url": "https://life.ru/p/1900895"
+    },
+    {
+      "type": "news",
+      "text": "Platner Critics Kept Attacking the Messenger While Ignoring His Message",
+      "source": "counterpunch.org",
+      "url": "https://www.counterpunch.org/2026/07/17/platners-critics-kept-attacking-the-messenger-while-ignoring-his-message/"
+    },
+    {
+      "type": "news",
+      "text": "\u0412\u044d\u043d\u0441 \u0437\u0430\u044f\u0432\u0438\u043b \u043e\u0431 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0443 \u0421\u0428\u0410",
+      "source": "life.ru",
+      "url": "https://life.ru/p/1900829"
+    },
+    {
+      "type": "news",
+      "text": "UAE Business : Burjeel Medical City , Roswell Park launch tie - up for thoracic cancer care",
+      "source": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1400924"
+    },
+    {
+      "type": "news",
+      "text": "\u041a\u0430\u043a \u0413\u043e\u0440\u0431\u0430\u0447\u0435\u0432 \u0432 1991 - \u043c \u0441\u043f\u0430\u0441\u0430\u043b \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u0432 \u043f\u0443\u0441\u0442\u044b\u043d\u0435 , \u0440\u0430\u0441\u043a\u0440\u044b\u043b \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438",
+      "source": "rodina-history.ru",
+      "url": "https://rodina-history.ru/2026/07/17/kak-gorbachev-v-1991-m-spasal-inoplanetian-v-pustyne-raskryl-uchastnik-ekspedicii.html"
+    },
+    {
+      "type": "news",
+      "text": "\u5f00\u653e\u4e16\u754c\u5c04\u51fb\u7c7b\u624b\u6e38\u5927\u5168\u4e0b\u8f7d - \u5f00\u653e\u4e16\u754c\u5c04\u51fb\u7c7b\u624b\u6e38\u5927\u5168\u63a8\u8350",
+      "source": "jinghua.cn",
+      "url": "https://www.jinghua.cn/zt/kfsjsjlsydq/"
+    },
+    {
+      "type": "news",
+      "text": "Information Warfare : Ukraine War Comments",
+      "source": "strategypage.com",
+      "url": "http://www.strategypage.com/%5Chtmw%5Chtiw%5Carticles%5C202607156498.aspx"
     },
     {
       "type": "x",
-      "text": "Wonder will The Kentucky Secretary Adam be cleared?  What would he say now following this crime being committed in our Nation, election, Foriegn and CIA involvement after he said no voting machines is",
+      "text": "\ud83d\udea8 PENTAGON RELEASES MORE UFO FILES\u2026 BUT ARE THEY TROLLING US? \ud83d\udc7d\ud83d\udef8 https://t.co/T1dWnxoeQK via @YouTube",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078083990808875371"
+      "url": "https://x.com/i/web/status/2078105925777330672"
     },
     {
       "type": "x",
-      "text": "@The_Astral_ Here is the fake UFO footage of Jupiter that I recorded a couple of years ago to prove something to a friend that was sending me links to these type of videos on YouTube https://t.co/KIuD",
+      "text": "\ud83e\udd2f Trump dropped a NUKE last night  He straight up called out  the rigged elections &amp; China\u2019s dirty hands in the steal.  The man is exposing the matrix in real time. But imagine when he\u2019s ready to ",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078083639959601541"
+      "url": "https://x.com/i/web/status/2078105905317466310"
     },
     {
       "type": "x",
-      "text": "It\u2019s crazy cause UFO can travel this fast and just stop on a dime. Wild to think about  https://t.co/PDdhmc4t3Q",
+      "text": "@WitchyUFOGirl If you could, I request that maybe you keep two things in mind - if you could - pertinent to helping myself understand more of what is occurring, behind-the-scenes: \u25aa\ufe0e if you or you hea",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078083336426094970"
+      "url": "https://x.com/i/web/status/2078105816951918881"
     },
     {
       "type": "x",
-      "text": "@BnejiBneji5 @deprs_r @foidcollector @AntAlien_ they did also they found ufo",
+      "text": "speechless? Alum punch at a Three Stooges bridge party. The best new content that hasn't been colorized yet  UFO News Round-up! Big News from David Grusch Coming Soon -- and Much More! https://t.co/7N",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078083220361330747"
+      "url": "https://x.com/i/web/status/2078105732248211613"
     },
     {
       "type": "x",
-      "text": "[TAS] PC UFO 50: Rock On! Island \"game over\" in 01:14.100 by synabler https://t.co/0IVH72ViDr via YouTube #gaming #retrogaming #GamersUnite",
+      "text": "Sky mode activate! We ask Ara AKA @grok about our theory.  We think it's fun to think about what if Roswells' ufo crashes got us to the moon! Click the post below! This Saturday night at midnight! #ai",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2078083217924493381"
+      "url": "https://x.com/i/web/status/2078105618926244041"
+    },
+    {
+      "type": "x",
+      "text": "L.A. Marzulli | UFO Disclosure: The Deception the Church Isn\u2019t Ready For https://t.co/Tq1ESgxFmx via @YouTube",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078105255141646452"
     },
     {
       "type": "neo",
@@ -2665,6 +2726,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.7
+    },
+    {
+      "ts": "2026-07-17T13:14:52.773543Z",
+      "score": 23.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.4
     }
   ],
   "sources": [
