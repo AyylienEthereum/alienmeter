@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T04:07:03.764751Z",
-  "score": 20.5,
+  "generated_at": "2026-07-17T06:26:52.365630Z",
+  "score": 18.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.3,
-    "d24h": -11.8,
+    "d1h": -5.5,
+    "d24h": -15.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 6.0,
+    "social_chatter": 4.2,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,126 +31,65 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "04:07",
+    "generated_utc": "06:26",
     "top_drivers": [
-      "Storms could bring flooding to Ruidoso and heavy rain across New Mexico Friday",
-      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
+      "X/Twitter chatter: 74 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.6,
-    "baseline_recent": 25.0,
+    "live_signal": 7.4,
+    "baseline_recent": 24.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 103,
-    "wiki_spike_pct": -20.845848826866405,
+    "x_last_hour": 74,
+    "wiki_spike_pct": -33.16910467753272,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Storms could bring flooding to Ruidoso and heavy rain across New Mexico Friday",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/storms-could-bring-flooding-to-ruidoso-and-heavy-rain-across-new-mexico-friday/"
-    },
-    {
-      "type": "news",
-      "text": "Battiti Live , le pagelle : Mengoni e Mango canto dorrore ( 4 ), Pinguini  dal vivo ? ( se , lallero !), Anna UFO ( 7 ) ",
-      "source": "today.it",
-      "url": "https://www.today.it/tv/news/battiti-live-pagelle-mengoni-mango.html"
-    },
-    {
-      "type": "news",
-      "text": "How Central Oregon lava fields helped train Apollo astronauts for the moon landing",
-      "source": "nbc16.com",
-      "url": "https://nbc16.com/amazing-america/how-central-oregon-lava-fields-helped-train-apollo-astronauts-for-the-moon-landing-space-nasa-science-learning-education-local-seti-aliens-safety-planning-mission"
-    },
-    {
-      "type": "news",
-      "text": "  Roswell Daily Record  owners announce newspaper shutdown",
-      "source": "taosnews.com",
-      "url": "https://www.taosnews.com/news/business/roswell-daily-record-owners-announce-newspapers-shutdown/article_ef2a7ecc-ab00-51e8-b472-b3433c84b238.html"
-    },
-    {
-      "type": "news",
-      "text": "How Central Oregon lava fields helped train Apollo astronauts for the moon landing",
-      "source": "kpic.com",
-      "url": "https://kpic.com/amazing-america/how-central-oregon-lava-fields-helped-train-apollo-astronauts-for-the-moon-landing-space-nasa-science-learning-education-local-seti-aliens-safety-planning-mission"
-    },
-    {
-      "type": "news",
-      "text": "M\u00e1s de 4 . 000 d\u00edas buscando respuestas :  No vamos a desistir en su b\u00fasqueda  ",
-      "source": "larazon.es",
-      "url": "https://www.larazon.es/andalucia/cordoba/mas-4000-dias-buscando-respuestas-vamos-desistir-busqueda_202607176a597685e9f2e84b5c6d01e6.html"
-    },
-    {
-      "type": "news",
-      "text": "New Jersey Gunnison Beach Named One of Best Nude Beaches in united states ",
-      "source": "sojo1049.com",
-      "url": "https://sojo1049.com/ixp/396/p/nude-beach-new-jersey-among-best/"
-    },
-    {
-      "type": "news",
-      "text": "Boy drowning death leads to Roswell grandmother arrest",
-      "source": "ajc.com",
-      "url": "https://www.ajc.com/news/2026/07/grandmother-charged-after-2-year-old-boys-drowning-death-at-roswell-pool/"
-    },
-    {
-      "type": "news",
-      "text": "Paul Wesley says  I do  as The Vampire Diaries star marries model Natalie Kuckenburg",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/paul-wesley-says-i-do-as-the-vampire-diaries-star-marries-model-natalie-kuckenburg-c-22573658"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h1me0bvpr0kkr9675608tf0p53"
+      "type": "x",
+      "text": "@BrandonFugal @wotzitt It's not even within current theoretical frameworks.   The council is an absolute joke with no teeth and anyone that could truly give us answers has an NDA because they work for",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2078003323538477513"
     },
     {
       "type": "x",
-      "text": "July 16, 2026 ~ Backyard Professor- BYP Responds - I Hate to say it this Way, But...This is a Real UFO Bombshell \ud83d\udef8 \ud83d\udca3  https://t.co/qUdnGDZSHj https://t.co/VPuLWWXut6",
+      "text": "@maniaUFO UFO Mania ,you hoaxed UFOs 10 years ago and starting all over again...we all know this is cheap CGI",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967917778673930"
+      "url": "https://x.com/i/web/status/2078003085742690611"
     },
     {
       "type": "x",
-      "text": "@DeptofWar Hello, I am a nobody, but I watched the UAP videos on your websites, the Yellow Sea from 2025 and the other one from China. The Yellow Sea one, that is a hardware malfunction, and you can t",
+      "text": "@wotzitt Feynman said...\"The next great era of awakening of human intellect may well produce a method of understanding the qualitative content of equations. Today we cannot.\" Known physics has huge su",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967812438499410"
+      "url": "https://x.com/i/web/status/2078003030960509346"
     },
     {
       "type": "x",
-      "text": "\"I Boarded A UFO While I Was President!\" (ft. Kirsan Ilyumzhinov &amp; Jesse... https://t.co/FuO3A64y8j via @YouTube \ud83d\udc4d\ud83d\udef8",
+      "text": "One of my favourite books all year!   @JonMajerowski  is looking at the UFO phenomenon from a unique vantage point due to his esoteric background, this is the kind of research that helps push the subj",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967787054502194"
+      "url": "https://x.com/i/web/status/2078001812309672144"
     },
     {
       "type": "x",
-      "text": "@planethunter56 cloning is a large big part of the UAP and visitor topography- likey from the result of long dangerous space travel- that nothing can survive long term without",
+      "text": "Our new week of #CoasttoCoastAM shows have just been posted! Topics include Antarctic mysteries, Salem Witch trials, reincarnation, ghost hunting, Cape Girardeau UFO crash, psychic insights, the singu",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967510616584224"
+      "url": "https://x.com/i/web/status/2078001129208815752"
     },
     {
       "type": "x",
-      "text": "@wotzitt As someone deeply involved in rigorous UAP field research, I respect the new Council but have concerns.  Avi Loeb\u2019s \u201cno new physics\u201d stance on cases like Nimitz Tic Tac risks dismissing multi",
+      "text": "The instructions were easy to understand.  \ud83d\udc49 https://t.co/fa8WdyT01K  #UFO $UFO https://t.co/FCzkkNuCLD",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967502618075432"
-    },
-    {
-      "type": "x",
-      "text": "@Cappyarmy It's a UAP rod. 2000mph no sonic boom and ZERO flight surfaces.   You see it fly by @ the 5:23 Mark https://t.co/veV6YxC3nG",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077967437174309155"
+      "url": "https://x.com/i/web/status/2078000993036296251"
     },
     {
       "type": "neo",
@@ -2698,6 +2637,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.6
+    },
+    {
+      "ts": "2026-07-17T06:26:52.290693Z",
+      "score": 18.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.4
     }
   ],
   "sources": [
