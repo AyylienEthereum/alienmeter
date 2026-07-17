@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T00:58:34.272845Z",
-  "score": 22.1,
+  "generated_at": "2026-07-17T04:07:03.764751Z",
+  "score": 20.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -8.3,
-    "d24h": -8.7,
+    "d1h": -5.3,
+    "d24h": -11.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
-    "social_chatter": 8.5,
+    "social_chatter": 6.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 33,
     "date": "17.07.2026",
     "declassified": "17.07.26",
-    "generated_utc": "00:58",
+    "generated_utc": "04:07",
     "top_drivers": [
-      "Boy drowning death leads to Roswell grandmother arrest",
-      "X/Twitter chatter: 143 UFO/UAP posts in the last hour",
+      "Storms could bring flooding to Ruidoso and heavy rain across New Mexico Friday",
+      "X/Twitter chatter: 103 UFO/UAP posts in the last hour",
       "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.6,
+    "live_signal": 9.6,
     "baseline_recent": 25.0,
     "score_gain": 1.3,
     "kp": null,
@@ -49,13 +49,55 @@
     "closest_asteroid_ld": 61.4695685007,
     "asteroid_name": "(2017 QR16)",
     "gdelt_spike_pct": null,
-    "x_last_hour": 143,
-    "wiki_spike_pct": -34.47794187449991,
+    "x_last_hour": 103,
+    "wiki_spike_pct": -20.845848826866405,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Storms could bring flooding to Ruidoso and heavy rain across New Mexico Friday",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/storms-could-bring-flooding-to-ruidoso-and-heavy-rain-across-new-mexico-friday/"
+    },
+    {
+      "type": "news",
+      "text": "Battiti Live , le pagelle : Mengoni e Mango canto dorrore ( 4 ), Pinguini  dal vivo ? ( se , lallero !), Anna UFO ( 7 ) ",
+      "source": "today.it",
+      "url": "https://www.today.it/tv/news/battiti-live-pagelle-mengoni-mango.html"
+    },
+    {
+      "type": "news",
+      "text": "How Central Oregon lava fields helped train Apollo astronauts for the moon landing",
+      "source": "nbc16.com",
+      "url": "https://nbc16.com/amazing-america/how-central-oregon-lava-fields-helped-train-apollo-astronauts-for-the-moon-landing-space-nasa-science-learning-education-local-seti-aliens-safety-planning-mission"
+    },
+    {
+      "type": "news",
+      "text": "  Roswell Daily Record  owners announce newspaper shutdown",
+      "source": "taosnews.com",
+      "url": "https://www.taosnews.com/news/business/roswell-daily-record-owners-announce-newspapers-shutdown/article_ef2a7ecc-ab00-51e8-b472-b3433c84b238.html"
+    },
+    {
+      "type": "news",
+      "text": "How Central Oregon lava fields helped train Apollo astronauts for the moon landing",
+      "source": "kpic.com",
+      "url": "https://kpic.com/amazing-america/how-central-oregon-lava-fields-helped-train-apollo-astronauts-for-the-moon-landing-space-nasa-science-learning-education-local-seti-aliens-safety-planning-mission"
+    },
+    {
+      "type": "news",
+      "text": "M\u00e1s de 4 . 000 d\u00edas buscando respuestas :  No vamos a desistir en su b\u00fasqueda  ",
+      "source": "larazon.es",
+      "url": "https://www.larazon.es/andalucia/cordoba/mas-4000-dias-buscando-respuestas-vamos-desistir-busqueda_202607176a597685e9f2e84b5c6d01e6.html"
+    },
+    {
+      "type": "news",
+      "text": "New Jersey Gunnison Beach Named One of Best Nude Beaches in united states ",
+      "source": "sojo1049.com",
+      "url": "https://sojo1049.com/ixp/396/p/nude-beach-new-jersey-among-best/"
+    },
     {
       "type": "news",
       "text": "Boy drowning death leads to Roswell grandmother arrest",
@@ -75,82 +117,40 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h1me0bvpr0kkr9675608tf0p53"
     },
     {
-      "type": "news",
-      "text": "Metro Atlanta grandmother charged in 2 - year - old grandson drowning \u2013 95 . 5 WSB",
-      "source": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/local/metro-atlanta-grandmother-charged-2-year-old-grandsons-drowning/NY52XCCCAJG4LGLGRTCYF2AVFM/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o3ubtfi19kgosbvho116n4gul1"
-    },
-    {
-      "type": "news",
-      "text": "Texas named No . 4 most financially stressed state in 2026",
-      "source": "dallas.culturemap.com",
-      "url": "https://dallas.culturemap.com/news/city-life/most-financially-stressed-states/"
-    },
-    {
-      "type": "news",
-      "text": "Eolo Toys crece en Gij\u00f3n : nueva sede y salida a bolsa | El Comercio : Diario de Asturias",
-      "source": "elcomercio.es",
-      "url": "https://www.elcomercio.es/gijon/eolo-toys-crece-gijon-nueva-sede-salida-20260716233349-nt.html"
-    },
-    {
-      "type": "news",
-      "text": "Canon New Children Book Has Aliens Explaining Why Cameras Are Awesome",
-      "source": "petapixel.com",
-      "url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/"
-    },
-    {
-      "type": "news",
-      "text": "Um , James Franco alien story sounds bogus",
-      "source": "niagarafallsreview.ca",
-      "url": "https://www.niagarafallsreview.ca/entertainment/james-franco-says-he-has-proof-an-alien-visited-him-why-would-it-choose-an-actor-who-peaked-in-2018/article_01ef7576-139a-51d4-8136-54b0eaa7e49c.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1smg3rljcpujpjspdmf5qid991"
+      "type": "x",
+      "text": "July 16, 2026 ~ Backyard Professor- BYP Responds - I Hate to say it this Way, But...This is a Real UFO Bombshell \ud83d\udef8 \ud83d\udca3  https://t.co/qUdnGDZSHj https://t.co/VPuLWWXut6",
+      "source": "X / Twitter",
+      "url": "https://x.com/i/web/status/2077967917778673930"
     },
     {
       "type": "x",
-      "text": "@MattDevittWX They stopped the Reddit  ufo invasion.",
+      "text": "@DeptofWar Hello, I am a nobody, but I watched the UAP videos on your websites, the Yellow Sea from 2025 and the other one from China. The Yellow Sea one, that is a hardware malfunction, and you can t",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920639504056600"
+      "url": "https://x.com/i/web/status/2077967812438499410"
     },
     {
       "type": "x",
-      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
+      "text": "\"I Boarded A UFO While I Was President!\" (ft. Kirsan Ilyumzhinov &amp; Jesse... https://t.co/FuO3A64y8j via @YouTube \ud83d\udc4d\ud83d\udef8",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920364785463402"
+      "url": "https://x.com/i/web/status/2077967787054502194"
     },
     {
       "type": "x",
-      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
+      "text": "@planethunter56 cloning is a large big part of the UAP and visitor topography- likey from the result of long dangerous space travel- that nothing can survive long term without",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920306509824441"
+      "url": "https://x.com/i/web/status/2077967510616584224"
     },
     {
       "type": "x",
-      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
+      "text": "@wotzitt As someone deeply involved in rigorous UAP field research, I respect the new Council but have concerns.  Avi Loeb\u2019s \u201cno new physics\u201d stance on cases like Nimitz Tic Tac risks dismissing multi",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920241020010992"
+      "url": "https://x.com/i/web/status/2077967502618075432"
     },
     {
       "type": "x",
-      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
+      "text": "@Cappyarmy It's a UAP rod. 2000mph no sonic boom and ZERO flight surfaces.   You see it fly by @ the 5:23 Mark https://t.co/veV6YxC3nG",
       "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920166839460281"
-    },
-    {
-      "type": "x",
-      "text": "If \u201caliens = demons\u201d is true\u2014or false\u2014there should be a trail.  https://t.co/EVQ9xrY4PT \u2192 AI-powered UFO library with sources you can verify.   Also check the interactive podcast-style overview (works",
-      "source": "X / Twitter",
-      "url": "https://x.com/i/web/status/2077920103727759613"
+      "url": "https://x.com/i/web/status/2077967437174309155"
     },
     {
       "type": "neo",
@@ -2691,6 +2691,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.6
+    },
+    {
+      "ts": "2026-07-17T04:07:03.687611Z",
+      "score": 20.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.6
     }
   ],
   "sources": [
