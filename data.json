@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-18T11:52:41.525174Z",
+  "generated_at": "2026-07-18T13:01:04.659978Z",
   "score": 22.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.6,
-    "d24h": -34.8,
+    "d1h": -3.6,
+    "d24h": -9.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,9 +31,9 @@
     "day": 34,
     "date": "18.07.2026",
     "declassified": "18.07.26",
-    "generated_utc": "11:52",
+    "generated_utc": "13:01",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "Jura . Braqueurs de goodies , mamies folles de Seixas , fan de Merckx\u00a0 : quand le Tour r\u00e9unit les g\u00e9n\u00e9rations",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
@@ -56,6 +56,24 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Jura . Braqueurs de goodies , mamies folles de Seixas , fan de Merckx\u00a0 : quand le Tour r\u00e9unit les g\u00e9n\u00e9rations",
+      "source": "leprogres.fr",
+      "url": "https://www.leprogres.fr/tour-de-france/2026/07/17/braqueurs-de-goodies-mamies-folles-de-seixas-fan-de-merckx-quand-le-tour-reunit-les-generations"
+    },
+    {
+      "type": "news",
+      "text": "N . M . Dems keep fundraising lead for Congress ; border district drawing big donors",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/elections/n-m-dems-keep-fundraising-lead-for-congress-border-district-drawing-big-donors/article_f7cb5a2f-0a47-4da8-9c03-c185d7bc75d2.html"
+    },
+    {
+      "type": "news",
+      "text": "\u65f6\u969424\u5e74\u91cd\u65b0\u7ad9\u4e0a\u9886\u5956\u53f0 \uff0c \u8fd9\u540d\u5e7f\u4e1c\u57fa\u5c42\u6559\u7ec3\u54ed\u4e86 \uff01 \u5979\u5bf9\u8bb0\u8005\u8bf4 \uff1a \u5982\u679c\u53ef\u4ee5\u7684\u8bdd \uff0c \u591a\u63d0\u4e00\u63d0\u6211\u4eec\u57fa\u5c42\u7684\u5b69\u5b50\u548c\u6211\u4eec\u4f5b\u5c71\u961f\u7684\u6559\u7ec3\u7ec4  ",
+      "source": "news.ycwb.com",
+      "url": "https://news.ycwb.com/ikimvkltjc/content_54237417.htm"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -97,24 +115,6 @@
       "text": "  Ancient Aliens - Unerkl\u00e4rliche Ph\u00e4nomene  - Dokumentation - Doku , Servus TV , 18 . 07 . 2026 , 09 : 10 Uhr - Sendung im TV - Programm - TV & Radio",
       "source": "tele.at",
       "url": "https://www.tele.at/sendungsdetails/22599180/ancient-aliens-unerklaerliche-phaenomene.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Mars ship",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/Mars%20ship"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : aliens on mars",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/aliens%20on%20mars"
-    },
-    {
-      "type": "news",
-      "text": "Proyecto Libro Azul : qu\u00e9 fue y las conclusiones del programa OVNI",
-      "source": "occidente.co",
-      "url": "https://occidente.co/secciones/tendencias/proyecto-libro-azul-ovni-investigacion-fuerza-aerea-eeuu/"
     },
     {
       "type": "swpc",
@@ -2817,6 +2817,13 @@
     },
     {
       "ts": "2026-07-18T11:52:41.448644Z",
+      "score": 22.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.0
+    },
+    {
+      "ts": "2026-07-18T13:01:04.584564Z",
       "score": 22.8,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
