@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T15:28:35.210436Z",
-  "score": 19.6,
+  "generated_at": "2026-07-18T16:27:49.181438Z",
+  "score": 21.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -3.1,
-    "d24h": -24.3,
+    "d1h": -0.9,
+    "d24h": -9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,90 +31,35 @@
     "day": 34,
     "date": "18.07.2026",
     "declassified": "18.07.26",
-    "generated_utc": "15:28",
+    "generated_utc": "16:27",
     "top_drivers": [
-      "\u5df4\u897f\u7684\u8fc1\u90fd\u5947\u8ff9 - \u535a\u5ba2",
-      "NOAA space-weather alerts active: 1",
+      "NOAA space-weather alerts active: 2",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.9,
+    "live_signal": 11.9,
     "baseline_recent": 24.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": -42.20986796386379,
+    "gdelt_spike_pct": -76.89791942105629,
     "x_last_hour": 0,
-    "wiki_spike_pct": -32.69318973978114,
+    "wiki_spike_pct": -33.478164412576014,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "\u5df4\u897f\u7684\u8fc1\u90fd\u5947\u8ff9 - \u535a\u5ba2",
-      "source": "blog.wenxuecity.com",
-      "url": "https://blog.wenxuecity.com/myblog/82804/202607/12699.html"
-    },
-    {
-      "type": "news",
-      "text": "Leaf Studio Academy of Performing Arts : Roaring Review",
-      "source": "bournemouthecho.co.uk",
-      "url": "https://www.bournemouthecho.co.uk/news/26291644.leaf-studio-academy-performing-arts-roaring-review/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ltmd8tfcih07g3t0uhq0s714k5"
-    },
-    {
-      "type": "news",
-      "text": "Why Lakeside Ski & Wake is shaping up as a family summer favourite",
-      "source": "wiltsglosstandard.co.uk",
-      "url": "https://www.wiltsglosstandard.co.uk/news/26275285.lakeside-ski-wake-shaping-family-summer-favourite/"
-    },
-    {
-      "type": "news",
-      "text": "Jura . Braqueurs de goodies , mamies folles de Seixas , fan de Merckx\u00a0 : quand le Tour r\u00e9unit les g\u00e9n\u00e9rations",
-      "source": "leprogres.fr",
-      "url": "https://www.leprogres.fr/tour-de-france/2026/07/17/braqueurs-de-goodies-mamies-folles-de-seixas-fan-de-merckx-quand-le-tour-reunit-les-generations"
-    },
-    {
-      "type": "news",
-      "text": "N . M . Dems keep fundraising lead for Congress ; border district drawing big donors",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/news/elections/n-m-dems-keep-fundraising-lead-for-congress-border-district-drawing-big-donors/article_f7cb5a2f-0a47-4da8-9c03-c185d7bc75d2.html"
-    },
-    {
-      "type": "news",
-      "text": "\u65f6\u969424\u5e74\u91cd\u65b0\u7ad9\u4e0a\u9886\u5956\u53f0 \uff0c \u8fd9\u540d\u5e7f\u4e1c\u57fa\u5c42\u6559\u7ec3\u54ed\u4e86 \uff01 \u5979\u5bf9\u8bb0\u8005\u8bf4 \uff1a \u5982\u679c\u53ef\u4ee5\u7684\u8bdd \uff0c \u591a\u63d0\u4e00\u63d0\u6211\u4eec\u57fa\u5c42\u7684\u5b69\u5b50\u548c\u6211\u4eec\u4f5b\u5c71\u961f\u7684\u6559\u7ec3\u7ec4  ",
-      "source": "news.ycwb.com",
-      "url": "https://news.ycwb.com/ikimvkltjc/content_54237417.htm"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=435at0hlqdl9hedncpemb5ri23"
-    },
-    {
-      "type": "news",
-      "text": "Clive Palmer bold One Nation prediction for Pauline Hanson as billionaire reveals major federal election plans",
-      "source": "skynews.com.au",
-      "url": "https://www.skynews.com.au/australia-news/politics/clive-palmers-bold-one-nation-prediction-for-pauline-hanson-as-billionaire-reveals-major-federal-election-plans/news-story/6456623d3e7ddfb5767f3dfddf4f019c?nk=d830158dbdaf0590c01c6983d28caaa3-1784368892"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  Arrives On Streaming This Week",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/timlammers/2026/07/18/spielbergs-disclosure-day-streaming-date-nears-after-underwhelming-232-million-box-office-take/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3718\r Issue Time: 2026 Jul 18 1526 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -2836,6 +2781,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.9
+    },
+    {
+      "ts": "2026-07-18T16:27:49.105756Z",
+      "score": 21.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.9
     }
   ],
   "sources": [
