@@ -1,55 +1,56 @@
 {
-  "generated_at": "2026-07-17T23:33:19.850340Z",
-  "score": 18.5,
+  "generated_at": "2026-07-18T01:04:43.992441Z",
+  "score": 28.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.3,
-    "d24h": -14.7,
+    "d1h": 2.7,
+    "d24h": -7.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 3.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
-    "asteroid_approach": 0.0,
+    "solar_flares": 5.0,
+    "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.6,
-    "alien_variance": 0.1
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 33,
-    "day": 33,
-    "date": "17.07.2026",
-    "declassified": "17.07.26",
-    "generated_utc": "23:33",
+    "number": 34,
+    "day": 34,
+    "date": "18.07.2026",
+    "declassified": "18.07.26",
+    "generated_utc": "01:04",
     "top_drivers": [
+      "News velocity +13% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
-      "NEO (2017 QR16) passing Earth at 61.5 lunar distances"
+      "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.4,
+    "live_signal": 20.5,
     "baseline_recent": 24.5,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
-    "closest_asteroid_ld": 61.4695685007,
-    "asteroid_name": "(2017 QR16)",
-    "gdelt_spike_pct": -79.003359462486,
+    "xray_class": "C",
+    "closest_asteroid_ld": 23.191808505,
+    "asteroid_name": "(2019 NG2)",
+    "gdelt_spike_pct": 12.767809148386117,
     "x_last_hour": 0,
-    "wiki_spike_pct": -33.16910467753272,
+    "wiki_spike_pct": -32.474935975409004,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7.3,
     "swpc_alerts_24h": 1
@@ -69,7 +70,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2017 QR16) passing at 61.47 LD (~162m, 8.5 km/s)",
+      "text": "NEO (2019 NG2) passing at 23.19 LD (~90m, 13.8 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -2711,6 +2712,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.4
+    },
+    {
+      "ts": "2026-07-18T01:04:43.915996Z",
+      "score": 28.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.5
     }
   ],
   "sources": [
