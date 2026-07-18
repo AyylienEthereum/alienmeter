@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T10:57:26.213507Z",
-  "score": 22.7,
+  "generated_at": "2026-07-18T11:52:41.525174Z",
+  "score": 22.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -3.8,
-    "d24h": -11.7,
+    "d1h": -7.6,
+    "d24h": -34.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 3.6,
-    "alien_variance": 1.2
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 34,
     "date": "18.07.2026",
     "declassified": "18.07.26",
-    "generated_utc": "10:57",
+    "generated_utc": "11:52",
     "top_drivers": [
-      "Steven Spielberg  Disclosure Day  Arrives On Streaming This Week",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.8,
+    "live_signal": 13.0,
     "baseline_recent": 24.4,
     "score_gain": 1.3,
     "kp": null,
@@ -58,15 +58,21 @@
   "ticker": [
     {
       "type": "news",
-      "text": "Steven Spielberg  Disclosure Day  Arrives On Streaming This Week",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/timlammers/2026/07/18/spielbergs-disclosure-day-streaming-date-nears-after-underwhelming-232-million-box-office-take/"
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=435at0hlqdl9hedncpemb5ri23"
     },
     {
       "type": "news",
       "text": "Clive Palmer bold One Nation prediction for Pauline Hanson as billionaire reveals major federal election plans",
       "source": "skynews.com.au",
       "url": "https://www.skynews.com.au/australia-news/politics/clive-palmers-bold-one-nation-prediction-for-pauline-hanson-as-billionaire-reveals-major-federal-election-plans/news-story/6456623d3e7ddfb5767f3dfddf4f019c?nk=d830158dbdaf0590c01c6983d28caaa3-1784368892"
+    },
+    {
+      "type": "news",
+      "text": "Steven Spielberg  Disclosure Day  Arrives On Streaming This Week",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/timlammers/2026/07/18/spielbergs-disclosure-day-streaming-date-nears-after-underwhelming-232-million-box-office-take/"
     },
     {
       "type": "news",
@@ -109,12 +115,6 @@
       "text": "Proyecto Libro Azul : qu\u00e9 fue y las conclusiones del programa OVNI",
       "source": "occidente.co",
       "url": "https://occidente.co/secciones/tendencias/proyecto-libro-azul-ovni-investigacion-fuerza-aerea-eeuu/"
-    },
-    {
-      "type": "news",
-      "text": "Trump declassifica i file sulle elezioni united states ma i documenti che ha firmato indicano che la Russia lavorava per farlo vincere",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-18/trump-declassifica-i-file-sulle-elezioni-usa-ma-i-documenti-che-ha-firmato-indicano-che-la-russia-lavorava-per-farlo-vincere/19473767/"
     },
     {
       "type": "swpc",
@@ -2814,6 +2814,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.8
+    },
+    {
+      "ts": "2026-07-18T11:52:41.448644Z",
+      "score": 22.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.0
     }
   ],
   "sources": [
