@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-18T21:25:51.412088Z",
-  "score": 19.5,
+  "generated_at": "2026-07-18T22:12:42.828940Z",
+  "score": 40.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.4,
-    "d24h": -12.3,
+    "d1h": 21.0,
+    "d24h": 9.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 24.6,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,92 @@
     "day": 34,
     "date": "18.07.2026",
     "declassified": "18.07.26",
-    "generated_utc": "21:25",
+    "generated_utc": "22:12",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +102% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.9,
+    "live_signal": 35.4,
     "baseline_recent": 24.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 102.47494012241638,
     "x_last_hour": 0,
-    "wiki_spike_pct": -32.474935975409004,
+    "wiki_spike_pct": -32.69318973978114,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tovp7fvbtmuoc859j5obaib8g1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=hvrklc3d28rvt74uhdgt87i894"
+    },
+    {
+      "type": "news",
+      "text": "City approves money to improve aging , busy stretch of road - WSB - TV Channel 2",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/roswell-approves-funding-riverside-road-corridor-improvements/CJ5OK7O445HLLLNTJ4QGQQKHIY/"
+    },
+    {
+      "type": "news",
+      "text": "Bourdons - sur - Rognon se r\u00e9v\u00e8le avec une balade patrimoine",
+      "source": "jhm.fr",
+      "url": "https://jhm.fr/bourdons-sur-rognon-se-revele-avec-une-balade-patrimoine/"
+    },
+    {
+      "type": "news",
+      "text": "Bay Area UFO files : Disclosures could fuel more reports of aliens",
+      "source": "columbian.com",
+      "url": "https://www.columbian.com/news/2026/jul/18/bay-area-ufo-files-disclosures-could-fuel-more-reports-of-aliens/"
+    },
+    {
+      "type": "news",
+      "text": "Trump UFO advisors propose new explanations for glowing orbs",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/07/18/us-news/trump-ufo-advisors-propose-new-explanations-for-glowing-orbs/"
+    },
+    {
+      "type": "news",
+      "text": "Elwood Watson | When a photo says a thousand racist words",
+      "source": "times-standard.com",
+      "url": "https://www.times-standard.com/2026/07/18/elwood-watson-when-a-photo-says-a-thousand-racist-words/"
+    },
+    {
+      "type": "news",
+      "text": "\u5df4\u897f\u7684\u8fc1\u90fd\u5947\u8ff9 | www . wenxuecity . com",
+      "source": "wenxuecity.com",
+      "url": "https://www.wenxuecity.com/blog/202607/82804/12699.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=l31fd3570h15p0a1b23f255ne1"
+    },
+    {
+      "type": "news",
+      "text": "Roswell approves funding for Riverside Road corridor improvements",
+      "source": "yahoo.com",
+      "url": "https://www.yahoo.com/news/us/articles/roswell-approves-funding-riverside-road-154708431.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3718\r Issue Time: 2026 Jul 18 1526 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -2817,6 +2879,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.9
+    },
+    {
+      "ts": "2026-07-18T22:12:42.751989Z",
+      "score": 40.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 35.4
     }
   ],
   "sources": [
