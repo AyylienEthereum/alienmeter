@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-19T18:10:03.716578Z",
-  "score": 21.2,
+  "generated_at": "2026-07-19T19:31:05.348760Z",
+  "score": 32.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -8.0,
-    "d24h": -2.3,
+    "d1h": 9.4,
+    "d24h": -2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 10.4,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.8,
-    "alien_variance": 0.4
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,25 @@
     "day": 35,
     "date": "19.07.2026",
     "declassified": "19.07.26",
-    "generated_utc": "18:10",
+    "generated_utc": "19:31",
     "top_drivers": [
-      "The cryptoterrestrial hypothesis : UFOs from Earth ? ",
+      "Castronu\u00f1o revive sus casos ufol\u00f3gicos m\u00e1s impactantes",
+      "News velocity +43% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.2,
+    "live_signal": 25.2,
     "baseline_recent": 23.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 43.16641481769626,
     "x_last_hour": 0,
     "wiki_spike_pct": -16.070596760002072,
     "earthquakes_24h": 1,
@@ -56,6 +57,24 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Castronu\u00f1o revive sus casos ufol\u00f3gicos m\u00e1s impactantes",
+      "source": "elnortedecastilla.es",
+      "url": "https://www.elnortedecastilla.es/valladolid/provincia/castronuno-revive-casos-ufologicos-impactantes-20260719172225-nt.html"
+    },
+    {
+      "type": "news",
+      "text": "Avistan presunto OVNI sobre el Cerro de la Silla y Jaime Maussan pide una explicaci\u00f3n",
+      "source": "elimparcial.com",
+      "url": "https://www.elimparcial.com/locurioso/2026/07/19/avistan-presunto-ovni-sobre-el-cerro-de-la-silla-y-jaime-maussan-pide-una-explicacion/"
+    },
+    {
+      "type": "news",
+      "text": "Semedes se proclama campe\u00f3n de la Liga Superior de Baloncesto 2026 en su temporada de estreno",
+      "source": "nacion.com",
+      "url": "https://www.nacion.com/puro-deporte/semedes-se-proclama-campeon-de-la-liga-superior-de/BII5CWV3URE6TLCK2TOUTQ6HA4/story/"
+    },
     {
       "type": "news",
       "text": "The cryptoterrestrial hypothesis : UFOs from Earth ? ",
@@ -97,24 +116,6 @@
       "text": "UFO Sightings Daily : titan city saturn moon city",
       "source": "ufosightingsdaily.com",
       "url": "https://www.ufosightingsdaily.com/search/label/titan%20city%0Asaturn%20moon%20city"
-    },
-    {
-      "type": "news",
-      "text": "Tomorrowland DreamVille campsite to host FIFA World Cup final screening tonight",
-      "source": "djmag.com",
-      "url": "https://djmag.com/news/tomorrowlands-dreamville-campsite-host-fifa-world-cup-final-screening-tonight"
-    },
-    {
-      "type": "news",
-      "text": "Dimitri Vegas dedicates moment to Like Mike during solo Tomorrowland Mainstage set :  We cant wait for you to be back  ",
-      "source": "djmag.com",
-      "url": "https://djmag.com/news/dimitri-vegas-dedicates-moment-mike-during-solo-tomorrowland-mainstage-set-we-cant-wait-you-be"
-    },
-    {
-      "type": "news",
-      "text": "These Cars Were Everywhere In The  80s \u2013 Youd Be Lucky To See One Today",
-      "source": "slashgear.com",
-      "url": "https://www.slashgear.com/2213554/1980s-common-cars-you-never-see-today/"
     },
     {
       "type": "swpc",
@@ -2982,6 +2983,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.2
+    },
+    {
+      "ts": "2026-07-19T19:31:05.270447Z",
+      "score": 32.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 25.2
     }
   ],
   "sources": [
