@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T16:11:56.115322Z",
-  "score": 21.7,
+  "generated_at": "2026-07-19T17:15:34.087009Z",
+  "score": 22.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -6.8,
-    "d24h": -4.5,
+    "d1h": -12.3,
+    "d24h": -8.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 2.8,
-    "alien_variance": 1.1
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 35,
     "date": "19.07.2026",
     "declassified": "19.07.26",
-    "generated_utc": "16:11",
+    "generated_utc": "17:15",
     "top_drivers": [
+      "GAC M8 Minivan Costs Less Than Half A Lexus LM 500h , But Nothing About It Feels Halved",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
+    "live_signal": 12.8,
     "baseline_recent": 23.9,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "GAC M8 Minivan Costs Less Than Half A Lexus LM 500h , But Nothing About It Feels Halved",
+      "source": "carscoops.com",
+      "url": "https://www.carscoops.com/2026/07/gac-m8-phev-review/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : titan UAP",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search/label/titan%20UAP"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : Titan life",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search/label/Titan%20life"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : titan city saturn moon city",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search/label/titan%20city%0Asaturn%20moon%20city"
+    },
+    {
+      "type": "news",
+      "text": "Tomorrowland DreamVille campsite to host FIFA World Cup final screening tonight",
+      "source": "djmag.com",
+      "url": "https://djmag.com/news/tomorrowlands-dreamville-campsite-host-fifa-world-cup-final-screening-tonight"
+    },
+    {
+      "type": "news",
+      "text": "Dimitri Vegas dedicates moment to Like Mike during solo Tomorrowland Mainstage set :  We cant wait for you to be back  ",
+      "source": "djmag.com",
+      "url": "https://djmag.com/news/dimitri-vegas-dedicates-moment-mike-during-solo-tomorrowland-mainstage-set-we-cant-wait-you-be"
+    },
+    {
+      "type": "news",
+      "text": "These Cars Were Everywhere In The  80s \u2013 Youd Be Lucky To See One Today",
+      "source": "slashgear.com",
+      "url": "https://www.slashgear.com/2213554/1980s-common-cars-you-never-see-today/"
+    },
+    {
+      "type": "news",
+      "text": "Why Im leading a council on UFOs and national security",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/07/19/opinion/why-im-leading-a-council-on-ufos-and-national-security/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=in859b08nva5fjgn376e4skbl3"
+    },
+    {
+      "type": "news",
+      "text": "Renombrado f\u00edsico alarmado por el n\u00famero  inaudito  de cient\u00edficos que mueren o desaparecen ahora en el radar de la Casa Blanca",
+      "source": "bitacora.com.uy",
+      "url": "https://bitacora.com.uy/renombrado-fisico-alarmado-por-el-numero-inaudito-de-cientificos-que-mueren-o-desaparecen-ahora-en-el-radar-de-la-casa-blanca/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3719\r Issue Time: 2026 Jul 19 1204 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -2907,6 +2968,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-07-19T17:15:34.015687Z",
+      "score": 22.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.8
     }
   ],
   "sources": [
