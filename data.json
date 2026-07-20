@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-20T10:45:49.880300Z",
-  "score": 21.7,
+  "generated_at": "2026-07-20T12:57:24.038104Z",
+  "score": 50.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "ROSWELL ENERGY",
+    "flavor": "something in the air tonight",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": -6.7,
+    "d1h": 25.5,
+    "d24h": 24.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 35.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,100 +31,34 @@
     "day": 36,
     "date": "20.07.2026",
     "declassified": "20.07.26",
-    "generated_utc": "10:45",
+    "generated_utc": "12:57",
     "top_drivers": [
-      "LArche dalliance en \u00c9thiopie : le plus grand secret ou la plus grande imposture de lHistoire ? ",
-      "NOAA space-weather alerts active: 2",
+      "News velocity +146% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.0,
-    "baseline_recent": 23.8,
+    "live_signal": 49.3,
+    "baseline_recent": 23.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 145.78635156411522,
     "x_last_hour": 0,
     "wiki_spike_pct": -23.03862864145269,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "LArche dalliance en \u00c9thiopie : le plus grand secret ou la plus grande imposture de lHistoire ? ",
-      "source": "agoravox.fr",
-      "url": "https://www.agoravox.fr/tribune-libre/article/l-arche-d-alliance-en-ethiopie-le-270612"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=17paqhti0ekeuq2md6g100dte5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=03ul97acjau3u0giejf0vqa334"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0dmqvl4ordqs190htk3dop91s0"
-    },
-    {
-      "type": "news",
-      "text": "P\u0113teris Apinis : Donalda Trampa di\u0113ta \u2013 ekolo\u0123iski audz\u0113ts steiks , sk\u0101b\u0113ti k\u0101posti un citi ferment\u0113ti produkti , re\u017e\u012bms un fizisk\u0101s aktivit\u0101tes",
-      "source": "la.lv",
-      "url": "https://www.la.lv/peteris-apinis-donalda-trampa-dieta-ekologiski-audzets-steiks-skabeti-kaposti-un-citi-fermenteti-produkti-rezims-un-fiziskas-aktivitates"
-    },
-    {
-      "type": "news",
-      "text": "About Ground Zero with Clyde Lewis | Talk Radio 105 . 9",
-      "source": "knrs.iheart.com",
-      "url": "https://knrs.iheart.com/featured/ground-zero-with-clyde-lewis/"
-    },
-    {
-      "type": "news",
-      "text": "\u0627\u0644\u0625\u0633\u0639\u0627\u0641\u0627\u062a \u0627\u0644\u0623\u0648\u0644\u064a\u0629 .. \u0627\u0644\u0631\u0641\u064a\u0642 \u0627\u0644\u0630\u0643\u064a \u0644\u0625\u062c\u0627\u0632\u0629 \u0635\u064a\u0641\u064a\u0629 \u0622\u0645\u0646\u0629",
-      "source": "sayidaty.net",
-      "url": "https://www.sayidaty.net/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B1%D8%B4%D8%A7%D9%82%D8%A9/%D8%B5%D8%AD%D8%A9/1836819-%D8%A7%D9%84%D8%A5%D8%B3%D8%B9%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A9"
-    },
-    {
-      "type": "news",
-      "text": "UFO : lo storico simposio mondiale lascia San Marino e sbarca a Lucca",
-      "source": "chiamamicitta.it",
-      "url": "https://www.chiamamicitta.it/ufo-lo-storico-simposio-mondiale-lascia-san-marino-e-sbarca-a-lucca/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=14326iuq5gsn2tncphmpijr2t4"
-    },
-    {
-      "type": "news",
-      "text": "Fenomenul OZN : dezv\u0103luirea va \u00eent\u00e2rzia p\u00e2n\u0103 c\u00e2nd ... ( p2 ) ",
-      "source": "radioromaniacultural.ro",
-      "url": "https://www.radioromaniacultural.ro/exclusiv-online/erezii-moderne/fenomenul-ozn-dezvaluirea-va-intarzia-pana-cand-p2-id54458.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1116\r Issue Time: 2026 Jul 19 2014 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3719\r Issue Time: 2026 Jul 19 1204 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -3045,6 +2979,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.0
+    },
+    {
+      "ts": "2026-07-20T12:57:23.965070Z",
+      "score": 50.8,
+      "band": "ROSWELL ENERGY",
+      "i": 3,
+      "live": 49.3
     }
   ],
   "sources": [
