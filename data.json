@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-20T22:37:56.082222Z",
-  "score": 23.4,
+  "generated_at": "2026-07-20T23:39:24.157022Z",
+  "score": 48.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -24.7,
-    "d24h": -9.6,
+    "d1h": 25.1,
+    "d24h": 16.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,25 @@
     "day": 36,
     "date": "20.07.2026",
     "declassified": "20.07.26",
-    "generated_utc": "22:37",
+    "generated_utc": "23:39",
     "top_drivers": [
-      "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Southern Highland News",
+      "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Daily Advertiser",
+      "News velocity +588% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.1,
+    "live_signal": 46.7,
     "baseline_recent": 23.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 587.8317767621428,
     "x_last_hour": 0,
     "wiki_spike_pct": -23.03862864145269,
     "earthquakes_24h": 0,
@@ -58,63 +59,63 @@
   "ticker": [
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Southern Highland News",
-      "source": "southernhighlandnews.com.au",
-      "url": "https://www.southernhighlandnews.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Daily Advertiser",
+      "source": "dailyadvertiser.com.au",
+      "url": "https://www.dailyadvertiser.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The North West Star",
-      "source": "northweststar.com.au",
-      "url": "https://www.northweststar.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Wellington Times",
+      "source": "wellingtontimes.com.au",
+      "url": "https://www.wellingtontimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Namoi Valley Independent",
-      "source": "nvi.com.au",
-      "url": "https://www.nvi.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Tenterfield Star",
+      "source": "tenterfieldstar.com.au",
+      "url": "https://www.tenterfieldstar.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Narromine News",
-      "source": "narrominenewsonline.com.au",
-      "url": "https://www.narrominenewsonline.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Katherine Times",
+      "source": "katherinetimes.com.au",
+      "url": "https://www.katherinetimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Merimbula News Weekly",
-      "source": "merimbulanewsweekly.com.au",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Milton Ulladulla Times",
+      "source": "ulladullatimes.com.au",
+      "url": "https://www.ulladullatimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Bega District News",
-      "source": "begadistrictnews.com.au",
-      "url": "https://www.begadistrictnews.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Standard",
+      "source": "standard.net.au",
+      "url": "https://www.standard.net.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Yass Tribune",
-      "source": "yasstribune.com.au",
-      "url": "https://www.yasstribune.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Macleay Argus",
+      "source": "macleayargus.com.au",
+      "url": "https://www.macleayargus.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5vqb8va79herm1kapredm860e3"
+      "text": "Months before 9 / 11 , volunteers begin building Field of Flags",
+      "source": "mdjonline.com",
+      "url": "https://www.mdjonline.com/news/months-before-9-11-volunteers-begin-building-field-of-flags/article_d0d93649-2155-4050-a91f-ec1a2bbe99a8.html"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Muswellbrook Chronicle",
-      "source": "muswellbrookchronicle.com.au",
-      "url": "https://www.muswellbrookchronicle.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Inverell Times",
+      "source": "inverelltimes.com.au",
+      "url": "https://www.inverelltimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Narooma News",
-      "source": "naroomanewsonline.com.au",
-      "url": "https://www.naroomanewsonline.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Central Western Daily",
+      "source": "centralwesterndaily.com.au",
+      "url": "https://www.centralwesterndaily.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
     },
     {
       "type": "swpc",
@@ -3088,6 +3089,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.1
+    },
+    {
+      "ts": "2026-07-20T23:39:24.081810Z",
+      "score": 48.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 46.7
     }
   ],
   "sources": [
