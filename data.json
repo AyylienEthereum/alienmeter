@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-20T04:51:11.291546Z",
-  "score": 24.4,
+  "generated_at": "2026-07-20T07:54:38.186758Z",
+  "score": 23.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.3,
-    "d24h": -21.6,
+    "d1h": -15.9,
+    "d24h": -6.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 36,
     "date": "20.07.2026",
     "declassified": "20.07.26",
-    "generated_utc": "04:51",
+    "generated_utc": "07:54",
     "top_drivers": [
       "NOAA space-weather alerts active: 2",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.4,
+    "live_signal": 14.1,
     "baseline_recent": 23.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": -73.9731213325762,
+    "gdelt_spike_pct": -74.11642900842392,
     "x_last_hour": 0,
     "wiki_spike_pct": -23.03862864145269,
     "earthquakes_24h": 0,
@@ -2970,6 +2970,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.4
+    },
+    {
+      "ts": "2026-07-20T07:54:38.112683Z",
+      "score": 23.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.1
     }
   ],
   "sources": [
