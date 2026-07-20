@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T21:32:42.851433Z",
-  "score": 22.3,
+  "generated_at": "2026-07-20T22:37:56.082222Z",
+  "score": 23.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -27.6,
-    "d24h": -8.2,
+    "d1h": -24.7,
+    "d24h": -9.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 36,
     "date": "20.07.2026",
     "declassified": "20.07.26",
-    "generated_utc": "21:32",
+    "generated_utc": "22:37",
     "top_drivers": [
+      "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Southern Highland News",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
@@ -40,11 +41,11 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.7,
-    "baseline_recent": 23.9,
+    "live_signal": 14.1,
+    "baseline_recent": 23.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
     "gdelt_spike_pct": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Southern Highland News",
+      "source": "southernhighlandnews.com.au",
+      "url": "https://www.southernhighlandnews.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The North West Star",
+      "source": "northweststar.com.au",
+      "url": "https://www.northweststar.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Namoi Valley Independent",
+      "source": "nvi.com.au",
+      "url": "https://www.nvi.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Narromine News",
+      "source": "narrominenewsonline.com.au",
+      "url": "https://www.narrominenewsonline.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Merimbula News Weekly",
+      "source": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Bega District News",
+      "source": "begadistrictnews.com.au",
+      "url": "https://www.begadistrictnews.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Yass Tribune",
+      "source": "yasstribune.com.au",
+      "url": "https://www.yasstribune.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5vqb8va79herm1kapredm860e3"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Muswellbrook Chronicle",
+      "source": "muswellbrookchronicle.com.au",
+      "url": "https://www.muswellbrookchronicle.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
+    {
+      "type": "news",
+      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Narooma News",
+      "source": "naroomanewsonline.com.au",
+      "url": "https://www.naroomanewsonline.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3720\r Issue Time: 2026 Jul 20 1442 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -3020,6 +3081,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.7
+    },
+    {
+      "ts": "2026-07-20T22:37:56.007500Z",
+      "score": 23.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.1
     }
   ],
   "sources": [
