@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-20T01:03:13.719002Z",
-  "score": 25.3,
+  "generated_at": "2026-07-20T04:51:11.291546Z",
+  "score": 24.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.0,
-    "d24h": -5.2,
+    "d1h": -0.3,
+    "d24h": -21.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 4.3,
-    "search_interest": 0.8,
+    "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 2.8,
-    "alien_variance": 1.2
+    "seismic": 0.0,
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,92 +31,30 @@
     "day": 36,
     "date": "20.07.2026",
     "declassified": "20.07.26",
-    "generated_utc": "01:03",
+    "generated_utc": "04:51",
     "top_drivers": [
-      "On This Day in 1975 , Country Music Lost the Singer Who Inspired Merle Haggard , Willie Nelson , George Jones , and  Perhaps the Biggest Supergroup of All Time  ",
       "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +5% above baseline",
       "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.5,
+    "live_signal": 15.4,
     "baseline_recent": 23.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 23.191808505,
     "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -73.9731213325762,
     "x_last_hour": 0,
-    "wiki_spike_pct": 5.12378037530253,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 5.5,
+    "wiki_spike_pct": -23.03862864145269,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "On This Day in 1975 , Country Music Lost the Singer Who Inspired Merle Haggard , Willie Nelson , George Jones , and  Perhaps the Biggest Supergroup of All Time  ",
-      "source": "americansongwriter.com",
-      "url": "https://americansongwriter.com/on-this-day-in-1975-country-music-lost-the-singer-who-inspired-merle-haggard-willie-nelson-george-jones-and-perhaps-the-biggest-supergroup-of-all-time/"
-    },
-    {
-      "type": "news",
-      "text": "New Deal Gives PC Players $465 of Games for Just $15",
-      "source": "gamerant.com",
-      "url": "https://gamerant.com/humble-bundle-deal-15-dollars-2k-borderlands-bioshock/"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043e\u0431 \u041d\u041b\u041e : 40 \u043d\u043e\u0432\u044b\u0445 \u0444\u0430\u0439\u043b\u043e\u0432",
-      "source": "novosti.ua",
-      "url": "https://novosti.ua/tech/pentagon-opublikoval-40-rassekrechennyh-faylov-ob-nlo-i-anomalnyh-yavleniyah"
-    },
-    {
-      "type": "news",
-      "text": "Roswell Race Week To Return at Full Speed | Aero - News Network",
-      "source": "aero-news.net",
-      "url": "https://aero-news.net:443/FullsizeImage.cfm?do=main.textpost&id=D4B41545-55FC-49BC-9BA5-F4628CAFD8B2"
-    },
-    {
-      "type": "news",
-      "text": "Castronu\u00f1o revive sus casos ufol\u00f3gicos m\u00e1s impactantes",
-      "source": "elnortedecastilla.es",
-      "url": "https://www.elnortedecastilla.es/valladolid/provincia/castronuno-revive-casos-ufologicos-impactantes-20260719172225-nt.html"
-    },
-    {
-      "type": "news",
-      "text": "Avistan presunto OVNI sobre el Cerro de la Silla y Jaime Maussan pide una explicaci\u00f3n",
-      "source": "elimparcial.com",
-      "url": "https://www.elimparcial.com/locurioso/2026/07/19/avistan-presunto-ovni-sobre-el-cerro-de-la-silla-y-jaime-maussan-pide-una-explicacion/"
-    },
-    {
-      "type": "news",
-      "text": "Semedes se proclama campe\u00f3n de la Liga Superior de Baloncesto 2026 en su temporada de estreno",
-      "source": "nacion.com",
-      "url": "https://www.nacion.com/puro-deporte/semedes-se-proclama-campeon-de-la-liga-superior-de/BII5CWV3URE6TLCK2TOUTQ6HA4/story/"
-    },
-    {
-      "type": "news",
-      "text": "The cryptoterrestrial hypothesis : UFOs from Earth ? ",
-      "source": "boingboing.net",
-      "url": "https://boingboing.net/2026/07/19/cryptoterrestrial-hypothesis.html"
-    },
-    {
-      "type": "news",
-      "text": "C  \u00e8 un neo western brasiliano del 2019 davvero molto strano ( e ha un voto altissimo su Rotten Tomatoes ) ",
-      "source": "ilcineocchio.it",
-      "url": "https://www.ilcineocchio.it/cinema/ce-un-neo-western-brasiliano-del-2019-davvero-molto-strano-e-ha-un-voto-altissimo-su-rotten-tomatoes/"
-    },
-    {
-      "type": "news",
-      "text": "Radiator Forever is a free  Gay As A Service  game , free on Steam and Itch . io",
-      "source": "stevivor.com",
-      "url": "https://stevivor.com/news/radiator-forever-is-a-free-gay-as-a-service-game-free-on-steam-and-itch-io/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1116\r Issue Time: 2026 Jul 19 2014 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -128,12 +66,6 @@
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3719\r Issue Time: 2026 Jul 19 1204 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 2 km WSW of Sicaya, Peru",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -3031,6 +2963,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.5
+    },
+    {
+      "ts": "2026-07-20T04:51:11.216419Z",
+      "score": 24.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.4
     }
   ],
   "sources": [
