@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-20T23:39:24.157022Z",
-  "score": 48.8,
+  "generated_at": "2026-07-21T01:07:48.745844Z",
+  "score": 17.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 25.1,
-    "d24h": 16.6,
+    "d1h": -6.7,
+    "d24h": -14.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 4.3,
+    "asteroid_approach": 0.5,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
@@ -27,96 +27,34 @@
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 36,
-    "day": 36,
-    "date": "20.07.2026",
-    "declassified": "20.07.26",
-    "generated_utc": "23:39",
+    "number": 37,
+    "day": 37,
+    "date": "21.07.2026",
+    "declassified": "21.07.26",
+    "generated_utc": "01:07",
     "top_drivers": [
-      "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Daily Advertiser",
-      "News velocity +588% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
-      "NEO (2019 NG2) passing Earth at 23.2 lunar distances"
+      "NEO (2019 BN2) passing Earth at 47.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 46.7,
-    "baseline_recent": 23.8,
+    "live_signal": 6.9,
+    "baseline_recent": 23.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 23.191808505,
-    "asteroid_name": "(2019 NG2)",
-    "gdelt_spike_pct": 587.8317767621428,
+    "closest_asteroid_ld": 47.0688100902,
+    "asteroid_name": "(2019 BN2)",
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -23.03862864145269,
+    "wiki_spike_pct": -22.946481046797988,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Daily Advertiser",
-      "source": "dailyadvertiser.com.au",
-      "url": "https://www.dailyadvertiser.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Wellington Times",
-      "source": "wellingtontimes.com.au",
-      "url": "https://www.wellingtontimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Tenterfield Star",
-      "source": "tenterfieldstar.com.au",
-      "url": "https://www.tenterfieldstar.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Katherine Times",
-      "source": "katherinetimes.com.au",
-      "url": "https://www.katherinetimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Milton Ulladulla Times",
-      "source": "ulladullatimes.com.au",
-      "url": "https://www.ulladullatimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Standard",
-      "source": "standard.net.au",
-      "url": "https://www.standard.net.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Macleay Argus",
-      "source": "macleayargus.com.au",
-      "url": "https://www.macleayargus.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Months before 9 / 11 , volunteers begin building Field of Flags",
-      "source": "mdjonline.com",
-      "url": "https://www.mdjonline.com/news/months-before-9-11-volunteers-begin-building-field-of-flags/article_d0d93649-2155-4050-a91f-ec1a2bbe99a8.html"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | The Inverell Times",
-      "source": "inverelltimes.com.au",
-      "url": "https://www.inverelltimes.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
-    {
-      "type": "news",
-      "text": "Stephen Yaxley - Lennon : Media  Tommy Robinson  alias questioned | Central Western Daily",
-      "source": "centralwesterndaily.com.au",
-      "url": "https://www.centralwesterndaily.com.au/story/9313877/stephen-yaxley-lennon-medias-tommy-robinson-alias-questioned/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3720\r Issue Time: 2026 Jul 20 1442 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -125,7 +63,7 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2019 NG2) passing at 23.19 LD (~90m, 13.8 km/s)",
+      "text": "NEO (2019 BN2) passing at 47.07 LD (~29m, 11.6 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
@@ -3096,6 +3034,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 46.7
+    },
+    {
+      "ts": "2026-07-21T01:07:48.684042Z",
+      "score": 17.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 6.9
     }
   ],
   "sources": [
