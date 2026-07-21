@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-21T21:45:51.724538Z",
-  "score": 16.7,
+  "generated_at": "2026-07-21T22:39:07.321878Z",
+  "score": 21.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.0,
-    "d24h": -12.5,
+    "d1h": -26.2,
+    "d24h": -9.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.5,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 37,
     "date": "21.07.2026",
     "declassified": "21.07.26",
-    "generated_utc": "21:45",
+    "generated_utc": "22:39",
     "top_drivers": [
       "Why this astronomer would settle for UFO funding",
       "NOAA space-weather alerts active: 3",
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.6,
-    "baseline_recent": 23.7,
+    "live_signal": 12.0,
+    "baseline_recent": 23.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "C",
     "closest_asteroid_ld": 47.0688100902,
     "asteroid_name": "(2019 BN2)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -5.5499990564435375,
+    "wiki_spike_pct": -23.59593972814442,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -59,62 +59,62 @@
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "moreechampion.com.au",
-      "url": "https://www.moreechampion.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "therural.com.au",
+      "url": "https://www.therural.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+    },
+    {
+      "type": "news",
+      "text": "Olivia Dean teaches  The Art of Loving  at MGM Grand Garden Arena",
+      "source": "lasvegasweekly.com",
+      "url": "https://lasvegasweekly.com/ae/music/2026/jul/21/olivia-dean-mgm-grand-garden-concert-review/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/politics/why-this-astronomer-would-settle-for-ufo-funding-c-22610133"
+      "source": "cootamundraherald.com.au",
+      "url": "https://www.cootamundraherald.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+    },
+    {
+      "type": "news",
+      "text": "LEGO \u043e\u0436\u0438\u0432\u0438\u043b\u0430  \u0421\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b : \u0414\u0436\u0438\u043b\u043b\u0438\u0430\u043d \u0410\u043d\u0434\u0435\u0440\u0441\u043e\u043d \u0432\u043d\u043e\u0432\u044c \u043f\u0440\u0438\u043c\u0435\u0440\u0438\u043b\u0430 \u043e\u0431\u0440\u0430\u0437 \u0421\u043a\u0430\u043b\u043b\u0438 \u0440\u0430\u0434\u0438 \u043d\u043e\u0432\u043e\u0433\u043e \u043d\u0430\u0431\u043e\u0440\u0430",
+      "source": "playground.ru",
+      "url": "https://www.playground.ru/misc/news/lego_ozhivila_sekretnye_materialy_dzhillian_anderson_vnov_primerila_obraz_skalli_radi_novogo_nabora-1861042"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0437\u0435\u043c\u043b\u044f\u043d\u0435 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u043c\u0438",
+      "source": "zavtra.ru",
+      "url": "https://www.zavtra.ru/blogs/pochemu_zemlyane_do_sih_por_ne_ustanovili_kontakt_s_inoplanetyanami"
+    },
+    {
+      "type": "news",
+      "text": "41 Years Later , The Last Starfighter Returns With New Spinoff Series",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/last-star-fighter-new-spinoff-series-beta/"
+    },
+    {
+      "type": "news",
+      "text": "The X - Files Lego set designer interview and Gillian Anderson teaser",
+      "source": "goldderby.com",
+      "url": "https://www.goldderby.com/tv/2026/the-x-files-lego-set-easter-eggs-secrets-gillian-anderson-teaser/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "narrominenewsonline.com.au",
-      "url": "https://www.narrominenewsonline.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "easternriverinachronicle.com.au",
+      "url": "https://www.easternriverinachronicle.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+    },
+    {
+      "type": "news",
+      "text": "D\u00e9c\u00e8s dun visage historique de TF1 et LCI , le milieu de l  \u00e9conomie en deuil",
+      "source": "planet.fr",
+      "url": "https://www.planet.fr/tele-deces-dun-visage-historique-de-tf1-et-lci-le-milieu-de-leconomie-en-deuil.2998304.30054.html"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "portnews.com.au",
-      "url": "https://www.portnews.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Investors Purchase Large Volume of Call Options on New Era Energy & Digital ( NASDAQ : NUAI ) ",
-      "source": "themarketsdaily.com",
-      "url": "https://www.themarketsdaily.com/2026/07/21/investors-purchase-large-volume-of-call-options-on-new-era-energy-digital-nasdaqnuai.html"
-    },
-    {
-      "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "merimbulanewsweekly.com.au",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Mulder and Scully get the LEGO treatment with The X - Files set",
-      "source": "flickeringmyth.com",
-      "url": "https://www.flickeringmyth.com/mulder-and-scully-get-the-lego-treatment-with-new-the-x-files-set/"
-    },
-    {
-      "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "gloucesteradvocate.com.au",
-      "url": "https://www.gloucesteradvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "sconeadvocate.com.au",
-      "url": "https://www.sconeadvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Which South Dakota Counties Have Sobriety Checkpoints in August ? ",
-      "source": "kxrb.com",
-      "url": "https://kxrb.com/ixp/486/p/south-dakota-sobriety-checkpoints-august/"
+      "source": "juneesoutherncross.com.au",
+      "url": "https://www.juneesoutherncross.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
     },
     {
       "type": "swpc",
@@ -3191,6 +3191,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 5.6
+    },
+    {
+      "ts": "2026-07-21T22:39:07.246461Z",
+      "score": 21.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.0
     }
   ],
   "sources": [
