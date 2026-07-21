@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T20:36:04.791897Z",
-  "score": 20.0,
+  "generated_at": "2026-07-21T21:45:51.724538Z",
+  "score": 16.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -11.7,
+    "d1h": -3.0,
+    "d24h": -12.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 0.0,
     "asteroid_approach": 0.5,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 37,
     "date": "21.07.2026",
     "declassified": "21.07.26",
-    "generated_utc": "20:36",
+    "generated_utc": "21:45",
     "top_drivers": [
       "Why this astronomer would settle for UFO funding",
       "NOAA space-weather alerts active: 3",
@@ -41,16 +41,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.8,
+    "live_signal": 5.6,
     "baseline_recent": 23.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "A",
     "closest_asteroid_ld": 47.0688100902,
     "asteroid_name": "(2019 BN2)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -23.59593972814442,
+    "wiki_spike_pct": -5.5499990564435375,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -59,62 +59,62 @@
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "moreechampion.com.au",
+      "url": "https://www.moreechampion.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "hepburnadvocate.com.au",
-      "url": "https://www.hepburnadvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/politics/why-this-astronomer-would-settle-for-ufo-funding-c-22610133"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "bordermail.com.au",
-      "url": "https://www.bordermail.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "narrominenewsonline.com.au",
+      "url": "https://www.narrominenewsonline.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "mandurahmail.com.au",
-      "url": "https://www.mandurahmail.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "portnews.com.au",
+      "url": "https://www.portnews.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+    },
+    {
+      "type": "news",
+      "text": "Investors Purchase Large Volume of Call Options on New Era Energy & Digital ( NASDAQ : NUAI ) ",
+      "source": "themarketsdaily.com",
+      "url": "https://www.themarketsdaily.com/2026/07/21/investors-purchase-large-volume-of-call-options-on-new-era-energy-digital-nasdaqnuai.html"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "batemansbaypost.com.au",
-      "url": "https://www.batemansbaypost.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+    },
+    {
+      "type": "news",
+      "text": "Mulder and Scully get the LEGO treatment with The X - Files set",
+      "source": "flickeringmyth.com",
+      "url": "https://www.flickeringmyth.com/mulder-and-scully-get-the-lego-treatment-with-new-the-x-files-set/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "queanbeyanage.com.au",
-      "url": "https://www.queanbeyanage.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "gloucesteradvocate.com.au",
+      "url": "https://www.gloucesteradvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
     },
     {
       "type": "news",
       "text": "Why this astronomer would settle for UFO funding",
-      "source": "camdencourier.com.au",
-      "url": "https://www.camdencourier.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "source": "sconeadvocate.com.au",
+      "url": "https://www.sconeadvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
     },
     {
       "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "manningrivertimes.com.au",
-      "url": "https://www.manningrivertimes.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "greatlakesadvocate.com.au",
-      "url": "https://www.greatlakesadvocate.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
-    },
-    {
-      "type": "news",
-      "text": "Why this astronomer would settle for UFO funding",
-      "source": "areanews.com.au",
-      "url": "https://www.areanews.com.au/story/9315164/why-this-astronomer-would-settle-for-ufo-funding/"
+      "text": "Which South Dakota Counties Have Sobriety Checkpoints in August ? ",
+      "source": "kxrb.com",
+      "url": "https://kxrb.com/ixp/486/p/south-dakota-sobriety-checkpoints-august/"
     },
     {
       "type": "swpc",
@@ -3184,6 +3184,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.8
+    },
+    {
+      "ts": "2026-07-21T21:45:51.648125Z",
+      "score": 16.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 5.6
     }
   ],
   "sources": [
