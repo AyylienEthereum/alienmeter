@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-23T12:56:37.923618Z",
-  "score": 22.6,
+  "generated_at": "2026-07-23T15:05:40.911677Z",
+  "score": 48.6,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -1.1,
-    "d24h": 0.1,
+    "d1h": 7.9,
+    "d24h": 26.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 30.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
-    "seismic": 0.0,
-    "alien_variance": 1.3
+    "seismic": 2.5,
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,50 @@
     "day": 39,
     "date": "23.07.2026",
     "declassified": "23.07.26",
-    "generated_utc": "12:56",
+    "generated_utc": "15:05",
     "top_drivers": [
-      "Lego unveils new set honoring  The X - File TV series \u2013 95 . 5 WSB",
+      "One of the best modern platformers is back from the dead after being delisted on its only platform , escaping Netflix Games jail for good",
+      "News velocity +128% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 3",
       "NEO (2016 PC2) passing Earth at 27.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.4,
+    "live_signal": 46.8,
     "baseline_recent": 23.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 27.8207624355,
     "asteroid_name": "(2016 PC2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 128.0388332930006,
     "x_last_hour": 0,
     "wiki_spike_pct": -5.108076137219056,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "One of the best modern platformers is back from the dead after being delisted on its only platform , escaping Netflix Games jail for good",
+      "source": "gamesradar.com",
+      "url": "https://www.gamesradar.com/games/platformer/one-of-the-best-modern-platformers-is-back-from-the-dead-after-being-delisted-on-its-only-platform-escaping-netflix-games-jail-for-good/"
+    },
+    {
+      "type": "news",
+      "text": "Girl Scouts of the united states Announces New Board Leadership",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/girl-scouts-of-the-usa-announces-new-board-leadership-302832962.html"
+    },
+    {
+      "type": "news",
+      "text": "Lego unveils new set honoring  The X - File TV series \u2013 Action News Jax",
+      "source": "actionnewsjax.com",
+      "url": "https://www.actionnewsjax.com/news/trending/lego-unveils-new-set-honoring-x-files-tv-series/KWP25STSSNAX7GQ76BNL4Z37B4/"
+    },
     {
       "type": "news",
       "text": "Lego unveils new set honoring  The X - File TV series \u2013 95 . 5 WSB",
@@ -99,22 +118,10 @@
       "url": "https://www.farodiroma.it/garfagnana-cinema-teatro-e-natura-nel-bosco-un-mese-di-eventi-per-il-graal-cult-fest-2026-sul-monte-argegna-e-si-comincia-il-25-p-fizzarotti/"
     },
     {
-      "type": "news",
-      "text": "UFO Sightings Daily : alien species",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/alien%20species"
-    },
-    {
-      "type": "news",
-      "text": "Laurent Romejko : avec sa femme Sylvie , il a choisi une \u00eele au volcan historique et aux villages baroques pour les vacances",
-      "source": "purepeople.com",
-      "url": "https://www.purepeople.com/article/laurent-romejko-avec-sa-femme-sylvie-il-a-choisi-une-ile-au-volcan-historique-et-aux-villages-baroques-pour-les-vacances_a552509/1"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : silica life form",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/silica%20life%20form"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5391\r Issue Time: 2026 Jul 23 1435 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -129,10 +136,10 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5390\r Issue Time: 2026 Jul 22 1456 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: 38 km SSE of Spearman, Texas",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -3338,6 +3345,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.4
+    },
+    {
+      "ts": "2026-07-23T15:05:40.838182Z",
+      "score": 48.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 46.8
     }
   ],
   "sources": [
