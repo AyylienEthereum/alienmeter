@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-22T23:11:08.756948Z",
-  "score": 22.6,
+  "generated_at": "2026-07-23T00:12:59.503224Z",
+  "score": 23.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -1.7,
+    "d1h": 0.7,
+    "d24h": 0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,15 +23,15 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 38,
-    "day": 38,
-    "date": "22.07.2026",
-    "declassified": "22.07.26",
-    "generated_utc": "23:11",
+    "number": 39,
+    "day": 39,
+    "date": "23.07.2026",
+    "declassified": "23.07.26",
+    "generated_utc": "00:12",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "NEO (2016 PC2) passing Earth at 27.8 lunar distances"
@@ -40,16 +40,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.4,
+    "live_signal": 15.1,
     "baseline_recent": 23.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 27.8207624355,
     "asteroid_name": "(2016 PC2)",
-    "gdelt_spike_pct": -8.797661894839393,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -13.21786497010447,
+    "wiki_spike_pct": -12.650795936679557,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 4
@@ -3235,6 +3235,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.4
+    },
+    {
+      "ts": "2026-07-23T00:12:59.428177Z",
+      "score": 23.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.1
     }
   ],
   "sources": [
