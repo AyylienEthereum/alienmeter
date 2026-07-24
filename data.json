@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T16:35:36.771435Z",
-  "score": 22.0,
+  "generated_at": "2026-07-24T17:58:16.642953Z",
+  "score": 23.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -5.4,
-    "d24h": 3.5,
+    "d1h": -3.3,
+    "d24h": -5.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.2
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,28 +31,28 @@
     "day": 40,
     "date": "24.07.2026",
     "declassified": "24.07.26",
-    "generated_utc": "16:35",
+    "generated_utc": "17:58",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
+      "NOAA space-weather alerts active: 3",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.7,
+    "live_signal": 14.0,
     "baseline_recent": 23.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -24.772036474164132,
     "x_last_hour": 0,
     "wiki_spike_pct": -8.8322884294753,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
@@ -3389,6 +3389,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.7
+    },
+    {
+      "ts": "2026-07-24T17:58:16.568505Z",
+      "score": 23.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.0
     }
   ],
   "sources": [
