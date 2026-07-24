@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-24T21:59:47.229979Z",
+  "generated_at": "2026-07-24T23:05:37.398722Z",
   "score": 23.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.5,
-    "d24h": -2.9,
+    "d1h": 0.5,
+    "d24h": -1.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 40,
     "date": "24.07.2026",
     "declassified": "24.07.26",
-    "generated_utc": "21:59",
+    "generated_utc": "23:05",
     "top_drivers": [
       "Trump Accused of Recruiting Dr Phil to Probe UFO Files",
       "NOAA space-weather alerts active: 2",
@@ -3468,6 +3468,13 @@
     },
     {
       "ts": "2026-07-24T21:59:47.154137Z",
+      "score": 23.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.7
+    },
+    {
+      "ts": "2026-07-24T23:05:37.323723Z",
       "score": 23.5,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
