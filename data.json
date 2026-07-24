@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-24T19:26:07.781230Z",
-  "score": 24.5,
+  "generated_at": "2026-07-24T20:46:26.237799Z",
+  "score": 22.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.3,
-    "d24h": -2.0,
+    "d1h": -2.2,
+    "d24h": -8.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 5.0,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,28 +31,28 @@
     "day": 40,
     "date": "24.07.2026",
     "declassified": "24.07.26",
-    "generated_utc": "19:26",
+    "generated_utc": "20:46",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 2",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.0,
+    "live_signal": 12.8,
     "baseline_recent": 23.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
-    "gdelt_spike_pct": -24.939354485027067,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -8.657552030508343,
+    "wiki_spike_pct": -8.742620273834936,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
@@ -64,12 +64,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2252\r Issue Time: 2026 Jul 23 2347 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2041\r Issue Time: 2026 Jul 23 2015 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -3403,6 +3397,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.0
+    },
+    {
+      "ts": "2026-07-24T20:46:26.178336Z",
+      "score": 22.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.8
     }
   ],
   "sources": [
