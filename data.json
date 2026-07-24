@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-24T04:31:36.000133Z",
-  "score": 26.8,
+  "generated_at": "2026-07-24T07:17:25.243336Z",
+  "score": 28.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": 0.3,
+    "d1h": 3.0,
+    "d24h": 3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.5,
-    "alien_variance": 0.2
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 40,
     "date": "24.07.2026",
     "declassified": "24.07.26",
-    "generated_utc": "04:31",
+    "generated_utc": "07:17",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 7",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
+    "live_signal": 21.4,
     "baseline_recent": 23.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,12 +50,72 @@
     "asteroid_name": "(2015 BF)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -8.657552030508343,
+    "wiki_spike_pct": -9.224733659660242,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5,
     "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sfolsvrgclq1affra2309rq5e0"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lqpjn330d9ar5qr24vm8u9c8f2"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=m9pf7p4embrdd1jov399vl9f27"
+    },
+    {
+      "type": "news",
+      "text": "Shady Pines Is a Refreshingly Handmade Music Festival",
+      "source": "portlandmercury.com",
+      "url": "https://www.portlandmercury.com/music/shady-pines-is-a-refreshingly-handmade-music-festival/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=q6sqc1l3k2ro513qvrk93lj1v1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ri716dkhgu70885vang11aonq1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ipc9sbqfeo7mjih5utsvivv181"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fn7hs935i9n18nnbr6mmf6qi66"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8qs1chnal744vk85ni6g8ho3r2"
+    },
+    {
+      "type": "news",
+      "text": "PM Vishwakarma Scheme being implemented in West Bengal in collaboration with state govt , MoS informs Lok Sabha",
+      "source": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279206106/pm-vishwakarma-scheme-being-implemented-in-west-bengal-in-collaboration-with-state-govt-mos-informs-lok-sabha"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2252\r Issue Time: 2026 Jul 23 2347 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
@@ -3353,6 +3414,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-07-24T07:17:25.167701Z",
+      "score": 28.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.4
     }
   ],
   "sources": [
