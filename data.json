@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-25T11:32:47.893886Z",
-  "score": 20.7,
+  "generated_at": "2026-07-25T12:43:44.940898Z",
+  "score": 18.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.4,
-    "d24h": -1.2,
+    "d1h": -3.3,
+    "d24h": -3.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,20 +31,20 @@
     "day": 41,
     "date": "25.07.2026",
     "declassified": "25.07.26",
-    "generated_utc": "11:32",
+    "generated_utc": "12:43",
     "top_drivers": [
-      "El d\u00eda de la revelaci\u00f3n , de Steven Spielberg",
+      "70s Style Robot Anime Geppy - X Review - Super Robot Nostalgia at Full Power",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.2,
+    "live_signal": 7.8,
     "baseline_recent": 23.0,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
     "gdelt_spike_pct": null,
@@ -55,6 +55,30 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "70s Style Robot Anime Geppy - X Review - Super Robot Nostalgia at Full Power",
+      "source": "cogconnected.com",
+      "url": "https://cogconnected.com/review/70s-style-robot-anime-geppy-x-review/"
+    },
+    {
+      "type": "news",
+      "text": "Les Franciscaines de Deauville : quel est cet ovni culturel qui a d\u00e9j\u00e0 attir\u00e9 un million de",
+      "source": "laseyne.maville.com",
+      "url": "https://laseyne.maville.com/actu/actudet_-les-franciscaines-de-deauville-quel-est-cet-ovni-culturel-qui-a-deja-attire-un-million-de-visiteurs-en-cinq-ans-_fil-7419757_actu.Htm"
+    },
+    {
+      "type": "news",
+      "text": "Les Franciscaines de Deauville : quel est cet ovni culturel qui a d\u00e9j\u00e0 attir\u00e9 un million de",
+      "source": "brignoles.maville.com",
+      "url": "https://brignoles.maville.com/actu/actudet_-les-franciscaines-de-deauville-quel-est-cet-ovni-culturel-qui-a-deja-attire-un-million-de-visiteurs-en-cinq-ans-_fil-7419757_actu.Htm"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX stock got cut in half after joining an industry sell - off already underway : Chart of the Day",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html"
+    },
     {
       "type": "news",
       "text": "El d\u00eda de la revelaci\u00f3n , de Steven Spielberg",
@@ -90,30 +114,6 @@
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=std02f89r9ou67hoiti9fv5656"
-    },
-    {
-      "type": "news",
-      "text": "\u00cenaintea \u00eent\u00e2lnirii cu Apophis , asteroidul Zeului Haosului , astronomul Adrian \u0218onka : \u201e Sunt convins c\u0103 exist\u0103 civiliza\u021bii extraterestre  INTERVIU",
-      "source": "stiripesurse.ro",
-      "url": "https://www.stiripesurse.ro/inaintea-intalnirii-cu-apophis-asteroidul-zeului-haosului-astronomul-adrian-sonka-sunt-convins-ca-exista-civilizatii-extraterestre-interviu_3906565"
-    },
-    {
-      "type": "news",
-      "text": "El d\u00eda de la revelaci\u00f3n , de Steven Spielberg",
-      "source": "razon.com.mx",
-      "url": "https://www.razon.com.mx/el-cultural/2026/07/24/el-dia-de-la-revelacion-de-steven-spielberg/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=77mmejtauroh913ja5ukbtkrb5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=58m5duq2gupm57pvk030ldk9c3"
     },
     {
       "type": "neo",
@@ -3508,6 +3508,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.2
+    },
+    {
+      "ts": "2026-07-25T12:43:44.864347Z",
+      "score": 18.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.8
     }
   ],
   "sources": [
