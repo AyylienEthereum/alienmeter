@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-25T15:37:44.548540Z",
-  "score": 19.9,
+  "generated_at": "2026-07-25T16:33:07.106834Z",
+  "score": 20.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.6,
-    "d24h": -0.7,
+    "d1h": -0.5,
+    "d24h": -0.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,23 @@
     "day": 41,
     "date": "25.07.2026",
     "declassified": "25.07.26",
-    "generated_utc": "15:37",
+    "generated_utc": "16:33",
     "top_drivers": [
+      "Museo OVNI de La Serena cerrar\u00e1 durante agosto para reparar da\u00f1os causados por las lluvias",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.2,
+    "live_signal": 10.7,
     "baseline_recent": 22.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -20.923404312632155,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.692152336987894,
     "earthquakes_24h": 0,
@@ -54,6 +55,66 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Museo OVNI de La Serena cerrar\u00e1 durante agosto para reparar da\u00f1os causados por las lluvias",
+      "source": "diarioeldia.cl",
+      "url": "https://www.diarioeldia.cl/noticias/2026/07/25/145726-museo-ovni-de-la-serena-cerrara-durante-agosto-para-reparar-danos-causados-por-las-lluvias"
+    },
+    {
+      "type": "news",
+      "text": "Llegan la  Coffee Cup 2026  y la  Convenci\u00f3n de Cultura Pop  \u00ab Diario La Capital de Mar del Plata",
+      "source": "lacapitalmdp.com",
+      "url": "https://www.lacapitalmdp.com/llegan-la-coffee-cup-2026-y-la-convencion-de-cultura-pop/"
+    },
+    {
+      "type": "news",
+      "text": "\u041d\u043e\u0432\u0430 \u0437\u0430\u043f\u043e\u0432\u0435\u0434 \u043d\u0430 \u0422\u0440\u044a\u043c\u043f \u0434\u0430\u0432\u0430 \u0434\u043e\u0441\u0442\u044a\u043f \u0434\u043e \u0442\u0430\u0439\u043d\u0438\u0442\u0435 \u0434\u043e\u0441\u0438\u0435\u0442\u0430 \u0437\u0430 \u041d\u041b\u041e",
+      "source": "bgonair.bg",
+      "url": "https://www.bgonair.bg/a/163-lyubopitno/425553-nova-zapoved-na-tramp-dava-dostap-do-taynite-dosieta-za-nlo"
+    },
+    {
+      "type": "news",
+      "text": "O  Rosto de Marte : cinquenta anos de um dos maiores equ\u00edvocos da explorao espacial",
+      "source": "sapo.pt",
+      "url": "https://sapo.pt/artigo/o-rosto-de-marte-cinquenta-anos-de-um-dos-maiores-equivocos-da-exploracao-espacial-6a64ba8139564b23da9f968e"
+    },
+    {
+      "type": "news",
+      "text": "6 people have died at the Grand Canyon this year . Here how to stay safe",
+      "source": "yahoo.com",
+      "url": "https://www.yahoo.com/news/us/articles/6-people-died-grand-canyon-120201126.html"
+    },
+    {
+      "type": "news",
+      "text": "70s Style Robot Anime Geppy - X Review - Super Robot Nostalgia at Full Power",
+      "source": "cogconnected.com",
+      "url": "https://cogconnected.com/review/70s-style-robot-anime-geppy-x-review/"
+    },
+    {
+      "type": "news",
+      "text": "Les Franciscaines de Deauville : quel est cet ovni culturel qui a d\u00e9j\u00e0 attir\u00e9 un million de",
+      "source": "laseyne.maville.com",
+      "url": "https://laseyne.maville.com/actu/actudet_-les-franciscaines-de-deauville-quel-est-cet-ovni-culturel-qui-a-deja-attire-un-million-de-visiteurs-en-cinq-ans-_fil-7419757_actu.Htm"
+    },
+    {
+      "type": "news",
+      "text": "Les Franciscaines de Deauville : quel est cet ovni culturel qui a d\u00e9j\u00e0 attir\u00e9 un million de",
+      "source": "brignoles.maville.com",
+      "url": "https://brignoles.maville.com/actu/actudet_-les-franciscaines-de-deauville-quel-est-cet-ovni-culturel-qui-a-deja-attire-un-million-de-visiteurs-en-cinq-ans-_fil-7419757_actu.Htm"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX stock got cut in half after joining an industry sell - off already underway : Chart of the Day",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html"
+    },
+    {
+      "type": "news",
+      "text": "El d\u00eda de la revelaci\u00f3n , de Steven Spielberg",
+      "source": "razon.com.mx",
+      "url": "https://www.razon.com.mx:443/el-cultural/2026/07/24/el-dia-de-la-revelacion-de-steven-spielberg/"
+    },
     {
       "type": "neo",
       "text": "NEO (2015 BF) passing at 17.24 LD (~28m, 12.5 km/s)",
@@ -3468,6 +3529,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.2
+    },
+    {
+      "ts": "2026-07-25T16:33:07.031407Z",
+      "score": 20.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.7
     }
   ],
   "sources": [
