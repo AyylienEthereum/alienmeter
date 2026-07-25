@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-25T06:05:34.660372Z",
-  "score": 21.3,
+  "generated_at": "2026-07-25T08:23:02.737873Z",
+  "score": 19.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.2,
-    "d24h": -1.5,
+    "d1h": -3.7,
+    "d24h": -4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 41,
     "date": "25.07.2026",
     "declassified": "25.07.26",
-    "generated_utc": "06:05",
+    "generated_utc": "08:23",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
@@ -41,81 +40,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
-    "baseline_recent": 23.1,
+    "live_signal": 10.0,
+    "baseline_recent": 23.0,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
-    "gdelt_spike_pct": -27.653585926928287,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -11.72584333858889,
+    "wiki_spike_pct": -25.844673309213523,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=pjgvbgp2khj5i8da632lhm44c5"
-    },
-    {
-      "type": "news",
-      "text": "Federal agents seize 280 pounds of methamphetamine in metro Atlanta",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/federal-agents-seize-280-pounds-methamphetamine-metro-atlanta"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b3urkdel0naae0ha886vp7eki5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nffc1c45fr5b52blr6iq003el4"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=eshnlq1a277cq1vhc3b3dltsc3"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=di39rf28ld58fbapffi545l9h6"
-    },
-    {
-      "type": "news",
-      "text": "Flash flood watch in western New Mexico as storms may bring heavy rain",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/flash-flood-watch-in-western-new-mexico-as-storms-may-bring-heavy-rain/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vpqg6l6mejgqe1fr498deucja5"
-    },
-    {
-      "type": "news",
-      "text": "Antarctica  hummingbird  revealed in stunning new NASA radar",
-      "source": "fox35orlando.com",
-      "url": "https://www.fox35orlando.com/news/nasa-hummingbird-shaped-satellite-image"
-    },
-    {
-      "type": "news",
-      "text": "Weekend PC Download Deals for July 24 : Steam Train Fest",
-      "source": "shacknews.com",
-      "url": "https://www.shacknews.com/article/150141/weekend-pc-download-deals-for-july-24-steam-train-fest"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5392\r Issue Time: 2026 Jul 24 0856 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -3494,6 +3433,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-07-25T08:23:02.685696Z",
+      "score": 19.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.0
     }
   ],
   "sources": [
