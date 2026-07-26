@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-26T15:19:53.286600Z",
-  "score": 31.9,
+  "generated_at": "2026-07-26T16:28:33.912183Z",
+  "score": 21.6,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 11.4,
-    "d24h": 10.7,
+    "d1h": 3.4,
+    "d24h": -10.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 12.1,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.2,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 0.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,42 @@
     "day": 42,
     "date": "26.07.2026",
     "declassified": "26.07.26",
-    "generated_utc": "15:19",
+    "generated_utc": "16:28",
     "top_drivers": [
-      "News velocity +50% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 2",
       "NEO (2015 BF) passing Earth at 17.2 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.8,
+    "live_signal": 12.6,
     "baseline_recent": 22.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 17.2447747545,
     "asteroid_name": "(2015 BF)",
-    "gdelt_spike_pct": 50.217515665119016,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.596503435678876,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1516\r Issue Time: 2026 Jul 26 1546 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3721\r Issue Time: 2026 Jul 26 1535 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "neo",
       "text": "NEO (2015 BF) passing at 17.24 LD (~28m, 12.5 km/s)",
@@ -3581,6 +3593,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.8
+    },
+    {
+      "ts": "2026-07-26T16:28:33.835399Z",
+      "score": 21.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.6
     }
   ],
   "sources": [
