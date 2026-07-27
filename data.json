@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T10:07:43.350043Z",
-  "score": 17.8,
+  "generated_at": "2026-07-27T13:21:40.431975Z",
+  "score": 20.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -5.3,
-    "d24h": -32.1,
+    "d1h": -1.4,
+    "d24h": -28.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
-    "search_interest": 0.2,
+    "search_interest": 0.4,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 43,
     "date": "27.07.2026",
     "declassified": "27.07.26",
-    "generated_utc": "10:07",
+    "generated_utc": "13:21",
     "top_drivers": [
-      "Declassified Project Moondust Files Spark Claims US Secretly Recovered UFO Debris During Cold War",
+      "Airborne Oshkosh26 Day 1 : Piper Update , Congress v China , Autonomous OSH",
       "NOAA space-weather alerts active: 3",
       "NEO (2017 SL16) passing Earth at 76.4 lunar distances"
     ],
@@ -41,21 +41,39 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.8,
-    "baseline_recent": 22.5,
+    "live_signal": 10.8,
+    "baseline_recent": 22.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 76.402934119,
     "asteroid_name": "(2017 SL16)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 1.3168829456593782,
+    "wiki_spike_pct": 2.4123537596268934,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Airborne Oshkosh26 Day 1 : Piper Update , Congress v China , Autonomous OSH",
+      "source": "aero-news.net",
+      "url": "https://aero-news.net:443/fullsizeimage.cfm?do=main.textpost&id=1B69A071-3F77-4384-9EE1-14ACF5DC7E3B"
+    },
+    {
+      "type": "news",
+      "text": "Gene editing may help the immune system find prostate cancer",
+      "source": "ynetnews.com",
+      "url": "https://www.ynetnews.com/health_science/article/r1eu4unrmg"
+    },
+    {
+      "type": "news",
+      "text": "The world wildest hotels : Inside the most extraordinary places to spend the night - from a  UFO  to old jail cells",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/travel/article-16002441/weird-extraordinary-hotels-world.html"
+    },
     {
       "type": "news",
       "text": "Declassified Project Moondust Files Spark Claims US Secretly Recovered UFO Debris During Cold War",
@@ -97,24 +115,6 @@
       "text": "West - Current Conditions",
       "source": "leadertelegram.com",
       "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_2ec031eb-a0d8-56b3-a7f4-5ebee3339db3.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b46oddpi285rdarv0n0169sae6"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : nasa black hole",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/nasa%20black%20hole"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : I found a UFO In a NASA photo of Comet Tempel 1 , its half as big as Manhattan , NY , UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/07/i-found-ufo-in-nasa-photo-of-comet.html"
     },
     {
       "type": "swpc",
@@ -3737,6 +3737,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.8
+    },
+    {
+      "ts": "2026-07-27T13:21:40.361202Z",
+      "score": 20.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.8
     }
   ],
   "sources": [
