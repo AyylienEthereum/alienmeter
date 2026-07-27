@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-27T13:21:40.431975Z",
-  "score": 20.1,
+  "generated_at": "2026-07-27T15:57:44.715606Z",
+  "score": 16.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -28.0,
+    "d1h": -1.5,
+    "d24h": -7.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.4,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,106 +31,39 @@
     "day": 43,
     "date": "27.07.2026",
     "declassified": "27.07.26",
-    "generated_utc": "13:21",
+    "generated_utc": "15:57",
     "top_drivers": [
-      "Airborne Oshkosh26 Day 1 : Piper Update , Congress v China , Autonomous OSH",
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 2",
       "NEO (2017 SL16) passing Earth at 76.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.8,
+    "live_signal": 5.6,
     "baseline_recent": 22.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 76.402934119,
     "asteroid_name": "(2017 SL16)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -30.015435101236104,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.4123537596268934,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Airborne Oshkosh26 Day 1 : Piper Update , Congress v China , Autonomous OSH",
-      "source": "aero-news.net",
-      "url": "https://aero-news.net:443/fullsizeimage.cfm?do=main.textpost&id=1B69A071-3F77-4384-9EE1-14ACF5DC7E3B"
-    },
-    {
-      "type": "news",
-      "text": "Gene editing may help the immune system find prostate cancer",
-      "source": "ynetnews.com",
-      "url": "https://www.ynetnews.com/health_science/article/r1eu4unrmg"
-    },
-    {
-      "type": "news",
-      "text": "The world wildest hotels : Inside the most extraordinary places to spend the night - from a  UFO  to old jail cells",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/travel/article-16002441/weird-extraordinary-hotels-world.html"
-    },
-    {
-      "type": "news",
-      "text": "Declassified Project Moondust Files Spark Claims US Secretly Recovered UFO Debris During Cold War",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/declassified-cold-war-files-us-ufo-retrieval-1810780"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=k5h0ng7uf5f6rketm7pmidb521"
-    },
-    {
-      "type": "news",
-      "text": "Airborne Osh26 Day 1 Redux : Piper Update , Congress v China , Autonomous OSH",
-      "source": "aero-news.net",
-      "url": "https://aero-news.net:443/index.cfm?do=main.textpost&id=741471A0-F48C-49C9-A6EA-D4BA3A167146"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qsdiookte2k1blfjqogo65p863"
-    },
-    {
-      "type": "news",
-      "text": "Arresting  illegal alien in the  best dimension : White House shares Rick and Morty video of Trump",
-      "source": "albawaba.com",
-      "url": "https://www.albawaba.com/entertainment/arresting-illegal-aliens-best-dimension-white-house-rick-morty-trump-1633872"
-    },
-    {
-      "type": "news",
-      "text": "AEW Redemption live results : Kenny Omega vs . Kevin Knight",
-      "source": "f4wonline.com",
-      "url": "https://www.f4wonline.com/news/aew/aew-results/aew-redemption-live-results-kenny-omega-vs-kevin-knight/"
-    },
-    {
-      "type": "news",
-      "text": "West - Current Conditions",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_2ec031eb-a0d8-56b3-a7f4-5ebee3339db3.html"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3722\r Issue Time: 2026 Jul 27 1453 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1517\r Issue Time: 2026 Jul 27 0403 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1516\r Issue Time: 2026 Jul 26 1546 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3721\r Issue Time: 2026 Jul 26 1535 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -3744,6 +3677,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.8
+    },
+    {
+      "ts": "2026-07-27T15:57:44.638739Z",
+      "score": 16.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 5.6
     }
   ],
   "sources": [
