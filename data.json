@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-27T15:57:44.715606Z",
-  "score": 16.0,
+  "generated_at": "2026-07-27T17:42:30.262047Z",
+  "score": 18.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.5,
-    "d24h": -7.7,
+    "d1h": 0.0,
+    "d24h": -5.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.4,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,22 @@
     "day": 43,
     "date": "27.07.2026",
     "declassified": "27.07.26",
-    "generated_utc": "15:57",
+    "generated_utc": "17:42",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
-      "NEO (2017 SL16) passing Earth at 76.4 lunar distances"
+      "NOAA space-weather alerts active: 2"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.6,
+    "live_signal": 9.3,
     "baseline_recent": 22.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
-    "closest_asteroid_ld": 76.402934119,
-    "asteroid_name": "(2017 SL16)",
-    "gdelt_spike_pct": -30.015435101236104,
+    "xray_class": "C",
+    "closest_asteroid_ld": null,
+    "asteroid_name": null,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.4123537596268934,
     "earthquakes_24h": 0,
@@ -66,12 +65,6 @@
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1517\r Issue Time: 2026 Jul 27 0403 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "neo",
-      "text": "NEO (2017 SL16) passing at 76.40 LD (~39m, 4.2 km/s)",
-      "source": "NASA NeoWs",
-      "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
@@ -3684,6 +3677,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 5.6
+    },
+    {
+      "ts": "2026-07-27T17:42:30.184890Z",
+      "score": 18.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.3
     }
   ],
   "sources": [
