@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T17:42:30.262047Z",
-  "score": 18.9,
+  "generated_at": "2026-07-27T19:01:48.587731Z",
+  "score": 19.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": -5.6,
+    "d1h": 1.9,
+    "d24h": -2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,24 @@
     "day": 43,
     "date": "27.07.2026",
     "declassified": "27.07.26",
-    "generated_utc": "17:42",
+    "generated_utc": "19:01",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2"
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "NOAA space-weather alerts active: 2",
+      "NEO (2017 SL16) passing Earth at 76.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.3,
-    "baseline_recent": 22.4,
+    "live_signal": 10.3,
+    "baseline_recent": 22.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": null,
-    "asteroid_name": null,
-    "gdelt_spike_pct": null,
+    "closest_asteroid_ld": 76.402934119,
+    "asteroid_name": "(2017 SL16)",
+    "gdelt_spike_pct": -28.979074191502853,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.4123537596268934,
     "earthquakes_24h": 0,
@@ -54,6 +56,66 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nh8alomt5s933vir6t23i03gc4"
+    },
+    {
+      "type": "news",
+      "text": "\u5e73\u5747\u5e74\u9f84\u4ec522\u5c81 \uff01 \u54c8\u5de5\u5927\u5b66\u751f\u56e2\u961f\u624b\u64135cm\u8d85\u8584\u536b\u661f\u4e0a\u5929 \u5916\u5f62\u9177\u4f3c\u98de\u789f",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-28/doc-inikhpyq8284400.shtml"
+    },
+    {
+      "type": "news",
+      "text": "\u041e\u0431\u0437\u043e\u0440 \u0444\u0438\u043b\u044c\u043c\u0430 \u00ab \u0414\u0435\u043d\u044c \u0440\u0430\u0437\u043e\u0431\u043b\u0430\u0447\u0435\u043d\u0438\u044f \u00bb ( 2026 ): \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0437\u0430\u043c\u044b\u0441\u0435\u043b \u0421\u043f\u0438\u043b\u0431\u0435\u0440\u0433\u0430 , \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u0441\u0442\u0440\u044f\u043b \u0432 \u043f\u0440\u043e\u0448\u043b\u043e\u043c / \u041a\u0438\u043d\u043e \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b / iXBT Live",
+      "source": "ixbt.com",
+      "url": "https://www.ixbt.com/live/movie/obzor-filma-den-razoblacheniya-2026-bolshoy-zamysel-spilberga-kotoryy-zastryal-v-proshlom.html"
+    },
+    {
+      "type": "news",
+      "text": "The Man Who Inspired Steven Spielberg UFO Obsession",
+      "source": "denofgeek.com",
+      "url": "https://www.denofgeek.com/movies/the-man-who-inspired-steven-spielberg-ufo-obsession/"
+    },
+    {
+      "type": "news",
+      "text": "Congressman : Pilots Who Witnessed UFOs Destroyed Evidence",
+      "source": "brobible.com",
+      "url": "https://brobible.com/culture/article/tennessee-congressman-claims-military-pilots-who-witnessed-ufos-destroyed-evidence/"
+    },
+    {
+      "type": "news",
+      "text": "UFO POV on Sky History : full details and when it on",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/691de9ea-e2d0-5dc7-bb3d-4b5b1e24532e/ufo-pov"
+    },
+    {
+      "type": "news",
+      "text": "Fish Kills Reported on Over 100 Minnesota Lakes This Season",
+      "source": "kfilradio.com",
+      "url": "https://kfilradio.com/ixp/67/p/minnesota-fish-kill-heat/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=61q7sc744k1c9jfhnsbc0d5544"
+    },
+    {
+      "type": "news",
+      "text": "FloridaRAMA Offers Maker Mondays , A New Series Of Creative Workshops In St . Pete",
+      "source": "patch.com",
+      "url": "https://patch.com/florida/stpete/floridarama-offers-maker-mondays-new-series-creative-workshops-st-pete"
+    },
+    {
+      "type": "news",
+      "text": "The art of resilience : How heritage and swordsmanship keep Brent Eaton charging ahead",
+      "source": "atholdailynews.com",
+      "url": "https://atholdailynews.com/2026/07/24/the-art-of-resilience-how-heritage-and-swordsmanship-keep-brent-eaton-charging-ahead/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3722\r Issue Time: 2026 Jul 27 1453 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -65,6 +127,12 @@
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1517\r Issue Time: 2026 Jul 27 0403 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "neo",
+      "text": "NEO (2017 SL16) passing at 76.40 LD (~39m, 4.2 km/s)",
+      "source": "NASA NeoWs",
+      "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
@@ -3684,6 +3752,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.3
+    },
+    {
+      "ts": "2026-07-27T19:01:48.512954Z",
+      "score": 19.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.3
     }
   ],
   "sources": [
