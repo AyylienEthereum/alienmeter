@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-28T16:41:08.667670Z",
-  "score": 20.8,
+  "generated_at": "2026-07-28T18:03:21.491112Z",
+  "score": 14.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": -27.0,
+    "d1h": -5.7,
+    "d24h": -34.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 3.9,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.4,
-    "alien_variance": 2.2
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,22 @@
     "day": 44,
     "date": "28.07.2026",
     "declassified": "28.07.26",
-    "generated_utc": "16:41",
+    "generated_utc": "18:03",
     "top_drivers": [
-      "News velocity +16% vs 7-day baseline (GDELT)",
       "NEO (2018 YH) passing Earth at 70.8 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.0,
+    "live_signal": 3.8,
     "baseline_recent": 22.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": null,
     "closest_asteroid_ld": 70.7894664681,
     "asteroid_name": "(2018 YH)",
-    "gdelt_spike_pct": 16.27486689002266,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -7.823001362974096,
     "earthquakes_24h": 3,
@@ -57,7 +56,7 @@
   "ticker": [
     {
       "type": "seismic",
-      "text": "Significant seismic event: 5 km E of Uto, Japan",
+      "text": "Significant seismic event: 2026 Uto, Japan Earthquake\u00a0",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -3775,6 +3774,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.0
+    },
+    {
+      "ts": "2026-07-28T18:03:21.415289Z",
+      "score": 14.4,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 3.8
     }
   ],
   "sources": [
