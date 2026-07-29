@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-29T18:03:35.027315Z",
-  "score": 24.4,
+  "generated_at": "2026-07-29T19:41:52.853817Z",
+  "score": 16.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 8.6,
-    "d24h": 0.4,
+    "d1h": 0.2,
+    "d24h": -6.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 12.7,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
@@ -31,24 +31,22 @@
     "day": 45,
     "date": "29.07.2026",
     "declassified": "29.07.26",
-    "generated_utc": "18:03",
+    "generated_utc": "19:41",
     "top_drivers": [
-      "Farthest Non - Lensed Quasar Wind Caught Racing at a Third of Light Speed",
-      "News velocity +53% vs 7-day baseline (GDELT)",
       "NEO (2018 YH) passing Earth at 70.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.8,
+    "live_signal": 6.6,
     "baseline_recent": 21.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 70.7894664681,
     "asteroid_name": "(2018 YH)",
-    "gdelt_spike_pct": 52.91667942554429,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.113790504898258,
     "earthquakes_24h": 0,
@@ -56,66 +54,6 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Farthest Non - Lensed Quasar Wind Caught Racing at a Third of Light Speed",
-      "source": "techtimes.com",
-      "url": "https://www.techtimes.com/articles/321983/20260729/farthest-non-lensed-quasar-wind-caught-racing-third-light-speed.htm"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "reporterherald.com",
-      "url": "https://www.reporterherald.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "greeleytribune.com",
-      "url": "https://www.greeleytribune.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "timesherald.com",
-      "url": "https://www.timesherald.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h6t3u06nolbskfpp5jmm1lr963"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=abm9mfji647elukek2c5n2c435"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "news-herald.com",
-      "url": "https://www.news-herald.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gp8he334qlupkqbb6ihjc7jos4"
-    },
-    {
-      "type": "news",
-      "text": "UFO Aliens sightings news 2026 : In 2012 , NASA Curiosity Rover discovered a home , now that 96 - mile wide Gale Crater is sparking claims of finding doorway to a long lost civilization in Mars",
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2012-nasas-curiosity-rover-discovered-a-home-now-that-96-mile-wide-gale-crater-is-sparking-claims-of-finding-doorway-to-a-long-lost-civilization-in-mars/articleshow/132715347.cms"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "themorningsun.com",
-      "url": "https://www.themorningsun.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
     {
       "type": "neo",
       "text": "NEO (2018 YH) passing at 70.79 LD (~254m, 7.3 km/s) \u2014 PHA",
@@ -3922,6 +3860,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.8
+    },
+    {
+      "ts": "2026-07-29T19:41:52.795024Z",
+      "score": 16.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 6.6
     }
   ],
   "sources": [
