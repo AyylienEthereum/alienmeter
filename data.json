@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-29T16:50:10.236456Z",
-  "score": 15.1,
+  "generated_at": "2026-07-29T18:03:35.027315Z",
+  "score": 24.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.2,
-    "d24h": -6.0,
+    "d1h": 8.6,
+    "d24h": 0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 12.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 45,
     "date": "29.07.2026",
     "declassified": "29.07.26",
-    "generated_utc": "16:50",
+    "generated_utc": "18:03",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "Farthest Non - Lensed Quasar Wind Caught Racing at a Third of Light Speed",
+      "News velocity +53% vs 7-day baseline (GDELT)",
       "NEO (2018 YH) passing Earth at 70.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 4.8,
-    "baseline_recent": 21.8,
+    "live_signal": 16.8,
+    "baseline_recent": 21.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 70.7894664681,
     "asteroid_name": "(2018 YH)",
-    "gdelt_spike_pct": -74.72515544804702,
+    "gdelt_spike_pct": 52.91667942554429,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.113790504898258,
     "earthquakes_24h": 0,
@@ -55,6 +56,36 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Farthest Non - Lensed Quasar Wind Caught Racing at a Third of Light Speed",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/321983/20260729/farthest-non-lensed-quasar-wind-caught-racing-third-light-speed.htm"
+    },
+    {
+      "type": "news",
+      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
+      "source": "reporterherald.com",
+      "url": "https://www.reporterherald.com/2026/07/29/less-crowded-destinations-colorado/"
+    },
+    {
+      "type": "news",
+      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
+      "source": "greeleytribune.com",
+      "url": "https://www.greeleytribune.com/2026/07/29/less-crowded-destinations-colorado/"
+    },
+    {
+      "type": "news",
+      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
+      "source": "timesherald.com",
+      "url": "https://www.timesherald.com/2026/07/29/less-crowded-destinations-colorado/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h6t3u06nolbskfpp5jmm1lr963"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -84,36 +115,6 @@
       "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
       "source": "themorningsun.com",
       "url": "https://www.themorningsun.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "Strong storms leave damage , thousands without power across north Georgia",
-      "source": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/local/strong-storms-leave-damage-thousands-without-power-across-north-georgia/BG2UX55T7NHRNIXPT4LO5DKYFE/"
-    },
-    {
-      "type": "news",
-      "text": "Less crowded Colorado destinations for camping , gravel biking , hot springs and more",
-      "source": "mainlinemedianews.com",
-      "url": "https://www.mainlinemedianews.com/2026/07/29/less-crowded-destinations-colorado/"
-    },
-    {
-      "type": "news",
-      "text": "\u0421\u041c\u0418 : \u043d\u0430 \u041c\u0430\u0440\u0441\u0435 \u043d\u0430\u0448\u043b\u0438  \u0440\u0430\u043a\u0435\u0442\u0443  - \u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 , 29 . 07 . 2026",
-      "source": "ria.ru",
-      "url": "https://ria.ru/20260729/mars-2107774421.html"
-    },
-    {
-      "type": "news",
-      "text": "\u0417\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u044b\u0435 \u0440\u0438\u0442\u043c\u044b \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439 : \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u044b \u043d\u0430 \u0417\u0435\u043c\u043b\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u044f\u0442 \u0441 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u043e\u043c - \u0411\u043b\u043e\u043a\u043d\u043e\u0442\u0420\u0423 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f . \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u043c\u0438\u0440\u0430 \u0438 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f . \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f . \u041f\u043e\u0441\u043b\u0435\u0434\u043d",
-      "source": "bloknot.ru",
-      "url": "https://bloknot.ru/nauka/zagadochnye-ritmy-vselennoj-globalnye-katastrofy-na-zemle-proishodyat-s-opredelennym-intervalom-1530205.html"
-    },
-    {
-      "type": "news",
-      "text": "Qual \u00e9 o protocolo caso a vida alien\u00edgena seja confirmada ? ",
-      "source": "tecmundo.com.br",
-      "url": "https://www.tecmundo.com.br/ciencia/414177-qual-e-o-protocolo-caso-a-vida-alienigena-seja-confirmada.htm"
     },
     {
       "type": "neo",
@@ -3914,6 +3915,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 4.8
+    },
+    {
+      "ts": "2026-07-29T18:03:34.970020Z",
+      "score": 24.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.8
     }
   ],
   "sources": [
