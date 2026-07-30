@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-30T18:16:02.718038Z",
-  "score": 21.2,
+  "generated_at": "2026-07-30T19:54:11.457704Z",
+  "score": 49.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 5.3,
-    "d24h": -2.7,
+    "d1h": 36.1,
+    "d24h": 24.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 32.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 0.0,
+    "asteroid_approach": 3.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,46 +31,115 @@
     "day": 46,
     "date": "30.07.2026",
     "declassified": "30.07.26",
-    "generated_utc": "18:16",
+    "generated_utc": "19:54",
     "top_drivers": [
-      "NOAA space-weather alerts active: 5"
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +134% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 8",
+      "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.9,
+    "live_signal": 49.8,
     "baseline_recent": 21.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": null,
-    "asteroid_name": null,
-    "gdelt_spike_pct": null,
+    "closest_asteroid_ld": 30.6716712371,
+    "asteroid_name": "(2012 DW60)",
+    "gdelt_spike_pct": 133.81494859683244,
     "x_last_hour": 0,
     "wiki_spike_pct": -14.215168709936899,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 8
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=24q61hr4360eeip9krgvr2p5d2"
+    },
+    {
+      "type": "news",
+      "text": "Washington UFO Sighting Odds Peak on This August Night",
+      "source": "mega993online.com",
+      "url": "https://mega993online.com/ixp/137/p/washington-sightings-date/"
+    },
+    {
+      "type": "news",
+      "text": "UAPs and Space Exploration Discussed in Pennsylvania Committee",
+      "source": "weny.com",
+      "url": "https://www.weny.com/news/harrisburg/uaps-and-space-exploration-discussed-in-pennsylvania-committee/article_66698503-36f4-555d-b73e-af82936fe084.html"
+    },
+    {
+      "type": "news",
+      "text": "Limited TV series based on Stephen King novel that viewers are loving | TV & Radio | Showbiz & TV",
+      "source": "express.co.uk",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/2234448/limited-tv-series-stephen-king-the-outsiders"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=t01pvck1fabds933kagl7bv6g3"
+    },
+    {
+      "type": "news",
+      "text": "Washington UFO Sighting Odds Peak on This August Night",
+      "source": "katsfm.com",
+      "url": "https://katsfm.com/washington-sightings-date/"
+    },
+    {
+      "type": "news",
+      "text": "Guy Pretends To Be A Time Traveler From 2045 , Shares The Upcoming And Surprising Events For Humanity",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/time-traveler-warns-the-world-about-aliens-and-dinosaurs-claims-to-have-come-back-from-2045/?cexp_id=158602&_f=homepage_featured&cexp_var=8"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4cs45jdo44i04ork40rhd2r216"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vm54i328itucgh9c12vodq3ok3"
+    },
+    {
+      "type": "news",
+      "text": "Guy Pretends To Be A Time Traveler From 2045 , Shares The Upcoming And Surprising Events For Humanity",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/time-traveler-warns-the-world-about-aliens-and-dinosaurs-claims-to-have-come-back-from-2045/"
+    },
+    {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARPC0\r Serial Number: 122\r Issue Time: 2026 Jul 30 1808 UTC\r \r WARNING: Proton 100MeV Integral Flux above 1pfu ",
+      "text": "Space Weather Message Code: ALTPX1\r Serial Number: 366\r Issue Time: 2026 Jul 30 1903 UTC\r \r ALERT: Proton Event 10meV Integral Flux exceeded",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 925\r Issue Time: 2026 Jul 30 1716 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Jul ",
+      "text": "Space Weather Message Code: WARPX1\r Serial Number: 628\r Issue Time: 2026 Jul 30 1834 UTC\r \r WARNING: Proton 10MeV Integral Flux above 10pfu ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1519\r Issue Time: 2026 Jul 30 1712 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "text": "Space Weather Message Code: ALTPC0\r Serial Number: 56\r Issue Time: 2026 Jul 30 1833 UTC\r \r ALERT: Proton Event 100MeV Integral Flux exceeded",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "neo",
+      "text": "NEO (2012 DW60) passing at 30.67 LD (~30m, 6.4 km/s)",
+      "source": "NASA NeoWs",
+      "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
@@ -3970,6 +4039,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.9
+    },
+    {
+      "ts": "2026-07-30T19:54:11.399149Z",
+      "score": 49.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 49.8
     }
   ],
   "sources": [
