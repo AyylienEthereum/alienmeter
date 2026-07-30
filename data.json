@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:24:18.603995Z",
-  "score": 17.7,
+  "generated_at": "2026-07-30T16:58:08.318321Z",
+  "score": 18.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.2,
-    "d24h": -29.5,
+    "d1h": 5.1,
+    "d24h": -7.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.5
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,29 +31,90 @@
     "day": 46,
     "date": "30.07.2026",
     "declassified": "30.07.26",
-    "generated_utc": "15:24",
+    "generated_utc": "16:58",
     "top_drivers": [
-      "Background monitoring \u2014 no significant drivers in the last cycle."
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.5,
-    "baseline_recent": 21.4,
+    "live_signal": 9.1,
+    "baseline_recent": 21.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": null,
     "asteroid_name": null,
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -14.215168709936899,
+    "wiki_spike_pct": -13.88137767689726,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
-  "ticker": [],
+  "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4cs45jdo44i04ork40rhd2r216"
+    },
+    {
+      "type": "news",
+      "text": "Guy Pretends To Be A Time Traveler From 2045 , Shares The Upcoming And Surprising Events For Humanity",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/time-traveler-warns-the-world-about-aliens-and-dinosaurs-claims-to-have-come-back-from-2045/?cexp_id=158602&_f=homepage_featured&cexp_var=8"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vm54i328itucgh9c12vodq3ok3"
+    },
+    {
+      "type": "news",
+      "text": "Guy Pretends To Be A Time Traveler From 2045 , Shares The Upcoming And Surprising Events For Humanity",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/time-traveler-warns-the-world-about-aliens-and-dinosaurs-claims-to-have-come-back-from-2045/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cboopmq536oj7itfucfompo410"
+    },
+    {
+      "type": "news",
+      "text": "9 Sharks Swimming Off the New Jersey Coast During Shark Week",
+      "source": "1057thehawk.com",
+      "url": "https://1057thehawk.com/ixp/394/p/nine-sharks-swimming-new-jersey-coast/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-07-22T09:03:00-06:00&max-results=10"
+    },
+    {
+      "type": "news",
+      "text": "Il meteo dei buchi neri : venti ultrarapidi nelluniverso adolescente",
+      "source": "lescienze.it",
+      "url": "https://www.lescienze.it/comunicati-stampa/2026/07/30/news/il_meteo_dei_buchi_neri_venti_ultrarapidi_nell_universo_adolescente-22455114/"
+    },
+    {
+      "type": "news",
+      "text": "Alto - Shaam Vector Multi - Cook Foodservice Ovens Expand in Bizarre Coffee",
+      "source": "perishablenews.com",
+      "url": "https://perishablenews.com/retailfoodservice/alto-shaams-vector-multi-cook-foodservice-ovens-expand-in-bizarre-coffee/"
+    },
+    {
+      "type": "news",
+      "text": "Skinwalker Ranch UFO Discovery : Manufactured Material Extracted From Underground Mesa",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/skinwalker-ranch-manufactured-materials-discovery-1811547"
+    }
+  ],
   "history": [
     {
       "ts": "2026-06-15T14:05:02.896026Z",
@@ -3937,6 +3998,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.5
+    },
+    {
+      "ts": "2026-07-30T16:58:08.243195Z",
+      "score": 18.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.1
     }
   ],
   "sources": [
