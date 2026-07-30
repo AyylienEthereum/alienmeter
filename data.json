@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T21:01:50.801350Z",
-  "score": 24.2,
+  "generated_at": "2026-07-30T22:18:13.893311Z",
+  "score": 23.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 6.5,
-    "d24h": -4.0,
+    "d1h": 5.5,
+    "d24h": -2.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 46,
     "date": "30.07.2026",
     "declassified": "30.07.26",
-    "generated_utc": "21:01",
+    "generated_utc": "22:18",
     "top_drivers": [
-      "Contribuintes t\u00eam at\u00e9 amanh\u00e3 para pagar a segunda parcela do IPTU e aderir ao REFIS",
+      "Washington UFO Sighting Odds Peak on This August Night",
       "NOAA space-weather alerts active: 8",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
@@ -41,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.8,
+    "live_signal": 16.1,
     "baseline_recent": 21.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 30.6716712371,
     "asteroid_name": "(2012 DW60)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -17.598101168274717,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.88137767689726,
     "earthquakes_24h": 0,
@@ -56,6 +56,36 @@
     "swpc_alerts_24h": 8
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Washington UFO Sighting Odds Peak on This August Night",
+      "source": "newstalkkit.com",
+      "url": "https://newstalkkit.com/ixp/137/p/washington-sightings-date/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a532brmcv18l5mgnhrcre7he36"
+    },
+    {
+      "type": "news",
+      "text": "Washington UFO Sighting Odds Peak on This August Night",
+      "source": "929thebull.com",
+      "url": "https://929thebull.com/ixp/137/p/washington-sightings-date/"
+    },
+    {
+      "type": "news",
+      "text": "Guy Pretends To Be A Time Traveler From 2045 , Shares The Upcoming And Surprising Events For Humanity",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/time-traveler-warns-the-world-about-aliens-and-dinosaurs-claims-to-have-come-back-from-2045/?cexp_id=158600&_f=homepage_featured&cexp_var=17"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=db0pen4j3ef2gu9obcg9h2p444"
+    },
     {
       "type": "news",
       "text": "Contribuintes t\u00eam at\u00e9 amanh\u00e3 para pagar a segunda parcela do IPTU e aderir ao REFIS",
@@ -85,36 +115,6 @@
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=24q61hr4360eeip9krgvr2p5d2"
-    },
-    {
-      "type": "news",
-      "text": "Washington UFO Sighting Odds Peak on This August Night",
-      "source": "mega993online.com",
-      "url": "https://mega993online.com/ixp/137/p/washington-sightings-date/"
-    },
-    {
-      "type": "news",
-      "text": "UAPs and Space Exploration Discussed in Pennsylvania Committee",
-      "source": "weny.com",
-      "url": "https://www.weny.com/news/harrisburg/uaps-and-space-exploration-discussed-in-pennsylvania-committee/article_66698503-36f4-555d-b73e-af82936fe084.html"
-    },
-    {
-      "type": "news",
-      "text": "Limited TV series based on Stephen King novel that viewers are loving | TV & Radio | Showbiz & TV",
-      "source": "express.co.uk",
-      "url": "https://www.express.co.uk/showbiz/tv-radio/2234448/limited-tv-series-stephen-king-the-outsiders"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=t01pvck1fabds933kagl7bv6g3"
-    },
-    {
-      "type": "news",
-      "text": "Washington UFO Sighting Odds Peak on This August Night",
-      "source": "katsfm.com",
-      "url": "https://katsfm.com/washington-sightings-date/"
     },
     {
       "type": "swpc",
@@ -4052,6 +4052,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.8
+    },
+    {
+      "ts": "2026-07-30T22:18:13.817509Z",
+      "score": 23.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.1
     }
   ],
   "sources": [
