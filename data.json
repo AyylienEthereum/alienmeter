@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-31T12:19:34.909962Z",
-  "score": 24.6,
+  "generated_at": "2026-07-31T14:56:39.242625Z",
+  "score": 22.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": -1.7,
+    "d1h": -2.0,
+    "d24h": -2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,45 +31,45 @@
     "day": 47,
     "date": "31.07.2026",
     "declassified": "31.07.26",
-    "generated_utc": "12:19",
+    "generated_utc": "14:56",
     "top_drivers": [
-      "NOAA space-weather alerts active: 11",
+      "NOAA space-weather alerts active: 13",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.3,
-    "baseline_recent": 21.3,
+    "live_signal": 14.3,
+    "baseline_recent": 21.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 30.6716712371,
     "asteroid_name": "(2012 DW60)",
-    "gdelt_spike_pct": -74.79579929988331,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -20.78273353903753,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 11
+    "swpc_alerts_24h": 13
   },
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: ALTPX1\r Serial Number: 367\r Issue Time: 2026 Jul 31 1337 UTC\r \r ALERT: Proton Event 10meV Integral Flux exceeded",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARPX1\r Serial Number: 629\r Issue Time: 2026 Jul 31 1336 UTC\r \r WARNING: Proton 10MeV Integral Flux above 10pfu ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 279\r Issue Time: 2026 Jul 31 1105 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMPX1\r Serial Number: 132\r Issue Time: 2026 Jul 31 0908 UTC\r \r SUMMARY: Proton Event 10MeV Integral Flux exceed",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTPC0\r Serial Number: 57\r Issue Time: 2026 Jul 31 0156 UTC\r \r CANCEL ALERT: Proton Event 100MeV Integral Flux e",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -4040,6 +4040,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.3
+    },
+    {
+      "ts": "2026-07-31T14:56:39.168588Z",
+      "score": 22.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.3
     }
   ],
   "sources": [
