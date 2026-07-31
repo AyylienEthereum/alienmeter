@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T22:07:11.309683Z",
-  "score": 23.6,
+  "generated_at": "2026-07-31T23:15:32.721963Z",
+  "score": 24.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
@@ -11,7 +11,7 @@
   },
   "deltas": {
     "d1h": 2.0,
-    "d24h": 1.6,
+    "d24h": 0.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 47,
     "date": "31.07.2026",
     "declassified": "31.07.26",
-    "generated_utc": "22:07",
+    "generated_utc": "23:15",
     "top_drivers": [
+      "  Fire Country  star Diane Farr leaves Los Angeles behind after 30 years",
       "NOAA space-weather alerts active: 7",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
@@ -40,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.1,
-    "baseline_recent": 21.2,
+    "live_signal": 17.0,
+    "baseline_recent": 21.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "  Fire Country  star Diane Farr leaves Los Angeles behind after 30 years",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=su3qv5ph2mhj3ud0veqv1tn544"
+    },
+    {
+      "type": "news",
+      "text": "Getting Weird Out There \u2013 Epi 58 Show Recap",
+      "source": "1029thebuzz.com",
+      "url": "https://www.1029thebuzz.com/2026/07/31/select-getting-weird-out-there-epi-58-show-recap/"
+    },
+    {
+      "type": "news",
+      "text": "Ufo , nessuno e centomila \u2013 a scandiano , in provincia di reggio emilia , gli  alienologi ... ",
+      "source": "dagospia.com",
+      "url": "https://www.dagospia.com/cronache/ufo-nessuno-centomila-scandiano-in-provincia-reggio-emilia-gli-482357"
+    },
+    {
+      "type": "news",
+      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
+      "source": "983thesnake.com",
+      "url": "https://983thesnake.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
+    },
+    {
+      "type": "news",
+      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
+      "source": "kygl.com",
+      "url": "https://kygl.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
+    },
+    {
+      "type": "news",
+      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
+      "source": "mega993online.com",
+      "url": "https://mega993online.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
+    },
+    {
+      "type": "news",
+      "text": "Il presunto UFO alieno nascosto in Corea del Sud \u00e8 solo un radiofaro ad Anyang",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-07-31/il-presunto-ufo-alieno-nascosto-in-corea-del-sud-e-solo-un-radiofaro-ad-anyang/19523622/"
+    },
+    {
+      "type": "news",
+      "text": "XCOM : The Miniatures Game Arrives For Pre - Order During Gen Con",
+      "source": "bleedingcool.com",
+      "url": "https://bleedingcool.com/games/xcom-the-miniatures-game-arrives-for-pre-order-during-gen-con/"
+    },
+    {
+      "type": "news",
+      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
+      "source": "power96radio.com",
+      "url": "https://power96radio.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARPX1\r Serial Number: 630\r Issue Time: 2026 Jul 31 2154 UTC\r \r EXTENDED WARNING: Proton 10MeV Integral Flux abo",
@@ -4082,6 +4143,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.1
+    },
+    {
+      "ts": "2026-07-31T23:15:32.650004Z",
+      "score": 24.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.0
     }
   ],
   "sources": [
