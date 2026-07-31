@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-31T10:15:29.138660Z",
-  "score": 23.2,
+  "generated_at": "2026-07-31T12:19:34.909962Z",
+  "score": 24.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.7,
-    "d24h": -4.2,
+    "d1h": 1.7,
+    "d24h": -1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.4
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,90 +31,35 @@
     "day": 47,
     "date": "31.07.2026",
     "declassified": "31.07.26",
-    "generated_utc": "10:15",
+    "generated_utc": "12:19",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "NOAA space-weather alerts active: 10",
+      "NOAA space-weather alerts active: 11",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.5,
+    "live_signal": 17.3,
     "baseline_recent": 21.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 30.6716712371,
     "asteroid_name": "(2012 DW60)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.79579929988331,
     "x_last_hour": 0,
     "wiki_spike_pct": -20.78273353903753,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 10
+    "swpc_alerts_24h": 11
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bpr5sbnu3g352g4a5r0o1iu4n5"
-    },
-    {
-      "type": "news",
-      "text": "Ferrand - Pr\u00e9v\u00f4t , Kerbaol , Squiban , G\u00e9ry \u2026 Do\u00f9 vient la densit\u00e9 de talents tricolores sur le Tour de France femmes 2026 ? \u2013 franceinfo",
-      "source": "franceinfo.fr",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/ferrand-prevot-kerbaol-squiban-gery-d-ou-vient-la-densite-de-talents-tricolores-sur-le-tour-de-france-femmes-2026_8124266.html"
-    },
-    {
-      "type": "news",
-      "text": "UAP Gerb Alleges Former Pentagon Investigator Protected Secret UFO Programmes Before Going Public",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/controversy-ufo-disclosure-allegations-luis-elizondo-1811707"
-    },
-    {
-      "type": "news",
-      "text": "Washington UFO Sighting Odds Peak on This August Night",
-      "source": "newstalk870.am",
-      "url": "https://newstalk870.am/ixp/137/p/washington-sightings-date/"
-    },
-    {
-      "type": "news",
-      "text": "Drones offer alternative to balloons for weather research",
-      "source": "theguardian.com",
-      "url": "https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ei410s2fsn9b7f2e05nog9o4t5"
-    },
-    {
-      "type": "news",
-      "text": "New Harvard Files Claim UFO Witnesses From Three Continents Recounted Same First 60 Seconds of Abduction",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/harvard-archives-ufo-encounters-patterns-1811696"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ba64ibliv710ugc5m8lirsmgt3"
-    },
-    {
-      "type": "news",
-      "text": "NM Supreme Court rejects evidence in death of Artesia infant",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/news/nm-supreme-court-rejects-evidence-in-death-of-artesia-infant/3092478"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cdn5ldcqfepdkn64tr3f7716q6"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 279\r Issue Time: 2026 Jul 31 1105 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -125,12 +70,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTPC0\r Serial Number: 57\r Issue Time: 2026 Jul 31 0156 UTC\r \r CANCEL ALERT: Proton Event 100MeV Integral Flux e",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTPX1\r Serial Number: 366\r Issue Time: 2026 Jul 30 1903 UTC\r \r ALERT: Proton Event 10meV Integral Flux exceeded",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -4094,6 +4033,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.5
+    },
+    {
+      "ts": "2026-07-31T12:19:34.833864Z",
+      "score": 24.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.3
     }
   ],
   "sources": [
