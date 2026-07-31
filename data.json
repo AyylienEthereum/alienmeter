@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-31T04:40:05.961747Z",
-  "score": 24.2,
+  "generated_at": "2026-07-31T07:34:40.982976Z",
+  "score": 44.0,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": -2.6,
+    "d1h": 20.3,
+    "d24h": 15.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 25.4,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 47,
     "date": "31.07.2026",
     "declassified": "31.07.26",
-    "generated_utc": "04:40",
+    "generated_utc": "07:34",
     "top_drivers": [
+      "News velocity +106% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 9",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.8,
+    "live_signal": 42.3,
     "baseline_recent": 21.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 30.6716712371,
     "asteroid_name": "(2012 DW60)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 105.63634417480922,
     "x_last_hour": 0,
     "wiki_spike_pct": -20.78273353903753,
     "earthquakes_24h": 0,
@@ -4019,6 +4020,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.8
+    },
+    {
+      "ts": "2026-07-31T07:34:40.907310Z",
+      "score": 44.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 42.3
     }
   ],
   "sources": [
