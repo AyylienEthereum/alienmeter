@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-31T19:51:27.154094Z",
-  "score": 30.8,
+  "generated_at": "2026-07-31T20:58:43.067363Z",
+  "score": 29.5,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 6.2,
-    "d24h": 7.8,
+    "d1h": 7.3,
+    "d24h": 5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 8.8,
+    "news_velocity": 8.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 47,
     "date": "31.07.2026",
     "declassified": "31.07.26",
-    "generated_utc": "19:51",
+    "generated_utc": "20:58",
     "top_drivers": [
-      "Ufo , nessuno e centomila \u2013 a scandiano , in provincia di reggio emilia , gli  alienologi ... ",
-      "News velocity +37% vs 7-day baseline (GDELT)",
+      "News velocity +36% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 6",
       "NEO (2012 DW60) passing Earth at 30.7 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.4,
-    "baseline_recent": 21.2,
+    "live_signal": 23.7,
+    "baseline_recent": 21.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 30.6716712371,
     "asteroid_name": "(2012 DW60)",
-    "gdelt_spike_pct": 36.74483007736071,
+    "gdelt_spike_pct": 36.11588435681771,
     "x_last_hour": 0,
     "wiki_spike_pct": -20.78273353903753,
     "earthquakes_24h": 0,
@@ -57,66 +56,6 @@
     "swpc_alerts_24h": 6
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Ufo , nessuno e centomila \u2013 a scandiano , in provincia di reggio emilia , gli  alienologi ... ",
-      "source": "dagospia.com",
-      "url": "https://www.dagospia.com/cronache/ufo-nessuno-centomila-scandiano-in-provincia-reggio-emilia-gli-482357"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "983thesnake.com",
-      "url": "https://983thesnake.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "kygl.com",
-      "url": "https://kygl.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "mega993online.com",
-      "url": "https://mega993online.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Il presunto UFO alieno nascosto in Corea del Sud \u00e8 solo un radiofaro ad Anyang",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-07-31/il-presunto-ufo-alieno-nascosto-in-corea-del-sud-e-solo-un-radiofaro-ad-anyang/19523622/"
-    },
-    {
-      "type": "news",
-      "text": "XCOM : The Miniatures Game Arrives For Pre - Order During Gen Con",
-      "source": "bleedingcool.com",
-      "url": "https://bleedingcool.com/games/xcom-the-miniatures-game-arrives-for-pre-order-during-gen-con/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "power96radio.com",
-      "url": "https://power96radio.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "koolfmabilene.com",
-      "url": "https://koolfmabilene.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "kingfm.com",
-      "url": "https://kingfm.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
-    {
-      "type": "news",
-      "text": "Adrian Vandenberg Cancels 2026 Tour Due to Health Issues",
-      "source": "wpdh.com",
-      "url": "https://wpdh.com/ixp/295/p/adrian-vandenberg-cancels-2026-tour/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMPC0\r Serial Number: 40\r Issue Time: 2026 Jul 31 1846 UTC\r \r SUMMARY: Proton Event 100MeV Integral Flux exceed",
@@ -4130,6 +4069,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 25.4
+    },
+    {
+      "ts": "2026-07-31T20:58:43.009638Z",
+      "score": 29.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.7
     }
   ],
   "sources": [
