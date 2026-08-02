@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:38:16.852884Z",
-  "score": 23.2,
+  "generated_at": "2026-08-02T23:40:25.542189Z",
+  "score": 22.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.1,
-    "d24h": -6.3,
+    "d1h": 2.2,
+    "d24h": -0.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.3,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.4
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 49,
     "date": "02.08.2026",
     "declassified": "02.08.26",
-    "generated_utc": "22:38",
+    "generated_utc": "23:40",
     "top_drivers": [
+      "Sizzla brings the heat to  wet  International Reggae Night | Virgin Islands News Online",
       "NOAA space-weather alerts active: 11",
       "NEO (2019 QK7) passing Earth at 32.0 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.1,
-    "baseline_recent": 20.6,
+    "live_signal": 15.0,
+    "baseline_recent": 20.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 31.9577854878,
     "asteroid_name": "(2019 QK7)",
-    "gdelt_spike_pct": 5.231318490603462,
+    "gdelt_spike_pct": -73.23217394160343,
     "x_last_hour": 0,
     "wiki_spike_pct": -22.38109717065677,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 11
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Sizzla brings the heat to  wet  International Reggae Night | Virgin Islands News Online",
+      "source": "virginislandsnewsonline.com",
+      "url": "https://www.virginislandsnewsonline.com/en/news/sizzla-brings-the-heat-to-wet-international-reggae-night/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=19i04gaftmqdnnv1pj3mjd0220"
+    },
+    {
+      "type": "news",
+      "text": "Van historische mysteries tot de Europese onderwereld in augustus op The HISTORY Channel",
+      "source": "tvvisie.be",
+      "url": "https://tvvisie.be/inhoud/nederland/van-historische-mysteries-tot-de-europese-onderwereld-in-augustus-op-the-history-channel_141683/"
+    },
+    {
+      "type": "news",
+      "text": "Dosarele OZN ale Pentagonului . Luminile misterioase v\u0103zute de pilo\u021bi deasupra Germaniei \u0219i mitul \u201e farfuriilor zbur\u0103toare  naziste",
+      "source": "cotidianul.ro",
+      "url": "https://www.cotidianul.ro/dosarele-ozn-ale-pentagonului-luminile-misterioase-vazute-de-piloti-deasupra-germaniei-si-mitul-farfuriilor-zburatoare-naziste/"
+    },
+    {
+      "type": "news",
+      "text": "\u0130kinci D\u00fcnya Sava\u015f\u0131  n\u0131n gizli UFO raporlar\u0131 kamuoyuna a\u00e7\u0131ld\u0131",
+      "source": "tr.euronews.com",
+      "url": "https://tr.euronews.com/kultur/2026/08/02/pentagonun-ufo-dosyalari-almanya-ne-rol-oynadi"
+    },
+    {
+      "type": "news",
+      "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 \u043e\u0431 \u041d\u041b\u041e : \u043a\u0430\u043a\u0443\u044e \u0440\u043e\u043b\u044c \u0442\u0430\u043c \u0438\u0433\u0440\u0430\u0435\u0442 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "source": "ru.euronews.com",
+      "url": "https://ru.euronews.com/culture/2026/08/02/pentagon-ufo-files-what-role-germany-plays-in-them"
+    },
+    {
+      "type": "news",
+      "text": "\u0422\u0440\u0430\u043c\u043f \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0441\u0432\u043e\u0435 \u0444\u043e\u0442\u043e \u0440\u044f\u0434\u043e\u043c \u0441 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u0435\u043c",
+      "source": "aif.ru",
+      "url": "https://aif.ru/techno/web/tramp-opublikoval-svoe-foto-ryadom-s-prishelcem"
+    },
+    {
+      "type": "news",
+      "text": "Pilot warns of  flying saucer  after disk wizzes past plane during landing",
+      "source": "lbc.co.uk",
+      "url": "https://www.lbc.co.uk/article/pilot-flying-saucer-disk-plane-landing-gatwick-heathrow-5HjdfRr_2/"
+    },
+    {
+      "type": "news",
+      "text": "\u041c\u0438\u043d\u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0420\u0443\u043c\u044b\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u043e \u041d\u041b\u041e \u0443 \u0433\u0440\u0430\u043d\u0438\u0446\u044b \u0441 \u0423\u043a\u0440\u0430\u0438\u043d\u043e\u0439",
+      "source": "kommersant.ru",
+      "url": "https://www.kommersant.ru/doc/8860894"
+    },
+    {
+      "type": "news",
+      "text": "  Flying Saucer  Zooms Within Feet of Airbus Passenger Jet Coming In to Land at London Gatwick",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/flying-saucer-zooms-within-feet-airbus-passenger-jet-coming-land-london-gatwick-1811891"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 724\r Issue Time: 2026 Aug 02 1800 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -4313,6 +4374,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.1
+    },
+    {
+      "ts": "2026-08-02T23:40:25.468120Z",
+      "score": 22.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.0
     }
   ],
   "sources": [
