@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-02T07:17:42.124564Z",
-  "score": 19.3,
+  "generated_at": "2026-08-02T09:31:18.792861Z",
+  "score": 18.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -17.5,
-    "d24h": -3.1,
+    "d1h": -1.6,
+    "d24h": -27.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 2.4,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 49,
     "date": "02.08.2026",
     "declassified": "02.08.26",
-    "generated_utc": "07:17",
+    "generated_utc": "09:31",
     "top_drivers": [
+      "New Mexico Courts HelpLine offers free legal guidance for self - represented litigants",
       "NOAA space-weather alerts active: 2",
       "NEO (2019 QK7) passing Earth at 32.0 lunar distances"
     ],
@@ -40,21 +41,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.9,
+    "live_signal": 10.4,
     "baseline_recent": 20.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 31.9577854878,
     "asteroid_name": "(2019 QK7)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 9.891070258122909,
     "x_last_hour": 0,
-    "wiki_spike_pct": -22.38109717065677,
+    "wiki_spike_pct": -22.170066888663833,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "New Mexico Courts HelpLine offers free legal guidance for self - represented litigants",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/opinion/opinion-the-right-information-can-change-everything/3090858"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ferd316egdnj6t93u39gcbdju7"
+    },
+    {
+      "type": "news",
+      "text": "The man who phoned in Canada most famous UFO sighting became the face of the mystery",
+      "source": "cbc.ca",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/shag-harbour-ufo-incident-oct-4-1967-laurie-wickens-nova-scotia-9.7292815"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=e7i3tts5crh3t67tnmkb7ts701"
+    },
+    {
+      "type": "news",
+      "text": "E \u00b7 xtraterrestres : Director de la NASA cree que hay vida fuera del Planeta Tierra",
+      "source": "periodistadigital.com",
+      "url": "https://www.periodistadigital.com/ciencia/universo/20230805/director-nasa-cree-hay-vida-fuera-planeta-tierra-noticia-689404929949/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vv9nosvvc25snp8096209jqmc4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9cp11kcsmcj4buir6j469b7rc4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n7v308fdfuoeg7n47fvk2o20v7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=mj10clg9pivb249lfrgt5ogd20"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fpertrrgcrajr774j665o99nu3"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMPX1\r Serial Number: 133\r Issue Time: 2026 Aug 01 1702 UTC\r \r SUMMARY: Proton Event 10MeV Integral Flux exceed",
@@ -4223,6 +4284,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.9
+    },
+    {
+      "ts": "2026-08-02T09:31:18.720792Z",
+      "score": 18.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.4
     }
   ],
   "sources": [
