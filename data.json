@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-02T15:00:46.280130Z",
-  "score": 23.2,
+  "generated_at": "2026-08-02T16:06:49.190064Z",
+  "score": 20.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.3,
-    "d24h": 1.0,
+    "d1h": 1.5,
+    "d24h": -11.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 49,
     "date": "02.08.2026",
     "declassified": "02.08.26",
-    "generated_utc": "15:00",
+    "generated_utc": "16:06",
     "top_drivers": [
-      "Pilot warns of  flying saucer  after disk wizzes past plane during landing",
       "NOAA space-weather alerts active: 7",
       "NEO (2019 QK7) passing Earth at 32.0 lunar distances"
     ],
@@ -41,81 +40,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.9,
+    "live_signal": 12.7,
     "baseline_recent": 20.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 31.9577854878,
     "asteroid_name": "(2019 QK7)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -22.38109717065677,
+    "wiki_spike_pct": -22.794117647058833,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 7
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Pilot warns of  flying saucer  after disk wizzes past plane during landing",
-      "source": "lbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/pilot-flying-saucer-disk-plane-landing-gatwick-heathrow-5HjdfRr_2/"
-    },
-    {
-      "type": "news",
-      "text": "\u041c\u0438\u043d\u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0420\u0443\u043c\u044b\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u043e \u041d\u041b\u041e \u0443 \u0433\u0440\u0430\u043d\u0438\u0446\u044b \u0441 \u0423\u043a\u0440\u0430\u0438\u043d\u043e\u0439",
-      "source": "kommersant.ru",
-      "url": "https://www.kommersant.ru/doc/8860894"
-    },
-    {
-      "type": "news",
-      "text": "  Flying Saucer  Zooms Within Feet of Airbus Passenger Jet Coming In to Land at London Gatwick",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/flying-saucer-zooms-within-feet-airbus-passenger-jet-coming-land-london-gatwick-1811891"
-    },
-    {
-      "type": "news",
-      "text": "\u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044c 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 , \u0442\u0430\u0439\u043d\u0430 \u043d\u0435\u0431\u0435\u0441\u043d\u043e\u0439 \u043a\u043e\u043b\u0435\u0441\u043d\u0438\u0446\u044b \u0438 \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043d\u0438\u0435 \u043a\u043e\u043d\u0446\u0430 \u0432\u0440\u0435\u043c\u0435\u043d",
-      "source": "pronedra.ru",
-      "url": "https://pronedra.ru/prorok-iezekiil-3-avgusta-videniya-i-prorochestva-827244.html"
-    },
-    {
-      "type": "news",
-      "text": "  Time traveller has photos of World War 3  - and it bad news for humanity",
-      "source": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/news/weird-news/time-traveller-photos-world-war-37492067"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico Courts HelpLine offers free legal guidance for self - represented litigants",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/opinion/opinion-the-right-information-can-change-everything/3090858"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ferd316egdnj6t93u39gcbdju7"
-    },
-    {
-      "type": "news",
-      "text": "The man who phoned in Canada most famous UFO sighting became the face of the mystery",
-      "source": "cbc.ca",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/shag-harbour-ufo-incident-oct-4-1967-laurie-wickens-nova-scotia-9.7292815"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=e7i3tts5crh3t67tnmkb7ts701"
-    },
-    {
-      "type": "news",
-      "text": "E \u00b7 xtraterrestres : Director de la NASA cree que hay vida fuera del Planeta Tierra",
-      "source": "periodistadigital.com",
-      "url": "https://www.periodistadigital.com/ciencia/universo/20230805/director-nasa-cree-hay-vida-fuera-planeta-tierra-noticia-689404929949/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2253\r Issue Time: 2026 Aug 02 1428 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
@@ -4325,6 +4264,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.9
+    },
+    {
+      "ts": "2026-08-02T16:06:49.115664Z",
+      "score": 20.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.7
     }
   ],
   "sources": [
