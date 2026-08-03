@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T22:40:05.956467Z",
-  "score": 17.5,
+  "generated_at": "2026-08-03T23:47:57.129845Z",
+  "score": 16.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": -0.8,
+    "d1h": -0.1,
+    "d24h": -2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 50,
     "date": "03.08.2026",
     "declassified": "03.08.26",
-    "generated_utc": "22:40",
+    "generated_utc": "23:47",
     "top_drivers": [
+      "El Tel\u00e9pata en Basti\u00f3n , el sello de la historieta argentina",
       "NOAA space-weather alerts active: 3",
       "NEO (2016 UP41) passing Earth at 47.4 lunar distances"
     ],
@@ -40,21 +41,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.9,
+    "live_signal": 7.6,
     "baseline_recent": 20.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 47.3696774333,
     "asteroid_name": "(2016 UP41)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -72.5807530261486,
     "x_last_hour": 0,
-    "wiki_spike_pct": -2.050757757998562,
+    "wiki_spike_pct": -8.09754655873769,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "El Tel\u00e9pata en Basti\u00f3n , el sello de la historieta argentina",
+      "source": "eldestapeweb.com",
+      "url": "https://www.eldestapeweb.com/cultura/telepata-bastion-sello-historieta-argentina-202683183058"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard macht Urlaub in Florenz \u2013 Fans begeistert",
+      "source": "soester-anzeiger.de",
+      "url": "http://www.soester-anzeiger.de/stars/rtl-moderatorin-taucht-an-beliebten-touri-hotspots-auf-fans-hin-und-weg-zr-94427582.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard macht Urlaub in Florenz \u2013 Fans begeistert",
+      "source": "wlz-online.de",
+      "url": "http://www.wlz-online.de/boulevard/rtl-moderatorin-taucht-an-beliebten-touri-hotspots-auf-fans-hin-und-weg-zr-94427582.html"
+    },
+    {
+      "type": "news",
+      "text": "10 Games That Let You Play Other Games Inside Them",
+      "source": "dualshockers.com",
+      "url": "https://www.dualshockers.com/games-that-let-you-play-other-games/"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard macht Urlaub in Florenz \u2013 Fans begeistert",
+      "source": "merkur.de",
+      "url": "https://www.merkur.de/boulevard/rtl-moderatorin-taucht-an-beliebten-touri-hotspots-auf-fans-hin-und-weg-zr-94427582.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard macht Urlaub in Florenz \u2013 Fans begeistert",
+      "source": "come-on.de",
+      "url": "http://www.come-on.de/stars/rtl-moderatorin-taucht-an-beliebten-touri-hotspots-auf-fans-hin-und-weg-zr-94427582.html"
+    },
+    {
+      "type": "news",
+      "text": "It Appears That the US Military Accidentally Killed Everybody on Board a Civilian Medevac Flight in New Mexico",
+      "source": "futurism.com",
+      "url": "https://futurism.com/science-energy/us-military-gps-jamming-signal-medical-flight"
+    },
+    {
+      "type": "news",
+      "text": "What Was In The 1950s UFO Report Discovered At Flea Market ? ",
+      "source": "brobible.com",
+      "url": "https://brobible.com/culture/article/1950s-ufo-report-discovered-box-flea-market/"
+    },
+    {
+      "type": "news",
+      "text": "NASA Mars photo captures mysterious  walking man  on the Red Planet",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-16025645/nasa-mars-photo-walking-man.html"
+    },
+    {
+      "type": "news",
+      "text": "China  Long March 10B Rocket Closes Gap with US on Space Launch Capabilities \u2013 The Greanville Post",
+      "source": "greanvillepost.com",
+      "url": "https://www.greanvillepost.com/china-long-march-10b-rocket-closes-gap-with-us-on-space-launch-capabilities/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5396\r Issue Time: 2026 Aug 03 2003 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -4390,6 +4451,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.9
+    },
+    {
+      "ts": "2026-08-03T23:47:57.056849Z",
+      "score": 16.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.6
     }
   ],
   "sources": [
