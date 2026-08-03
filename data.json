@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:48:56.819653Z",
-  "score": 19.9,
+  "generated_at": "2026-08-03T08:23:54.799956Z",
+  "score": 20.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -2.1,
-    "d24h": 2.4,
+    "d1h": -2.9,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.0
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 50,
     "date": "03.08.2026",
     "declassified": "03.08.26",
-    "generated_utc": "04:48",
+    "generated_utc": "08:23",
     "top_drivers": [
-      "Washington Drivers Share Weirdest Roadside Sightings",
+      "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
       "NOAA space-weather alerts active: 13",
       "NEO (2016 UP41) passing Earth at 47.4 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
+    "live_signal": 12.3,
     "baseline_recent": 20.5,
     "score_gain": 1.3,
     "kp": null,
@@ -56,6 +56,48 @@
     "swpc_alerts_24h": 13
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
+      "source": "stirileprotv.ro",
+      "url": "https://stirileprotv.ro/stiri/international/pilotul-unui-avion-raporteaza-aparitia-unei-farfurii-zburatoare-in-timp-ce-aceasta-se-pregatea-sa-aterizeze.html"
+    },
+    {
+      "type": "news",
+      "text": "Ce au ascuns dosarele OZN ale Pentagonului timp de 80 de ani \u015fi de ce apare Germania men\u021bionat\u0103 de mai multe ori",
+      "source": "antena3.ro",
+      "url": "https://www.antena3.ro/externe/mapamond/ce-au-ascuns-dosarele-ozn-ale-pentagonului-timp-de-80-de-ani-si-de-ce-apare-germania-mentionata-de-mai-multe-ori-797918.html"
+    },
+    {
+      "type": "news",
+      "text": "Corporate and Strategic Update | Company Announcement",
+      "source": "investegate.co.uk",
+      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/corporate-and-strategic-update/9699912"
+    },
+    {
+      "type": "news",
+      "text": "GreenTech commences drill program | Company Announcement",
+      "source": "investegate.co.uk",
+      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-commences-drill-program/9699767"
+    },
+    {
+      "type": "news",
+      "text": "\u0427\u0442\u043e \u043d\u0435\u043b\u044c\u0437\u044f \u0434\u0435\u043b\u0430\u0442\u044c 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433\u043e\u0434\u0430 \u0432 \u0434\u0435\u043d\u044c \u043f\u0440\u043e\u0440\u043e\u043a\u0430 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f",
+      "source": "pronedra.ru",
+      "url": "https://pronedra.ru/chto-nelzya-delat-3-avgusta-2026-goda-v-den-proroka-iezekiilya-827228.html"
+    },
+    {
+      "type": "news",
+      "text": "Calendarul evenimentelor , 3 august \u2013 selec\u021biuni | Agen\u021bia de pres\u0103 Rador",
+      "source": "rador.ro",
+      "url": "https://www.rador.ro/2026/08/03/calendarul-evenimentelor-3-august-selectiuni-10/"
+    },
+    {
+      "type": "news",
+      "text": "This Monday on We Are Not Alone ... ",
+      "source": "whfr.fm",
+      "url": "https://whfr.fm/node/5536"
+    },
     {
       "type": "news",
       "text": "Washington Drivers Share Weirdest Roadside Sightings",
@@ -73,48 +115,6 @@
       "text": "Sizzla brings the heat to  wet  International Reggae Night | Virgin Islands News Online",
       "source": "virginislandsnewsonline.com",
       "url": "https://www.virginislandsnewsonline.com/en/news/sizzla-brings-the-heat-to-wet-international-reggae-night/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=19i04gaftmqdnnv1pj3mjd0220"
-    },
-    {
-      "type": "news",
-      "text": "Van historische mysteries tot de Europese onderwereld in augustus op The HISTORY Channel",
-      "source": "tvvisie.be",
-      "url": "https://tvvisie.be/inhoud/nederland/van-historische-mysteries-tot-de-europese-onderwereld-in-augustus-op-the-history-channel_141683/"
-    },
-    {
-      "type": "news",
-      "text": "Dosarele OZN ale Pentagonului . Luminile misterioase v\u0103zute de pilo\u021bi deasupra Germaniei \u0219i mitul \u201e farfuriilor zbur\u0103toare  naziste",
-      "source": "cotidianul.ro",
-      "url": "https://www.cotidianul.ro/dosarele-ozn-ale-pentagonului-luminile-misterioase-vazute-de-piloti-deasupra-germaniei-si-mitul-farfuriilor-zburatoare-naziste/"
-    },
-    {
-      "type": "news",
-      "text": "\u0130kinci D\u00fcnya Sava\u015f\u0131  n\u0131n gizli UFO raporlar\u0131 kamuoyuna a\u00e7\u0131ld\u0131",
-      "source": "tr.euronews.com",
-      "url": "https://tr.euronews.com/kultur/2026/08/02/pentagonun-ufo-dosyalari-almanya-ne-rol-oynadi"
-    },
-    {
-      "type": "news",
-      "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 \u043e\u0431 \u041d\u041b\u041e : \u043a\u0430\u043a\u0443\u044e \u0440\u043e\u043b\u044c \u0442\u0430\u043c \u0438\u0433\u0440\u0430\u0435\u0442 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
-      "source": "ru.euronews.com",
-      "url": "https://ru.euronews.com/culture/2026/08/02/pentagon-ufo-files-what-role-germany-plays-in-them"
-    },
-    {
-      "type": "news",
-      "text": "\u0422\u0440\u0430\u043c\u043f \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0441\u0432\u043e\u0435 \u0444\u043e\u0442\u043e \u0440\u044f\u0434\u043e\u043c \u0441 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u0435\u043c",
-      "source": "aif.ru",
-      "url": "https://aif.ru/techno/web/tramp-opublikoval-svoe-foto-ryadom-s-prishelcem"
-    },
-    {
-      "type": "news",
-      "text": "Pilot warns of  flying saucer  after disk wizzes past plane during landing",
-      "source": "lbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/pilot-flying-saucer-disk-plane-landing-gatwick-heathrow-5HjdfRr_2/"
     },
     {
       "type": "swpc",
@@ -4395,6 +4395,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-08-03T08:23:54.741971Z",
+      "score": 20.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.3
     }
   ],
   "sources": [
