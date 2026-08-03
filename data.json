@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-03T20:22:52.097564Z",
-  "score": 16.6,
+  "generated_at": "2026-08-03T21:38:30.787960Z",
+  "score": 16.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.7,
-    "d24h": -3.1,
+    "d1h": -4.1,
+    "d24h": -4.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 50,
     "date": "03.08.2026",
     "declassified": "03.08.26",
-    "generated_utc": "20:22",
+    "generated_utc": "21:38",
     "top_drivers": [
-      "NASA Mars photo captures mysterious  walking man  on the Red Planet",
       "NOAA space-weather alerts active: 3",
       "NEO (2016 UP41) passing Earth at 47.4 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.7,
+    "live_signal": 7.6,
     "baseline_recent": 20.4,
     "score_gain": 1.3,
     "kp": null,
@@ -50,72 +49,12 @@
     "asteroid_name": "(2016 UP41)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -7.263089370408263,
+    "wiki_spike_pct": -2.050757757998562,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "NASA Mars photo captures mysterious  walking man  on the Red Planet",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-16025645/nasa-mars-photo-walking-man.html"
-    },
-    {
-      "type": "news",
-      "text": "China  Long March 10B Rocket Closes Gap with US on Space Launch Capabilities \u2013 The Greanville Post",
-      "source": "greanvillepost.com",
-      "url": "https://www.greanvillepost.com/china-long-march-10b-rocket-closes-gap-with-us-on-space-launch-capabilities/"
-    },
-    {
-      "type": "news",
-      "text": "Where To Find Sunflower Fields Blooming In The Hudson Valley",
-      "source": "hudsonvalleycountry.com",
-      "url": "https://hudsonvalleycountry.com/ixp/705/p/sunflower-fields-hudson-valley/"
-    },
-    {
-      "type": "news",
-      "text": "10 Best Futurama Episodes , Ranked",
-      "source": "tvline.com",
-      "url": "https://www.tvline.com/2226135/futurama-best-episodes-ranked/"
-    },
-    {
-      "type": "news",
-      "text": "Where To Find Sunflower Fields Blooming In The Hudson Valley",
-      "source": "cnynews.com",
-      "url": "https://cnynews.com/ixp/705/p/sunflower-fields-hudson-valley/"
-    },
-    {
-      "type": "news",
-      "text": "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
-      "source": "protv.md",
-      "url": "https://protv.md/international/pilotul-unui-avion-raporteaza-aparitia-unei-farfurii-zburatoare-in-timp-ce-aceasta-se-pregatea-sa-aterizeze---2764316.html"
-    },
-    {
-      "type": "news",
-      "text": "Getting kids to sleep earlier",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/getting-kids-to-sleep-earlier/"
-    },
-    {
-      "type": "news",
-      "text": "RefisTHE 2026 Teresina : prazo \u00e9 prorrogado at\u00e9 31 de agosto",
-      "source": "g1.globo.com",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/03/refisthe-2026-teresina.ghtml"
-    },
-    {
-      "type": "news",
-      "text": "OZN - uri : dosarele secrete ale Pentagonului ies la lumin\u0103 dup\u0103 80 de ani . De ce Germania apare obsesiv \u00een dosarele desecretizate",
-      "source": "ziuanews.ro",
-      "url": "https://www.ziuanews.ro/stiri/ozn-uri-dosarele-secrete-ale-pentagonului-ies-la-lumina-dupa-80-de-ani-de-ce-germania-apare-obsesiv-in-dosarele-desecretizate-1595623"
-    },
-    {
-      "type": "news",
-      "text": "\u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u4e2d\u6587\u7248\u4e0b\u8f7d - \u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u6c49\u5316\u7248\u4e0b\u8f7d",
-      "source": "jinghua.cn",
-      "url": "https://www.jinghua.cn/game/45430.html"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5396\r Issue Time: 2026 Aug 03 2003 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -4437,6 +4376,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.7
+    },
+    {
+      "ts": "2026-08-03T21:38:30.704753Z",
+      "score": 16.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.6
     }
   ],
   "sources": [
