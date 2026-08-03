@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-03T08:23:54.799956Z",
+  "generated_at": "2026-08-03T11:55:08.096009Z",
   "score": 20.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.9,
-    "d24h": 1.4,
+    "d1h": -2.1,
+    "d24h": 2.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,10 +31,10 @@
     "day": 50,
     "date": "03.08.2026",
     "declassified": "03.08.26",
-    "generated_utc": "08:23",
+    "generated_utc": "11:55",
     "top_drivers": [
-      "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
-      "NOAA space-weather alerts active: 13",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "NOAA space-weather alerts active: 12",
       "NEO (2016 UP41) passing Earth at 47.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
@@ -48,73 +48,73 @@
     "xray_class": "B",
     "closest_asteroid_ld": 47.3696774333,
     "asteroid_name": "(2016 UP41)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -46.256734478832065,
     "x_last_hour": 0,
     "wiki_spike_pct": -8.09754655873769,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 13
+    "swpc_alerts_24h": 12
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3ej5vuhpdnk7dpuo6o399ag706"
+    },
+    {
+      "type": "news",
+      "text": "Musica , a San Vincenzo tutto pronto per la XI edizione di Covergreen",
+      "source": "toscananews.net",
+      "url": "https://toscananews.net/musica-a-san-vincenzo-tutto-pronto-per-la-xi-edizione-di-covergreen/"
+    },
+    {
+      "type": "news",
+      "text": "\u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u4e2d\u6587\u7248\u4e0b\u8f7d - \u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u6c49\u5316\u7248\u4e0b\u8f7d",
+      "source": "jinghua.cn",
+      "url": "https://www.jinghua.cn/game/45430.html"
+    },
+    {
+      "type": "news",
+      "text": "\u5c04\u51fb\u7cbe\u82f1\u6e38\u620f\u624b\u673a\u7248\u4e0b\u8f7d - \u5c04\u51fb\u7cbe\u82f1\u4e0b\u8f7d - \u4eac\u534e\u624b\u6e38\u7f51",
+      "source": "jinghua.cn",
+      "url": "https://www.jinghua.cn/game/45764.html"
+    },
+    {
+      "type": "news",
+      "text": "  On sest acharn\u00e9 sur moi  : Philippe Risoli ( 72 ans ) brutalement honn\u00eate sur Cuitas les bananas , il na pas dig\u00e9r\u00e9 les critiques",
+      "source": "melty.fr",
+      "url": "https://www.melty.fr/people/on-sest-acharne-sur-moi-philippe-risoli-72-ans-brutalement-honnete-sur-cuitas-les-bananas-il-na-pas-digere-les-critiques-2337232.html"
+    },
+    {
+      "type": "news",
+      "text": "Banda Maje - Costa Sud : Il viaggio figurato e nostalgico del collettivo salernitano :: Le Recensioni di OndaRock",
+      "source": "ondarock.it",
+      "url": "https://www.ondarock.it/recensioni/2026-banda-maje-costa-sud/"
+    },
+    {
+      "type": "news",
+      "text": "Evenimente vizuale care se vor desf\u0103\u0219ura \u00een perioada urm\u0103toare recomandate de UAP - ",
+      "source": "amosnews.ro",
+      "url": "https://www.amosnews.ro/evenimente-vizuale-care-se-vor-desfasura-in-perioada-urmatoare-recomandate-de-uap/"
+    },
+    {
+      "type": "news",
+      "text": "They who are demons seduce men away from Jesus Christ : The raging spiritual war between good and evil",
+      "source": "renewamerica.com",
+      "url": "https://www.renewamerica.com/columns/kimball/260802"
+    },
+    {
+      "type": "news",
+      "text": "  Jawbone  was a brassy No . 2 in New Mexico",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/local_news/jawbone-was-a-brassy-no-2-in-new-mexico/article_644e8a03-7758-45a7-a2d9-fb05dbe4128d.html"
+    },
     {
       "type": "news",
       "text": "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
       "source": "stirileprotv.ro",
       "url": "https://stirileprotv.ro/stiri/international/pilotul-unui-avion-raporteaza-aparitia-unei-farfurii-zburatoare-in-timp-ce-aceasta-se-pregatea-sa-aterizeze.html"
-    },
-    {
-      "type": "news",
-      "text": "Ce au ascuns dosarele OZN ale Pentagonului timp de 80 de ani \u015fi de ce apare Germania men\u021bionat\u0103 de mai multe ori",
-      "source": "antena3.ro",
-      "url": "https://www.antena3.ro/externe/mapamond/ce-au-ascuns-dosarele-ozn-ale-pentagonului-timp-de-80-de-ani-si-de-ce-apare-germania-mentionata-de-mai-multe-ori-797918.html"
-    },
-    {
-      "type": "news",
-      "text": "Corporate and Strategic Update | Company Announcement",
-      "source": "investegate.co.uk",
-      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/corporate-and-strategic-update/9699912"
-    },
-    {
-      "type": "news",
-      "text": "GreenTech commences drill program | Company Announcement",
-      "source": "investegate.co.uk",
-      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-commences-drill-program/9699767"
-    },
-    {
-      "type": "news",
-      "text": "\u0427\u0442\u043e \u043d\u0435\u043b\u044c\u0437\u044f \u0434\u0435\u043b\u0430\u0442\u044c 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433\u043e\u0434\u0430 \u0432 \u0434\u0435\u043d\u044c \u043f\u0440\u043e\u0440\u043e\u043a\u0430 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f",
-      "source": "pronedra.ru",
-      "url": "https://pronedra.ru/chto-nelzya-delat-3-avgusta-2026-goda-v-den-proroka-iezekiilya-827228.html"
-    },
-    {
-      "type": "news",
-      "text": "Calendarul evenimentelor , 3 august \u2013 selec\u021biuni | Agen\u021bia de pres\u0103 Rador",
-      "source": "rador.ro",
-      "url": "https://www.rador.ro/2026/08/03/calendarul-evenimentelor-3-august-selectiuni-10/"
-    },
-    {
-      "type": "news",
-      "text": "This Monday on We Are Not Alone ... ",
-      "source": "whfr.fm",
-      "url": "https://whfr.fm/node/5536"
-    },
-    {
-      "type": "news",
-      "text": "Washington Drivers Share Weirdest Roadside Sightings",
-      "source": "kw3.com",
-      "url": "https://kw3.com/ixp/137/p/weird-washington-roadside-finds/"
-    },
-    {
-      "type": "news",
-      "text": "Latest Articles",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/tag/*/index?more=4390338"
-    },
-    {
-      "type": "news",
-      "text": "Sizzla brings the heat to  wet  International Reggae Night | Virgin Islands News Online",
-      "source": "virginislandsnewsonline.com",
-      "url": "https://www.virginislandsnewsonline.com/en/news/sizzla-brings-the-heat-to-wet-international-reggae-night/"
     },
     {
       "type": "swpc",
@@ -4398,6 +4398,13 @@
     },
     {
       "ts": "2026-08-03T08:23:54.741971Z",
+      "score": 20.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.3
+    },
+    {
+      "ts": "2026-08-03T11:55:08.020588Z",
       "score": 20.3,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
