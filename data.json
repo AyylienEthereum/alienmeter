@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-03T16:56:10.429676Z",
-  "score": 18.0,
+  "generated_at": "2026-08-03T18:46:03.589920Z",
+  "score": 16.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.9,
-    "d24h": 2.0,
+    "d1h": -3.7,
+    "d24h": -2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0.4,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,91 @@
     "day": 50,
     "date": "03.08.2026",
     "declassified": "03.08.26",
-    "generated_utc": "16:56",
+    "generated_utc": "18:46",
     "top_drivers": [
-      "NOAA space-weather alerts active: 7",
+      "Where To Find Sunflower Fields Blooming In The Hudson Valley",
+      "NOAA space-weather alerts active: 2",
       "NEO (2016 UP41) passing Earth at 47.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.4,
+    "live_signal": 7.7,
     "baseline_recent": 20.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 47.3696774333,
     "asteroid_name": "(2016 UP41)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -1.7340644276902046,
     "x_last_hour": 0,
     "wiki_spike_pct": -8.09754655873769,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Where To Find Sunflower Fields Blooming In The Hudson Valley",
+      "source": "hudsonvalleycountry.com",
+      "url": "https://hudsonvalleycountry.com/ixp/705/p/sunflower-fields-hudson-valley/"
+    },
+    {
+      "type": "news",
+      "text": "10 Best Futurama Episodes , Ranked",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2226135/futurama-best-episodes-ranked/"
+    },
+    {
+      "type": "news",
+      "text": "Where To Find Sunflower Fields Blooming In The Hudson Valley",
+      "source": "cnynews.com",
+      "url": "https://cnynews.com/ixp/705/p/sunflower-fields-hudson-valley/"
+    },
+    {
+      "type": "news",
+      "text": "Pilotul unui avion raporteaz\u0103 apari\u021bia unei \u201e farfurii zbur\u0103toare  \u00een timp ce aceasta se preg\u0103tea s\u0103 aterizeze",
+      "source": "protv.md",
+      "url": "https://protv.md/international/pilotul-unui-avion-raporteaza-aparitia-unei-farfurii-zburatoare-in-timp-ce-aceasta-se-pregatea-sa-aterizeze---2764316.html"
+    },
+    {
+      "type": "news",
+      "text": "Getting kids to sleep earlier",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/getting-kids-to-sleep-earlier/"
+    },
+    {
+      "type": "news",
+      "text": "RefisTHE 2026 Teresina : prazo \u00e9 prorrogado at\u00e9 31 de agosto",
+      "source": "g1.globo.com",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/03/refisthe-2026-teresina.ghtml"
+    },
+    {
+      "type": "news",
+      "text": "OZN - uri : dosarele secrete ale Pentagonului ies la lumin\u0103 dup\u0103 80 de ani . De ce Germania apare obsesiv \u00een dosarele desecretizate",
+      "source": "ziuanews.ro",
+      "url": "https://www.ziuanews.ro/stiri/ozn-uri-dosarele-secrete-ale-pentagonului-ies-la-lumina-dupa-80-de-ani-de-ce-germania-apare-obsesiv-in-dosarele-desecretizate-1595623"
+    },
+    {
+      "type": "news",
+      "text": "\u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u4e2d\u6587\u7248\u4e0b\u8f7d - \u6a21\u62df\u5c71\u7f8a\u592a\u7a7a\u5e9f\u7269\u6c49\u5316\u7248\u4e0b\u8f7d",
+      "source": "jinghua.cn",
+      "url": "https://www.jinghua.cn/game/45430.html"
+    },
+    {
+      "type": "news",
+      "text": "\u5c04\u51fb\u7cbe\u82f1\u6e38\u620f\u624b\u673a\u7248\u4e0b\u8f7d - \u5c04\u51fb\u7cbe\u82f1\u4e0b\u8f7d - \u4eac\u534e\u624b\u6e38\u7f51",
+      "source": "jinghua.cn",
+      "url": "https://www.jinghua.cn/game/45764.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3ej5vuhpdnk7dpuo6o399ag706"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2255\r Issue Time: 2026 Aug 03 0253 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
@@ -64,12 +125,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5395\r Issue Time: 2026 Aug 03 0253 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 724\r Issue Time: 2026 Aug 02 1800 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -4362,6 +4417,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.4
+    },
+    {
+      "ts": "2026-08-03T18:46:03.513923Z",
+      "score": 16.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.7
     }
   ],
   "sources": [
