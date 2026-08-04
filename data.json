@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-04T10:18:44.806693Z",
-  "score": 33.1,
+  "generated_at": "2026-08-04T12:24:59.035612Z",
+  "score": 16.5,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 16.6,
-    "d24h": 15.1,
+    "d1h": -2.8,
+    "d24h": -3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 19.5,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.4
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,92 +31,30 @@
     "day": 51,
     "date": "04.08.2026",
     "declassified": "04.08.26",
-    "generated_utc": "10:18",
+    "generated_utc": "12:24",
     "top_drivers": [
-      "Ferragosto a Luneur Park",
-      "News velocity +81% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 3",
       "NEO (2011 LJ1) passing Earth at 70.0 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.0,
-    "baseline_recent": 20.2,
+    "live_signal": 7.7,
+    "baseline_recent": 20.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 70.0198929083,
     "asteroid_name": "(2011 LJ1)",
-    "gdelt_spike_pct": 81.30119043671455,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -5.701067444157981,
+    "wiki_spike_pct": -14.578841721805075,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Ferragosto a Luneur Park",
-      "source": "romatoday.it",
-      "url": "https://www.romatoday.it/eventi/ferragosto-luneur-park-15-agosto-2026.html"
-    },
-    {
-      "type": "news",
-      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
-      "source": "kreiszeitung.de",
-      "url": "http://www.kreiszeitung.de/boulevard/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
-    },
-    {
-      "type": "news",
-      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
-      "source": "merkur.de",
-      "url": "http://www.merkur.de/boulevard/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
-    },
-    {
-      "type": "news",
-      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
-      "source": "tz.de",
-      "url": "http://www.tz.de/stars/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
-    },
-    {
-      "type": "news",
-      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
-      "source": "op-online.de",
-      "url": "http://www.op-online.de/unterhaltung/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
-    },
-    {
-      "type": "news",
-      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
-      "source": "hna.de",
-      "url": "http://www.hna.de/leute/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
-    },
-    {
-      "type": "news",
-      "text": "\u6e56\u5357\u7701\u7b2c\u5341\u4e94\u5c4a\u8fd0\u52a8\u4f1a\u8d5b\u7a0b\u516c\u5e03 \u9996\u91d1\u9884\u8ba18\u670813\u65e5\u4ea7\u751f _ \u79d1\u6559 . \u6587\u536b _ \u6e56\u5357\u9891\u9053",
-      "source": "hn.rednet.cn",
-      "url": "https://hn.rednet.cn/content/646042/96/16144081.html"
-    },
-    {
-      "type": "news",
-      "text": "Lufthansa lijdt verlies in eerste halfjaar",
-      "source": "beursduivel.be",
-      "url": "https://www.beursduivel.be/Nieuws/873445/Lufthansa-lijdt-verlies-in-eerste-halfjaar.aspx"
-    },
-    {
-      "type": "news",
-      "text": "Lufthansa lijdt verlies in eerste halfjaar",
-      "source": "belegger.nl",
-      "url": "https://www.belegger.nl/Nieuws/873445/Lufthansa-lijdt-verlies-in-eerste-halfjaar.aspx"
-    },
-    {
-      "type": "news",
-      "text": "Lufthansa lijdt verlies in eerste halfjaar",
-      "source": "beurs.nl",
-      "url": "https://www.beurs.nl/Nieuws/873445/Lufthansa-lijdt-verlies-in-eerste-halfjaar.aspx"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5398\r Issue Time: 2026 Aug 04 0810 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -4487,6 +4425,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.0
+    },
+    {
+      "ts": "2026-08-04T12:24:58.960100Z",
+      "score": 16.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.7
     }
   ],
   "sources": [
