@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-04T20:08:43.709952Z",
-  "score": 14.6,
+  "generated_at": "2026-08-04T21:35:04.634801Z",
+  "score": 14.1,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -1.9,
-    "d24h": 0.2,
+    "d1h": -2.9,
+    "d24h": -1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 51,
     "date": "04.08.2026",
     "declassified": "04.08.26",
-    "generated_utc": "20:08",
+    "generated_utc": "21:35",
     "top_drivers": [
-      "Wisconsin Deputy Responds To Helicopter Parked In Store Lot",
       "NOAA space-weather alerts active: 2",
       "NEO (2011 LJ1) passing Earth at 70.0 lunar distances"
     ],
@@ -41,11 +40,11 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.3,
+    "live_signal": 4.7,
     "baseline_recent": 20.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "A",
     "closest_asteroid_ld": 70.0198929083,
     "asteroid_name": "(2011 LJ1)",
     "gdelt_spike_pct": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Wisconsin Deputy Responds To Helicopter Parked In Store Lot",
-      "source": "quickcountry.com",
-      "url": "https://quickcountry.com/ixp/164/p/wisconsin-sheriff-helicopter-cabelas-parking/"
-    },
-    {
-      "type": "news",
-      "text": "U - 2 spy planes flew so far above anything 1950s commercial pilots had ever seen that sunlight on their wings triggered a wave of UFO reports and the CIA let the world believe in aliens rather than a",
-      "source": "spacedaily.com",
-      "url": "https://spacedaily.com/d-u-2-spy-planes-flew-so-far-above-anything-1950s-commercial-pilots-had-ever-seen-that-sunlight-on-their-wings-triggered-a-wave-of-ufo-reports-and-the-cia-let-the-world-believe-in-aliens-rathe/"
-    },
-    {
-      "type": "news",
-      "text": "Dekmantel 2026 zondag : Het grote concert van de Dekstreet Boys",
-      "source": "3voor12.vpro.nl",
-      "url": "https://3voor12.vpro.nl/artikelen/dekmantel-2026-zondag-het-grote-concert-van-de-dekstreet-boys"
-    },
-    {
-      "type": "news",
-      "text": "Police Reveal Gun Details in Melissa Casias Case",
-      "source": "lamag.com",
-      "url": "https://lamag.com/crimeinla/police-identify-gun-found-near-melissa-casias-as-search-for-retired-general-neil-mccasland-stalls/"
-    },
-    {
-      "type": "news",
-      "text": "Why HBO Max $949 Million Dystopian Sci - Fi Has Become A Global Streaming Hit",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/hbo-max-the-maze-runner-streaming-charts-rise-august-2026/"
-    },
-    {
-      "type": "news",
-      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
-      "source": "kdhlradio.com",
-      "url": "https://kdhlradio.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
-    },
-    {
-      "type": "news",
-      "text": "90s Swedish Death Metal Band Hypocrisy Cancels Highly Anticipated North American Tour",
-      "source": "vice.com",
-      "url": "https://www.vice.com/en/article/90s-swedish-death-metal-band-hypocrisy-cancels-highly-anticipated-north-american-tour/"
-    },
-    {
-      "type": "news",
-      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
-      "source": "b105country.com",
-      "url": "https://b105country.com/usgs-helicopter-survey-northern-minnesota/"
-    },
-    {
-      "type": "news",
-      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
-      "source": "kool1017.com",
-      "url": "https://kool1017.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
-    },
-    {
-      "type": "news",
-      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
-      "source": "squatchrocks.com",
-      "url": "https://squatchrocks.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5398\r Issue Time: 2026 Aug 04 0810 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -4515,6 +4454,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 5.3
+    },
+    {
+      "ts": "2026-08-04T21:35:04.556571Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 4.7
     }
   ],
   "sources": [
