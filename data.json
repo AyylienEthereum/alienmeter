@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-04T16:54:51.837095Z",
-  "score": 17.7,
+  "generated_at": "2026-08-04T18:25:23.404765Z",
+  "score": 15.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.7,
-    "d24h": 0.6,
+    "d1h": -17.3,
+    "d24h": -5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 51,
     "date": "04.08.2026",
     "declassified": "04.08.26",
-    "generated_utc": "16:54",
+    "generated_utc": "18:25",
     "top_drivers": [
+      "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
       "NOAA space-weather alerts active: 3",
       "NEO (2011 LJ1) passing Earth at 70.0 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.2,
+    "live_signal": 6.8,
     "baseline_recent": 20.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 70.0198929083,
     "asteroid_name": "(2011 LJ1)",
-    "gdelt_spike_pct": -15.057307055423871,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -14.578841721805075,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
+      "source": "kdhlradio.com",
+      "url": "https://kdhlradio.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
+    },
+    {
+      "type": "news",
+      "text": "90s Swedish Death Metal Band Hypocrisy Cancels Highly Anticipated North American Tour",
+      "source": "vice.com",
+      "url": "https://www.vice.com/en/article/90s-swedish-death-metal-band-hypocrisy-cancels-highly-anticipated-north-american-tour/"
+    },
+    {
+      "type": "news",
+      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
+      "source": "b105country.com",
+      "url": "https://b105country.com/usgs-helicopter-survey-northern-minnesota/"
+    },
+    {
+      "type": "news",
+      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
+      "source": "kool1017.com",
+      "url": "https://kool1017.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
+    },
+    {
+      "type": "news",
+      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
+      "source": "squatchrocks.com",
+      "url": "https://squatchrocks.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
+    },
+    {
+      "type": "news",
+      "text": "Episode 1312 : Bear Grylls Takes Jesus Into the Wild , Spider - Man Breaks Every Record and Our Lolla Recap",
+      "source": "relevantmagazine.com",
+      "url": "https://relevantmagazine.com/podcast/episode-1312-bear-grylls-takes-jesus-into-the-wild-spider-man-breaks-every-record-and-our-lolla-recap/"
+    },
+    {
+      "type": "news",
+      "text": "Documenti inediti sugli Ufo saranno presto diffusi : negli united states cadono gli accordi di non divulgazione",
+      "source": "ilfattoquotidiano.it",
+      "url": "https://www.ilfattoquotidiano.it/2026/08/04/ufo-uap-esenzione-nda-divulgazione-notizie/8469785/"
+    },
+    {
+      "type": "news",
+      "text": "  Ho visto un Ufo , paura in volo e pilota daereo sotto shock",
+      "source": "adnkronos.com",
+      "url": "https://www.adnkronos.com/internazionale/esteri/ufo-pilota-aereo-shock-gatwick-aeroporto_OySE1ecOSzi2blKF2WRXL"
+    },
+    {
+      "type": "news",
+      "text": "USGS Explains Low - Flying Helicopters Surveying Northern Minnesota",
+      "source": "power96radio.com",
+      "url": "https://power96radio.com/ixp/150/p/usgs-helicopter-survey-northern-minnesota/"
+    },
+    {
+      "type": "news",
+      "text": "RedChip to Host Virtual Investor Conference Showcasing the Next Generation of ETF Investing",
+      "source": "newjerseytelegraph.com",
+      "url": "http://www.newjerseytelegraph.com/news/279222111/redchip-to-host-virtual-investor-conference-showcasing-the-next-generation-of-etf-investing"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5398\r Issue Time: 2026 Aug 04 0810 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -4446,6 +4507,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.2
+    },
+    {
+      "ts": "2026-08-04T18:25:23.328962Z",
+      "score": 15.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 6.8
     }
   ],
   "sources": [
