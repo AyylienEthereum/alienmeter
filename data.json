@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-04T07:42:14.436362Z",
-  "score": 15.0,
+  "generated_at": "2026-08-04T10:18:44.806693Z",
+  "score": 33.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -2.5,
-    "d24h": -3.9,
+    "d1h": 16.6,
+    "d24h": 15.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 19.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,68 @@
     "day": 51,
     "date": "04.08.2026",
     "declassified": "04.08.26",
-    "generated_utc": "07:42",
+    "generated_utc": "10:18",
     "top_drivers": [
-      "\u6e56\u5357\u7701\u7b2c\u5341\u4e94\u5c4a\u8fd0\u52a8\u4f1a\u8d5b\u7a0b\u516c\u5e03 \u9996\u91d1\u9884\u8ba18\u670813\u65e5\u4ea7\u751f _ \u79d1\u6559 . \u6587\u536b _ \u6e56\u5357\u9891\u9053",
-      "NOAA space-weather alerts active: 2",
+      "Ferragosto a Luneur Park",
+      "News velocity +81% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 3",
       "NEO (2011 LJ1) passing Earth at 70.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.7,
-    "baseline_recent": 20.3,
+    "live_signal": 29.0,
+    "baseline_recent": 20.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 70.0198929083,
     "asteroid_name": "(2011 LJ1)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 81.30119043671455,
     "x_last_hour": 0,
-    "wiki_spike_pct": -14.578841721805075,
+    "wiki_spike_pct": -5.701067444157981,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Ferragosto a Luneur Park",
+      "source": "romatoday.it",
+      "url": "https://www.romatoday.it/eventi/ferragosto-luneur-park-15-agosto-2026.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
+      "source": "kreiszeitung.de",
+      "url": "http://www.kreiszeitung.de/boulevard/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
+      "source": "merkur.de",
+      "url": "http://www.merkur.de/boulevard/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
+      "source": "tz.de",
+      "url": "http://www.tz.de/stars/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
+      "source": "op-online.de",
+      "url": "http://www.op-online.de/unterhaltung/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
+    },
+    {
+      "type": "news",
+      "text": "Katja Burkard genie\u00dft Sommerurlaub in Florenz mit Ehemann",
+      "source": "hna.de",
+      "url": "http://www.hna.de/leute/katja-burkard-geniesst-sommerurlaub-in-florenz-mit-ehemann-zr-94427748.html"
+    },
     {
       "type": "news",
       "text": "\u6e56\u5357\u7701\u7b2c\u5341\u4e94\u5c4a\u8fd0\u52a8\u4f1a\u8d5b\u7a0b\u516c\u5e03 \u9996\u91d1\u9884\u8ba18\u670813\u65e5\u4ea7\u751f _ \u79d1\u6559 . \u6587\u536b _ \u6e56\u5357\u9891\u9053",
@@ -81,40 +118,10 @@
       "url": "https://www.beurs.nl/Nieuws/873445/Lufthansa-lijdt-verlies-in-eerste-halfjaar.aspx"
     },
     {
-      "type": "news",
-      "text": "ABD UFO Ar\u015fivlerini A\u00e7t\u0131 : Sava\u015f U\u00e7aklar\u0131n\u0131 Takip Etmi\u015fler ! ",
-      "source": "anlatilaninotesi.com.tr",
-      "url": "https://anlatilaninotesi.com.tr/20260804/abd-ufo-belgeleri-ikinci-dunya-savasi-foo-fighters-gizemi-1107751838.html"
-    },
-    {
-      "type": "news",
-      "text": "\u4e0d\u8d35\u8fd8\u8d85\u597d\u7528 \uff01 \u4eca\u5e74\u4e03\u5915 \uff0c \u77e5\u9053\u9001\u5565\u4e86~",
-      "source": "163.com",
-      "url": "https://www.163.com/dy/article/L3G5GE560520825B.html"
-    },
-    {
-      "type": "news",
-      "text": "UK defence chiefs reject calls for Scots UFO sightings probe as  no military threat  ",
-      "source": "dailyrecord.co.uk",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/uk-defence-chiefs-reject-calls-37508833"
-    },
-    {
-      "type": "news",
-      "text": "Cine | Spielberg , ovnis y la verdad oculta",
-      "source": "elperiodicoextremadura.com",
-      "url": "https://www.elperiodicoextremadura.com/opinion/2026/08/04/spielberg-ovnis-oculta-132392742.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=4fqigi7ar167nq59spermh0q41"
-    },
-    {
-      "type": "news",
-      "text": "Olivia Nightengale | File 770",
-      "source": "file770.com",
-      "url": "https://file770.com/tag/olivia-nightengale/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5398\r Issue Time: 2026 Aug 04 0810 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -4473,6 +4480,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 5.7
+    },
+    {
+      "ts": "2026-08-04T10:18:44.749598Z",
+      "score": 33.1,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.0
     }
   ],
   "sources": [
