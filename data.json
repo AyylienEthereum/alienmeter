@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-05T04:28:39.374788Z",
-  "score": 13.4,
+  "generated_at": "2026-08-05T07:16:06.631829Z",
+  "score": 18.3,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.7,
-    "d24h": -5.7,
+    "d1h": 5.2,
+    "d24h": 0.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 0.1
+    "seismic": 3.1,
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,17 @@
     "day": 52,
     "date": "05.08.2026",
     "declassified": "05.08.26",
-    "generated_utc": "04:28",
+    "generated_utc": "07:16",
     "top_drivers": [
+      "From discovery to startup company at UB",
       "NOAA space-weather alerts active: 1",
       "NEO (2018 DY3) passing Earth at 56.2 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 3.8,
+    "live_signal": 10.2,
     "baseline_recent": 20.0,
     "score_gain": 1.3,
     "kp": null,
@@ -49,17 +50,83 @@
     "asteroid_name": "(2018 DY3)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -17.08182539649563,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "wiki_spike_pct": -16.439324497910725,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "From discovery to startup company at UB",
+      "source": "buffalonews.com",
+      "url": "https://buffalonews.com/news/community/article_d1fd1cca-229d-548a-b109-811c62f66c21.html"
+    },
+    {
+      "type": "news",
+      "text": "Diffuseur Boule Disco Boule Disco OVNI Cr\u00e9ative 20x20x13 Cm - Carreaux Miroir , Effet Scintillant - D\u00e9coration F\u00eate , Salon , \u00e9v\u00e9nements",
+      "source": "worldtechtoday.com",
+      "url": "https://worldtechtoday.com/Effet-Scintillant-D-coration-F-te-Salon-v-nements-802519/"
+    },
+    {
+      "type": "news",
+      "text": "GoblinCon Returns to Hopkinsville in August",
+      "source": "wbkr.com",
+      "url": "https://wbkr.com/ixp/72/p/goblincon-2026-hopkinsville-kentucky/"
+    },
+    {
+      "type": "news",
+      "text": "As Fewer Students Choose College , One District Charts a New Course",
+      "source": "governing.com",
+      "url": "https://www.governing.com/workforce/as-fewer-students-choose-college-one-district-charts-a-new-course"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon UAP Release : Objects Spotted Over Nuclear Sites for 77 Years , Every Case Still Unresolved",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/pentagon-ufo-files-nuclear-sites-1949-1812444"
+    },
+    {
+      "type": "news",
+      "text": "GoblinCon Returns to Hopkinsville in August",
+      "source": "newstalk1280.com",
+      "url": "https://newstalk1280.com/ixp/72/p/goblincon-2026-hopkinsville-kentucky/"
+    },
+    {
+      "type": "news",
+      "text": "GoblinCon Returns to Hopkinsville in August",
+      "source": "103gbfrocks.com",
+      "url": "https://103gbfrocks.com/goblincon-2026-hopkinsville-kentucky/"
+    },
+    {
+      "type": "news",
+      "text": "Wisconsin Deputy Responds To Helicopter Parked In Store Lot",
+      "source": "krforadio.com",
+      "url": "https://krforadio.com/ixp/164/p/wisconsin-sheriff-helicopter-cabelas-parking/"
+    },
+    {
+      "type": "news",
+      "text": "Market Wrap - Up : Tuesday , Aug . 4",
+      "source": "wlj.net",
+      "url": "https://www.wlj.net/market-wrap-up-tuesday-aug-4/"
+    },
+    {
+      "type": "news",
+      "text": "Wisconsin Deputy Responds To Helicopter Parked In Store Lot",
+      "source": "kdhlradio.com",
+      "url": "https://kdhlradio.com/ixp/164/p/wisconsin-sheriff-helicopter-cabelas-parking/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5398\r Issue Time: 2026 Aug 04 0810 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 32 km SW of Sarangani, Philippines",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -4483,6 +4550,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 3.8
+    },
+    {
+      "ts": "2026-08-05T07:16:06.568230Z",
+      "score": 18.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.2
     }
   ],
   "sources": [
