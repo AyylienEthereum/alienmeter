@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-05T17:54:34.792024Z",
-  "score": 21.8,
+  "generated_at": "2026-08-05T19:21:37.639092Z",
+  "score": 42.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 6.5,
-    "d24h": 3.5,
+    "d1h": 26.4,
+    "d24h": 27.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 6.2,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.1,
-    "alien_variance": 2.9
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,23 @@
     "day": 52,
     "date": "05.08.2026",
     "declassified": "05.08.26",
-    "generated_utc": "17:54",
+    "generated_utc": "19:21",
     "top_drivers": [
-      "News velocity +26% vs 7-day baseline (GDELT)",
+      "News velocity +353% vs 7-day baseline (GDELT)",
       "NEO (2018 DY3) passing Earth at 56.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.7,
+    "live_signal": 41.7,
     "baseline_recent": 19.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.2131630551,
     "asteroid_name": "(2018 DY3)",
-    "gdelt_spike_pct": 25.877747295089552,
+    "gdelt_spike_pct": 352.62977663631403,
     "x_last_hour": 0,
     "wiki_spike_pct": -17.08182539649563,
     "earthquakes_24h": 2,
@@ -4531,6 +4531,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.7
+    },
+    {
+      "ts": "2026-08-05T19:21:37.563574Z",
+      "score": 42.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 41.7
     }
   ],
   "sources": [
