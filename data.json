@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-05T21:56:12.167741Z",
-  "score": 17.1,
+  "generated_at": "2026-08-05T22:54:09.973465Z",
+  "score": 13.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -0.3,
-    "d24h": 0.7,
+    "d1h": -8.0,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.1,
-    "alien_variance": 3.1
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,22 @@
     "day": 52,
     "date": "05.08.2026",
     "declassified": "05.08.26",
-    "generated_utc": "21:56",
+    "generated_utc": "22:54",
     "top_drivers": [
       "NEO (2018 DY3) passing Earth at 56.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.7,
+    "live_signal": 4.5,
     "baseline_recent": 19.8,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": null,
     "closest_asteroid_ld": 56.2131630551,
     "asteroid_name": "(2018 DY3)",
-    "gdelt_spike_pct": -74.73191174657956,
+    "gdelt_spike_pct": -74.76155084850737,
     "x_last_hour": 0,
     "wiki_spike_pct": -17.08182539649563,
     "earthquakes_24h": 2,
@@ -4551,6 +4551,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.7
+    },
+    {
+      "ts": "2026-08-05T22:54:09.897697Z",
+      "score": 13.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 4.5
     }
   ],
   "sources": [
