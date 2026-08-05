@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-05T20:43:18.246217Z",
-  "score": 17.5,
+  "generated_at": "2026-08-05T21:56:12.167741Z",
+  "score": 17.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": -6.9,
+    "d1h": -0.3,
+    "d24h": 0.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.1,
-    "alien_variance": 3.6
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,22 @@
     "day": 52,
     "date": "05.08.2026",
     "declassified": "05.08.26",
-    "generated_utc": "20:43",
+    "generated_utc": "21:56",
     "top_drivers": [
-      "AKA Tree Service Urges Metro Atlanta Homeowners to Schedule Tree Inspections at the First Sign of Trouble",
       "NEO (2018 DY3) passing Earth at 56.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.2,
-    "baseline_recent": 19.9,
+    "live_signal": 8.7,
+    "baseline_recent": 19.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.2131630551,
     "asteroid_name": "(2018 DY3)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.73191174657956,
     "x_last_hour": 0,
     "wiki_spike_pct": -17.08182539649563,
     "earthquakes_24h": 2,
@@ -55,66 +54,6 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "AKA Tree Service Urges Metro Atlanta Homeowners to Schedule Tree Inspections at the First Sign of Trouble",
-      "source": "pittsburghstar.com",
-      "url": "http://www.pittsburghstar.com/news/279223891/aka-tree-service-urges-metro-atlanta-homeowners-to-schedule-tree-inspections-at-the-first-sign-of-trouble"
-    },
-    {
-      "type": "news",
-      "text": "Did the US military take down a civilian plane ? ",
-      "source": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279223963/did-the-us-military-take-down-a-civilian-plane"
-    },
-    {
-      "type": "news",
-      "text": "Did the US military take down a civilian plane",
-      "source": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279223917/did-the-us-military-take-down-a-civilian-plane"
-    },
-    {
-      "type": "news",
-      "text": "AKA Tree Service Urges Metro Atlanta Homeowners to Schedule Tree Inspections at the First Sign of Trouble",
-      "source": "londonmercury.com",
-      "url": "http://www.londonmercury.com/news/279223891/aka-tree-service-urges-metro-atlanta-homeowners-to-schedule-tree-inspections-at-the-first-sign-of-trouble"
-    },
-    {
-      "type": "news",
-      "text": "AKA Tree Service Urges Metro Atlanta Homeowners to Schedule Tree Inspections at the First Sign of Trouble",
-      "source": "bostonstar.com",
-      "url": "http://www.bostonstar.com/news/279223891/aka-tree-service-urges-metro-atlanta-homeowners-to-schedule-tree-inspections-at-the-first-sign-of-trouble"
-    },
-    {
-      "type": "news",
-      "text": "Video : AMPLIACI\u00d3N DE NOTICIAS ENTREVISTAS Y AN\u00c1LISIS DE LA COYUNTURA NACIONAL ( 5 / 08 / 26 ) por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/sRZB2XvntPU.ampliacion-de-noticias-entrevistas-y-analisis-de-la-coyuntura-nacional-5-08-26.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO disclosure movement astonishing new Trump claims",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-16030189/UFO-disclosure-movements-astonishing-new-Trump-claims-Secret-Oval-Office-meetings-Air-Force-One-plan-imminent-move.html"
-    },
-    {
-      "type": "news",
-      "text": "Avion touch\u00e9 en vol , drone explosif : panique sur un hub cl\u00e9 pour lUkraine",
-      "source": "charentelibre.fr",
-      "url": "https://www.charentelibre.fr:443/international/guerre-en-ukraine/avion-touche-en-vol-drone-explosif-panique-sur-un-hub-cle-pour-l-ukraine-30173681.php"
-    },
-    {
-      "type": "news",
-      "text": "\u0627\u0644\u062c\u0627\u0631\u062f\u064a\u0627\u0646 : \u0645\u0641\u0627\u062c\u0623\u0629 \u0641\u064a \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0645\u0633\u064a\u0631\u0629 \u0645\u0641\u062e\u062e\u0629 \u0641\u064a \u0645\u0637\u0627\u0631 \u0644\u0627\u064a\u0628\u0632\u064a\u062c \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a",
-      "source": "dostor.org",
-      "url": "https://www.dostor.org/5658344"
-    },
-    {
-      "type": "news",
-      "text": "Military GPS Jamming Under Scrutiny In Fatal New Mexico Medevac Accident",
-      "source": "avweb.com",
-      "url": "https://avweb.com/aviation-news/military-gps-jamming-medevac-crash/"
-    },
     {
       "type": "seismic",
       "text": "Significant seismic event: south of the Kermadec Islands",
@@ -4605,6 +4544,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.2
+    },
+    {
+      "ts": "2026-08-05T21:56:12.093248Z",
+      "score": 17.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.7
     }
   ],
   "sources": [
