@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T16:14:41.012405Z",
-  "score": 17.4,
+  "generated_at": "2026-08-05T17:54:34.792024Z",
+  "score": 21.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.9,
-    "d24h": 1.2,
+    "d1h": 6.5,
+    "d24h": 3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 6.2,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.1,
-    "alien_variance": 3.5
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,90 +31,30 @@
     "day": 52,
     "date": "05.08.2026",
     "declassified": "05.08.26",
-    "generated_utc": "16:14",
+    "generated_utc": "17:54",
     "top_drivers": [
-      "11 Best Apple Cider Donuts in New Jersey for Fall 2026",
+      "News velocity +26% vs 7-day baseline (GDELT)",
       "NEO (2018 DY3) passing Earth at 56.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.1,
-    "baseline_recent": 19.9,
+    "live_signal": 14.7,
+    "baseline_recent": 19.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.2131630551,
     "asteroid_name": "(2018 DY3)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 25.877747295089552,
     "x_last_hour": 0,
-    "wiki_spike_pct": -16.439324497910725,
+    "wiki_spike_pct": -17.08182539649563,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "11 Best Apple Cider Donuts in New Jersey for Fall 2026",
-      "source": "943thepoint.com",
-      "url": "https://943thepoint.com/ixp/394/p/best-new-jersey-apple-cider-donuts/"
-    },
-    {
-      "type": "news",
-      "text": "FTSE 100 Live : Gold miners provide boost , but Pru and HSBC hit by China tax report",
-      "source": "proactiveinvestors.com",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096553/ftse-100-live-gold-miners-provide-boost-but-pru-and-hsbc-hit-by-china-tax-report-1096553.html"
-    },
-    {
-      "type": "news",
-      "text": "Nevarno v Nem\u010diji : pri Leipzigu dron z eksplozivno napravo , po vsej verjetnosti ruski",
-      "source": "demokracija.si",
-      "url": "https://demokracija.si/tujina/nevarno-v-nemciji-pri-leipzigu-dron-z-eksplozivno-napravo-po-vsej-verjetnosti-ruski/"
-    },
-    {
-      "type": "news",
-      "text": "\u0641\u064a \u062b\u0648\u0627\u0646\u064d \u0641\u0627\u0635\u0644\u0629 \u060c \u0637\u0627\u0642\u0645 \u0625\u0633\u0639\u0627\u0641 \u064a\u0646\u0642\u0630 \u0637\u0641\u0644\u064b\u0627 \u0645\u0646 \u0627\u0644\u0645\u0648\u062a \u0628\u0639\u062f \u0627\u0646\u0633\u062f\u0627\u062f \u0645\u062c\u0631\u0649 \u0627\u0644\u0647\u0648\u0627\u0621 \u0628\u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631",
-      "source": "vetogate.com",
-      "url": "https://www.vetogate.com/5707254"
-    },
-    {
-      "type": "news",
-      "text": "La scia di luci su Palermo dei satelliti Starlink , lInaf :  Troppi detriti fuori controllo , servono regole internazionali  ",
-      "source": "palermotoday.it",
-      "url": "https://www.palermotoday.it/attualita/scia-luminosa-palermo-starlink-spacex.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gmc5ffi046sau1ri63b1phslm1"
-    },
-    {
-      "type": "news",
-      "text": "Test Sony Xperia 1 VIII\u00a0 : un smartphone premium pour passionn\u00e9s",
-      "source": "rtl.be",
-      "url": "https://www.rtl.be/actu/magazine/hi-tech/sony-persiste-avec-le-xperia-1-viii-le-smartphone-des-passionnes-qui-assume-ses/2026-08-05/article/796464"
-    },
-    {
-      "type": "news",
-      "text": "Take us to your leader , human ! ",
-      "source": "theblacksheartimes.com",
-      "url": "https://www.theblacksheartimes.com:443/article/12443,take-us-to-your-leader-human"
-    },
-    {
-      "type": "news",
-      "text": "Reuters : \u0424\u0411\u0420 \u0440\u0435\u0437\u043a\u043e \u0438\u0437\u043c\u0435\u043d\u0438\u043b\u043e \u043a\u0443\u0440\u0441 \u0438 \u043d\u0430\u0447\u0430\u043b\u043e \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441 \u0420\u043e\u0441\u0441\u0438\u0435\u0439 \u0438 \u041a\u0438\u0442\u0430\u0435\u043c",
-      "source": "world.comments.ua",
-      "url": "https://world.comments.ua/news/usa/fbr-otkryvaet-dveri-moskve-i-pekinu-pochemu-novyy-kurs-ssha-vyzval-trevogu-sredi-specsluzhb-812881.html"
-    },
-    {
-      "type": "news",
-      "text": "Voos suspensos em Leipzig ap\u00f3s avistamento de OVNI \u2013 Observador",
-      "source": "observador.pt",
-      "url": "https://observador.pt/2026/08/05/alemanha-voos-suspensos-em-leipzig-depois-de-avistado-um-objeto-voador-nao-identificado/"
-    },
     {
       "type": "seismic",
       "text": "Significant seismic event: south of the Kermadec Islands",
@@ -4584,6 +4524,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.1
+    },
+    {
+      "ts": "2026-08-05T17:54:34.717623Z",
+      "score": 21.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.7
     }
   ],
   "sources": [
