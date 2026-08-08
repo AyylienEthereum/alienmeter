@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-08T19:31:41.704904Z",
-  "score": 26.8,
+  "generated_at": "2026-08-08T20:02:12.852754Z",
+  "score": 28.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.2,
-    "d24h": 4.7,
+    "d1h": 3.0,
+    "d24h": 7.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 1.2,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 3.1
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "19:31",
+    "generated_utc": "20:02",
     "top_drivers": [
       "NOAA space-weather alerts active: 6",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.4,
+    "live_signal": 23.0,
     "baseline_recent": 19.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 4.9424081121745855,
     "x_last_hour": 0,
     "wiki_spike_pct": -18.49234992121182,
     "earthquakes_24h": 1,
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-18T17:20:10.887408Z",
-      "score": 39.4,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 30.6
-    },
     {
       "ts": "2026-06-18T19:39:08.849164Z",
       "score": 36.6,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.4
+    },
+    {
+      "ts": "2026-08-08T20:02:12.793987Z",
+      "score": 28.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.0
     }
   ],
   "sources": [
