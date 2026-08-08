@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-08T05:56:06.628362Z",
-  "score": 39.7,
+  "generated_at": "2026-08-08T06:40:34.543702Z",
+  "score": 20.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 20.4,
-    "d24h": 17.9,
+    "d1h": -10.1,
+    "d24h": 2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 23.3,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 2.8,
-    "alien_variance": 2.4
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,90 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "05:56",
+    "generated_utc": "06:40",
     "top_drivers": [
-      "News velocity +97% vs 7-day baseline (GDELT)",
+      "Les secrets des tubes :  Le zizi  de Pierre Perret",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 38.0,
-    "baseline_recent": 19.4,
+    "live_signal": 12.7,
+    "baseline_recent": 19.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": 97.04439252336448,
+    "gdelt_spike_pct": -18.956297732269935,
     "x_last_hour": 0,
-    "wiki_spike_pct": -18.49234992121182,
+    "wiki_spike_pct": -21.910833537667138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.6,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Les secrets des tubes :  Le zizi  de Pierre Perret",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/culture/musique/les-secrets-des-tubes-le-zizi-de-pierre-perret_AN-202608080001.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a5p6u442qfvd6ofv4b3dptbd07"
+    },
+    {
+      "type": "news",
+      "text": "Declassified UFO files reveal US probe into 1963 Brazil  dead spaceman  crash claim that quickly fell apart",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/declassified-ufo-files-reveal-us-probe-into-1963-brazil-dead-spaceman-crash-claim-that-quickly-fell-apart-101786162111954.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0415\u0449\u0435 \u043e\u0434\u043d\u0443 \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u0443\u044e \u0434\u0432\u0435\u0440\u044c \u043d\u0430\u0448\u043b\u0438 \u043d\u0430 \u041c\u0430\u0440\u0441\u0435 : \u00ab \u0434\u0432\u0435\u0440\u043d\u043e\u0439 \u043f\u0440\u043e\u0435\u043c \u00bb \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0432 \u0441\u043a\u0430\u043b\u0435 ( \u0444\u043e\u0442\u043e ) ",
+      "source": "aoinform.com",
+      "url": "https://www.aoinform.com/news/eshhe_odnu_zagadochnuju_dver_nashli_na_marse_dvernoj_proem_zametili_v_skale_foto/2026-08-08-75401"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u0434\u0435\u043b\u043e \u043e \u0440\u0443\u0445\u043d\u0443\u0432\u0448\u0435\u043c \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 \u041d\u041b\u041e \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u0442\u0435\u043b\u043e\u043c \u0432\u043d\u0443\u0442\u0440\u0438",
+      "source": "life.ru",
+      "url": "https://life.ru/p/1909343"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u0434\u0435\u043b\u043e \u043e \u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u041d\u041b\u041e \u0441 \u0442\u0435\u043b\u043e\u043c \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438",
+      "source": "aif.ru",
+      "url": "https://aif.ru/incidents/pentagon-rassekretil-delo-o-padenii-nlo-s-telom-v-brazilii"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u0434\u0435\u043b\u043e \u043e \u0440\u0443\u0445\u043d\u0443\u0432\u0448\u0435\u043c \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 \u041d\u041b\u041e \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u0442\u0435\u043b\u043e\u043c \u0432\u043d\u0443\u0442\u0440\u0438",
+      "source": "news.mail.ru",
+      "url": "https://news.mail.ru/society/71919731/"
+    },
+    {
+      "type": "news",
+      "text": "Bill Maher Audience Audibly Groans Over Jab About Ariana Grande Weight",
+      "source": "thewrap.com",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-ariana-grande-weight-joke-studio-audience-groans/"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b \u043f\u0430\u0434\u0435\u043d\u0438\u0435 \u041d\u041b\u041e \u0441 \u0442\u0435\u043b\u043e\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 \u0432 1963 \u0433\u043e\u0434\u0443",
+      "source": "iz.ru",
+      "url": "https://iz.ru/2145865/pentagon-rassekretil-dokumenty-o-nlo-s-vesma-neobychnym-soderzhimym-izi"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u0434\u0435\u043b\u043e \u043e \u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 \u041d\u041b\u041e \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u0442\u0435\u043b\u043e\u043c",
+      "source": "rg.ru",
+      "url": "https://rg.ru/2026/08/08/pentagon-rassekretil-delo-o-padenii-v-brazilii-nlo-s-chelovecheskim-telom.html"
+    },
     {
       "type": "seismic",
       "text": "Significant seismic event: 57 km WNW of Skwentna, Alaska",
@@ -69,12 +129,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-15T23:19:38.983779Z",
-      "score": 31.1,
-      "band": "THAT'S WEIRD",
-      "i": 2
-    },
     {
       "ts": "2026-06-16T02:06:18.529202Z",
       "score": 32.8,
@@ -4762,6 +4816,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 38.0
+    },
+    {
+      "ts": "2026-08-08T06:40:34.468180Z",
+      "score": 20.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.7
     }
   ],
   "sources": [
