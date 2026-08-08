@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:57:18.932817Z",
-  "score": 24.5,
+  "generated_at": "2026-08-08T16:28:55.157978Z",
+  "score": 26.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.1,
-    "d24h": 5.3,
+    "d1h": 0.6,
+    "d24h": 5.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 0.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 0.1
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "15:57",
+    "generated_utc": "16:28",
     "top_drivers": [
       "NOAA space-weather alerts active: 5",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.4,
+    "live_signal": 20.3,
     "baseline_recent": 19.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 2.977395520367236,
     "x_last_hour": 0,
     "wiki_spike_pct": -18.49234992121182,
     "earthquakes_24h": 1,
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-17T21:35:21.880188Z",
-      "score": 38.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 29.0
-    },
     {
       "ts": "2026-06-17T23:08:11.759413Z",
       "score": 39.2,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.4
+    },
+    {
+      "ts": "2026-08-08T16:28:55.082369Z",
+      "score": 26.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.3
     }
   ],
   "sources": [
