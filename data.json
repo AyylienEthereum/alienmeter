@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-08T12:01:34.749115Z",
-  "score": 23.5,
+  "generated_at": "2026-08-08T13:11:00.533146Z",
+  "score": 29.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.0,
-    "d24h": -13.3,
+    "d1h": 8.1,
+    "d24h": 9.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 7.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 7.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 2.8,
-    "alien_variance": 2.4
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,90 +31,36 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "12:01",
+    "generated_utc": "13:11",
     "top_drivers": [
-      "Buenas sensaciones en el primer test veraniego del Fertiberia BM Puerto de Sagunto",
-      "NOAA space-weather alerts active: 2",
+      "News velocity +32% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 3",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.1,
+    "live_signal": 25.1,
     "baseline_recent": 19.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 32.040396818303684,
     "x_last_hour": 0,
     "wiki_spike_pct": -18.49234992121182,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.6,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Buenas sensaciones en el primer test veraniego del Fertiberia BM Puerto de Sagunto",
-      "source": "superdeporte.es",
-      "url": "https://www.superdeporte.es/polideportivo/2026/08/08/buenas-sensaciones-primer-test-veraniego-133192831.html"
-    },
-    {
-      "type": "news",
-      "text": "Novos arquivos sobre OVNIs liberados pelos EUA citam caso no Brasil \u2013 JORNAL 24 HORAS",
-      "source": "jornal24horas.com.br",
-      "url": "https://jornal24horas.com.br/?p=60255"
-    },
-    {
-      "type": "news",
-      "text": "Vrijgegeven UFO - dossiers : Dode ruimtevaarder en UAP - video ",
-      "source": "dagelijksestandaard.nl",
-      "url": "https://www.dagelijksestandaard.nl/buitenland/vrijgegeven-ufo-dossiers-trump-dode-ruimtevaarder-uap-interdimensionaal"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-03T03:53:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : life on mars",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search/label/life%20on%20mars"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b \u0434\u0435\u043b\u043e \u043e \u041d\u041b\u041e \u0441 \u00ab \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u0442\u0435\u043b\u043e\u043c \u00bb \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 . \u0427\u0442\u043e \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 ? ",
-      "source": "runews24.ru",
-      "url": "https://runews24.ru/society/08/08/2026/pentagon-rassekretil-delo-o-nlo-s-chelovecheskim-telom-v-brazilii-chto-vyiyasnilo-rassledovanie"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0440\u0430\u0441\u043a\u0440\u044b\u043b \u0430\u0440\u0445\u0438\u0432 \u043e \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u043e\u0439 \u0441\u0444\u0435\u0440\u0435 \u0441 \u0442\u0435\u043b\u043e\u043c \u0432\u043d\u0443\u0442\u0440\u0438",
-      "source": "pronedra.ru",
-      "url": "https://pronedra.ru/chto-stoit-za-sensacziej-ob-nlo-iz-1963-goda-827876.html"
-    },
-    {
-      "type": "news",
-      "text": "USA odtajniaj\u0105 akta o UFO . Tr\u00f3jk\u0105tny obiekt .  Widzia\u0142e\u015b to ? ",
-      "source": "tech.wp.pl",
-      "url": "https://tech.wp.pl/usa-odtajnia-akta-o-ufo-trojkatny-obiekt-widziales-to,7316180207659008a"
-    },
-    {
-      "type": "news",
-      "text": "Drone explosif \u00e0 Leipzig : le Kremlin nie toute implication",
-      "source": "lequotidien.lu",
-      "url": "https://lequotidien.lu/monde/drone-explosif-a-leipzig-le-kremlin-nie-toute-implication/"
-    },
-    {
-      "type": "news",
-      "text": "Aquapark - Diego Gonz\u00e1lez - Libertad Digital",
-      "source": "libertaddigital.com",
-      "url": "https://www.libertaddigital.com/sociedad/2026-08-08/diego-gonzalez-aquapark-7446729/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2256\r Issue Time: 2026 Aug 08 1223 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -142,12 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-17T10:13:38.090275Z",
-      "score": 24.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1
-    },
     {
       "ts": "2026-06-17T11:08:20.002324Z",
       "score": 32.1,
@@ -4844,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.1
+    },
+    {
+      "ts": "2026-08-08T13:11:00.470369Z",
+      "score": 29.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 25.1
     }
   ],
   "sources": [
