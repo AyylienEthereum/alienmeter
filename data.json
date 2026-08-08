@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:57:49.165239Z",
-  "score": 25.6,
+  "generated_at": "2026-08-08T15:28:31.484269Z",
+  "score": 26.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.1,
-    "d24h": 6.3,
+    "d1h": -3.2,
+    "d24h": 7.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 1.6
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "14:57",
+    "generated_utc": "15:28",
     "top_drivers": [
       "NOAA space-weather alerts active: 5",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.9,
+    "live_signal": 21.0,
     "baseline_recent": 19.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": -24.72810604813694,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -18.49234992121182,
     "earthquakes_24h": 1,
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-17T17:23:36.167595Z",
-      "score": 38.7,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 29.5
-    },
     {
       "ts": "2026-06-17T19:35:28.173997Z",
       "score": 41.2,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.9
+    },
+    {
+      "ts": "2026-08-08T15:28:31.414120Z",
+      "score": 26.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.0
     }
   ],
   "sources": [
