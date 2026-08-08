@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T20:02:12.852754Z",
-  "score": 28.1,
+  "generated_at": "2026-08-08T20:47:11.151936Z",
+  "score": 26.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.0,
-    "d24h": 7.9,
+    "d1h": 2.9,
+    "d24h": 5.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.2,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 3.5
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,45 +31,45 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "20:02",
+    "generated_utc": "20:47",
     "top_drivers": [
-      "NOAA space-weather alerts active: 6",
+      "NOAA space-weather alerts active: 10",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.0,
+    "live_signal": 20.4,
     "baseline_recent": 19.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": 4.9424081121745855,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -18.49234992121182,
+    "wiki_spike_pct": -21.910833537667138,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.6,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 10
   },
   "ticker": [
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2257\r Issue Time: 2026 Aug 08 1719 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
+      "text": "Space Weather Message Code: WARK06\r Serial Number: 670\r Issue Time: 2026 Aug 08 2035 UTC\r \r WARNING: Geomagnetic K-index of 6 expected  Vali",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK06\r Serial Number: 669\r Issue Time: 2026 Aug 08 1336 UTC\r \r WARNING: Geomagnetic K-index of 6 expected  Vali",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2044\r Issue Time: 2026 Aug 08 2030 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2043\r Issue Time: 2026 Aug 08 1314 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2258\r Issue Time: 2026 Aug 08 2029 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-18T19:39:08.849164Z",
-      "score": 36.6,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 26.9
-    },
     {
       "ts": "2026-06-18T21:38:08.712553Z",
       "score": 37.5,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 23.0
+    },
+    {
+      "ts": "2026-08-08T20:47:11.093480Z",
+      "score": 26.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.4
     }
   ],
   "sources": [
