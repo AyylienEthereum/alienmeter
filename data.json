@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-08T21:23:51.126926Z",
-  "score": 25.8,
+  "generated_at": "2026-08-08T21:54:23.805332Z",
+  "score": 26.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.2,
-    "d24h": 3.8,
+    "d1h": -0.6,
+    "d24h": 3.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 1.8
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 55,
     "date": "08.08.2026",
     "declassified": "08.08.26",
-    "generated_utc": "21:23",
+    "generated_utc": "21:54",
     "top_drivers": [
-      "GPS jamming tied to a fatal New Mexico crash",
       "NOAA space-weather alerts active: 12",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
@@ -41,81 +40,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.1,
+    "live_signal": 20.6,
     "baseline_recent": 19.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -79.08055247504788,
     "x_last_hour": 0,
-    "wiki_spike_pct": -21.910833537667138,
+    "wiki_spike_pct": -18.49234992121182,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.6,
     "swpc_alerts_24h": 12
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "GPS jamming tied to a fatal New Mexico crash",
-      "source": "boingboing.net",
-      "url": "https://boingboing.net/2026/08/08/gps-jamming-medevac-crash.html"
-    },
-    {
-      "type": "news",
-      "text": "Hlavn\u00e9 spr\u00e1vy z 8 . augusta",
-      "source": "ta3.com",
-      "url": "https://www.ta3.com/relacia/1064991/hlavne-spravy-z-8-augusta"
-    },
-    {
-      "type": "news",
-      "text": "\u041d\u043e\u0432\u0430 \u043c\u0438\u0441\u0442\u0435\u0440\u0438\u044f ! \u0418\u0437\u0442\u0435\u043a\u043e\u0445\u0430 \u0444\u0430\u0439\u043b\u043e\u0432\u0435 \u0437\u0430 \u043f\u0430\u0434\u043d\u0430\u043b\u043e \u041d\u041b\u041e \u0441 \u0447\u043e\u0432\u0435\u043a \u0432\u044a\u0442\u0440\u0435 - \u041b\u044e\u0431\u043e\u043f\u0438\u0442\u043d\u043e \u041d\u043e\u0432\u0438\u043d\u0438 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
-      "source": "standartnews.com",
-      "url": "https://www.standartnews.com/lifestyle-lyubopitno/nova-misteriya-iztekoha-faylove-za-padnalo-nlo-s-chovek-vatre-643098.html"
-    },
-    {
-      "type": "news",
-      "text": "Bill Maher Joke About Ariana Grande Weight Draws Groans",
-      "source": "variety.com",
-      "url": "https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7602f22s4njbdk9q9phee3efm3"
-    },
-    {
-      "type": "news",
-      "text": "Takiej anomalii jeszcze nie widzieli\u015bmy . Nowe nagrania UFO z Pentagonu",
-      "source": "telepolis.pl",
-      "url": "https://www.telepolis.pl/tech/kosmos/takiej-anomalii-jeszcze-nie-widzielismy-nowe-nagrania-ufo-z-pentagonu"
-    },
-    {
-      "type": "news",
-      "text": "Od n\u00f3g modelki po porwanie przez UFO . Najdziwniejsze ubezpieczenia na \u015bwiecie",
-      "source": "dlahandlu.pl",
-      "url": "https://www.dlahandlu.pl/raporty-i-analizy/od-nog-modelki-po-porwanie-przez-ufo-najdziwniejsze-ubezpieczenia-na-swiecie,173701.html"
-    },
-    {
-      "type": "news",
-      "text": "Os EUA e os UFOs ( Trecho da mat\u00e9ria de capa da Time ) ",
-      "source": "tribunadonorte.com.br",
-      "url": "https://tribunadonorte.com.br/colunas/alex-medeiros/os-eua-e-os-ufos-trecho-da-materia-de-capa-da-time/"
-    },
-    {
-      "type": "news",
-      "text": "FDA Approves Replimune Tudriqev for Advanced Melanoma After Two Previous Rejections",
-      "source": "medicaldaily.com",
-      "url": "https://www.medicaldaily.com/fda-approves-tudriqev-rp1-advanced-melanoma-accelerated-approval-2026-477046"
-    },
-    {
-      "type": "news",
-      "text": "Steven Spielberg , antes del d\u00eda de la revelaci\u00f3n / Por Antonio Las Heras",
-      "source": "diariopopular.com.ar",
-      "url": "https://www.diariopopular.com.ar/ciencia/steven-spielberg-antes-del-dia-la-revelacion-antonio-las-heras-n913791"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 725\r Issue Time: 2026 Aug 08 2108 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -148,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-18T23:24:37.655566Z",
-      "score": 37.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.0
-    },
     {
       "ts": "2026-06-19T02:14:58.950464Z",
       "score": 31.5,
@@ -4851,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.1
+    },
+    {
+      "ts": "2026-08-08T21:54:23.727601Z",
+      "score": 26.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.6
     }
   ],
   "sources": [
