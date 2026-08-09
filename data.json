@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-09T13:14:47.034899Z",
-  "score": 23.4,
+  "generated_at": "2026-08-09T14:00:29.716898Z",
+  "score": 30.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -1.5,
-    "d24h": 6.4,
+    "d1h": 7.1,
+    "d24h": 13.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 8.6,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.6
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,37 @@
     "day": 56,
     "date": "09.08.2026",
     "declassified": "09.08.26",
-    "generated_utc": "13:14",
+    "generated_utc": "14:00",
     "top_drivers": [
-      "NOAA space-weather alerts active: 9",
+      "News velocity +36% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 8",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.1,
-    "baseline_recent": 19.4,
+    "live_signal": 26.7,
+    "baseline_recent": 19.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 35.733826751274236,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.882778973588374,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 9
+    "swpc_alerts_24h": 8
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1119\r Issue Time: 2026 Aug 09 1338 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 725\r Issue Time: 2026 Aug 08 2108 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -68,12 +75,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK06\r Serial Number: 670\r Issue Time: 2026 Aug 08 2035 UTC\r \r WARNING: Geomagnetic K-index of 6 expected  Vali",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2019 NY2) passing at 6.54 LD (~342m, 9.6 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -81,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-20T20:48:29.632246Z",
-      "score": 33.9,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 25.5
-    },
     {
       "ts": "2026-06-20T22:02:30.441166Z",
       "score": 31.8,
@@ -4784,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.1
+    },
+    {
+      "ts": "2026-08-09T14:00:29.638951Z",
+      "score": 30.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 26.7
     }
   ],
   "sources": [
