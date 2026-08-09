@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09T09:55:15.387285Z",
-  "score": 23.3,
+  "generated_at": "2026-08-09T10:26:38.925855Z",
+  "score": 24.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 4.0,
+    "d1h": 1.6,
+    "d24h": 10.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 56,
     "date": "09.08.2026",
     "declassified": "09.08.26",
-    "generated_utc": "09:55",
+    "generated_utc": "10:26",
     "top_drivers": [
-      "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u043b\u0430 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0421\u0428\u0410 \u0432 \u0431\u043e\u043c\u0431\u0435\u0436\u043a\u0435 \u042f\u043f\u043e\u043d\u0438\u0438",
-      "NOAA space-weather alerts active: 12",
+      "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u043d\u0435 \u0445\u0432\u0430\u0442\u0438\u043b\u043e \u043c\u0443\u0436\u0435\u0441\u0442\u0432\u0430 \u043d\u0430\u0437\u0432\u0430\u0442\u044c \u0432\u0438\u043d\u043e\u0432\u043d\u044b\u0445 \u0432 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043a\u0435 \u0425\u0438\u0440\u043e\u0441\u0438\u043c\u044b :: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f / \u0412\u0417\u0413\u041b\u042f\u0414",
+      "NOAA space-weather alerts active: 11",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.0,
+    "live_signal": 19.0,
     "baseline_recent": 19.3,
     "score_gain": 1.3,
     "kp": null,
@@ -53,20 +53,50 @@
     "wiki_spike_pct": -10.882778973588374,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 12
+    "swpc_alerts_24h": 11
   },
   "ticker": [
     {
       "type": "news",
-      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u043b\u0430 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0421\u0428\u0410 \u0432 \u0431\u043e\u043c\u0431\u0435\u0436\u043a\u0435 \u042f\u043f\u043e\u043d\u0438\u0438",
-      "source": "vesti.ru",
-      "url": "https://www.vesti.ru/ns/zakharova-upomyanula-nlo-posle-zamalchivaniya-takaiti-uchastiya-ssha-v-bombezhke-yaponii"
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u043d\u0435 \u0445\u0432\u0430\u0442\u0438\u043b\u043e \u043c\u0443\u0436\u0435\u0441\u0442\u0432\u0430 \u043d\u0430\u0437\u0432\u0430\u0442\u044c \u0432\u0438\u043d\u043e\u0432\u043d\u044b\u0445 \u0432 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043a\u0435 \u0425\u0438\u0440\u043e\u0441\u0438\u043c\u044b :: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f / \u0412\u0417\u0413\u041b\u042f\u0414",
+      "source": "vz.ru",
+      "url": "https://vz.ru/news/2026/8/9/1441348.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u0424\u0420\u0413 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0431 \u041d\u041b\u041e",
+      "source": "russian.rt.com",
+      "url": "https://russian.rt.com/world/news/1667641-frg-vsplesk-soobscheniya-nlo"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=hcdd8eii3g7g8fl202tg23rh36"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=608qc42ovp11bbaggqh31uvrs0"
+    },
+    {
+      "type": "news",
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u043f\u043e\u0445\u0432\u0430\u043b\u0438\u043b\u0430 \u042f\u043f\u043e\u043d\u0438\u044e \u0437\u0430 \u043c\u0443\u0436\u0435\u0441\u0442\u0432\u043e",
+      "source": "lenta.ru",
+      "url": "https://lenta.ru/news/2026/08/09/zaharova-pohvalila-yaponiyu-za-muzhestvo/"
+    },
+    {
+      "type": "news",
+      "text": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0431 \u041d\u041b\u041e \u0432 \u0424\u0420\u0413",
+      "source": "vesti.ru",
+      "url": "https://www.vesti.ru/ns/ehkspert-obyasnil-rekordnyj-vsplesk-soobshchenij-ob-nlo-v-frg"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u043b\u044e\u0434\u0438 \u043c\u0430\u0441\u0441\u043e\u0432\u043e \u043d\u0430\u0447\u0430\u043b\u0438 \u0441\u043e\u043e\u0431\u0449\u0430\u0442\u044c \u043e\u0431 \u041d\u041b\u041e",
+      "source": "ura.news",
+      "url": "https://ura.news/news/1053116776"
+    },
+    {
+      "type": "news",
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u043e\u0442\u0432\u0435\u0442\u0438\u043b\u0430 \u043d\u0430 \u043c\u043e\u043b\u0447\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u043c\u044c\u0435\u0440\u0430 \u042f\u043f\u043e\u043d\u0438\u0438 \u043e \u043f\u0440\u0438\u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u0421\u0428\u0410 \u043a \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u0438 \u0432 \u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438 : 9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430",
+      "source": "ura.news",
+      "url": "https://ura.news/news/1053116762"
     },
     {
       "type": "news",
@@ -85,36 +115,6 @@
       "text": "\u0412 \u042f\u043f\u043e\u043d\u0438\u0438 \u0443\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u044e\u0442 \u043e\u0431 \u0430\u0442\u043e\u043c\u043d\u044b\u0445 \u0443\u0434\u0430\u0440\u0430\u0445 \u0421\u0428\u0410 : \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u0417\u0430\u0445\u0430\u0440\u043e\u0432\u043e\u0439",
       "source": "iz.ru",
       "url": "https://iz.ru/2146234/zakharova-ukazala-na-nekhvatku-muzhestva-u-takaiti-nazvat-vinovnika-bombardirovki-izi"
-    },
-    {
-      "type": "news",
-      "text": "Alemanha : centro em Hessen investiga 14 000 avistamentos de OVNI",
-      "source": "pt.euronews.com",
-      "url": "https://pt.euronews.com/next/2026/08/09/alemanha-centro-em-hessen-investiga-14-000-avistamentos-de-ovni"
-    },
-    {
-      "type": "news",
-      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u043d\u0435 \u0440\u0435\u0448\u0438\u043b\u0430\u0441\u044c \u043d\u0430\u0437\u0432\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u0443 , \u0441\u0431\u0440\u043e\u0441\u0438\u0432\u0448\u0443\u044e \u043d\u0430 \u042f\u043f\u043e\u043d\u0438\u044e \u0430\u0442\u043e\u043c\u043d\u0443\u044e \u0431\u043e\u043c\u0431\u0443",
-      "source": "vm.ru",
-      "url": "https://vm.ru/news/1348928-zaharova-premeru-yaponii-ne-hvatilo-muzhestva-skazat-kto-sbrosil-atomnuyu-bombu"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e \u041d\u041b\u041e",
-      "source": "ria.ru",
-      "url": "https://ria.ru/20260809/nlo-2109825765.html"
-    },
-    {
-      "type": "news",
-      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u042f\u043f\u043e\u043d\u0438\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0432\u0438\u0434 , \u0447\u0442\u043e \u043d\u0430 \u0425\u0438\u0440\u043e\u0441\u0438\u043c\u0443 \u0438 \u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438 \u0443\u043f\u0430\u043b\u0438 \u0430\u0442\u043e\u043c\u043d\u044b\u0435 \u041d\u041b\u041e",
-      "source": "ria.ru",
-      "url": "https://ria.ru/20260809/zakharova-2109824925.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0q24p9hdm8vsi81kjb8b5611j4"
     },
     {
       "type": "swpc",
@@ -142,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-20T12:26:19.465439Z",
-      "score": 31.7,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 22.5
-    },
     {
       "ts": "2026-06-20T14:40:44.884902Z",
       "score": 30.4,
@@ -4845,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.0
+    },
+    {
+      "ts": "2026-08-09T10:26:38.851204Z",
+      "score": 24.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.0
     }
   ],
   "sources": [
