@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09T07:32:59.765258Z",
-  "score": 23.3,
+  "generated_at": "2026-08-09T08:23:01.479801Z",
+  "score": 24.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.8,
-    "d24h": 6.8,
+    "d1h": -1.6,
+    "d24h": 7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 56,
     "date": "09.08.2026",
     "declassified": "09.08.26",
-    "generated_utc": "07:32",
+    "generated_utc": "08:23",
     "top_drivers": [
-      "80 Beautiful And Unique Tattoos That People Are Proud To Wear Forever ( New Pics ) ",
       "NOAA space-weather alerts active: 12",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
@@ -41,81 +40,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.0,
+    "live_signal": 18.6,
     "baseline_recent": 19.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": -79.85461341488573,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -10.882778973588374,
+    "wiki_spike_pct": -13.563173523302336,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 12
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "80 Beautiful And Unique Tattoos That People Are Proud To Wear Forever ( New Pics ) ",
-      "source": "2.boredpanda.com",
-      "url": "https://2.boredpanda.com/interesting-creative-tattoos/"
-    },
-    {
-      "type": "news",
-      "text": "I  5 Stelle  e i Movimenti che destabilizzano le democrazie",
-      "source": "blitzquotidiano.it",
-      "url": "https://www.blitzquotidiano.it/politica/i-5-stelle-e-i-movimenti-che-destabilizzano-le-democrazie-3796837/"
-    },
-    {
-      "type": "news",
-      "text": "Il Pd apre una nuova fase Sguardo a sinistra Confronto con la giunta",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-09/il-pd-apre-una-nuova-fase-sguardo-a-sinistra-confronto-con-la-giunta/19550856/"
-    },
-    {
-      "type": "news",
-      "text": "Tokenized Assets 2026 : Gold , Life Insurance , Real Estate",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/boazsobrado/2026/08/08/the-real-holy-grail-the-10-trillion-push-to-tokenize-everything/"
-    },
-    {
-      "type": "news",
-      "text": "Elhunyt az egyik legh\u00edresebb UFO - \u00e9szlel\u00e9s szemtan\u00faja , ezt l\u00e1tta val\u00f3j\u00e1ban",
-      "source": "origo.hu",
-      "url": "https://www.origo.hu/nagyvilag/2026/08/ufo-eszleles-szemtanu"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3t0e1kok47ucq528jr35mrc7q3"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3b70qrqap0jc5h1v1260b2ush5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=aj69299m86vbii975cd2jnmfp5"
-    },
-    {
-      "type": "news",
-      "text": "Couple Hainanese classics served with a side of old Seremban charm",
-      "source": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/08/09/couple-s-hainanese-classics-served-with-a-side-of-old-seremban-charm"
-    },
-    {
-      "type": "news",
-      "text": "Pent\u00e1gono desclasifica 41 nuevos archivos de ovnis y esferas en Medio Oriente",
-      "source": "laestrella.com.pa",
-      "url": "https://www.laestrella.com.pa/mundo/america/pentagono-desclasifica-41-nuevos-archivos-de-ovnis-y-esferas-en-medio-oriente-JF24740339"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 725\r Issue Time: 2026 Aug 08 2108 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-20T04:49:33.376028Z",
-      "score": 34.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 25.5
-    },
     {
       "ts": "2026-06-20T08:19:17.333391Z",
       "score": 38.1,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.0
+    },
+    {
+      "ts": "2026-08-09T08:23:01.402995Z",
+      "score": 24.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
     }
   ],
   "sources": [
