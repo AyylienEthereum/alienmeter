@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-08T23:53:41.749847Z",
-  "score": 52.6,
+  "generated_at": "2026-08-09T01:11:52.139330Z",
+  "score": 24.7,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "something in the air tonight",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 26.4,
-    "d24h": 32.3,
+    "d1h": -0.4,
+    "d24h": 4.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,39 +23,99 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.8,
-    "alien_variance": 0.2
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 55,
-    "day": 55,
-    "date": "08.08.2026",
-    "declassified": "08.08.26",
-    "generated_utc": "23:53",
+    "number": 56,
+    "day": 56,
+    "date": "09.08.2026",
+    "declassified": "09.08.26",
+    "generated_utc": "01:11",
     "top_drivers": [
-      "News velocity +232% vs 7-day baseline (GDELT)",
+      "Pent\u00e1gono desclasifica 41 nuevos archivos de ovnis y esferas en Medio Oriente",
       "NOAA space-weather alerts active: 12",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 54.5,
-    "baseline_recent": 19.3,
+    "live_signal": 18.8,
+    "baseline_recent": 19.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": 232.02496428302882,
+    "gdelt_spike_pct": -79.38788257339164,
     "x_last_hour": 0,
-    "wiki_spike_pct": -18.49234992121182,
+    "wiki_spike_pct": -13.563173523302336,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.6,
     "swpc_alerts_24h": 12
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Pent\u00e1gono desclasifica 41 nuevos archivos de ovnis y esferas en Medio Oriente",
+      "source": "laestrella.com.pa",
+      "url": "https://www.laestrella.com.pa/mundo/america/pentagono-desclasifica-41-nuevos-archivos-de-ovnis-y-esferas-en-medio-oriente-JF24740339"
+    },
+    {
+      "type": "news",
+      "text": "De passage en Corse , Jul soffre un d\u00eener au bord de la mer dans un restaurant de L  \u00cele - Rousse et pose avec ses fans",
+      "source": "purepeople.com",
+      "url": "https://www.purepeople.com/article/de-passage-en-corse-jul-soffre-un-diner-au-bord-de-la-mer-dans-un-restaurant-de-lile-rousse-et-pose-avec-ses-fans_a553040/1"
+    },
+    {
+      "type": "news",
+      "text": "Disclosure Day : 5 Exciting Details About Steven Spielberg New Alien Movie \u2013 TVovermind",
+      "source": "tvovermind.com",
+      "url": "https://tvovermind.com/disclosure-day-5-exciting-details-about-steven-spielbergs-new-alien-movie/"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u0421\u0428\u0410 \u0440\u0430\u0441\u0441\u0435\u043a\u0440\u0435\u0442\u0438\u043b\u0438 \u0442\u0430\u0439\u043d\u0443 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u041d\u041b\u041e \u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 : \u0432\u043d\u0443\u0442\u0440\u0438 \u0441\u0444\u0435\u0440\u044b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0435\u043b\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 - 8 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026",
+      "source": "161.ru",
+      "url": "https://161.ru/text/world/2026/08/08/76578326/"
+    },
+    {
+      "type": "news",
+      "text": "Ukrainian Astronomers Claim 20+ UFOs Near the Moon , But Scientists Arent Convinced",
+      "source": "attackofthefanboy.com",
+      "url": "https://attackofthefanboy.com/tech/ukrainian-astronomers-claim-to-spot-20-ufos-near-the-moon-suggest-possible-technologically-advanced-civilization/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qsg6n1ulti6qi6csaccgbtu774"
+    },
+    {
+      "type": "news",
+      "text": "El Pent\u00e1gono desclasifica 41 nuevos archivos sobre Ovnis : los m\u00e1s impresionantes son los del Medio Oriente",
+      "source": "ntn24.com",
+      "url": "https://www.ntn24.com/noticias-actualidad/el-pentagono-desclasifica-41-nuevos-archivos-sobre-ovnis-los-mas-impresionantes-son-los-del-medio-oriente-640077"
+    },
+    {
+      "type": "news",
+      "text": "GPS jamming tied to a fatal New Mexico crash",
+      "source": "boingboing.net",
+      "url": "https://boingboing.net/2026/08/08/gps-jamming-medevac-crash.html"
+    },
+    {
+      "type": "news",
+      "text": "Hlavn\u00e9 spr\u00e1vy z 8 . augusta",
+      "source": "ta3.com",
+      "url": "https://www.ta3.com/relacia/1064991/hlavne-spravy-z-8-augusta"
+    },
+    {
+      "type": "news",
+      "text": "\u041d\u043e\u0432\u0430 \u043c\u0438\u0441\u0442\u0435\u0440\u0438\u044f ! \u0418\u0437\u0442\u0435\u043a\u043e\u0445\u0430 \u0444\u0430\u0439\u043b\u043e\u0432\u0435 \u0437\u0430 \u043f\u0430\u0434\u043d\u0430\u043b\u043e \u041d\u041b\u041e \u0441 \u0447\u043e\u0432\u0435\u043a \u0432\u044a\u0442\u0440\u0435 - \u041b\u044e\u0431\u043e\u043f\u0438\u0442\u043d\u043e \u041d\u043e\u0432\u0438\u043d\u0438 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+      "source": "standartnews.com",
+      "url": "https://www.standartnews.com/lifestyle-lyubopitno/nova-misteriya-iztekoha-faylove-za-padnalo-nlo-s-chovek-vatre-643098.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 725\r Issue Time: 2026 Aug 08 2108 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -88,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-19T17:13:55.646850Z",
-      "score": 29.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.3
-    },
     {
       "ts": "2026-06-19T19:11:14.559375Z",
       "score": 32.5,
@@ -4791,6 +4844,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 54.5
+    },
+    {
+      "ts": "2026-08-09T01:11:52.062768Z",
+      "score": 24.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.8
     }
   ],
   "sources": [
