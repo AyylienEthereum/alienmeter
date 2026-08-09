@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09T09:10:52.691684Z",
-  "score": 24.2,
+  "generated_at": "2026-08-09T09:55:15.387285Z",
+  "score": 23.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": 7.7,
+    "d1h": -1.3,
+    "d24h": 4.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 56,
     "date": "09.08.2026",
     "declassified": "09.08.26",
-    "generated_utc": "09:10",
+    "generated_utc": "09:55",
     "top_drivers": [
+      "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u043b\u0430 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0421\u0428\u0410 \u0432 \u0431\u043e\u043c\u0431\u0435\u0436\u043a\u0435 \u042f\u043f\u043e\u043d\u0438\u0438",
       "NOAA space-weather alerts active: 12",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.1,
+    "live_signal": 17.0,
     "baseline_recent": 19.3,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 12
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u043b\u0430 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0421\u0428\u0410 \u0432 \u0431\u043e\u043c\u0431\u0435\u0436\u043a\u0435 \u042f\u043f\u043e\u043d\u0438\u0438",
+      "source": "vesti.ru",
+      "url": "https://www.vesti.ru/ns/zakharova-upomyanula-nlo-posle-zamalchivaniya-takaiti-uchastiya-ssha-v-bombezhke-yaponii"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=hcdd8eii3g7g8fl202tg23rh36"
+    },
+    {
+      "type": "news",
+      "text": "14 , 000 shikime UFO - sh n\u00eb Gjermani - Syri",
+      "source": "syri.net",
+      "url": "https://www.syri.net/shkence/908724/14-000-shikime-ufo-sh-ne-gjermani/"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon pushes US defense industry for weapon production amid depleting arms stockpiles , Iran war",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-pentagon-patriot-interceptor-thaad-west-asia-conflict-iran-war-president-trump-sean-parnell-steve-feinberg-101786257559916.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u042f\u043f\u043e\u043d\u0438\u0438 \u0443\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u044e\u0442 \u043e\u0431 \u0430\u0442\u043e\u043c\u043d\u044b\u0445 \u0443\u0434\u0430\u0440\u0430\u0445 \u0421\u0428\u0410 : \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u0417\u0430\u0445\u0430\u0440\u043e\u0432\u043e\u0439",
+      "source": "iz.ru",
+      "url": "https://iz.ru/2146234/zakharova-ukazala-na-nekhvatku-muzhestva-u-takaiti-nazvat-vinovnika-bombardirovki-izi"
+    },
+    {
+      "type": "news",
+      "text": "Alemanha : centro em Hessen investiga 14 000 avistamentos de OVNI",
+      "source": "pt.euronews.com",
+      "url": "https://pt.euronews.com/next/2026/08/09/alemanha-centro-em-hessen-investiga-14-000-avistamentos-de-ovni"
+    },
+    {
+      "type": "news",
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u0422\u0430\u043a\u0430\u0438\u0442\u0438 \u043d\u0435 \u0440\u0435\u0448\u0438\u043b\u0430\u0441\u044c \u043d\u0430\u0437\u0432\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u0443 , \u0441\u0431\u0440\u043e\u0441\u0438\u0432\u0448\u0443\u044e \u043d\u0430 \u042f\u043f\u043e\u043d\u0438\u044e \u0430\u0442\u043e\u043c\u043d\u0443\u044e \u0431\u043e\u043c\u0431\u0443",
+      "source": "vm.ru",
+      "url": "https://vm.ru/news/1348928-zaharova-premeru-yaponii-ne-hvatilo-muzhestva-skazat-kto-sbrosil-atomnuyu-bombu"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e \u041d\u041b\u041e",
+      "source": "ria.ru",
+      "url": "https://ria.ru/20260809/nlo-2109825765.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430 : \u042f\u043f\u043e\u043d\u0438\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0432\u0438\u0434 , \u0447\u0442\u043e \u043d\u0430 \u0425\u0438\u0440\u043e\u0441\u0438\u043c\u0443 \u0438 \u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438 \u0443\u043f\u0430\u043b\u0438 \u0430\u0442\u043e\u043c\u043d\u044b\u0435 \u041d\u041b\u041e",
+      "source": "ria.ru",
+      "url": "https://ria.ru/20260809/zakharova-2109824925.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0q24p9hdm8vsi81kjb8b5611j4"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 725\r Issue Time: 2026 Aug 08 2108 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-20T10:56:44.830322Z",
-      "score": 28.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.6
-    },
     {
       "ts": "2026-06-20T12:26:19.465439Z",
       "score": 31.7,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.1
+    },
+    {
+      "ts": "2026-08-09T09:55:15.311707Z",
+      "score": 23.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.0
     }
   ],
   "sources": [
