@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-10T04:18:16.756967Z",
-  "score": 19.1,
+  "generated_at": "2026-08-10T05:53:37.492734Z",
+  "score": 19.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -12.7,
-    "d24h": 2.6,
+    "d1h": 0.5,
+    "d24h": 2.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 57,
     "date": "10.08.2026",
     "declassified": "10.08.26",
-    "generated_utc": "04:18",
+    "generated_utc": "05:53",
     "top_drivers": [
-      "Head - To - Head Survey : SiteOne Landscape Supply ( NYSE : SITE ) vs . Sims Metal Management ( OTCMKTS : SMSMY ) ",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.7,
-    "baseline_recent": 19.2,
+    "live_signal": 11.8,
+    "baseline_recent": 19.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": -81.6918911721628,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -3.4943123765411075,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Head - To - Head Survey : SiteOne Landscape Supply ( NYSE : SITE ) vs . Sims Metal Management ( OTCMKTS : SMSMY ) ",
-      "source": "themarketsdaily.com",
-      "url": "https://www.themarketsdaily.com/2026/08/10/head-to-head-survey-siteone-landscape-supply-nysesite-vs-sims-metal-management-otcmktssmsmy.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ldajn070o6g255fnh03eni6tn3"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=p6dvg8ik0dkqnbthc711gse8j7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i02j4qp1o777ai40h2kir95td3"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2571ap8pv4g5ho9f2kkqi25qa6"
-    },
-    {
-      "type": "news",
-      "text": "Bill Maher made weight loss jokes on Ariana Grande , only for  Real Time  audience to respond with collective groans",
-      "source": "attackofthefanboy.com",
-      "url": "https://attackofthefanboy.com/entertainment/bill-maher-made-weight-loss-jokes-on-ariana-grande-only-for-real-time-audience-to-respond-with-collective-groans/"
-    },
-    {
-      "type": "news",
-      "text": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f \u043e\u0442\u0447\u0438\u0442\u0430 \u0440\u0435\u043a\u043e\u0440\u0434 \u043e\u0442 \u0431\u043b\u0438\u0437\u043e 14 000 \u0441\u0438\u0433\u043d\u0430\u043b\u0430 \u0437\u0430 \u041d\u041b\u041e",
-      "source": "segabg.com",
-      "url": "https://www.segabg.com/hot/germaniya-otchita-rekord-blizo-14-000-signala-za-nlo"
-    },
-    {
-      "type": "news",
-      "text": "\u0427\u0442\u043e \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0411\u0430\u0431\u0430 \u0412\u0430\u043d\u0433\u0430 \u043d\u0430 2026 \u0433\u043e\u0434 : \u0442\u0440\u0438 \u043f\u0443\u0433\u0430\u044e\u0449\u0438\u0445 \u043f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u0430 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0433\u043e\u0434\u0430",
-      "source": "unian.net",
-      "url": "https://www.unian.net/curiosities/chto-predskazala-baba-vanga-na-2026-god-tri-pugayushchih-prorochestva-do-konca-goda-13465023.html"
-    },
-    {
-      "type": "news",
-      "text": "Novi NLO snimci iz otvorenih arhiva",
-      "source": "glas-javnosti.rs",
-      "url": "http://www.glas-javnosti.rs/zivot/zanimljivosti/novi-nlo-snimci-iz-otvorenih-arhiva"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0431 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u043e\u0442\u0447\u0451\u0442\u0430 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430",
-      "source": "life.ru",
-      "url": "https://life.ru/p/1909800"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1119\r Issue Time: 2026 Aug 09 1338 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-22T23:21:42.462540Z",
-      "score": 27.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.5
-    },
     {
       "ts": "2026-06-23T01:29:16.833090Z",
       "score": 21.0,
@@ -4833,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.7
+    },
+    {
+      "ts": "2026-08-10T05:53:37.417589Z",
+      "score": 19.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.8
     }
   ],
   "sources": [
