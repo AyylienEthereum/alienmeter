@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-10T14:43:06.441469Z",
-  "score": 44.7,
+  "generated_at": "2026-08-10T15:38:58.492926Z",
+  "score": 21.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 25.8,
-    "d24h": 20.9,
+    "d1h": 2.2,
+    "d24h": -4.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 31.1,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.7,
-    "alien_variance": 0.4
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 57,
     "date": "10.08.2026",
     "declassified": "10.08.26",
-    "generated_utc": "14:43",
+    "generated_utc": "15:38",
     "top_drivers": [
-      "Thomas Ryan Arrested In Gilboa After Orange County Manhunt",
-      "News velocity +130% vs 7-day baseline (GDELT)",
+      "Which Wisconsin & Illinois Cities Report The Most UFO Sightings ? ",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 44.7,
+    "live_signal": 14.7,
     "baseline_recent": 19.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": 129.70010621708963,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -3.4943123765411075,
     "earthquakes_24h": 1,
@@ -56,6 +55,18 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Which Wisconsin & Illinois Cities Report The Most UFO Sightings ? ",
+      "source": "967theeagle.net",
+      "url": "https://967theeagle.net/wisconsin-illinois-ufo-sightings/"
+    },
+    {
+      "type": "news",
+      "text": "UFO sightings surge",
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/world/ufo-sightings-surge-c-22703978"
+    },
     {
       "type": "news",
       "text": "Thomas Ryan Arrested In Gilboa After Orange County Manhunt",
@@ -105,18 +116,6 @@
       "url": "https://www.kunm.org/kunm-news-update/2026-08-10/mon-northern-new-mexico-fire-grows-to-3-000-acres-more"
     },
     {
-      "type": "news",
-      "text": "Thomas Ryan Arrested In Gilboa After Orange County Manhunt",
-      "source": "wpdh.com",
-      "url": "https://wpdh.com/orange-county-homicide-suspect-arrested/"
-    },
-    {
-      "type": "news",
-      "text": "Which Wisconsin & Illinois Cities Report The Most UFO Sightings ? ",
-      "source": "kfilradio.com",
-      "url": "https://kfilradio.com/ixp/722/p/wisconsin-illinois-ufo-sightings/"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 5 km S of San Jos\u00e9 del Palmar, Colombia",
       "source": "USGS",
@@ -130,13 +129,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-23T19:19:39.790262Z",
-      "score": 31.4,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 23.9
-    },
     {
       "ts": "2026-06-23T21:13:26.103670Z",
       "score": 24.0,
@@ -4833,6 +4825,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 44.7
+    },
+    {
+      "ts": "2026-08-10T15:38:58.416102Z",
+      "score": 21.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.7
     }
   ],
   "sources": [
