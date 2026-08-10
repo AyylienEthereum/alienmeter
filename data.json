@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T16:30:48.150901Z",
-  "score": 22.7,
+  "generated_at": "2026-08-10T17:28:30.925213Z",
+  "score": 21.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.8,
-    "d24h": 4.0,
+    "d1h": -3.5,
+    "d24h": 3.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.7,
-    "alien_variance": 3.2
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,15 @@
     "day": 57,
     "date": "10.08.2026",
     "declassified": "10.08.26",
-    "generated_utc": "16:30",
+    "generated_utc": "17:28",
     "top_drivers": [
-      "Which Wisconsin & Illinois Cities Report The Most UFO Sightings ? ",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.4,
+    "live_signal": 15.0,
     "baseline_recent": 19.0,
     "score_gain": 1.3,
     "kp": null,
@@ -56,66 +55,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Which Wisconsin & Illinois Cities Report The Most UFO Sightings ? ",
-      "source": "967theeagle.net",
-      "url": "https://967theeagle.net/wisconsin-illinois-ufo-sightings/"
-    },
-    {
-      "type": "news",
-      "text": "UFO sightings surge",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/world/ufo-sightings-surge-c-22703978"
-    },
-    {
-      "type": "news",
-      "text": "Thomas Ryan Arrested In Gilboa After Orange County Manhunt",
-      "source": "hudsonvalleycountry.com",
-      "url": "https://hudsonvalleycountry.com/ixp/705/p/orange-county-homicide-suspect-arrested/"
-    },
-    {
-      "type": "news",
-      "text": "X - Files : Mulder et Scully d\u00e9barquent chez LEGO dans une bo\u00eete venue dun autre monde , et les fans vont adorer",
-      "source": "allocine.fr",
-      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000217339.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Disk Shoots Across Sky , Gets Caught In Photo , Poway , California , united states Aug 6 , 2026 , UFO UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/08/disk-shoots-across-sky-gets-caught-in.html"
-    },
-    {
-      "type": "news",
-      "text": "\u041c\u0435\u0436\u0437\u0432\u0435\u0437\u0434\u043d\u044b\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f \u0432\u0441\u043a\u043e\u0440\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e",
-      "source": "science.focus.ua",
-      "url": "https://science.focus.ua/nauka/763973-mezhzvezdnye-puteshestviya-vskore-mogut-stat-realnostyu"
-    },
-    {
-      "type": "news",
-      "text": "Germany logs record rise in UFO sightings watchdog",
-      "source": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279229167/germany-logs-record-rise-in-ufo-sightings-watchdog"
-    },
-    {
-      "type": "news",
-      "text": "Pentagoni publikon dosje t\u00eb reja p\u00ebr UFO - t , pamjet tregojn\u00eb objekte misterioze",
-      "source": "telegrafi.com",
-      "url": "https://telegrafi.com/pentagoni-publikon-dosje-te-reja-per-ufo-t-pamjet-tregojne-objekte-misterioze/"
-    },
-    {
-      "type": "news",
-      "text": "Jammu Kashmir Records Over 9 . 64 Lakh MSME Registrations Since 2020",
-      "source": "kashmirlife.net",
-      "url": "https://kashmirlife.net/jammu-kashmir-records-over-9-64-lakh-msme-registrations-since-2020-447368/"
-    },
-    {
-      "type": "news",
-      "text": "MON : Northern New Mexico fire grows to 3 , 000 acres , + More",
-      "source": "kunm.org",
-      "url": "https://www.kunm.org/kunm-news-update/2026-08-10/mon-northern-new-mexico-fire-grows-to-3-000-acres-more"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 5 km S of San Jos\u00e9 del Palmar, Colombia",
       "source": "USGS",
@@ -129,13 +68,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-23T22:38:53.379714Z",
-      "score": 51.2,
-      "band": "ROSWELL ENERGY",
-      "i": 3,
-      "live": 49.4
-    },
     {
       "ts": "2026-06-23T23:40:57.000760Z",
       "score": 26.6,
@@ -4832,6 +4764,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.4
+    },
+    {
+      "ts": "2026-08-10T17:28:30.848244Z",
+      "score": 21.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.0
     }
   ],
   "sources": [
