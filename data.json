@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-10T00:04:21.773244Z",
+  "generated_at": "2026-08-10T02:33:03.909436Z",
   "score": 20.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.8,
-    "d24h": 2.9,
+    "d1h": 0.8,
+    "d24h": 6.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,9 +31,8 @@
     "day": 57,
     "date": "10.08.2026",
     "declassified": "10.08.26",
-    "generated_utc": "00:04",
+    "generated_utc": "02:33",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 NY2) passing Earth at 6.5 lunar distances"
     ],
@@ -48,74 +47,14 @@
     "xray_class": "B",
     "closest_asteroid_ld": 6.5414492072,
     "asteroid_name": "(2019 NY2)",
-    "gdelt_spike_pct": -81.59077976994053,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -10.637451318154591,
+    "wiki_spike_pct": -4.057775866006713,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2571ap8pv4g5ho9f2kkqi25qa6"
-    },
-    {
-      "type": "news",
-      "text": "Bill Maher made weight loss jokes on Ariana Grande , only for  Real Time  audience to respond with collective groans",
-      "source": "attackofthefanboy.com",
-      "url": "https://attackofthefanboy.com/entertainment/bill-maher-made-weight-loss-jokes-on-ariana-grande-only-for-real-time-audience-to-respond-with-collective-groans/"
-    },
-    {
-      "type": "news",
-      "text": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f \u043e\u0442\u0447\u0438\u0442\u0430 \u0440\u0435\u043a\u043e\u0440\u0434 \u043e\u0442 \u0431\u043b\u0438\u0437\u043e 14 000 \u0441\u0438\u0433\u043d\u0430\u043b\u0430 \u0437\u0430 \u041d\u041b\u041e",
-      "source": "segabg.com",
-      "url": "https://www.segabg.com/hot/germaniya-otchita-rekord-blizo-14-000-signala-za-nlo"
-    },
-    {
-      "type": "news",
-      "text": "\u0427\u0442\u043e \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0411\u0430\u0431\u0430 \u0412\u0430\u043d\u0433\u0430 \u043d\u0430 2026 \u0433\u043e\u0434 : \u0442\u0440\u0438 \u043f\u0443\u0433\u0430\u044e\u0449\u0438\u0445 \u043f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u0430 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0433\u043e\u0434\u0430",
-      "source": "unian.net",
-      "url": "https://www.unian.net/curiosities/chto-predskazala-baba-vanga-na-2026-god-tri-pugayushchih-prorochestva-do-konca-goda-13465023.html"
-    },
-    {
-      "type": "news",
-      "text": "Novi NLO snimci iz otvorenih arhiva",
-      "source": "glas-javnosti.rs",
-      "url": "http://www.glas-javnosti.rs/zivot/zanimljivosti/novi-nlo-snimci-iz-otvorenih-arhiva"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0431 \u041d\u041b\u041e \u043f\u043e\u0441\u043b\u0435 \u043e\u0442\u0447\u0451\u0442\u0430 \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430",
-      "source": "life.ru",
-      "url": "https://life.ru/p/1909800"
-    },
-    {
-      "type": "news",
-      "text": "Bluewater Health announces new physicians | Chatham Daily News",
-      "source": "chathamdailynews.ca",
-      "url": "https://www.chathamdailynews.ca:443/news/local-news/bluewater-health-announces-new-physicians"
-    },
-    {
-      "type": "news",
-      "text": "Svenska  sp\u00f6kraketer  i Pentagons ufo - filer",
-      "source": "svd.se",
-      "url": "https://www.svd.se/a/8pxBqr/svenska-spokraketer-i-pentagons-ufo-filer"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0431 \u041d\u041b\u041e",
-      "source": "vedomosti.ru",
-      "url": "https://www.vedomosti.ru/politics/news/2026/08/09/1219837-v-germanii-zafiksirovali"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o3el8rrgnvgtbp385cu2scvsp3"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1119\r Issue Time: 2026 Aug 09 1338 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-22T19:46:40.001026Z",
-      "score": 31.9,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 23.6
-    },
     {
       "ts": "2026-06-22T21:58:26.340016Z",
       "score": 29.0,
@@ -4829,6 +4761,13 @@
     },
     {
       "ts": "2026-08-10T00:04:21.684511Z",
+      "score": 20.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.9
+    },
+    {
+      "ts": "2026-08-10T02:33:03.833550Z",
       "score": 20.0,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
