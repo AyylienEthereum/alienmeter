@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T20:44:12.514917Z",
-  "score": 19.4,
+  "generated_at": "2026-08-11T21:30:11.604805Z",
+  "score": 20.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.7,
-    "d24h": -2.3,
+    "d1h": 0.3,
+    "d24h": -1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.7,
-    "search_interest": 1.3,
-    "space_weather_alerts": 2.4,
+    "search_interest": 0.0,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,16 @@
     "day": 58,
     "date": "11.08.2026",
     "declassified": "11.08.26",
-    "generated_utc": "20:44",
+    "generated_utc": "21:30",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
-      "Wikipedia UFO pageviews +8% above baseline",
+      "NOAA space-weather alerts active: 3",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.4,
+    "live_signal": 13.5,
     "baseline_recent": 18.7,
     "score_gain": 1.3,
     "kp": null,
@@ -50,12 +49,18 @@
     "asteroid_name": "(2013 QC11)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 8.214154748808214,
+    "wiki_spike_pct": -1.5629471159742163,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1120\r Issue Time: 2026 Aug 11 2055 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G1 Pre",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMSUD\r Serial Number: 302\r Issue Time: 2026 Aug 11 1141 UTC\r \r SUMMARY: Geomagnetic Sudden Impulse  Observed: 2",
@@ -76,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-26T18:03:52.514562Z",
-      "score": 44.7,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 39.7
-    },
     {
       "ts": "2026-06-26T20:07:57.628263Z",
       "score": 39.7,
@@ -4779,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.4
+    },
+    {
+      "ts": "2026-08-11T21:30:11.529524Z",
+      "score": 20.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.5
     }
   ],
   "sources": [
