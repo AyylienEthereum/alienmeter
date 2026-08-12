@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-12T18:54:34.551303Z",
-  "score": 17.5,
+  "generated_at": "2026-08-12T19:58:26.029884Z",
+  "score": 17.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.7,
-    "d24h": -8.5,
+    "d1h": 0.3,
+    "d24h": -8.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "18:54",
+    "generated_utc": "19:58",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.0,
+    "live_signal": 10.3,
     "baseline_recent": 18.6,
     "score_gain": 1.3,
     "kp": null,
@@ -49,12 +50,72 @@
     "asteroid_name": "(2013 QC11)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -12.778137334439354,
+    "wiki_spike_pct": -7.581073248116176,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o527t38pmcehtal6lv9fh7tli5"
+    },
+    {
+      "type": "news",
+      "text": "Marco Rubio dishes on  seriou UFO sightings , his war with Pete Hegseth cat and why he wont do the MAHA diet",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/08/12/us-news/marco-rubio-dishes-on-serious-ufo-sightings-his-war-with-pete-hegseths-cat-and-why-he-wont-do-the-maha-diet/"
+    },
+    {
+      "type": "news",
+      "text": "Dronning Marys look var sammensat af flere favoritter : Men \u00e9n detalje har vi ikke set f\u00f8r",
+      "source": "billedbladet.dk",
+      "url": "https://www.billedbladet.dk/kongelige/danmark/dronning-marys-look-var-sammensat-af-flere-favoritter-men-en-detalje-har-vi-ikke"
+    },
+    {
+      "type": "news",
+      "text": "Developing tomorrow cancer treatments for childhood leukemia",
+      "source": "buffalonews.com",
+      "url": "https://buffalonews.com/news/community/article_e14bf6fe-d5b6-5caf-95b1-918d2011f8bd.html"
+    },
+    {
+      "type": "news",
+      "text": "WATCH : 35th annual Corky Kell + Dave Hunter Classic features all - time lineup of premier teams",
+      "source": "atlantanewsfirst.com",
+      "url": "https://www.atlantanewsfirst.com/2026/08/12/35th-annual-corky-kell-dave-hunter-classic-features-all-time-lineup-premier-teams/"
+    },
+    {
+      "type": "news",
+      "text": "Tini llegar\u00e1 a Guayaquil en septiembre con un espect\u00e1culo de tres horas y cinco etapas de su carrera",
+      "source": "eluniverso.com",
+      "url": "https://www.eluniverso.com/entretenimiento/musica/tini-llegara-a-guayaquil-en-septiembre-con-un-espectaculo-de-tres-horas-y-cinco-etapas-de-su-carrera-nota/"
+    },
+    {
+      "type": "news",
+      "text": "\u5f3a\u98ce\u66b4\u88ad\u51fb\u7f8e\u56fd\u4e2d\u897f\u90e8 \u81f3\u5c113\u4eba\u6b7b\u4ea1",
+      "source": "epochtimes.com",
+      "url": "https://www.epochtimes.com/gb/26/8/12/n14828532.htm"
+    },
+    {
+      "type": "news",
+      "text": "  Theyre Not Our : Marco Rubio Admits Alien Tech or Foreign Spies Could Explain Unexplained UAP Sightings",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/theyre-not-ours-marco-rubio-admits-alien-tech-foreign-spies-could-explain-unexplained-uap-1813811"
+    },
+    {
+      "type": "news",
+      "text": "Best Free Beaches in New Jersey to Visit for the End of Summer",
+      "source": "wobm.com",
+      "url": "https://wobm.com/best-free-beaches-new-jersey-summer/"
+    },
+    {
+      "type": "news",
+      "text": "How many times has someone in Georgia won Powerball , Mega Millions jackpots ? ",
+      "source": "yahoo.com",
+      "url": "https://www.yahoo.com/news/us/articles/many-times-someone-georgia-won-130220629.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1120\r Issue Time: 2026 Aug 11 2055 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G1 Pre",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-28T01:52:41.370598Z",
-      "score": 27.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.3
-    },
     {
       "ts": "2026-06-28T06:12:32.662907Z",
       "score": 26.0,
@@ -4772,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.0
+    },
+    {
+      "ts": "2026-08-12T19:58:25.954190Z",
+      "score": 17.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.3
     }
   ],
   "sources": [
