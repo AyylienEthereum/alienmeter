@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:55:12.988704Z",
-  "score": 19.6,
+  "generated_at": "2026-08-12T14:52:04.621321Z",
+  "score": 18.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -8.5,
-    "d24h": -5.5,
+    "d1h": -1.0,
+    "d24h": -4.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "13:55",
+    "generated_utc": "14:52",
     "top_drivers": [
-      "How many times has someone in Georgia won Powerball , Mega Millions jackpots ? ",
+      "  Theyre Not Our : Marco Rubio Admits Alien Tech or Foreign Spies Could Explain Unexplained UAP Sightings",
       "NOAA space-weather alerts active: 1",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.6,
+    "live_signal": 10.9,
     "baseline_recent": 18.7,
     "score_gain": 1.3,
     "kp": null,
@@ -50,12 +50,30 @@
     "asteroid_name": "(2013 QC11)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -7.581073248116176,
+    "wiki_spike_pct": -12.778137334439354,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "  Theyre Not Our : Marco Rubio Admits Alien Tech or Foreign Spies Could Explain Unexplained UAP Sightings",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/theyre-not-ours-marco-rubio-admits-alien-tech-foreign-spies-could-explain-unexplained-uap-1813811"
+    },
+    {
+      "type": "news",
+      "text": "Best Free Beaches in New Jersey to Visit for the End of Summer",
+      "source": "wobm.com",
+      "url": "https://wobm.com/best-free-beaches-new-jersey-summer/"
+    },
+    {
+      "type": "news",
+      "text": "\u5f3a\u98ce\u66b4\u88ad\u51fb\u7f8e\u56fd\u4e2d\u897f\u90e8 \u81f3\u5c113\u4eba\u6b7b\u4ea1",
+      "source": "epochtimes.com",
+      "url": "https://www.epochtimes.com/gb/26/8/12/n14828532.htm"
+    },
     {
       "type": "news",
       "text": "How many times has someone in Georgia won Powerball , Mega Millions jackpots ? ",
@@ -99,24 +117,6 @@
       "url": "https://www.post-journal.com/obituaries/2026/08/nancy-m-ackley-1950-2026/"
     },
     {
-      "type": "news",
-      "text": "GreenTech Begins Munni Munni Heritage Survey | Company Announcement",
-      "source": "investegate.co.uk",
-      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-begins-munni-munni-heritage-survey/9716735"
-    },
-    {
-      "type": "news",
-      "text": "1905 , el relato del \u00faltimo eclipse total",
-      "source": "larioja.com",
-      "url": "https://www.larioja.com/la-rioja/eclipse-solar-rioja-1905-20260811174358-nt.html"
-    },
-    {
-      "type": "news",
-      "text": "Tini en Guayaquil : El emocionante show de Futttura 2023",
-      "source": "eldiario.ec",
-      "url": "https://www.eldiario.ec/espectaculos/tini-en-guayaquil-asi-sera-el-show-de-futttura-que-llegara-al-estadio-modelo-11082026/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1120\r Issue Time: 2026 Aug 11 2055 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G1 Pre",
       "source": "NOAA SWPC",
@@ -130,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-27T19:11:01.319795Z",
-      "score": 39.4,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 32.8
-    },
     {
       "ts": "2026-06-27T20:19:41.980399Z",
       "score": 32.0,
@@ -4833,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.6
+    },
+    {
+      "ts": "2026-08-12T14:52:04.557638Z",
+      "score": 18.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.9
     }
   ],
   "sources": [
