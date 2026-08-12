@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-12T06:59:19.042665Z",
-  "score": 21.0,
+  "generated_at": "2026-08-12T08:21:05.886974Z",
+  "score": 20.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -4.4,
+    "d1h": -27.2,
+    "d24h": -4.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "06:59",
+    "generated_utc": "08:21",
     "top_drivers": [
-      "GreenTech Begins Munni Munni Heritage Survey | Company Announcement",
       "NOAA space-weather alerts active: 3",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.4,
+    "live_signal": 14.2,
     "baseline_recent": 18.7,
     "score_gain": 1.3,
     "kp": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "GreenTech Begins Munni Munni Heritage Survey | Company Announcement",
-      "source": "investegate.co.uk",
-      "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-begins-munni-munni-heritage-survey/9716735"
-    },
-    {
-      "type": "news",
-      "text": "1905 , el relato del \u00faltimo eclipse total",
-      "source": "larioja.com",
-      "url": "https://www.larioja.com/la-rioja/eclipse-solar-rioja-1905-20260811174358-nt.html"
-    },
-    {
-      "type": "news",
-      "text": "Tini en Guayaquil : El emocionante show de Futttura 2023",
-      "source": "eldiario.ec",
-      "url": "https://www.eldiario.ec/espectaculos/tini-en-guayaquil-asi-sera-el-show-de-futttura-que-llegara-al-estadio-modelo-11082026/"
-    },
-    {
-      "type": "news",
-      "text": "Airborne Affordable Flyers 08 . 06 . 26 : UltraCruiser , Carbon Cub ULT , SE - 1 Canopy",
-      "source": "aero-news.net",
-      "url": "https://aero-news.net:443/FullsizeImage.cfm?do=main.textpost&id=2CE34B28-121D-4CA4-9C86-C225C84191A1"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-07T00:54:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Giant UFO 10X Longer Than Earth Dipping Into Our Sun Right Now ! UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/08/giant-ufo-10x-longer-than-earth-dipping.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9d2h571cfak0jr0jtsm73v06a3"
-    },
-    {
-      "type": "news",
-      "text": "Sec . Rubio Joins Katie Miller Podcast Interview",
-      "source": "miragenews.com",
-      "url": "https://www.miragenews.com/sec-rubio-joins-katie-miller-podcast-interview-1725762/"
-    },
-    {
-      "type": "news",
-      "text": "\u041a\u043e\u0441\u043c\u043e\u0441 \u043c\u043e\u043b\u0447\u0438\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043e\u043b\u0433\u043e : \u043f\u043e\u0447\u0435\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0435 \u043d\u0430\u0448\u043b\u043e \u0441\u043b\u0435\u0434\u043e\u0432 \u0438\u043d\u044b\u0445 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0439",
-      "source": "pravda.ru",
-      "url": "https://www.pravda.ru/news/science/2387914-fermi-paradox-great-filter-space-silence/"
-    },
-    {
-      "type": "news",
-      "text": "\u041d\u041b\u041e \u043f\u043e\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043d\u0430\u0434 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u043c\u0438 \u0432\u043e\u0435\u043d\u043d\u044b\u043c\u0438 \u0431\u0430\u0437\u0430\u043c\u0438 : \u0420\u0443\u0431\u0438\u043e \u043e\u0431\u0435\u0441\u043f\u043e\u043a\u043e\u0435\u043d",
-      "source": "news.mail.ru",
-      "url": "https://news.mail.ru/society/71960796/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1120\r Issue Time: 2026 Aug 11 2055 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G1 Pre",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-27T11:11:42.483412Z",
-      "score": 34.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 26.2
-    },
     {
       "ts": "2026-06-27T12:18:49.895284Z",
       "score": 31.6,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.4
+    },
+    {
+      "ts": "2026-08-12T08:21:05.810763Z",
+      "score": 20.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.2
     }
   ],
   "sources": [
