@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-12T19:58:26.029884Z",
-  "score": 17.7,
+  "generated_at": "2026-08-12T20:43:52.924095Z",
+  "score": 21.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -8.1,
+    "d1h": 4.6,
+    "d24h": -4.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 5.2,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "19:58",
+    "generated_utc": "20:43",
     "top_drivers": [
       "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +22% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
@@ -41,21 +42,33 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.3,
+    "live_signal": 15.6,
     "baseline_recent": 18.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 14.4149230286,
     "asteroid_name": "(2013 QC11)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 21.754929008815022,
     "x_last_hour": 0,
-    "wiki_spike_pct": -7.581073248116176,
+    "wiki_spike_pct": -12.778137334439354,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=u4jlf324iapp5nafs5qhs0f3u4"
+    },
+    {
+      "type": "news",
+      "text": "Intelligence watchdog warns of FBI referral over alleged disclosure of UAP whistleblower testimony",
+      "source": "sott.net",
+      "url": "https://www.sott.net/article/507879-Intelligence-watchdog-warns-of-FBI-referral-over-alleged-disclosure-of-UAP-whistleblower-testimony"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -105,18 +118,6 @@
       "url": "https://www.ibtimes.co.uk/theyre-not-ours-marco-rubio-admits-alien-tech-foreign-spies-could-explain-unexplained-uap-1813811"
     },
     {
-      "type": "news",
-      "text": "Best Free Beaches in New Jersey to Visit for the End of Summer",
-      "source": "wobm.com",
-      "url": "https://wobm.com/best-free-beaches-new-jersey-summer/"
-    },
-    {
-      "type": "news",
-      "text": "How many times has someone in Georgia won Powerball , Mega Millions jackpots ? ",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/news/us/articles/many-times-someone-georgia-won-130220629.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1120\r Issue Time: 2026 Aug 11 2055 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G1 Pre",
       "source": "NOAA SWPC",
@@ -130,13 +131,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-28T06:12:32.662907Z",
-      "score": 26.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.7
-    },
     {
       "ts": "2026-06-28T09:33:22.786674Z",
       "score": 21.3,
@@ -4833,6 +4827,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.3
+    },
+    {
+      "ts": "2026-08-12T20:43:52.849914Z",
+      "score": 21.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.6
     }
   ],
   "sources": [
