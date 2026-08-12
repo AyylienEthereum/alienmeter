@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-12T21:29:11.479394Z",
-  "score": 32.5,
+  "generated_at": "2026-08-12T22:11:41.987317Z",
+  "score": 17.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 12.7,
-    "d24h": 7.4,
+    "d1h": 0.3,
+    "d24h": -9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 17.4,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "21:29",
+    "generated_utc": "22:11",
     "top_drivers": [
-      "Marco Rubio says Trump would hold a primetime UAP address if admin knew more",
-      "News velocity +72% vs 7-day baseline (GDELT)",
+      "Things to do in metro Atlanta , North Georgia | Aug . 14 - 16 , 2026",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.2,
+    "live_signal": 10.4,
     "baseline_recent": 18.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 14.4149230286,
     "asteroid_name": "(2013 QC11)",
-    "gdelt_spike_pct": 72.47322210495587,
+    "gdelt_spike_pct": -81.51819617594677,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.778137334439354,
     "earthquakes_24h": 0,
@@ -56,6 +55,12 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Things to do in metro Atlanta , North Georgia | Aug . 14 - 16 , 2026",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/things-do-metro-atlanta-north-georgia-aug-14-16-2026"
+    },
     {
       "type": "news",
       "text": "Marco Rubio says Trump would hold a primetime UAP address if admin knew more",
@@ -111,12 +116,6 @@
       "url": "https://www.eluniverso.com/entretenimiento/musica/tini-llegara-a-guayaquil-en-septiembre-con-un-espectaculo-de-tres-horas-y-cinco-etapas-de-su-carrera-nota/"
     },
     {
-      "type": "news",
-      "text": "\u5f3a\u98ce\u66b4\u88ad\u51fb\u7f8e\u56fd\u4e2d\u897f\u90e8 \u81f3\u5c113\u4eba\u6b7b\u4ea1",
-      "source": "epochtimes.com",
-      "url": "https://www.epochtimes.com/gb/26/8/12/n14828532.htm"
-    },
-    {
       "type": "neo",
       "text": "NEO (2013 QC11) passing at 14.41 LD (~287m, 19.0 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -124,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-28T11:24:12.654844Z",
-      "score": 22.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.6
-    },
     {
       "ts": "2026-06-28T12:53:13.975112Z",
       "score": 23.8,
@@ -4827,6 +4819,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.2
+    },
+    {
+      "ts": "2026-08-12T22:11:41.909966Z",
+      "score": 17.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.4
     }
   ],
   "sources": [
