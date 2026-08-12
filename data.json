@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-12T22:11:41.987317Z",
-  "score": 17.8,
+  "generated_at": "2026-08-12T23:00:16.204334Z",
+  "score": 16.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": -9.0,
+    "d1h": -1.5,
+    "d24h": -9.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.2
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,22 @@
     "day": 59,
     "date": "12.08.2026",
     "declassified": "12.08.26",
-    "generated_utc": "22:11",
+    "generated_utc": "23:00",
     "top_drivers": [
-      "Things to do in metro Atlanta , North Georgia | Aug . 14 - 16 , 2026",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.4,
+    "live_signal": 8.3,
     "baseline_recent": 18.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 14.4149230286,
     "asteroid_name": "(2013 QC11)",
-    "gdelt_spike_pct": -81.51819617594677,
+    "gdelt_spike_pct": -81.42698904639896,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.778137334439354,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Things to do in metro Atlanta , North Georgia | Aug . 14 - 16 , 2026",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/things-do-metro-atlanta-north-georgia-aug-14-16-2026"
-    },
-    {
-      "type": "news",
-      "text": "Marco Rubio says Trump would hold a primetime UAP address if admin knew more",
-      "source": "foxnews.com",
-      "url": "https://www.foxnews.com/media/marco-rubio-addresses-uap-government-cover-up-allegations-says-trump-would-give-speech-admin-knew-more"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=u4jlf324iapp5nafs5qhs0f3u4"
-    },
-    {
-      "type": "news",
-      "text": "Intelligence watchdog warns of FBI referral over alleged disclosure of UAP whistleblower testimony",
-      "source": "sott.net",
-      "url": "https://www.sott.net/article/507879-Intelligence-watchdog-warns-of-FBI-referral-over-alleged-disclosure-of-UAP-whistleblower-testimony"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o527t38pmcehtal6lv9fh7tli5"
-    },
-    {
-      "type": "news",
-      "text": "Marco Rubio dishes on  seriou UFO sightings , his war with Pete Hegseth cat and why he wont do the MAHA diet",
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/08/12/us-news/marco-rubio-dishes-on-serious-ufo-sightings-his-war-with-pete-hegseths-cat-and-why-he-wont-do-the-maha-diet/"
-    },
-    {
-      "type": "news",
-      "text": "Dronning Marys look var sammensat af flere favoritter : Men \u00e9n detalje har vi ikke set f\u00f8r",
-      "source": "billedbladet.dk",
-      "url": "https://www.billedbladet.dk/kongelige/danmark/dronning-marys-look-var-sammensat-af-flere-favoritter-men-en-detalje-har-vi-ikke"
-    },
-    {
-      "type": "news",
-      "text": "Developing tomorrow cancer treatments for childhood leukemia",
-      "source": "buffalonews.com",
-      "url": "https://buffalonews.com/news/community/article_e14bf6fe-d5b6-5caf-95b1-918d2011f8bd.html"
-    },
-    {
-      "type": "news",
-      "text": "WATCH : 35th annual Corky Kell + Dave Hunter Classic features all - time lineup of premier teams",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/08/12/35th-annual-corky-kell-dave-hunter-classic-features-all-time-lineup-premier-teams/"
-    },
-    {
-      "type": "news",
-      "text": "Tini llegar\u00e1 a Guayaquil en septiembre con un espect\u00e1culo de tres horas y cinco etapas de su carrera",
-      "source": "eluniverso.com",
-      "url": "https://www.eluniverso.com/entretenimiento/musica/tini-llegara-a-guayaquil-en-septiembre-con-un-espectaculo-de-tres-horas-y-cinco-etapas-de-su-carrera-nota/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2013 QC11) passing at 14.41 LD (~287m, 19.0 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -123,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-28T12:53:13.975112Z",
-      "score": 23.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.1
-    },
     {
       "ts": "2026-06-28T14:44:59.629648Z",
       "score": 25.5,
@@ -4826,6 +4758,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.4
+    },
+    {
+      "ts": "2026-08-12T23:00:16.143205Z",
+      "score": 16.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.3
     }
   ],
   "sources": [
