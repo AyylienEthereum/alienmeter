@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T19:53:53.516879Z",
-  "score": 18.5,
+  "generated_at": "2026-08-13T20:35:20.122566Z",
+  "score": 19.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.1,
-    "d24h": -4.7,
+    "d1h": -0.3,
+    "d24h": -4.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 1.9,
-    "alien_variance": 1.4
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 60,
     "date": "13.08.2026",
     "declassified": "13.08.26",
-    "generated_utc": "19:53",
+    "generated_utc": "20:35",
     "top_drivers": [
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
@@ -39,14 +39,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.5,
+    "live_signal": 12.5,
     "baseline_recent": 18.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 14.4149230286,
     "asteroid_name": "(2013 QC11)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -15.65571694942566,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.748758488818376,
     "earthquakes_24h": 1,
@@ -68,13 +68,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-30T01:37:17.160381Z",
-      "score": 30.5,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 22.3
-    },
     {
       "ts": "2026-06-30T05:55:49.624806Z",
       "score": 28.3,
@@ -4771,6 +4764,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.5
+    },
+    {
+      "ts": "2026-08-13T20:35:20.047742Z",
+      "score": 19.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.5
     }
   ],
   "sources": [
