@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T11:29:40.165148Z",
+  "generated_at": "2026-08-13T12:10:47.936546Z",
   "score": 17.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.7,
-    "d24h": -7.1,
+    "d1h": -1.0,
+    "d24h": -6.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,9 +31,9 @@
     "day": 60,
     "date": "13.08.2026",
     "declassified": "13.08.26",
-    "generated_utc": "11:29",
+    "generated_utc": "12:10",
     "top_drivers": [
-      "  Poignant   90s - set Welsh comedy - drama with Michael Sheen gets first teaser",
+      "The Pentagon Just Declassified a UFO  Time Warp  Encounter and Harvard Is Blaming Alien Technology",
       "NEO (2013 QC11) passing Earth at 14.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
@@ -47,7 +47,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 14.4149230286,
     "asteroid_name": "(2013 QC11)",
-    "gdelt_spike_pct": -81.52908057104071,
+    "gdelt_spike_pct": -40.1660641662901,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.748758488818376,
     "earthquakes_24h": 0,
@@ -55,6 +55,18 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "The Pentagon Just Declassified a UFO  Time Warp  Encounter and Harvard Is Blaming Alien Technology",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/pentagon-just-declassified-ufo-time-warp-encounter-harvard-blaming-alien-technology-1814027"
+    },
+    {
+      "type": "news",
+      "text": "Creepy  demon  fish with no eyes found hidden beneath  Area 51  military base",
+      "source": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/news/creepy-demon-fish-no-eyes-37547207"
+    },
     {
       "type": "news",
       "text": "  Poignant   90s - set Welsh comedy - drama with Michael Sheen gets first teaser",
@@ -104,18 +116,6 @@
       "url": "https://www.zazoom.it/2026-08-13/auto-nel-fosso-bimbo-sotto-choc-aiutato-a-uscire/19563999/"
     },
     {
-      "type": "news",
-      "text": "\u7206\u5355\u51fa\u5708 \uff01 \u6c5f\u95e8\u624e\u9a6c\u514b\u4e24\u5927\u5de5\u4e1a\u7167\u660e\u738b\u724c \uff0c \u51ed\u786c\u6838\u5b9e\u529b\u9886\u8dd1\u5382\u623f\u6237\u5916\u8282\u80fd\u6539\u9020\u6d6a\u6f6e _ \u4e2d\u534e\u7f51",
-      "source": "m.tech.china.com",
-      "url": "https://m.tech.china.com/redian/2026/0813/082026_1939610.html"
-    },
-    {
-      "type": "news",
-      "text": "\u6280\u672f\u7834\u5c40 \uff01 \u4e0d\u9760\u5806\u6599\u62fc\u6027\u80fd \uff0c \u6c5f\u95e8\u624e\u9a6c\u514b\u7167\u660e\u4ee5\u81ea\u7814\u4e13\u5229\u91cd\u5851\u5de5\u4e1aLED\u7167\u660e\u65b0\u6807\u51c6 _ \u4e2d\u534e\u7f51",
-      "source": "m.tech.china.com",
-      "url": "https://m.tech.china.com/redian/2026/0813/082026_1939608.html"
-    },
-    {
       "type": "neo",
       "text": "NEO (2013 QC11) passing at 14.41 LD (~287m, 19.0 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -123,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-29T05:10:29.562963Z",
-      "score": 28.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.5
-    },
     {
       "ts": "2026-06-29T09:58:34.699444Z",
       "score": 25.8,
@@ -4822,6 +4815,13 @@
     },
     {
       "ts": "2026-08-13T11:29:40.088413Z",
+      "score": 17.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.6
+    },
+    {
+      "ts": "2026-08-13T12:10:47.864430Z",
       "score": 17.1,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
