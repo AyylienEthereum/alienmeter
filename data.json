@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-14T20:29:45.863329Z",
-  "score": 13.3,
+  "generated_at": "2026-08-14T20:57:24.834854Z",
+  "score": 16.0,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -18.0,
-    "d24h": -5.6,
+    "d1h": 0.7,
+    "d24h": -9.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "20:29",
+    "generated_utc": "20:57",
     "top_drivers": [
       "NOAA space-weather alerts active: 2",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.0,
+    "live_signal": 8.5,
     "baseline_recent": 18.0,
     "score_gain": 1.3,
     "kp": null,
@@ -75,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-02T11:29:33.392515Z",
-      "score": 34.4,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 27.1
-    },
     {
       "ts": "2026-07-02T13:19:21.204914Z",
       "score": 37.3,
@@ -4778,6 +4771,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 5.0
+    },
+    {
+      "ts": "2026-08-14T20:57:24.750949Z",
+      "score": 16.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.5
     }
   ],
   "sources": [
