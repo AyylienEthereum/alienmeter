@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T15:30:22.719944Z",
-  "score": 15.6,
+  "generated_at": "2026-08-14T16:25:54.075821Z",
+  "score": 16.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.7,
-    "d24h": -3.5,
+    "d1h": -0.5,
+    "d24h": -3.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 1.9,
-    "alien_variance": 1.1
+    "seismic": 0.0,
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "15:30",
+    "generated_utc": "16:25",
     "top_drivers": [
+      "LEDVANCE Earns Recognition in the 2026 IES Progress Report for Seven Innovative Lighting Solutions",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
@@ -40,21 +41,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.9,
+    "live_signal": 8.5,
     "baseline_recent": 18.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 102.02728177,
     "asteroid_name": "(2015 MO116)",
-    "gdelt_spike_pct": -24.57819334830005,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.963945032764682,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 3.84,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "LEDVANCE Earns Recognition in the 2026 IES Progress Report for Seven Innovative Lighting Solutions",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/globe-newswire/ledvance-earns-recognition-in-the-2026-ies-progress-report-for-seven-innovative-lighting-solutions/"
+    },
+    {
+      "type": "news",
+      "text": "UK government rejects calls for UFO probe",
+      "source": "femalefirst.co.uk",
+      "url": "http://www.femalefirst.co.uk/bizarre/government-rejects-calls-ufo-probe-1449066.html"
+    },
+    {
+      "type": "news",
+      "text": "Man builds jet ski UFO of his ( literal ) dreams",
+      "source": "popsci.com",
+      "url": "https://www.popsci.com/technology/man-builds-ufo-jet-ski-boat/"
+    },
+    {
+      "type": "news",
+      "text": "UK government rejects calls for UFO probe",
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/world/uk-government-rejects-calls-for-ufo-probe-c-22727028"
+    },
+    {
+      "type": "news",
+      "text": "Intuitive Machines and Virgin Galactic Jump 10 % While Rocket Lab , AST SpaceMobile Sit Out the Space Stock Rally",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-virgin-galactic-jump-141215618.html"
+    },
+    {
+      "type": "news",
+      "text": "Michael Sheen Reveals His Personal Connection to UFO Film  Out There  ",
+      "source": "hollywoodreporter.com",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/michael-sheen-out-there-film-wales-ufo-edinburgh-festival-1236670866/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=95pr3ao5l315901tgq03gvpl07"
+    },
+    {
+      "type": "news",
+      "text": "  The Rivals of Amziah King  Review",
+      "source": "decider.com",
+      "url": "https://decider.com/2026/08/14/the-rivals-of-amziah-king-review/"
+    },
+    {
+      "type": "news",
+      "text": "Roswell Park Named to Best Employers for Women and Best In - State Employers Lists",
+      "source": "newswise.com",
+      "url": "https://www.newswise.com/articles/roswell-park-named-to-best-employers-for-women-and-best-in-state-employers-lists"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i1fl44l889eiaqekpgaog2c3p2"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5401\r Issue Time: 2026 Aug 14 1054 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -68,12 +129,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "seismic",
-      "text": "Significant seismic event: 3 km N of San Leandro, CA",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2015 MO116) passing at 102.03 LD (~94m, 10.4 km/s)",
       "source": "NASA NeoWs",
@@ -81,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-01T20:48:33.549048Z",
-      "score": 38.6,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 32.6
-    },
     {
       "ts": "2026-07-01T22:15:04.729389Z",
       "score": 34.3,
@@ -4784,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.9
+    },
+    {
+      "ts": "2026-08-14T16:25:53.999490Z",
+      "score": 16.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.5
     }
   ],
   "sources": [
