@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T22:16:21.175670Z",
-  "score": 15.8,
+  "generated_at": "2026-08-14T22:47:44.698434Z",
+  "score": 18.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.5,
-    "d24h": -6.9,
+    "d1h": 2.2,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 0.0,
-    "alien_variance": 3.4
+    "seismic": 3.9,
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "22:16",
+    "generated_utc": "22:47",
     "top_drivers": [
-      "US Forecast",
+      "10 Raptors games to circle on the 2026 - 27 NBA schedule",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.3,
+    "live_signal": 11.3,
     "baseline_recent": 18.0,
     "score_gain": 1.3,
     "kp": null,
@@ -51,11 +51,35 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.963945032764682,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 7.7,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "10 Raptors games to circle on the 2026 - 27 NBA schedule",
+      "source": "raptorsrepublic.com",
+      "url": "https://raptorsrepublic.com/2026/08/14/10-raptors-games-to-circle-on-the-2026-27-nba-schedule/"
+    },
+    {
+      "type": "news",
+      "text": "8 Thrillers To Watch if You Love Netflix  The Last House  ",
+      "source": "collider.com",
+      "url": "https://collider.com/thriller-movies-like-the-last-house-netflix/"
+    },
+    {
+      "type": "news",
+      "text": "The Simpsons Movie 2 Update Reveals New Title , Logo for Disney Sequel Movie",
+      "source": "comingsoon.net",
+      "url": "https://www.comingsoon.net/movies/news/2176577-the-simpsons-movie-2-new-title-homer-bush-logo"
+    },
+    {
+      "type": "news",
+      "text": "D23 : Simpsons Movie 2 Poster Puts New Official Title in Full Display",
+      "source": "comingsoon.net",
+      "url": "https://www.comingsoon.net/movies/news/2176748-the-new-simpsons-movie-d23"
+    },
     {
       "type": "news",
       "text": "US Forecast",
@@ -93,30 +117,6 @@
       "url": "https://prowrestling.net/site/2026/08/14/aew-x-cmll-semana-internacional-results-vetters-review-of-kyle-fletcher-vs-mascara-dorada-kevin-knight-vs-titan-for-the-tnt-title-bandido-vs-barbaro-cavernario/"
     },
     {
-      "type": "news",
-      "text": "Why Some Users Care More About the Comments Section Than the Article",
-      "source": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/bright/why-some-users-care-more-about-the-comments-section-than-the-article-6074825"
-    },
-    {
-      "type": "news",
-      "text": "Objekt misterioz n\u00eb nj\u00eb fotografi t\u00eb NASA - s nga Marsi ndez teori p\u00ebr jet\u00eb n\u00eb Planetin e Kuq",
-      "source": "gazetaexpress.com",
-      "url": "https://www.gazetaexpress.com/objekt-misterioz-ne-nje-fotografi-te-nasa-s-nga-marsi-ndez-teori-per-jete-ne-planetin-e-kuq/"
-    },
-    {
-      "type": "news",
-      "text": "Good Day Atlanta Viewer Information : Aug . 14 , 2026",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/good-day-atlanta-viewer-information-august-14-2026"
-    },
-    {
-      "type": "news",
-      "text": "Plastika v mosteck\u00e9m parku St\u0159ed p\u0159i\u0161la kv\u016fli degradaci materi\u00e1lu o \u010d\u00e1st",
-      "source": "mostecky.denik.cz",
-      "url": "https://mostecky.denik.cz/zpravy-region/plastika-v-mosteckem-parku-stred-prisla-kvuli-degradaci-materialu-o-cast/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5401\r Issue Time: 2026 Aug 14 1054 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
@@ -129,6 +129,12 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
+      "type": "seismic",
+      "text": "Significant seismic event: 68 km NNW of Ende, Indonesia",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
       "type": "neo",
       "text": "NEO (2015 MO116) passing at 102.03 LD (~94m, 10.4 km/s)",
       "source": "NASA NeoWs",
@@ -136,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-02T18:56:43.470194Z",
-      "score": 38.2,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 31.9
-    },
     {
       "ts": "2026-07-02T20:17:18.184804Z",
       "score": 36.6,
@@ -4839,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.3
+    },
+    {
+      "ts": "2026-08-14T22:47:44.627499Z",
+      "score": 18.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.3
     }
   ],
   "sources": [
