@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:14:59.057053Z",
-  "score": 15.3,
+  "generated_at": "2026-08-14T19:15:58.109982Z",
+  "score": 15.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -2.1,
-    "d24h": -5.9,
+    "d1h": -0.1,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "18:14",
+    "generated_utc": "19:15",
     "top_drivers": [
+      "Descubren una  estrella agujero negro : \u00bf representa un peligro para nuestra galaxia ? ",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.6,
+    "live_signal": 7.8,
     "baseline_recent": 18.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 102.02728177,
     "asteroid_name": "(2015 MO116)",
-    "gdelt_spike_pct": -60.321576763485474,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.963945032764682,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Descubren una  estrella agujero negro : \u00bf representa un peligro para nuestra galaxia ? ",
+      "source": "record.com.mx",
+      "url": "https://www.record.com.mx/historia/descubren-una-estrella-agujero-negro-representa-un-peligro-para-nuestra-galaxia-2026081416294832390"
+    },
+    {
+      "type": "news",
+      "text": "Roswell Park named a best employer for women in New York",
+      "source": "buffalonews.com",
+      "url": "https://buffalonews.com/news/community/article_3e59c052-ebd3-5730-bcec-1387582eb4a9.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=097fofu4bfemukp51mapuefsp2"
+    },
+    {
+      "type": "news",
+      "text": "Disney Cancels Planned  Power Ranger Reboot",
+      "source": "gizmodo.com",
+      "url": "https://gizmodo.com/disney-cancels-planned-power-rangers-reboot-2000798652"
+    },
+    {
+      "type": "news",
+      "text": "Out There review \u2013 saucer - eyed teen searches for aliens in YA comedy drama",
+      "source": "theguardian.com",
+      "url": "https://www.theguardian.com/film/2026/aug/14/out-there-review-edinburgh-film-festival"
+    },
+    {
+      "type": "news",
+      "text": "Out There review \u2013 saucer - eyed teen searches for aliens in YA comedy drama",
+      "source": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/review-saucer-eyed-teen-searches-160031000.html"
+    },
+    {
+      "type": "news",
+      "text": "Man builds jet ski UFO of his ( literal ) dreams",
+      "source": "popsci.com",
+      "url": "https://www.popsci.com/technology/man-builds-ufo-jet-ski-boat/"
+    },
+    {
+      "type": "news",
+      "text": "LEDVANCE Earns Recognition in the 2026 IES Progress Report for Seven Innovative Lighting Solutions",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/globe-newswire/ledvance-earns-recognition-in-the-2026-ies-progress-report-for-seven-innovative-lighting-solutions/"
+    },
+    {
+      "type": "news",
+      "text": "UK government rejects calls for UFO probe",
+      "source": "femalefirst.co.uk",
+      "url": "http://www.femalefirst.co.uk/bizarre/government-rejects-calls-ufo-probe-1449066.html"
+    },
+    {
+      "type": "news",
+      "text": "UK government rejects calls for UFO probe",
+      "source": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/world/uk-government-rejects-calls-for-ufo-probe-c-22727028"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5401\r Issue Time: 2026 Aug 14 1054 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -75,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-02T01:51:37.207287Z",
-      "score": 33.9,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 26.5
-    },
     {
       "ts": "2026-07-02T05:54:19.597511Z",
       "score": 33.6,
@@ -4778,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 7.6
+    },
+    {
+      "ts": "2026-08-14T19:15:58.034508Z",
+      "score": 15.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 7.8
     }
   ],
   "sources": [
