@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-14T05:27:48.777260Z",
-  "score": 14.9,
+  "generated_at": "2026-08-14T06:54:07.273657Z",
+  "score": 16.6,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -4.8,
-    "d24h": -9.9,
+    "d1h": -1.6,
+    "d24h": -6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 1.9,
-    "alien_variance": 2.5
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "05:27",
+    "generated_utc": "06:54",
     "top_drivers": [
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.9,
+    "live_signal": 9.1,
     "baseline_recent": 18.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 102.02728177,
     "asteroid_name": "(2015 MO116)",
-    "gdelt_spike_pct": -81.2006659041234,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -11.963945032764682,
+    "wiki_spike_pct": -12.645761649076038,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.84,
     "swpc_alerts_24h": 0
@@ -68,13 +68,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-06-30T21:55:43.462886Z",
-      "score": 35.2,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.3
-    },
     {
       "ts": "2026-06-30T23:06:17.932353Z",
       "score": 36.1,
@@ -4771,6 +4764,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.9
+    },
+    {
+      "ts": "2026-08-14T06:54:07.195486Z",
+      "score": 16.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.1
     }
   ],
   "sources": [
