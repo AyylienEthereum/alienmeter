@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14T21:22:44.590802Z",
-  "score": 21.3,
+  "generated_at": "2026-08-14T21:48:44.919230Z",
+  "score": 14.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "boringly terrestrial",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 5.8,
-    "d24h": -23.4,
+    "d1h": -3.0,
+    "d24h": -7.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 10.3,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "21:22",
+    "generated_utc": "21:48",
     "top_drivers": [
       "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "News velocity +43% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 2",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.3,
+    "live_signal": 6.4,
     "baseline_recent": 18.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 102.02728177,
     "asteroid_name": "(2015 MO116)",
-    "gdelt_spike_pct": 42.740191346635555,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.963945032764682,
     "earthquakes_24h": 0,
@@ -57,6 +56,12 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sbilvb77i6uldofkb6b9lhq766"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -112,12 +117,6 @@
       "url": "https://www.record.com.mx/historia/descubren-una-estrella-agujero-negro-representa-un-peligro-para-nuestra-galaxia-2026081416294832390"
     },
     {
-      "type": "news",
-      "text": "Roswell Park named a best employer for women in New York",
-      "source": "buffalonews.com",
-      "url": "https://buffalonews.com/news/community/article_3e59c052-ebd3-5730-bcec-1387582eb4a9.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5401\r Issue Time: 2026 Aug 14 1054 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
@@ -137,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-02T15:39:37.711842Z",
-      "score": 39.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 33.1
-    },
     {
       "ts": "2026-07-02T17:19:02.633977Z",
       "score": 37.6,
@@ -4840,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.3
+    },
+    {
+      "ts": "2026-08-14T21:48:44.841613Z",
+      "score": 14.4,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.4
     }
   ],
   "sources": [
