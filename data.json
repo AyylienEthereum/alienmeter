@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-14T08:09:47.784506Z",
-  "score": 16.1,
+  "generated_at": "2026-08-14T09:20:06.697948Z",
+  "score": 14.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "boringly terrestrial",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 0.4,
-    "d24h": -5.3,
+    "d1h": 1.0,
+    "d24h": -6.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 1.9,
-    "alien_variance": 0.4
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 61,
     "date": "14.08.2026",
     "declassified": "14.08.26",
-    "generated_utc": "08:09",
+    "generated_utc": "09:20",
     "top_drivers": [
-      "West - Current Conditions",
       "NOAA space-weather alerts active: 1",
       "NEO (2015 MO116) passing Earth at 102.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.5,
+    "live_signal": 6.4,
     "baseline_recent": 18.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 102.02728177,
     "asteroid_name": "(2015 MO116)",
-    "gdelt_spike_pct": -63.05368326532468,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.963945032764682,
     "earthquakes_24h": 1,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "West - Current Conditions",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_74392c6f-6629-5710-84ee-899b637e7b76.html"
-    },
-    {
-      "type": "news",
-      "text": "This Day in Top 40 History : August 14",
-      "source": "wild941.com",
-      "url": "https://wild941.com/2026/08/14/this-day-in-top-40-history-august-14-2/"
-    },
-    {
-      "type": "news",
-      "text": "Police seek additional victims after Sandy Springs spa arrest",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/police-seek-additional-victims-after-sandy-springs-spa-arrest"
-    },
-    {
-      "type": "news",
-      "text": "Phoebe Bridger new album Lost Weekend confronts grief , fame , and new love . ",
-      "source": "slate.com",
-      "url": "https://slate.com/culture/2026/08/phoebe-bridgers-lost-weekend-album-review-bobby-lyrics.html"
-    },
-    {
-      "type": "news",
-      "text": "Phoebe Bridgers Skates With Elated Fans at Roller Rink Listening Party",
-      "source": "variety.com",
-      "url": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/"
-    },
-    {
-      "type": "news",
-      "text": "Massage parlor shut down , employee accused of sexually battery",
-      "source": "yahoo.com",
-      "url": "https://www.yahoo.com/news/us/articles/massage-parlor-shut-down-employee-040208217.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2lbedk1568fktdjn2vgd7e0865"
-    },
-    {
-      "type": "news",
-      "text": "La casa museo Arte e futuro a Lido di Spina",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-14/la-casa-museo-arte-e-futuro-a-lido-di-spina/19567245/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g5qlu1ntrh609oa6mjda21ad42"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-07T20:29:00-06:00&max-results=10"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1520\r Issue Time: 2026 Aug 14 0715 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -136,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-01T00:21:25.565811Z",
-      "score": 35.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.2
-    },
     {
       "ts": "2026-07-01T05:03:16.547362Z",
       "score": 33.7,
@@ -4839,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.5
+    },
+    {
+      "ts": "2026-08-14T09:20:06.622309Z",
+      "score": 14.5,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.4
     }
   ],
   "sources": [
