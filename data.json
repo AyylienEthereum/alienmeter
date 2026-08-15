@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T16:17:38.499254Z",
-  "score": 16.9,
+  "generated_at": "2026-08-15T16:49:02.336682Z",
+  "score": 17.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.4,
-    "d24h": -4.1,
+    "d1h": 2.3,
+    "d24h": -11.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 4.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.9,
-    "alien_variance": 3.5
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,24 @@
     "day": 62,
     "date": "15.08.2026",
     "declassified": "15.08.26",
-    "generated_utc": "16:17",
+    "generated_utc": "16:49",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +19% vs 7-day baseline (GDELT)",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.9,
+    "live_signal": 11.1,
     "baseline_recent": 17.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 18.81041503845996,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.885562691452513,
     "earthquakes_24h": 3,
@@ -54,6 +56,66 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=opj868353nalalfr1ff2562pm7"
+    },
+    {
+      "type": "news",
+      "text": "Trump promised transparency . His administration is waging war on FOIA . ",
+      "source": "reason.com",
+      "url": "https://reason.com/2026/08/15/trump-promised-transparency-his-administration-keeps-finding-new-ways-to-hide-records/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g9iur7e3rrt984u6bcfq1orsp6"
+    },
+    {
+      "type": "news",
+      "text": "New outdoor air quality monitoring device installed in Chilliwack",
+      "source": "theprogress.com",
+      "url": "https://theprogress.com/2026/08/15/new-outdoor-air-quality-monitoring-device-installed-in-chilliwack/"
+    },
+    {
+      "type": "news",
+      "text": "New Era Energy & Digital ( NUAI ) & Its Rivals Critical Analysis",
+      "source": "themarketsdaily.com",
+      "url": "https://www.themarketsdaily.com/2026/08/15/new-era-energy-its-rivals-critical-analysis.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3f3531qiod24gmi7s7u1et6e22"
+    },
+    {
+      "type": "news",
+      "text": "US Servicemembers Left  Dumbfounded  by  Low Humming  Black Triangle Craft With Car - Sized Lights",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/us-servicemembers-left-dumbfounded-low-humming-black-triangle-craft-car-sized-lights-1814346"
+    },
+    {
+      "type": "news",
+      "text": "Disney Unpredictable 10 - Part Crime Thriller Saga is So Good , Youll Finish it in One Weekend",
+      "source": "polygon.com",
+      "url": "https://www.polygon.com/fargo-season-3-weekend-binge/"
+    },
+    {
+      "type": "news",
+      "text": "The Pentagon has now released five batches of UAP files since May 2026 as part of a rolling declassification effort and despite investigating hundreds of reports , its own UAP office says it has found",
+      "source": "spacedaily.com",
+      "url": "https://spacedaily.com/t-pentagon-five-uap-file-releases-unresolved-no-extraterrestrial-evidence/"
+    },
+    {
+      "type": "news",
+      "text": "\u6f14\u5531\u4f1a\u9047\u524d\u6392\u6709\u589e\u9ad8  \u795e\u5668 \uff0c \u6068\u4e0d\u5f97  \u624b\u91cc\u6709\u9488  ",
+      "source": "yangtse.com",
+      "url": "https://www.yangtse.com/news/wy/202608/t20260815_383016.html"
+    },
     {
       "type": "seismic",
       "text": "Significant seismic event: 15 km NNW of Pematangsiantar, Indonesia",
@@ -74,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-05T08:31:13.010795Z",
-      "score": 25.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.8
-    },
     {
       "ts": "2026-07-05T10:51:32.957318Z",
       "score": 25.4,
@@ -4777,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.9
+    },
+    {
+      "ts": "2026-08-15T16:49:02.259710Z",
+      "score": 17.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.1
     }
   ],
   "sources": [
