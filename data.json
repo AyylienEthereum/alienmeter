@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T13:42:45.203743Z",
-  "score": 15.5,
+  "generated_at": "2026-08-15T13:59:34.081060Z",
+  "score": 15.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": -4.6,
+    "d1h": -0.6,
+    "d24h": -4.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.9,
-    "alien_variance": 1.7
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 62,
     "date": "15.08.2026",
     "declassified": "15.08.26",
-    "generated_utc": "13:42",
+    "generated_utc": "13:59",
     "top_drivers": [
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
@@ -39,7 +39,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.1,
+    "live_signal": 8.0,
     "baseline_recent": 17.7,
     "score_gain": 1.3,
     "kp": null,
@@ -74,13 +74,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-04T19:36:04.405542Z",
-      "score": 37.2,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 30.6
-    },
     {
       "ts": "2026-07-04T20:35:25.957475Z",
       "score": 33.8,
@@ -4777,6 +4770,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.1
+    },
+    {
+      "ts": "2026-08-15T13:59:34.005396Z",
+      "score": 15.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.0
     }
   ],
   "sources": [
