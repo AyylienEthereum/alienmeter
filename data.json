@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T11:34:54.327317Z",
-  "score": 15.7,
+  "generated_at": "2026-08-15T11:56:19.268183Z",
+  "score": 16.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -12.1,
-    "d24h": -2.6,
+    "d1h": -12.6,
+    "d24h": -5.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.9,
-    "alien_variance": 1.9
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,17 @@
     "day": 62,
     "date": "15.08.2026",
     "declassified": "15.08.26",
-    "generated_utc": "11:34",
+    "generated_utc": "11:56",
     "top_drivers": [
+      "\u6f14\u5531\u4f1a\u9047\u524d\u6392\u6709\u589e\u9ad8  \u795e\u5668 \uff0c \u6068\u4e0d\u5f97  \u624b\u91cc\u6709\u9488  ",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.3,
-    "baseline_recent": 17.8,
+    "live_signal": 8.7,
+    "baseline_recent": 17.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -55,8 +56,68 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "\u6f14\u5531\u4f1a\u9047\u524d\u6392\u6709\u589e\u9ad8  \u795e\u5668 \uff0c \u6068\u4e0d\u5f97  \u624b\u91cc\u6709\u9488  ",
+      "source": "yangtse.com",
+      "url": "https://www.yangtse.com/news/wy/202608/t20260815_383016.html"
+    },
+    {
+      "type": "news",
+      "text": "Apr\u00e8s la perc\u00e9e du vinyle , le retour en gr\u00e2ce de la cassette audio",
+      "source": "la-croix.com",
+      "url": "https://www.la-croix.com/culture/apres-la-percee-du-vinyle-le-retour-en-grace-de-la-cassette-audio-20260812"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8crqs4ttj00685ke6hpoghl8b6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bb5pcee1sf7981houiuqitdsj2"
+    },
+    {
+      "type": "news",
+      "text": "Former law officer recalls  66 UFO sighting",
+      "source": "minotdailynews.com",
+      "url": "https://www.minotdailynews.com/news/local-news/2026/08/former-law-officer-recalls-66-ufo-sighting/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cum2ahabndhnjmmm692fc410n0"
+    },
+    {
+      "type": "news",
+      "text": "Writers to strategise on harnessing journalism , literature for peaceful society",
+      "source": "blueprint.ng",
+      "url": "https://blueprint.ng/writers-to-strategise-on-harnessing-journalism-literature-for-peaceful-society/"
+    },
+    {
+      "type": "news",
+      "text": "Out There review : sweet extraterrestrial comedy",
+      "source": "theskinny.co.uk",
+      "url": "https://www.theskinny.co.uk/film/new-releases/out-there"
+    },
+    {
+      "type": "news",
+      "text": "Ubur - ubur misteri di Marikh",
+      "source": "utusan.com.my",
+      "url": "https://www.utusan.com.my/luar-negara/2026/08/ubur-ubur-misteri-di-marikh/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qoo3s542sddrahdu8nmhf3q3m2"
+    },
+    {
       "type": "seismic",
-      "text": "Significant seismic event: 7 km NNW of Pematangsiantar, Indonesia",
+      "text": "Significant seismic event: 15 km NNW of Pematangsiantar, Indonesia",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -74,13 +135,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-04T14:45:29.214488Z",
-      "score": 32.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 24.3
-    },
     {
       "ts": "2026-07-04T15:48:07.891190Z",
       "score": 35.2,
@@ -4777,6 +4831,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.3
+    },
+    {
+      "ts": "2026-08-15T11:56:19.204087Z",
+      "score": 16.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.7
     }
   ],
   "sources": [
