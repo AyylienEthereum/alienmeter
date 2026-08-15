@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:19:44.921065Z",
+  "generated_at": "2026-08-15T05:49:44.007101Z",
   "score": 16.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.6,
-    "d24h": -4.9,
+    "d1h": -1.0,
+    "d24h": -2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,9 +31,8 @@
     "day": 62,
     "date": "15.08.2026",
     "declassified": "15.08.26",
-    "generated_utc": "05:19",
+    "generated_utc": "05:49",
     "top_drivers": [
-      "Inside Twentynine Palm star economy : A desert town bets its weekend on the Perseids",
       "NOAA space-weather alerts active: 2",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
@@ -48,7 +47,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -18.853893263342087,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.885562691452513,
     "earthquakes_24h": 1,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Inside Twentynine Palm star economy : A desert town bets its weekend on the Perseids",
-      "source": "kesq.com",
-      "url": "https://kesq.com/news/2026/08/14/inside-twentynine-palms-star-economy-a-desert-town-bets-its-weekend-on-the-perseids/"
-    },
-    {
-      "type": "news",
-      "text": "Piloto de avi\u00e3o comercial relata \u00e0 Aeron\u00e1utica avistamento de \u00f3vnis sobre Sinop",
-      "source": "sonoticias.com.br",
-      "url": "https://www.sonoticias.com.br/geral/piloto-de-aviao-comercial-relata-a-aeronautica-avistamento-de-ovnis-sobre-sinop/"
-    },
-    {
-      "type": "news",
-      "text": "Bride serves McDonald patrons in wedding dress while getting married :  Handing out extra sauces  ",
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/08/14/lifestyle/bride-serves-mcdonalds-patrons-in-wedding-dress-while-getting-married-handing-out-extra-sauces/"
-    },
-    {
-      "type": "news",
-      "text": "Exclusive : Gillian Anderson shares Steven Spielberg  masterpiece  that was  really impactful  on her",
-      "source": "digitalspy.com",
-      "url": "https://www.digitalspy.com/movies/a73439123/gillian-anderson-steven-spielberg-close-encounters-third-kind-impact/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o72hhcikdpf537c3jt6ahbl4s0"
-    },
-    {
-      "type": "news",
-      "text": "Today Happenings : August 15 , 2026 | South Peace News",
-      "source": "southpeacenews.com",
-      "url": "https://www.southpeacenews.com/todays-happenings-august-15-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9153o99vl38cr38gjiec9j3844"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=da69gif481qnb206v1764mhp21"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=el358uvk30v1ha37ubm20lbc10"
-    },
-    {
-      "type": "news",
-      "text": "Accadde Oggi 15 Agosto | Archivio Storico Digital - News",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-15/accadde-oggi-15-agosto-archivio-storico-digital-news/19570333/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5401\r Issue Time: 2026 Aug 14 1054 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-03T16:13:20.072864Z",
-      "score": 34.6,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 27.3
-    },
     {
       "ts": "2026-07-03T17:48:42.390447Z",
       "score": 32.9,
@@ -4841,6 +4773,13 @@
     },
     {
       "ts": "2026-08-15T05:19:44.844145Z",
+      "score": 16.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.8
+    },
+    {
+      "ts": "2026-08-15T05:49:43.932049Z",
       "score": 16.9,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
