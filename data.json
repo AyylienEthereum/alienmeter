@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T22:58:02.434886Z",
-  "score": 16.7,
+  "generated_at": "2026-08-15T23:20:19.369152Z",
+  "score": 13.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 2.5,
-    "d24h": -1.1,
+    "d1h": -3.0,
+    "d24h": -2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.5,
-    "alien_variance": 3.8
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 62,
     "date": "15.08.2026",
     "declassified": "15.08.26",
-    "generated_utc": "22:58",
+    "generated_utc": "23:20",
     "top_drivers": [
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.8,
+    "live_signal": 6.2,
     "baseline_recent": 17.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -76.77834510736517,
+    "gdelt_spike_pct": -76.88590039924354,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.885562691452513,
-    "earthquakes_24h": 2,
+    "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.9,
     "swpc_alerts_24h": 0
   },
@@ -61,12 +61,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
-      "type": "seismic",
-      "text": "Significant seismic event: 1 km SW of Otura, Spain",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -74,13 +68,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-06T19:06:42.189125Z",
-      "score": 28.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.0
-    },
     {
       "ts": "2026-07-06T21:01:07.990565Z",
       "score": 28.3,
@@ -4777,6 +4764,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.8
+    },
+    {
+      "ts": "2026-08-15T23:20:19.292395Z",
+      "score": 13.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.2
     }
   ],
   "sources": [
