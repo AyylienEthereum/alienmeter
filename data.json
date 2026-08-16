@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-16T22:44:51.566839Z",
-  "score": 11.1,
+  "generated_at": "2026-08-16T22:59:23.133363Z",
+  "score": 11.3,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.9,
-    "d24h": -6.0,
+    "d1h": -16.9,
+    "d24h": -7.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,15 @@
     "day": 63,
     "date": "16.08.2026",
     "declassified": "16.08.26",
-    "generated_utc": "22:44",
+    "generated_utc": "22:59",
     "top_drivers": [
-      "Autopsy Bombshell : Los Alamos Lab Worker Death Looks Like Murder",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 3.0,
+    "live_signal": 3.3,
     "baseline_recent": 16.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,72 +48,12 @@
     "asteroid_name": "(2014 CE)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -12.130022964941501,
+    "wiki_spike_pct": -12.884264576717783,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Autopsy Bombshell : Los Alamos Lab Worker Death Looks Like Murder",
-      "source": "zerohedge.com",
-      "url": "https://www.zerohedge.com/political/autopsy-bombshell-los-alamos-lab-workers-death-looks-murder"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1frno191ma94jh4thv4qffqda5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ljvpv15hi5f3rakep8kr5uv570"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lfpren59750k61daqv1qjpdka5"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "961theeagle.com",
-      "url": "https://961theeagle.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "Album review : Phoebe Bridgers returns to Earth on  Lost Weekend , finds herself after 2 - year break",
-      "source": "dailybruin.com",
-      "url": "https://dailybruin.com/2026/08/15/album-review-phoebe-bridgers-returns-to-earth-on-lost-weekend-finds-herself-after-2-year-break"
-    },
-    {
-      "type": "news",
-      "text": "Rar i udenlandsk sensommervarme : Dronning Mary tyr til hjertekjolen",
-      "source": "billedbladet.dk",
-      "url": "https://www.billedbladet.dk/kongelige/danmark/rar-i-udenlandsk-sensommervarme-dronning-mary-tyr-til-hjertekjolen"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "kool1079.com",
-      "url": "https://kool1079.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "koolfmabilene.com",
-      "url": "https://koolfmabilene.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "classicrock961.com",
-      "url": "https://classicrock961.com/ixp/295/p/september-2026-new-music-releases/"
-    },
     {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
@@ -123,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T04:27:01.141938Z",
-      "score": 34.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 26.9
-    },
     {
       "ts": "2026-07-11T06:34:51.522406Z",
       "score": 33.8,
@@ -4826,6 +4758,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 3.0
+    },
+    {
+      "ts": "2026-08-16T22:59:23.055860Z",
+      "score": 11.3,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 3.3
     }
   ],
   "sources": [
