@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-16T15:56:42.532157Z",
-  "score": 41.8,
+  "generated_at": "2026-08-16T16:20:39.277396Z",
+  "score": 42.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 28.1,
-    "d24h": 24.5,
+    "d1h": 30.7,
+    "d24h": 26.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 63,
     "date": "16.08.2026",
     "declassified": "16.08.26",
-    "generated_utc": "15:56",
+    "generated_utc": "16:20",
     "top_drivers": [
-      "September 2026 New Rock Music Releases",
-      "News velocity +345% vs 7-day baseline (GDELT)",
+      "News velocity +597% vs 7-day baseline (GDELT)",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 42.2,
+    "live_signal": 43.5,
     "baseline_recent": 17.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": 345.19710722699034,
+    "gdelt_spike_pct": 596.6161607780008,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.130022964941501,
     "earthquakes_24h": 0,
@@ -57,66 +56,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "1057thehawk.com",
-      "url": "https://1057thehawk.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "myq1075.com",
-      "url": "https://myq1075.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "z100missoula.com",
-      "url": "https://z100missoula.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "kcrr.com",
-      "url": "https://kcrr.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "i95rock.com",
-      "url": "https://i95rock.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "991thewhale.com",
-      "url": "https://991thewhale.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "The most puzzling cases from Trump released UFO files",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16043827/The-puzzling-cases-Trumps-released-UFO-files-star-craft-Apollo-17-mystery.html"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "kingfm.com",
-      "url": "https://kingfm.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8n644tp6tmcs9dnofgnaink1k6"
-    },
-    {
-      "type": "news",
-      "text": "The 1561 Sky Battle Over Nuremberg : The Ancient Broadsheet That Still Divides Historians",
-      "source": "ancient-origins.net",
-      "url": "https://www.ancient-origins.net/1561-sky-battle-over-nuremberg-ancient-broadsheet-still-divides-historians-00103077"
-    },
-    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -124,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-09T16:17:53.831464Z",
-      "score": 35.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.3
-    },
     {
       "ts": "2026-07-09T18:16:47.559322Z",
       "score": 36.1,
@@ -4827,6 +4759,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 42.2
+    },
+    {
+      "ts": "2026-08-16T16:20:39.190120Z",
+      "score": 42.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 43.5
     }
   ],
   "sources": [
