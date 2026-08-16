@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-16T18:19:35.697661Z",
-  "score": 10.2,
+  "generated_at": "2026-08-16T18:54:34.607017Z",
+  "score": 15.5,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -4.8,
-    "d24h": -21.1,
+    "d1h": 2.3,
+    "d24h": 0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,23 @@
     "day": 63,
     "date": "16.08.2026",
     "declassified": "16.08.26",
-    "generated_utc": "18:19",
+    "generated_utc": "18:54",
     "top_drivers": [
+      "September 2026 New Rock Music Releases",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 1.7,
+    "live_signal": 8.6,
     "baseline_recent": 17.0,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": null,
+    "xray_class": "C",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -20.30140559339226,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.130022964941501,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "kool1079.com",
+      "url": "https://kool1079.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "koolfmabilene.com",
+      "url": "https://koolfmabilene.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "classicrock961.com",
+      "url": "https://classicrock961.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "diffuser.fm",
+      "url": "https://diffuser.fm/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "krna.com",
+      "url": "https://krna.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "wzozfm.com",
+      "url": "https://wzozfm.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "ksenam.com",
+      "url": "https://ksenam.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "FBI Files Show US Soldier Analogue Watches Fast - Forwarded 25 Minutes Near Shape - Shifting UFOs",
+      "source": "jp.ibtimes.com",
+      "url": "https://jp.ibtimes.com/fbi-files-show-us-soldiers-analogue-watches-fast-forwarded-25-minutes-near-shape-shifting-ufos-103681"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "967theeagle.net",
+      "url": "https://967theeagle.net/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "wpdh.com",
+      "url": "https://wpdh.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -62,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-10T04:31:50.971016Z",
-      "score": 35.8,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 29.1
-    },
     {
       "ts": "2026-07-10T08:03:54.221583Z",
       "score": 25.6,
@@ -4765,6 +4819,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 1.7
+    },
+    {
+      "ts": "2026-08-16T18:54:34.529366Z",
+      "score": 15.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.6
     }
   ],
   "sources": [
