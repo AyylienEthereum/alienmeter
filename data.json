@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-16T20:40:27.244359Z",
-  "score": 14.5,
+  "generated_at": "2026-08-16T20:57:50.236764Z",
+  "score": 15.5,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": -6.8,
+    "d1h": 1.4,
+    "d24h": 1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,15 +31,15 @@
     "day": 63,
     "date": "16.08.2026",
     "declassified": "16.08.26",
-    "generated_utc": "20:40",
+    "generated_utc": "20:57",
     "top_drivers": [
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.4,
+    "live_signal": 8.6,
     "baseline_recent": 16.9,
     "score_gain": 1.3,
     "kp": null,
@@ -62,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-10T19:05:07.579729Z",
-      "score": 32.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 24.7
-    },
     {
       "ts": "2026-07-10T20:42:22.853684Z",
       "score": 34.0,
@@ -4765,6 +4758,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.4
+    },
+    {
+      "ts": "2026-08-16T20:57:50.160217Z",
+      "score": 15.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.6
     }
   ],
   "sources": [
