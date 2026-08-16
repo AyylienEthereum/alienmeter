@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-16T14:29:08.506176Z",
-  "score": 13.7,
+  "generated_at": "2026-08-16T14:50:50.623862Z",
+  "score": 12.1,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.8,
-    "d24h": -2.9,
+    "d1h": -2.1,
+    "d24h": -4.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 63,
     "date": "16.08.2026",
     "declassified": "16.08.26",
-    "generated_utc": "14:29",
+    "generated_utc": "14:50",
     "top_drivers": [
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
@@ -39,14 +39,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.3,
+    "live_signal": 4.2,
     "baseline_recent": 17.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -72.45453338643303,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.130022964941501,
     "earthquakes_24h": 0,
@@ -62,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-09T00:12:58.962713Z",
-      "score": 27.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.5
-    },
     {
       "ts": "2026-07-09T04:14:19.962563Z",
       "score": 33.8,
@@ -4765,6 +4758,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.3
+    },
+    {
+      "ts": "2026-08-16T14:50:50.545838Z",
+      "score": 12.1,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 4.2
     }
   ],
   "sources": [
