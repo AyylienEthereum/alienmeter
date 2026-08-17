@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T03:26:58.335560Z",
-  "score": 14.4,
+  "generated_at": "2026-08-17T04:11:06.529474Z",
+  "score": 13.5,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
+    "flavor": "boringly terrestrial",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -28.6,
-    "d24h": -2.5,
+    "d1h": -0.2,
+    "d24h": -3.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,22 +31,23 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "03:26",
+    "generated_utc": "04:11",
     "top_drivers": [
+      "Star Wars Zero Company interview \u2013  we finally brought this genre to new people  ",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.3,
-    "baseline_recent": 16.8,
+    "live_signal": 6.1,
+    "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -74.28907750449166,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.366525823271282,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Star Wars Zero Company interview \u2013  we finally brought this genre to new people  ",
+      "source": "metro.co.uk",
+      "url": "https://metro.co.uk/2026/08/17/star-wars-zero-company-interview-we-finally-brought-this-genre-new-people-29392918/"
+    },
+    {
+      "type": "news",
+      "text": "Seven Machina Rasmissen | File 770",
+      "source": "file770.com",
+      "url": "https://file770.com/tag/seven-machina-rasmissen/"
+    },
+    {
+      "type": "news",
+      "text": "Pixel Scroll 8 / 16 / 26 When The Pixel - Scrolley Done , When The Hugo Lost And Won",
+      "source": "file770.com",
+      "url": "https://file770.com/pixel-scroll-8-16-26-when-the-pixel-scrolleys-done/comment-page-1/"
+    },
+    {
+      "type": "news",
+      "text": "Pixel Scroll 8 / 16 / 26 When The Pixel - Scrolley Done , When The Hugo Lost And Won",
+      "source": "file770.com",
+      "url": "https://file770.com/pixel-scroll-8-16-26-when-the-pixel-scrolleys-done/"
+    },
+    {
+      "type": "news",
+      "text": "L . W . Currey | File 770",
+      "source": "file770.com",
+      "url": "https://file770.com/tag/l-w-currey/"
+    },
+    {
+      "type": "news",
+      "text": "C . M . Fields | File 770",
+      "source": "file770.com",
+      "url": "https://file770.com/tag/c-m-fields/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i0p8jqlnu0i03dplp5ouj615o6"
+    },
+    {
+      "type": "news",
+      "text": "DISCO VOADOR : Ser\u00e1 que o OVNI com astronauta morto caiu no Brasil ? ",
+      "source": "rondoniaovivo.com",
+      "url": "https://www.rondoniaovivo.com/noticia/geral/2026/08/16/disco-voador-sera-que-o-ovni-com-astronauta-morto-caiu-no-brasil.html"
+    },
+    {
+      "type": "news",
+      "text": "  The Eiffel Tower is a suppository riddled with hole : When great monuments arent to everyone liking | Culture",
+      "source": "english.elpais.com",
+      "url": "https://english.elpais.com/culture/2026-08-16/the-eiffel-tower-is-a-suppository-riddled-with-holes-when-great-monuments-arent-to-everyones-liking.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fgmkivktcgjet161ud5larn5v2"
+    },
+    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -62,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T14:47:18.761290Z",
-      "score": 35.0,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.0
-    },
     {
       "ts": "2026-07-11T15:49:15.741641Z",
       "score": 33.2,
@@ -4765,6 +4819,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.3
+    },
+    {
+      "ts": "2026-08-17T04:11:06.453463Z",
+      "score": 13.5,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.1
     }
   ],
   "sources": [
