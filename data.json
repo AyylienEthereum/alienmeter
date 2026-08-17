@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T22:48:40.294352Z",
-  "score": 17.9,
+  "generated_at": "2026-08-17T23:17:37.665907Z",
+  "score": 16.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.4,
-    "d24h": 2.0,
+    "d1h": -0.3,
+    "d24h": 2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "22:48",
+    "generated_utc": "23:17",
     "top_drivers": [
+      "Bras\u00edlia j\u00e1 esteve no topo do IDEB . Agora , o \u00edndice conta uma hist\u00f3ria inc\u00f4moda e a Unidakila pergunta : se os alunos mudaram e o mundo mudou , por que ainda ensinamos do mesmo jeito ? ",
       "NOAA space-weather alerts active: 4",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.1,
+    "live_signal": 10.8,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Bras\u00edlia j\u00e1 esteve no topo do IDEB . Agora , o \u00edndice conta uma hist\u00f3ria inc\u00f4moda e a Unidakila pergunta : se os alunos mudaram e o mundo mudou , por que ainda ensinamos do mesmo jeito ? ",
+      "source": "jornaldebrasilia.com.br",
+      "url": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/brasilia-ja-esteve-no-topo-do-ideb-agora-o-indice-conta-uma-historia-incomoda-e-a-unidakila-pergunta-se-os-alunos-mudaram-e-o-mundo-mudou-por-que-ainda-ensinamos-do-mesmo-jeito/"
+    },
+    {
+      "type": "news",
+      "text": "Mysterious structures spotted in NASA Mars images fuel claims of ancient city on the Red Planet",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-16059049/mars-cydonia-city-shoreline-structures.html"
+    },
+    {
+      "type": "news",
+      "text": "Watch : Strange Spinning UFO Spotted in Texas | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-08-17-watch-strange-spinning-ufo-spotted-in-texas/"
+    },
+    {
+      "type": "news",
+      "text": "US military news : New recruits enlisting in big numbers , but not for reason Defense Secretary Pete Hegseth says",
+      "source": "abc30.com",
+      "url": "https://abc30.com/story/us-military-news-new-recruits-enlisting-big-numbers-not-reason-defense-secretary-pete-hegseth-says/19693144/"
+    },
+    {
+      "type": "news",
+      "text": "US military news : New recruits enlisting in big numbers , but not for reason Defense Secretary Pete Hegseth says",
+      "source": "abc7news.com",
+      "url": "https://abc7news.com/story/us-military-news-new-recruits-enlisting-big-numbers-not-reason-defense-secretary-pete-hegseth-says/19693144/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=e4j0d0sjt8s41bv3863ls7e357"
+    },
+    {
+      "type": "news",
+      "text": "US Forecast",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/us-forecast/article_5f597d65-3274-5b47-bb8e-e9dd6f147498.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0415\u0421 \u0441\u043b\u0435\u0434\u0438 \u041d\u041b\u041e \u043e\u0442 \u0433\u043e\u0434\u0438\u043d\u0438 - \u043e\u0442\u0447\u0435\u0442\u0435\u043d\u0438 \u0441\u0430 \u043d\u0430\u0434 3300 \u0441\u043b\u0443\u0447\u0430\u044f \u0432\u044a\u0432 \u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+      "source": "bgonair.bg",
+      "url": "https://www.bgonair.bg/a/163-lyubopitno/427657-es-sledi-nlo-ot-godini-otcheteni-sa-nad-3300-sluchaya-vav-frantsiya"
+    },
+    {
+      "type": "news",
+      "text": "Exclusiva : Bruselas vigila ovnis en secreto y sin llamar la atenci\u00f3n",
+      "source": "es.euronews.com",
+      "url": "https://es.euronews.com/my-europe/2026/08/17/exclusiva-bruselas-vigila-los-ovnis-en-secreto-y-sin-llamar-la-atencion"
+    },
+    {
+      "type": "news",
+      "text": "Argentina mysterious floating island named  EL Ojo  that appears to rotate on its own in perfect circular motion\u00a0 | World News",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/argentinas-mysterious-floating-island-named-el-ojo-that-appears-to-rotate-on-its-own-in-perfect-circular-motion/articleshow/133298159.cms"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1121\r Issue Time: 2026 Aug 17 2246 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-13T19:47:41.903615Z",
-      "score": 31.7,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 23.5
-    },
     {
       "ts": "2026-07-13T20:53:16.101812Z",
       "score": 32.1,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.1
+    },
+    {
+      "ts": "2026-08-17T23:17:37.588787Z",
+      "score": 16.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.8
     }
   ],
   "sources": [
