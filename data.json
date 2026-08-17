@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T11:20:08.422471Z",
-  "score": 15.4,
+  "generated_at": "2026-08-17T11:48:56.661361Z",
+  "score": 11.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": -1.2,
+    "d1h": 1.1,
+    "d24h": -3.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,19 +31,20 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "11:20",
+    "generated_utc": "11:48",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.6,
+    "live_signal": 4.2,
     "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
     "gdelt_spike_pct": -75.29755221199191,
@@ -55,6 +56,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oc0me0jlmna959389e731fga80"
+    },
+    {
+      "type": "news",
+      "text": "La Bandabard\u00f2 : le canzoni una festa e riflessione",
+      "source": "ecodibergamo.it",
+      "url": "https://www.ecodibergamo.it/stories/premium/cultura-e-spettacoli/la-bandabardo-le-nostre-canzoni-una-festa-ma-fanno-anche-riflettere-o_3931069_11/"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon ujawni\u0142 nowe dane dotycz\u0105ce UFO . Osobliwe nagrania i relacje",
+      "source": "pch24.pl",
+      "url": "https://pch24.pl/wiadomosci/pentagon-ujawnil-nowe-dane-dotyczace-ufo-osobliwe-nagrania-i-relacje,730483"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-08T00:17:00-06:00&max-results=10"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "kmhk.com",
+      "url": "https://kmhk.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "September 2026 New Rock Music Releases",
+      "source": "awesome98.com",
+      "url": "https://awesome98.com/ixp/295/p/september-2026-new-music-releases/"
+    },
+    {
+      "type": "news",
+      "text": "Ni Barcelona ni Torrej\u00f3n lo ve\u00edan en el radar : el expediente ovni m\u00e1s famoso de Espa\u00f1a empez\u00f3 en un vuelo a Canarias",
+      "source": "larazon.es",
+      "url": "https://www.larazon.es/canarias/barcelona-torrejon-veian-radar-expediente-ovni-mas-famoso-espana-empezo-vuelo-canarias_202608176a6b198ea5690f0473598c21.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ose5gqbq098kd7mdrilcnstst2"
+    },
+    {
+      "type": "news",
+      "text": "Wadsworth v . Regional Rail Partners Verified Statements Of Claim Under The Colorado Public Works Act",
+      "source": "mondaq.com",
+      "url": "https://www.mondaq.com:443/unitedstates/construction-planning/1831546/wadsworth-v-regional-rail-partners-verified-statements-of-claim-under-the-colorado-public-works-act"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qhgg6mrl5296t3eqv9hgp08pa6"
+    },
+    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -62,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-12T06:28:37.478766Z",
-      "score": 43.9,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 39.2
-    },
     {
       "ts": "2026-07-12T08:38:50.003769Z",
       "score": 30.9,
@@ -4765,6 +4819,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 8.6
+    },
+    {
+      "ts": "2026-08-17T11:48:56.584638Z",
+      "score": 11.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 4.2
     }
   ],
   "sources": [
