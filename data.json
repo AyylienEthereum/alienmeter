@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T09:45:56.882773Z",
-  "score": 10.8,
+  "generated_at": "2026-08-17T10:26:10.896380Z",
+  "score": 14.1,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -12.4,
-    "d24h": -17.0,
+    "d1h": -14.3,
+    "d24h": -14.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.2
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,20 +31,19 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "09:45",
+    "generated_utc": "10:26",
     "top_drivers": [
-      "Pentagon ujawni\u0142 nowe dane dotycz\u0105ce UFO . Osobliwe nagrania i relacje",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 2.7,
+    "live_signal": 6.9,
     "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
     "gdelt_spike_pct": null,
@@ -56,66 +55,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Pentagon ujawni\u0142 nowe dane dotycz\u0105ce UFO . Osobliwe nagrania i relacje",
-      "source": "pch24.pl",
-      "url": "https://pch24.pl/wiadomosci/pentagon-ujawnil-nowe-dane-dotyczace-ufo-osobliwe-nagrania-i-relacje,730483"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-08T00:17:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "kmhk.com",
-      "url": "https://kmhk.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "awesome98.com",
-      "url": "https://awesome98.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "Ni Barcelona ni Torrej\u00f3n lo ve\u00edan en el radar : el expediente ovni m\u00e1s famoso de Espa\u00f1a empez\u00f3 en un vuelo a Canarias",
-      "source": "larazon.es",
-      "url": "https://www.larazon.es/canarias/barcelona-torrejon-veian-radar-expediente-ovni-mas-famoso-espana-empezo-vuelo-canarias_202608176a6b198ea5690f0473598c21.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ose5gqbq098kd7mdrilcnstst2"
-    },
-    {
-      "type": "news",
-      "text": "Wadsworth v . Regional Rail Partners Verified Statements Of Claim Under The Colorado Public Works Act",
-      "source": "mondaq.com",
-      "url": "https://www.mondaq.com:443/unitedstates/construction-planning/1831546/wadsworth-v-regional-rail-partners-verified-statements-of-claim-under-the-colorado-public-works-act"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qhgg6mrl5296t3eqv9hgp08pa6"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=93lvojklgld8io4rp136h08lb0"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0cga0ii48ecu174mr6t2218082"
-    },
-    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -123,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T23:09:39.204238Z",
-      "score": 57.6,
-      "band": "ROSWELL ENERGY",
-      "i": 3,
-      "live": 56.8
-    },
     {
       "ts": "2026-07-12T00:10:05.066942Z",
       "score": 32.5,
@@ -4826,6 +4758,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 2.7
+    },
+    {
+      "ts": "2026-08-17T10:26:10.818589Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.9
     }
   ],
   "sources": [
