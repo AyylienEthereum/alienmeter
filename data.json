@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T21:20:14.066197Z",
-  "score": 17.2,
+  "generated_at": "2026-08-17T21:49:07.844233Z",
+  "score": 15.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.7,
-    "d24h": 0.6,
+    "d1h": 1.2,
+    "d24h": -0.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 0.0,
-    "search_interest": 0.8,
+    "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 0.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "21:20",
+    "generated_utc": "21:49",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 3",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.1,
+    "live_signal": 8.8,
     "baseline_recent": 16.4,
     "score_gain": 1.3,
     "kp": null,
@@ -50,72 +49,12 @@
     "asteroid_name": "(2014 CE)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 4.797430509917891,
+    "wiki_spike_pct": -12.366525823271282,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=e4j0d0sjt8s41bv3863ls7e357"
-    },
-    {
-      "type": "news",
-      "text": "US Forecast",
-      "source": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/us-forecast/article_5f597d65-3274-5b47-bb8e-e9dd6f147498.html"
-    },
-    {
-      "type": "news",
-      "text": "\u0415\u0421 \u0441\u043b\u0435\u0434\u0438 \u041d\u041b\u041e \u043e\u0442 \u0433\u043e\u0434\u0438\u043d\u0438 - \u043e\u0442\u0447\u0435\u0442\u0435\u043d\u0438 \u0441\u0430 \u043d\u0430\u0434 3300 \u0441\u043b\u0443\u0447\u0430\u044f \u0432\u044a\u0432 \u0424\u0440\u0430\u043d\u0446\u0438\u044f",
-      "source": "bgonair.bg",
-      "url": "https://www.bgonair.bg/a/163-lyubopitno/427657-es-sledi-nlo-ot-godini-otcheteni-sa-nad-3300-sluchaya-vav-frantsiya"
-    },
-    {
-      "type": "news",
-      "text": "Exclusiva : Bruselas vigila ovnis en secreto y sin llamar la atenci\u00f3n",
-      "source": "es.euronews.com",
-      "url": "https://es.euronews.com/my-europe/2026/08/17/exclusiva-bruselas-vigila-los-ovnis-en-secreto-y-sin-llamar-la-atencion"
-    },
-    {
-      "type": "news",
-      "text": "Argentina mysterious floating island named  EL Ojo  that appears to rotate on its own in perfect circular motion\u00a0 | World News",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/argentinas-mysterious-floating-island-named-el-ojo-that-appears-to-rotate-on-its-own-in-perfect-circular-motion/articleshow/133298159.cms"
-    },
-    {
-      "type": "news",
-      "text": "\u0160TA BRISEL KRIJE ? Evropska unija u tajnosti prati NLO fenomene na nebu : Neverovatne ispovesti iskusnih pilota ! ",
-      "source": "telegraf.rs",
-      "url": "https://www.telegraf.rs/vesti/svet/4379981-sta-brisel-krije-evropska-unija-u-tajnosti-prati-nlo-fenomene-na-nebu-neverovatne-ispovesti-iskusnih-pilota"
-    },
-    {
-      "type": "news",
-      "text": "US military news : New recruits enlisting in big numbers , but not for reason Defense Secretary Pete Hegseth says",
-      "source": "abc7ny.com",
-      "url": "https://abc7ny.com/story/us-military-news-new-recruits-enlisting-big-numbers-not-reason-defense-secretary-pete-hegseth-says/19693144/"
-    },
-    {
-      "type": "news",
-      "text": "\u0411\u0440\u044e\u043a\u0441\u0435\u043b \u0441\u043b\u0435\u0434\u0438 \u041d\u041b\u041e \u0441 \u0440\u0430\u0434\u0430\u0440\u0438",
-      "source": "focus-news.net",
-      "url": "https://www.focus-news.net/novini/mejdunarodni/Bryuksel-sledi-NLO-s-radari-3011390"
-    },
-    {
-      "type": "news",
-      "text": "Ariana Grande a Londra , lenergia oltre la fragilit\u00e0 nel primo dei 10 concerti che precedono la pausa annunciata",
-      "source": "corriere.it",
-      "url": "https://www.corriere.it/spettacoli/26_agosto_16/ariana-grande-a-londra-l-energia-oltre-la-fragilita-nel-primo-dei-10-concerti-che-precedono-la-pausa-annunciata-338d1676-c616-4592-a0d2-dba7eb0f0xlk.shtml"
-    },
-    {
-      "type": "news",
-      "text": "The Coolest Cars We Saw at the 2026 Woodward Dream Cruise",
-      "source": "caranddriver.com",
-      "url": "https://www.caranddriver.com/news/a73453367/2026-woodward-dream-cruise-coolest-cars/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK04\r Serial Number: 2680\r Issue Time: 2026 Aug 17 2105 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-13T13:21:46.564470Z",
-      "score": 31.0,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 22.5
-    },
     {
       "ts": "2026-07-13T16:03:17.067138Z",
       "score": 23.5,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.1
+    },
+    {
+      "ts": "2026-08-17T21:49:07.768820Z",
+      "score": 15.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.8
     }
   ],
   "sources": [
