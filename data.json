@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:32:50.850365Z",
-  "score": 26.4,
+  "generated_at": "2026-08-17T06:05:23.963026Z",
+  "score": 23.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 10.8,
-    "d24h": 8.9,
+    "d1h": 8.8,
+    "d24h": 5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 17.1,
+    "news_velocity": 12.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "05:32",
+    "generated_utc": "06:05",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "News velocity +71% vs 7-day baseline (GDELT)",
+      "News velocity +52% vs 7-day baseline (GDELT)",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.7,
+    "live_signal": 18.6,
     "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": 71.40687874876622,
+    "gdelt_spike_pct": 52.249856456438316,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.366525823271282,
     "earthquakes_24h": 0,
@@ -57,66 +56,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=93lvojklgld8io4rp136h08lb0"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0cga0ii48ecu174mr6t2218082"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nre0cetkergkbjfv392nu6j2g7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3jej955cgpgid2l1pcui5147t1"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=v162q5ois5ikjcmjce096f5jf6"
-    },
-    {
-      "type": "news",
-      "text": "Star Wars Zero Company interview \u2013  we finally brought this genre to new people  ",
-      "source": "metro.co.uk",
-      "url": "https://metro.co.uk/2026/08/17/star-wars-zero-company-interview-we-finally-brought-this-genre-new-people-29392918/"
-    },
-    {
-      "type": "news",
-      "text": "Seven Machina Rasmissen | File 770",
-      "source": "file770.com",
-      "url": "https://file770.com/tag/seven-machina-rasmissen/"
-    },
-    {
-      "type": "news",
-      "text": "Pixel Scroll 8 / 16 / 26 When The Pixel - Scrolley Done , When The Hugo Lost And Won",
-      "source": "file770.com",
-      "url": "https://file770.com/pixel-scroll-8-16-26-when-the-pixel-scrolleys-done/comment-page-1/"
-    },
-    {
-      "type": "news",
-      "text": "Pixel Scroll 8 / 16 / 26 When The Pixel - Scrolley Done , When The Hugo Lost And Won",
-      "source": "file770.com",
-      "url": "https://file770.com/pixel-scroll-8-16-26-when-the-pixel-scrolleys-done/"
-    },
-    {
-      "type": "news",
-      "text": "L . W . Currey | File 770",
-      "source": "file770.com",
-      "url": "https://file770.com/tag/l-w-currey/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -124,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T17:50:58.368375Z",
-      "score": 44.8,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 40.6
-    },
     {
       "ts": "2026-07-11T18:52:43.128210Z",
       "score": 61.2,
@@ -4827,6 +4759,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 22.7
+    },
+    {
+      "ts": "2026-08-17T06:05:23.886733Z",
+      "score": 23.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
     }
   ],
   "sources": [
