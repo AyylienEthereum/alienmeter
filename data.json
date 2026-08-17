@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T04:11:06.529474Z",
-  "score": 13.5,
+  "generated_at": "2026-08-17T04:57:14.862275Z",
+  "score": 28.9,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": -3.8,
+    "d1h": -0.6,
+    "d24h": 11.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 22.9,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 64,
     "date": "17.08.2026",
     "declassified": "17.08.26",
-    "generated_utc": "04:11",
+    "generated_utc": "04:57",
     "top_drivers": [
-      "Star Wars Zero Company interview \u2013  we finally brought this genre to new people  ",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +95% vs 7-day baseline (GDELT)",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.1,
+    "live_signal": 25.9,
     "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 95.47267076036691,
     "x_last_hour": 0,
     "wiki_spike_pct": -12.366525823271282,
     "earthquakes_24h": 0,
@@ -55,6 +56,24 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nre0cetkergkbjfv392nu6j2g7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3jej955cgpgid2l1pcui5147t1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=v162q5ois5ikjcmjce096f5jf6"
+    },
     {
       "type": "news",
       "text": "Star Wars Zero Company interview \u2013  we finally brought this genre to new people  ",
@@ -98,24 +117,6 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i0p8jqlnu0i03dplp5ouj615o6"
     },
     {
-      "type": "news",
-      "text": "DISCO VOADOR : Ser\u00e1 que o OVNI com astronauta morto caiu no Brasil ? ",
-      "source": "rondoniaovivo.com",
-      "url": "https://www.rondoniaovivo.com/noticia/geral/2026/08/16/disco-voador-sera-que-o-ovni-com-astronauta-morto-caiu-no-brasil.html"
-    },
-    {
-      "type": "news",
-      "text": "  The Eiffel Tower is a suppository riddled with hole : When great monuments arent to everyone liking | Culture",
-      "source": "english.elpais.com",
-      "url": "https://english.elpais.com/culture/2026-08-16/the-eiffel-tower-is-a-suppository-riddled-with-holes-when-great-monuments-arent-to-everyones-liking.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fgmkivktcgjet161ud5larn5v2"
-    },
-    {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
       "source": "NASA NeoWs",
@@ -123,13 +124,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T15:49:15.741641Z",
-      "score": 33.2,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 25.7
-    },
     {
       "ts": "2026-07-11T16:49:16.431047Z",
       "score": 35.7,
@@ -4826,6 +4820,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.1
+    },
+    {
+      "ts": "2026-08-17T04:57:14.784691Z",
+      "score": 28.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 25.9
     }
   ],
   "sources": [
