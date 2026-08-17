@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T23:56:53.947340Z",
-  "score": 13.7,
+  "generated_at": "2026-08-17T01:01:26.752525Z",
+  "score": 29.5,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": 2.6,
-    "d24h": -3.8,
+    "d1h": 18.2,
+    "d24h": 11.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 22.8,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,98 +23,38 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 3.9
+    "alien_variance": 1.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 63,
-    "day": 63,
-    "date": "16.08.2026",
-    "declassified": "16.08.26",
-    "generated_utc": "23:56",
+    "number": 64,
+    "day": 64,
+    "date": "17.08.2026",
+    "declassified": "17.08.26",
+    "generated_utc": "01:01",
     "top_drivers": [
-      "DISCO VOADOR : Ser\u00e1 que o OVNI com astronauta morto caiu no Brasil ? ",
+      "News velocity +95% vs 7-day baseline (GDELT)",
       "NEO (2014 CE) passing Earth at 56.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.4,
+    "live_signal": 26.7,
     "baseline_recent": 16.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 56.5988867804,
     "asteroid_name": "(2014 CE)",
-    "gdelt_spike_pct": -74.36330421700617,
+    "gdelt_spike_pct": 94.91444353581954,
     "x_last_hour": 0,
-    "wiki_spike_pct": -12.130022964941501,
+    "wiki_spike_pct": -5.076193770218314,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "DISCO VOADOR : Ser\u00e1 que o OVNI com astronauta morto caiu no Brasil ? ",
-      "source": "rondoniaovivo.com",
-      "url": "https://www.rondoniaovivo.com/noticia/geral/2026/08/16/disco-voador-sera-que-o-ovni-com-astronauta-morto-caiu-no-brasil.html"
-    },
-    {
-      "type": "news",
-      "text": "  The Eiffel Tower is a suppository riddled with hole : When great monuments arent to everyone liking | Culture",
-      "source": "english.elpais.com",
-      "url": "https://english.elpais.com/culture/2026-08-16/the-eiffel-tower-is-a-suppository-riddled-with-holes-when-great-monuments-arent-to-everyones-liking.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fgmkivktcgjet161ud5larn5v2"
-    },
-    {
-      "type": "news",
-      "text": "Accadde Oggi 17 Agosto | Archivio Storico Digital - News",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-17/accadde-oggi-17-agosto-archivio-storico-digital-news/19575354/"
-    },
-    {
-      "type": "news",
-      "text": "Autopsy Bombshell : Los Alamos Lab Worker Death Looks Like Murder",
-      "source": "zerohedge.com",
-      "url": "https://www.zerohedge.com/political/autopsy-bombshell-los-alamos-lab-workers-death-looks-murder"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1frno191ma94jh4thv4qffqda5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ljvpv15hi5f3rakep8kr5uv570"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lfpren59750k61daqv1qjpdka5"
-    },
-    {
-      "type": "news",
-      "text": "September 2026 New Rock Music Releases",
-      "source": "961theeagle.com",
-      "url": "https://961theeagle.com/ixp/295/p/september-2026-new-music-releases/"
-    },
-    {
-      "type": "news",
-      "text": "Album review : Phoebe Bridgers returns to Earth on  Lost Weekend , finds herself after 2 - year break",
-      "source": "dailybruin.com",
-      "url": "https://dailybruin.com/2026/08/15/album-review-phoebe-bridgers-returns-to-earth-on-lost-weekend-finds-herself-after-2-year-break"
-    },
     {
       "type": "neo",
       "text": "NEO (2014 CE) passing at 56.60 LD (~25m, 17.0 km/s)",
@@ -123,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-11T11:06:07.945443Z",
-      "score": 35.6,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.8
-    },
     {
       "ts": "2026-07-11T12:04:05.351581Z",
       "score": 52.7,
@@ -4826,6 +4759,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.4
+    },
+    {
+      "ts": "2026-08-17T01:01:26.691223Z",
+      "score": 29.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 26.7
     }
   ],
   "sources": [
