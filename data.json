@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:24:53.223419Z",
+  "generated_at": "2026-08-18T17:53:11.315895Z",
   "score": 20.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.5,
-    "d24h": 7.8,
+    "d1h": 0.6,
+    "d24h": 5.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 65,
     "date": "18.08.2026",
     "declassified": "18.08.26",
-    "generated_utc": "17:24",
+    "generated_utc": "17:53",
     "top_drivers": [
       "NOAA space-weather alerts active: 7",
       "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
@@ -47,7 +47,7 @@
     "xray_class": "C",
     "closest_asteroid_ld": 37.2688058332,
     "asteroid_name": "(2019 LR4)",
-    "gdelt_spike_pct": -25.897313622635515,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -7.2297484102847545,
     "earthquakes_24h": 0,
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-15T17:24:49.163116Z",
-      "score": 30.9,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 22.6
-    },
     {
       "ts": "2026-07-15T18:37:20.154586Z",
       "score": 27.4,
@@ -4780,6 +4773,13 @@
     },
     {
       "ts": "2026-08-18T17:24:53.177884Z",
+      "score": 20.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.0
+    },
+    {
+      "ts": "2026-08-18T17:53:11.238784Z",
       "score": 20.9,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
