@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T14:07:15.544731Z",
-  "score": 19.4,
+  "generated_at": "2026-08-18T14:51:14.585973Z",
+  "score": 20.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 1.0,
+    "d1h": -3.9,
+    "d24h": 1.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,17 @@
     "day": 65,
     "date": "18.08.2026",
     "declassified": "18.08.26",
-    "generated_utc": "14:07",
+    "generated_utc": "14:51",
     "top_drivers": [
-      "NOAA space-weather alerts active: 7",
+      "NLO zaplovio rekom , snimak zbunio sve",
+      "NOAA space-weather alerts active: 8",
       "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.1,
+    "live_signal": 15.3,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -52,9 +53,75 @@
     "wiki_spike_pct": -7.2297484102847545,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 8
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "NLO zaplovio rekom , snimak zbunio sve",
+      "source": "blic.rs",
+      "url": "https://www.blic.rs/slobodno-vreme/nlo-zaplovio-rekom-snimak-zbunio-sve/9xc48r9"
+    },
+    {
+      "type": "news",
+      "text": "Green Man Festival 2026 : an electronic music guide",
+      "source": "djmag.com",
+      "url": "https://djmag.com/news/green-man-festival-2026-electronic-music-guide"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vso6e1kamjse3b0qs745qc1bj6"
+    },
+    {
+      "type": "news",
+      "text": "US Reportedly Hiding 4 Dead Alien Species : UFO Whistleblower Dr Eric Davis Reveals Relocation Details",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/ufo-whistleblower-alien-species-claims-1814869"
+    },
+    {
+      "type": "news",
+      "text": "Cozinha com sala de jantar : 19 inspiraes para integrar os ambientes com estilo",
+      "source": "revistacasaejardim.globo.com",
+      "url": "https://revistacasaejardim.globo.com/decoracao/noticia/2026/08/cozinha-com-sala-de-jantar.ghtml"
+    },
+    {
+      "type": "news",
+      "text": "Az EU titokban m\u00e1r \u00e9vek \u00f3ta uf\u00f3k ut\u00e1n kutatva figyelheti az eget",
+      "source": "blikk.hu",
+      "url": "https://www.blikk.hu/ferfiaknak/tech/eu-europai-bizottsag-ufo-kutatas-foldonkivuliek/g3s606n"
+    },
+    {
+      "type": "news",
+      "text": "Chevrolet Corvette E - Ray \u2013 the electrified muscle car takes a different approach to hybrid power and has a clever feature",
+      "source": "t3.com",
+      "url": "https://www.t3.com/auto/chevrolet-corvette-e-ray"
+    },
+    {
+      "type": "news",
+      "text": "  Les aliens ont atterri \u00e0 Roswell  : \u00e9pisode 5 / 10 du podcast Les rumeurs qui ont chang\u00e9 le monde",
+      "source": "radiofrance.fr",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/ils-ont-change-le-monde/les-aliens-ont-atterri-a-roswell-9610216"
+    },
+    {
+      "type": "news",
+      "text": "\u041d\u041b\u041e \u0432\u0435\u0447\u0435 \u0441\u0430 \u0442\u0435\u043c\u0430 \u0432 \u0411\u0440\u044e\u043a\u0441\u0435\u043b : \u041c\u0438\u0441\u0442\u0435\u0440\u0438\u043e\u0437\u043d\u0438 \u043e\u0431\u0435\u043a\u0442\u0438 \u043a\u0440\u0430\u0439 \u0432\u043e\u0435\u043d\u043d\u0438 \u0438 \u044f\u0434\u0440\u0435\u043d\u0438 \u0441\u044a\u043e\u0440\u044a\u0436\u0435\u043d\u0438\u044f",
+      "source": "novinite.bg",
+      "url": "https://www.novinite.bg/articles/289074/NLO-veche-sa-tema-v-Bryuksel-Misteriozni-obekti-kraj-voenni-i-yadreni-saorajeniya"
+    },
+    {
+      "type": "news",
+      "text": "\u6a31\u82b1\u6821\u56ed\u6a21\u62df\u56681 . 047 . 12\u4e0b\u8f7d - \u6a31\u82b1\u6821\u56ed\u6a21\u62df\u56681 . 047 . 12\u6700\u65b0\u7248\u4e0b\u8f7dv1 . 047 . 12 - \u4e1c\u5feb\u8f6f\u4ef6\u7ad9",
+      "source": "dnkb.com.cn",
+      "url": "https://www.dnkb.com.cn/game/38152.html"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5404\r Issue Time: 2026 Aug 18 1431 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2045\r Issue Time: 2026 Aug 18 0506 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
@@ -68,12 +135,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2259\r Issue Time: 2026 Aug 18 0227 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2019 LR4) passing at 37.27 LD (~54m, 8.7 km/s)",
       "source": "NASA NeoWs",
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-15T07:11:06.032871Z",
-      "score": 26.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.7
-    },
     {
       "ts": "2026-07-15T09:21:09.685467Z",
       "score": 25.5,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.1
+    },
+    {
+      "ts": "2026-08-18T14:51:14.510108Z",
+      "score": 20.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.3
     }
   ],
   "sources": [
