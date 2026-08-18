@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T04:06:56.652569Z",
-  "score": 19.1,
+  "generated_at": "2026-08-18T04:49:50.115489Z",
+  "score": 20.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -19.1,
-    "d24h": 4.7,
+    "d1h": 5.2,
+    "d24h": 4.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 2.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,10 @@
     "day": 65,
     "date": "18.08.2026",
     "declassified": "18.08.26",
-    "generated_utc": "04:06",
+    "generated_utc": "04:49",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +11% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 6",
       "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
     ],
@@ -40,14 +42,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.6,
+    "live_signal": 15.8,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 37.2688058332,
     "asteroid_name": "(2019 LR4)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 11.128015982787778,
     "x_last_hour": 0,
     "wiki_spike_pct": -7.2297484102847545,
     "earthquakes_24h": 0,
@@ -55,6 +57,66 @@
     "swpc_alerts_24h": 6
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n2ns7e9p8i9m2iuoc0b674b040"
+    },
+    {
+      "type": "news",
+      "text": "CADENA PERPETUA A HOMBRE POR ASESINATO EN ROSWELL",
+      "source": "calibre800.com",
+      "url": "https://www.calibre800.com/2026/08/17/cadena-perpetua-a-hombre-por-asesinato-en-roswell/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=mu46gdhkfvfs27bjamd85ld613"
+    },
+    {
+      "type": "news",
+      "text": "UE quer melhorar capacidade de monitorar UFOs , diz m\u00eddia - Ci\u00eancia e Tecnologia",
+      "source": "ansabrasil.com.br",
+      "url": "https://ansabrasil.com.br/brasil/noticias/ciencia_e_tecnologia/2026/08/17/ue-quer-melhorar-capacidade-de-monitorar-ufos-diz-midia_a8c58069-db9e-4794-996b-67bcef461da5.html"
+    },
+    {
+      "type": "news",
+      "text": "Roswell getting ready to deepen section of the Chattahoochee River",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/north-fulton-county/roswell-getting-ready-deepen-section-chattahoochee-river/VTPOSPZPOFAQDMNVSLTREP42TY/"
+    },
+    {
+      "type": "news",
+      "text": "Julie McDonald : Family genealogist unearths criminal record of law officer grandfather",
+      "source": "chronline.com",
+      "url": "http://www.chronline.com/stories/julie-mcdonald-family-genealogist-unearths-criminal-record-of-law-officer-grandfather,406798"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=imfj71r5b3ecnn9a1p107jj185"
+    },
+    {
+      "type": "news",
+      "text": "Bras\u00edlia j\u00e1 esteve no topo do IDEB . Agora , o \u00edndice conta uma hist\u00f3ria inc\u00f4moda e a Unidakila pergunta : se os alunos mudaram e o mundo mudou , por que ainda ensinamos do mesmo jeito ? ",
+      "source": "jornaldebrasilia.com.br",
+      "url": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/brasilia-ja-esteve-no-topo-do-ideb-agora-o-indice-conta-uma-historia-incomoda-e-a-unidakila-pergunta-se-os-alunos-mudaram-e-o-mundo-mudou-por-que-ainda-ensinamos-do-mesmo-jeito/"
+    },
+    {
+      "type": "news",
+      "text": "Mysterious structures spotted in NASA Mars images fuel claims of ancient city on the Red Planet",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-16059049/mars-cydonia-city-shoreline-structures.html"
+    },
+    {
+      "type": "news",
+      "text": "Watch : Strange Spinning UFO Spotted in Texas | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-08-17-watch-strange-spinning-ufo-spotted-in-texas/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5403\r Issue Time: 2026 Aug 18 0227 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -81,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-14T04:46:56.326576Z",
-      "score": 29.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 20.8
-    },
     {
       "ts": "2026-07-14T07:08:10.981475Z",
       "score": 28.4,
@@ -4784,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.6
+    },
+    {
+      "ts": "2026-08-18T04:49:50.040159Z",
+      "score": 20.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.8
     }
   ],
   "sources": [
