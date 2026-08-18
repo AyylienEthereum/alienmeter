@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-18T19:39:28.127943Z",
-  "score": 34.3,
+  "generated_at": "2026-08-18T19:56:33.627111Z",
+  "score": 35.0,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 13.4,
-    "d24h": 21.3,
+    "d1h": 14.1,
+    "d24h": 20.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 65,
     "date": "18.08.2026",
     "declassified": "18.08.26",
-    "generated_utc": "19:39",
+    "generated_utc": "19:56",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "News velocity +77% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 7",
       "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
@@ -41,8 +42,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 33.2,
-    "baseline_recent": 16.1,
+    "live_signal": 34.1,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
@@ -56,6 +57,66 @@
     "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g86u044q0t42t05inbusv2mb23"
+    },
+    {
+      "type": "news",
+      "text": "Why New Mexico Has So Many UFO Sightings Per Capita",
+      "source": "kbat.com",
+      "url": "https://kbat.com/ixp/63/p/new-mexico-ufo-history/"
+    },
+    {
+      "type": "news",
+      "text": "Tacos at Waffle House ? Atlanta gets first taste of new menu",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/tacos-waffle-house-atlanta-gets-first-taste-new-menu"
+    },
+    {
+      "type": "news",
+      "text": "Forget AI Stocks : Value Investing Giant Seth Klarman Is Loading Up on Genuine Parts ( GPC ) ",
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/forget-ai-stocks-value-investing-giant-seth-klarman-is-loading-up-on-genuine-parts-gpc-1811717/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h3mdvp9gclrpd2hm05sneg4020"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=s0591ll2gshv9que91kf0d2bq1"
+    },
+    {
+      "type": "news",
+      "text": "  Jellyfish  Spotted In NASA Mars Photo Sparks Frenzy As People Dig For Explanation",
+      "source": "aol.com",
+      "url": "https://www.aol.com/articles/jellyfish-spotted-nasa-mars-photo-143552000.html"
+    },
+    {
+      "type": "news",
+      "text": "Shockwave Centers of America Provides Access to Shockwave Therapy Clinics Near You Through Online Directory",
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/globenewswire/shockwave-centers-of-america-provides-access-to-shockwave-therapy-clinics-near-you-through-online-directory/2407893"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=e1tkt871ip42thecrrb0vcd734"
+    },
+    {
+      "type": "news",
+      "text": "Top Ibiza DJ named as person found dead in tent at techno music festival in Norfolk",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16061537/Top-Ibiza-DJ-named-person-dead-tent-techno-music-festival-Norfolk.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5404\r Issue Time: 2026 Aug 18 1431 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -82,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-15T21:53:44.591993Z",
-      "score": 32.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 24.5
-    },
     {
       "ts": "2026-07-15T22:53:47.492869Z",
       "score": 29.4,
@@ -4785,6 +4839,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 33.2
+    },
+    {
+      "ts": "2026-08-18T19:56:33.548563Z",
+      "score": 35.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 34.1
     }
   ],
   "sources": [
