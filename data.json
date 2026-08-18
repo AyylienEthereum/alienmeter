@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-18T07:24:20.356475Z",
-  "score": 22.0,
+  "generated_at": "2026-08-18T08:02:39.399956Z",
+  "score": 19.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": 3.3,
+    "d1h": 0.7,
+    "d24h": 4.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 3.2,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 2.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 65,
     "date": "18.08.2026",
     "declassified": "18.08.26",
-    "generated_utc": "07:24",
+    "generated_utc": "08:02",
     "top_drivers": [
       "West - Current Conditions",
-      "News velocity +13% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 7",
       "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
     ],
@@ -42,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.4,
+    "live_signal": 14.0,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 37.2688058332,
     "asteroid_name": "(2019 LR4)",
-    "gdelt_spike_pct": 13.232939147573287,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -7.2297484102847545,
     "earthquakes_24h": 0,
@@ -143,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-14T14:27:33.788754Z",
-      "score": 32.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 24.0
-    },
     {
       "ts": "2026-07-14T15:56:56.657267Z",
       "score": 29.5,
@@ -4846,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.4
+    },
+    {
+      "ts": "2026-08-18T08:02:39.322842Z",
+      "score": 19.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.0
     }
   ],
   "sources": [
