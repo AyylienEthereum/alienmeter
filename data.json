@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T14:52:10.266673Z",
-  "score": 21.1,
+  "generated_at": "2026-08-19T15:24:45.892538Z",
+  "score": 20.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -2.8,
-    "d24h": 6.7,
+    "d1h": -1.8,
+    "d24h": 7.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.0,
-    "alien_variance": 0.6
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "14:52",
+    "generated_utc": "15:24",
     "top_drivers": [
-      "Moderna senflamme , Trainline et Rockwool dans le dur",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.3,
+    "live_signal": 15.8,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Moderna senflamme , Trainline et Rockwool dans le dur",
-      "source": "tradingsat.com",
-      "url": "https://www.tradingsat.com/actualites/informations-societes/moderna-s-enflamme-trainline-et-rockwool-dans-le-dur-1168802.html"
-    },
-    {
-      "type": "news",
-      "text": "Ameri\u010dki nau\u010dnik tvrdi da SAD kriju tela \u010detiri vrste vanzemaljaca",
-      "source": "tanjug.rs",
-      "url": "https://www.tanjug.rs/nauka/vesti/274724/americki-naucnik-tvrdi-da-sad-kriju-tela-cetiri-vrste-vanzemaljaca/vest"
-    },
-    {
-      "type": "news",
-      "text": "Harry Potter Fest Coming To Midway Drive - In In Sterling , Illinois",
-      "source": "kfilradio.com",
-      "url": "https://kfilradio.com/ixp/722/p/midway-drive-in-harry-potter-fest/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=guip9rcal6050i5sofh6l42rb5"
-    },
-    {
-      "type": "news",
-      "text": "\u0410\u043c\u0435\u0440\u0438\u0447\u043a\u0438 \u043d\u0430\u0443\u0447\u043d\u0438\u043a \u0442\u0432\u0440\u0434\u0438 \u0434\u0430 \u0421\u0410\u0414 \u043a\u0440\u0438\u0458\u0443 \u0442\u0435\u043b\u0430 \u0447\u0435\u0442\u0438\u0440\u0438 \u0432\u0440\u0441\u0442\u0435 \u0432\u0430\u043d\u0437\u0435\u043c\u0430\u0459\u0430\u0446\u0430",
-      "source": "politika.rs",
-      "url": "https://www.politika.rs/scc/clanak/779536/americki-naucnik-tvrdi-da-sad-kriju-tela-cetiri-vrste-vanzemaljaca"
-    },
-    {
-      "type": "news",
-      "text": "Australia Foxtel , Canal+ in France take historical content from Espresso Media | News",
-      "source": "c21media.net",
-      "url": "https://www.c21media.net/news/australias-foxtel-canal-in-france-take-historical-content-from-espresso-media/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=6nt986oj77hgfdvake80gphvv3"
-    },
-    {
-      "type": "news",
-      "text": "\u6e38\u620f\u738bygomobile\u5b89\u5353\u7248\u624b\u6e38\u4e0b\u8f7d - \u6e38\u620f\u738bygomobile\u6700\u65b0\u7248\u624b\u673a\u7248\u4e0b\u8f7dv3 . 13 . 6 - \u4e1c\u5feb\u8f6f\u4ef6\u7ad9",
-      "source": "dnkb.com.cn",
-      "url": "https://www.dnkb.com.cn/game/44904.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=iblmooapin1vjlcpvfcih17523"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oa59b1i9va563gh21p5ie3cl04"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2047\r Issue Time: 2026 Aug 19 0545 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
@@ -148,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-17T22:33:55.264664Z",
-      "score": 26.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.6
-    },
     {
       "ts": "2026-07-17T23:33:19.774037Z",
       "score": 18.5,
@@ -4851,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.3
+    },
+    {
+      "ts": "2026-08-19T15:24:45.827542Z",
+      "score": 20.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.8
     }
   ],
   "sources": [
