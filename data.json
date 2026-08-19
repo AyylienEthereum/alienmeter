@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T04:09:10.871795Z",
-  "score": 27.9,
+  "generated_at": "2026-08-19T04:50:45.227496Z",
+  "score": 23.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 4.8,
-    "d24h": 12.9,
+    "d1h": -0.6,
+    "d24h": 9.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 6.2,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.0,
-    "alien_variance": 1.9
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "04:09",
+    "generated_utc": "04:50",
     "top_drivers": [
       "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "News velocity +26% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -42,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 25.0,
+    "live_signal": 18.9,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 25.856482209708364,
+    "gdelt_spike_pct": -2.583550975087184,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.861726253692801,
     "earthquakes_24h": 1,
@@ -57,6 +56,12 @@
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=mjsb7na174r6d59jvkq9g7tee1"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -112,12 +117,6 @@
       "url": "https://www.wsbtv.com/news/local/fulton-county/fugitive-accused-attempted-murder-captured-metro-atlanta/XW3AEUFGUJGQJDBEOMEZDB56TM/"
     },
     {
-      "type": "news",
-      "text": "Amsterdam Couple Gets Life For 2020 Carjacking Murder In Beacon",
-      "source": "hudsonvalleycountry.com",
-      "url": "https://hudsonvalleycountry.com/ixp/705/p/beacon-murder-life-sentence/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5405\r Issue Time: 2026 Aug 18 2052 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
@@ -149,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-16T21:15:05.165151Z",
-      "score": 25.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.4
-    },
     {
       "ts": "2026-07-16T22:17:07.161849Z",
       "score": 24.2,
@@ -4852,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 25.0
+    },
+    {
+      "ts": "2026-08-19T04:50:45.156372Z",
+      "score": 23.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
