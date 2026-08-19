@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-19T21:19:51.205486Z",
-  "score": 19.6,
+  "generated_at": "2026-08-19T21:49:20.197004Z",
+  "score": 18.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.9,
-    "d24h": 6.6,
+    "d1h": -3.6,
+    "d24h": 5.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 3.0,
-    "alien_variance": 1.0
+    "seismic": 0.0,
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "21:19",
+    "generated_utc": "21:49",
     "top_drivers": [
       "NOAA space-weather alerts active: 2",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
@@ -40,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.3,
+    "live_signal": 13.2,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
@@ -50,8 +50,8 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.861726253692801,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 5.9,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
@@ -68,12 +68,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "seismic",
-      "text": "Significant seismic event: 270 km WSW of Yanglong, China",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO 357621 (2005 EG94) passing at 32.14 LD (~1019m, 10.9 km/s)",
       "source": "NASA NeoWs",
@@ -81,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-18T17:30:09.125432Z",
-      "score": 21.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.9
-    },
     {
       "ts": "2026-07-18T18:28:57.205560Z",
       "score": 19.1,
@@ -4784,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.3
+    },
+    {
+      "ts": "2026-08-19T21:49:20.126888Z",
+      "score": 18.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.2
     }
   ],
   "sources": [
