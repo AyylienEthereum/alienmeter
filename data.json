@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T11:49:06.149986Z",
-  "score": 23.9,
+  "generated_at": "2026-08-19T12:33:21.296440Z",
+  "score": 22.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.6,
-    "d24h": -19.1,
+    "d1h": 2.8,
+    "d24h": 8.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.0,
-    "alien_variance": 2.9
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "11:49",
+    "generated_utc": "12:33",
     "top_drivers": [
       "Australia Foxtel , Canal+ in France take historical content from Espresso Media | News",
       "NOAA space-weather alerts active: 5",
@@ -41,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.8,
+    "live_signal": 18.1,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -23.26849981710905,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.861726253692801,
     "earthquakes_24h": 1,
@@ -148,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-17T18:35:33.661968Z",
-      "score": 25.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.9
-    },
     {
       "ts": "2026-07-17T19:46:45.137792Z",
       "score": 25.8,
@@ -4851,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.8
+    },
+    {
+      "ts": "2026-08-19T12:33:21.225241Z",
+      "score": 22.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.1
     }
   ],
   "sources": [
