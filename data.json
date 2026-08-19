@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T23:59:51.848973Z",
-  "score": 23.1,
+  "generated_at": "2026-08-19T01:27:58.513256Z",
+  "score": 23.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.4,
-    "d24h": 8.6,
+    "d1h": 2.0,
+    "d24h": 9.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,7 +19,7 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 2.0,
+    "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.0,
@@ -27,29 +27,29 @@
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 65,
-    "day": 65,
-    "date": "18.08.2026",
-    "declassified": "18.08.26",
-    "generated_utc": "23:59",
+    "number": 66,
+    "day": 66,
+    "date": "19.08.2026",
+    "declassified": "19.08.26",
+    "generated_utc": "01:27",
     "top_drivers": [
       "NOAA space-weather alerts active: 7",
-      "NEO (2019 LR4) passing Earth at 37.3 lunar distances"
+      "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
+    "live_signal": 19.8,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 37.2688058332,
-    "asteroid_name": "(2019 LR4)",
+    "closest_asteroid_ld": 32.1362251171,
+    "asteroid_name": "357621 (2005 EG94)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -7.2297484102847545,
+    "wiki_spike_pct": -6.841636669985449,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.9,
     "swpc_alerts_24h": 7
@@ -81,19 +81,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2019 LR4) passing at 37.27 LD (~54m, 8.7 km/s)",
+      "text": "NEO 357621 (2005 EG94) passing at 32.14 LD (~1019m, 10.9 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-16T16:41:52.808264Z",
-      "score": 24.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.4
-    },
     {
       "ts": "2026-07-16T17:51:40.551359Z",
       "score": 23.7,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-08-19T01:27:58.437261Z",
+      "score": 23.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.8
     }
   ],
   "sources": [
