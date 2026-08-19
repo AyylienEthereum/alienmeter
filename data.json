@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-19T15:56:03.551622Z",
-  "score": 21.4,
+  "generated_at": "2026-08-19T16:23:51.770887Z",
+  "score": 21.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": -7.5,
+    "d1h": -3.5,
+    "d24h": -5.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.0,
-    "alien_variance": 0.9
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "15:56",
+    "generated_utc": "16:23",
     "top_drivers": [
+      "  Insidiou reinventa las reglas de la saga y regresa al M\u00e1s All\u00e1 con un terror renovado",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.6,
+    "live_signal": 16.1,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "  Insidiou reinventa las reglas de la saga y regresa al M\u00e1s All\u00e1 con un terror renovado",
+      "source": "rpp.pe",
+      "url": "https://rpp.pe/cine/internacional/insidious-reinventa-las-reglas-de-la-saga-y-regresa-al-mas-alla-con-un-terror-renovado-noticia-1702383"
+    },
+    {
+      "type": "news",
+      "text": "Video : Alcalde de Lima a presidenta Keiko Fujimori por ola de ataques extorsivos : ",
+      "source": "deperu.com",
+      "url": "https://www.deperu.com/tv/GZU2STTaNTw.alcalde-de-lima-a-presidenta-keiko-fujimori-por-ola-de-ataques-extorsivos-la-paciencia-se-acaba.UC5j8-2FT0ZMMBkmK72R4aeA.html"
+    },
+    {
+      "type": "news",
+      "text": "Whistleblower Claims Government Has Bodies Of 4 Alien Species",
+      "source": "brobible.com",
+      "url": "https://brobible.com/culture/article/whistleblower-government-bodies-four-alien-species/"
+    },
+    {
+      "type": "news",
+      "text": "What Led To The Decision To Close Sullivan County Care Center ? ",
+      "source": "hudsonvalleycountry.com",
+      "url": "https://hudsonvalleycountry.com/ixp/705/p/sunset-lake-care-center-update/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1ls0spgdpb2gmm5t6k6q2td242"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=grb65m0353s4cd9of3btd5hgj7"
+    },
+    {
+      "type": "news",
+      "text": "Government Relocated Recovered Alien Bodies Into Military Medical Institutes , Defence Expert Claims",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/former-us-scientist-claims-alien-bodies-stored-1815156"
+    },
+    {
+      "type": "news",
+      "text": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03bd\u03c4\u03b1\u03b3\u03ce\u03bd\u03bf\u03c5 : \u00ab \u0388\u03c7\u03c9 \u03b4\u03b5\u03b9 \u03c4\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u00bb \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03c5\u03bc\u03bc\u03ad\u03bd\u03b1 \u03c0\u03c4\u03c9\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b5\u03c3\u03c3\u03ac\u03c1\u03c9\u03bd \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03c9\u03bd",
+      "source": "newsbomb.gr",
+      "url": "https://www.newsbomb.gr/fun/story/1757469/epistimonas-tou-pentagonou-exo-dei-ta-stoixeia-gia-ta-krymmena-ptomaton-tessaron-eksogiinon"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=to7mkr0kp4drje5rb43n8231s1"
+    },
+    {
+      "type": "news",
+      "text": "Moderna senflamme , Trainline et Rockwool dans le dur",
+      "source": "tradingsat.com",
+      "url": "https://www.tradingsat.com/actualites/informations-societes/moderna-s-enflamme-trainline-et-rockwool-dans-le-dur-1168802.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2047\r Issue Time: 2026 Aug 19 0545 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-18T01:04:43.915996Z",
-      "score": 28.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 20.5
-    },
     {
       "ts": "2026-07-18T04:13:30.322033Z",
       "score": 26.5,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.6
+    },
+    {
+      "ts": "2026-08-19T16:23:51.696378Z",
+      "score": 21.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.1
     }
   ],
   "sources": [
