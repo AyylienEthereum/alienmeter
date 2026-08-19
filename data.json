@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-19T18:24:19.004117Z",
-  "score": 50.1,
+  "generated_at": "2026-08-19T19:02:33.084664Z",
+  "score": 23.4,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "trust nothing",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 29.1,
-    "d24h": 38.1,
+    "d1h": -27.5,
+    "d24h": 12.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,23 @@
     "day": 66,
     "date": "19.08.2026",
     "declassified": "19.08.26",
-    "generated_utc": "18:24",
+    "generated_utc": "19:02",
     "top_drivers": [
-      "What Led To The Decision To Close Sullivan County Care Center ? ",
-      "News velocity +155% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 53.4,
-    "baseline_recent": 16.2,
+    "live_signal": 19.2,
+    "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 155.18752660371115,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.861726253692801,
     "earthquakes_24h": 1,
@@ -57,66 +55,6 @@
     "swpc_alerts_24h": 5
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "What Led To The Decision To Close Sullivan County Care Center ? ",
-      "source": "wrrv.com",
-      "url": "https://wrrv.com/ixp/705/p/sunset-lake-care-center-update/"
-    },
-    {
-      "type": "news",
-      "text": "  Capital  va r\u00e9v\u00e9ler les secrets de lenseigne Grand Frais sur M6 dimanche 6 septembre 2026",
-      "source": "coulisses-tv.fr",
-      "url": "https://www.coulisses-tv.fr/index.php/magazines/item/55391-capital-va-r%C3%A9v%C3%A9ler-les-secrets-de-l-enseigne-grand-frais-sur-m6-dimanche-6-septembre-2026"
-    },
-    {
-      "type": "news",
-      "text": "  Insidiou reinventa las reglas de la saga y regresa al M\u00e1s All\u00e1 con un terror renovado",
-      "source": "rpp.pe",
-      "url": "https://rpp.pe/cine/internacional/insidious-reinventa-las-reglas-de-la-saga-y-regresa-al-mas-alla-con-un-terror-renovado-noticia-1702383"
-    },
-    {
-      "type": "news",
-      "text": "Video : Alcalde de Lima a presidenta Keiko Fujimori por ola de ataques extorsivos : ",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/GZU2STTaNTw.alcalde-de-lima-a-presidenta-keiko-fujimori-por-ola-de-ataques-extorsivos-la-paciencia-se-acaba.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Whistleblower Claims Government Has Bodies Of 4 Alien Species",
-      "source": "brobible.com",
-      "url": "https://brobible.com/culture/article/whistleblower-government-bodies-four-alien-species/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1ls0spgdpb2gmm5t6k6q2td242"
-    },
-    {
-      "type": "news",
-      "text": "What Led To The Decision To Close Sullivan County Care Center ? ",
-      "source": "hudsonvalleycountry.com",
-      "url": "https://hudsonvalleycountry.com/ixp/705/p/sunset-lake-care-center-update/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=grb65m0353s4cd9of3btd5hgj7"
-    },
-    {
-      "type": "news",
-      "text": "Government Relocated Recovered Alien Bodies Into Military Medical Institutes , Defence Expert Claims",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/former-us-scientist-claims-alien-bodies-stored-1815156"
-    },
-    {
-      "type": "news",
-      "text": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03bd\u03c4\u03b1\u03b3\u03ce\u03bd\u03bf\u03c5 : \u00ab \u0388\u03c7\u03c9 \u03b4\u03b5\u03b9 \u03c4\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u00bb \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03c5\u03bc\u03bc\u03ad\u03bd\u03b1 \u03c0\u03c4\u03c9\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b5\u03c3\u03c3\u03ac\u03c1\u03c9\u03bd \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03c9\u03bd",
-      "source": "newsbomb.gr",
-      "url": "https://www.newsbomb.gr/fun/story/1757469/epistimonas-tou-pentagonou-exo-dei-ta-stoixeia-gia-ta-krymmena-ptomaton-tessaron-eksogiinon"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5406\r Issue Time: 2026 Aug 19 1757 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -149,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-18T10:57:26.155296Z",
-      "score": 22.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.8
-    },
     {
       "ts": "2026-07-18T11:52:41.448644Z",
       "score": 22.8,
@@ -4852,6 +4783,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 53.4
+    },
+    {
+      "ts": "2026-08-19T19:02:33.014408Z",
+      "score": 23.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.2
     }
   ],
   "sources": [
