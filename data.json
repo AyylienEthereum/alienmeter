@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-20T19:57:09.852644Z",
-  "score": 21.1,
+  "generated_at": "2026-08-20T20:24:22.537546Z",
+  "score": 49.4,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": 2.3,
+    "d1h": 29.8,
+    "d24h": 27.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 3.4,
-    "alien_variance": 1.3
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "19:57",
+    "generated_utc": "20:24",
     "top_drivers": [
+      "News velocity +206% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 3",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.2,
+    "live_signal": 52.5,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 205.67972312966972,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 1,
@@ -87,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-20T23:39:24.081810Z",
-      "score": 48.8,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 46.7
-    },
     {
       "ts": "2026-07-21T01:07:48.684042Z",
       "score": 17.8,
@@ -4790,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.2
+    },
+    {
+      "ts": "2026-08-20T20:24:22.459420Z",
+      "score": 49.4,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 52.5
     }
   ],
   "sources": [
