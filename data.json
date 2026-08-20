@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T21:21:35.885187Z",
-  "score": 22.3,
+  "generated_at": "2026-08-20T21:52:32.103762Z",
+  "score": 23.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -27.1,
-    "d24h": 1.6,
+    "d1h": 2.1,
+    "d24h": -1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.4,
-    "alien_variance": 1.7
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "21:21",
+    "generated_utc": "21:52",
     "top_drivers": [
+      "Watch : Odd Diamond - Shaped UFO Seen in China | 960 WELI | Coast to Coast AM with George Noory",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.8,
+    "live_signal": 18.9,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Watch : Odd Diamond - Shaped UFO Seen in China | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/2026-08-20-watch-odd-diamond-shaped-ufo-seen-in-china/"
+    },
+    {
+      "type": "news",
+      "text": "Sesame Street | Georgia Public Broadcasting",
+      "source": "gpb.org",
+      "url": "https://www.gpb.org/events/community/2026/09/24/sesame-street-and-the-great-elephant-adventure"
+    },
+    {
+      "type": "news",
+      "text": " \u00a1 FAH ! vuelve al Rojas : tres d\u00edas para celebrar la historieta con entrada gratuita",
+      "source": "eldestapeweb.com",
+      "url": "http://www.eldestapeweb.com/cultura/fah-vuelve-rojas-tres-dias-celebrar-historieta-entrada-gratuita-202682016810"
+    },
+    {
+      "type": "news",
+      "text": "Aliens are winning over Gen Z and UFO news may be to blame",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/08/20/lifestyle/aliens-are-winning-over-gen-z-and-ufo-news-may-be-to-blame/"
+    },
+    {
+      "type": "news",
+      "text": "Atlanta Bites : Restaurant , dining news in metro Atlanta for August 2026",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/atlanta-bites-restaurant-dining-news-metro-atlanta-august-2026"
+    },
+    {
+      "type": "news",
+      "text": "48 of the Best Movies on Netflix You Should Stream Now",
+      "source": "cnet.com",
+      "url": "https://www.cnet.com/tech/services-and-software/copy-of-48-of-the-best-movies-on-netflix-you-should-stream-now/"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX Drops 6 %, Dips Below Its IPO Price as 319M Shares Unlock ; Rocket Lab Falls 4 % ",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-6-dips-below-152822462.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Gaming ( UFO ) 24 Hour Trading Volume Hits $1 . 09 Thousand",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13551738/ufo-gaming-ufo-24-hour-trading-volume-hits-1-09-thousand.html"
+    },
+    {
+      "type": "news",
+      "text": "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
+      "source": "nra.lv",
+      "url": "https://nra.lv/pasaule/528115-nasa-atklaj-aizdomigu-figuru-uz-marsa.htm"
+    },
+    {
+      "type": "news",
+      "text": "Banana Ball World Tour comes to Billings this week",
+      "source": "bozemandailychronicle.com",
+      "url": "http://www.bozemandailychronicle.com/news/big-sky/bananas-for-billings-banana-ball-world-tour-comes-to-dehler-park-this-week/article_66f9fa7b-61df-5537-8a57-ffd87ed96f3b.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1523\r Issue Time: 2026 Aug 20 2049 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-21T07:12:47.152120Z",
-      "score": 18.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 7.4
-    },
     {
       "ts": "2026-07-21T09:40:02.677298Z",
       "score": 19.2,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.8
+    },
+    {
+      "ts": "2026-08-20T21:52:32.025069Z",
+      "score": 23.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
