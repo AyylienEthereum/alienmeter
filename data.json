@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-20T05:55:25.303073Z",
-  "score": 17.1,
+  "generated_at": "2026-08-20T06:35:50.266175Z",
+  "score": 18.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.3,
-    "d24h": 2.6,
+    "d1h": 0.6,
+    "d24h": 4.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "05:55",
+    "generated_utc": "06:35",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.1,
+    "live_signal": 12.7,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -32.71779784353922,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 0,
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-19T12:36:11.991778Z",
-      "score": 34.7,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.5
-    },
     {
       "ts": "2026-07-19T14:12:12.839978Z",
       "score": 29.2,
@@ -4772,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.1
+    },
+    {
+      "ts": "2026-08-20T06:35:50.190766Z",
+      "score": 18.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.7
     }
   ],
   "sources": [
