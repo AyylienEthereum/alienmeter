@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-20T15:16:20.528849Z",
-  "score": 49.2,
+  "generated_at": "2026-08-20T15:58:09.530465Z",
+  "score": 46.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 28.7,
-    "d24h": 28.4,
+    "d1h": 25.7,
+    "d24h": 28.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 0.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "15:16",
+    "generated_utc": "15:58",
     "top_drivers": [
-      "UFO news effect ? More say they believe in aliens",
+      "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
       "News velocity +208% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 52.3,
+    "live_signal": 49.3,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
@@ -57,6 +57,18 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
+      "source": "nra.lv",
+      "url": "https://nra.lv/pasaule/528115-nasa-atklaj-aizdomigu-figuru-uz-marsa.htm"
+    },
+    {
+      "type": "news",
+      "text": "Banana Ball World Tour comes to Billings this week",
+      "source": "bozemandailychronicle.com",
+      "url": "http://www.bozemandailychronicle.com/news/big-sky/bananas-for-billings-banana-ball-world-tour-comes-to-dehler-park-this-week/article_66f9fa7b-61df-5537-8a57-ffd87ed96f3b.html"
+    },
     {
       "type": "news",
       "text": "UFO news effect ? More say they believe in aliens",
@@ -106,18 +118,6 @@
       "url": "https://www.aol.co.uk/articles/houghton-festival-2026-review-phone-133228000.html"
     },
     {
-      "type": "news",
-      "text": "Wolf Alice : le groupe britannique en concert \u00e0 Rock en Seine",
-      "source": "numero.com",
-      "url": "https://numero.com/culture/musique/wolf-alice-the-clearing-interview/"
-    },
-    {
-      "type": "news",
-      "text": "UFO stories making more people believe in aliens",
-      "source": "belfastlive.co.uk",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/ufo-stories-making-more-people-34489458"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
@@ -143,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-20T10:45:49.822306Z",
-      "score": 21.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.0
-    },
     {
       "ts": "2026-07-20T12:57:23.965070Z",
       "score": 50.8,
@@ -4846,6 +4839,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 52.3
+    },
+    {
+      "ts": "2026-08-20T15:58:09.450845Z",
+      "score": 46.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 49.3
     }
   ],
   "sources": [
