@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-20T15:58:09.530465Z",
-  "score": 46.8,
+  "generated_at": "2026-08-20T16:34:56.238598Z",
+  "score": 21.1,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 25.7,
-    "d24h": 28.1,
+    "d1h": 1.8,
+    "d24h": -8.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,24 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "15:58",
+    "generated_utc": "16:34",
     "top_drivers": [
-      "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
-      "News velocity +208% vs 7-day baseline (GDELT)",
+      "SpaceX Drops 6 %, Dips Below Its IPO Price as 319M Shares Unlock ; Rocket Lab Falls 4 % ",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 49.3,
-    "baseline_recent": 16.1,
+    "live_signal": 16.3,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 208.05855015649203,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 0,
@@ -57,6 +56,18 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "SpaceX Drops 6 %, Dips Below Its IPO Price as 319M Shares Unlock ; Rocket Lab Falls 4 % ",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-6-dips-below-152822462.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Gaming ( UFO ) 24 Hour Trading Volume Hits $1 . 09 Thousand",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13551738/ufo-gaming-ufo-24-hour-trading-volume-hits-1-09-thousand.html"
+    },
     {
       "type": "news",
       "text": "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
@@ -106,18 +117,6 @@
       "url": "https://www.wyomingnewsnow.tv/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_d7d499c9-290a-509a-a254-9fcbbe211eb2.html"
     },
     {
-      "type": "news",
-      "text": "UFO news effect ? More say they believe in aliens",
-      "source": "mtdemocrat.com",
-      "url": "https://www.mtdemocrat.com/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_9ca559d5-e728-57ce-9354-60aff6200bef.html"
-    },
-    {
-      "type": "news",
-      "text": "Houghton Festival 2026 review : This phone - free festival is an artistic , musical nirvana",
-      "source": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/houghton-festival-2026-review-phone-133228000.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
@@ -143,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-20T12:57:23.965070Z",
-      "score": 50.8,
-      "band": "ROSWELL ENERGY",
-      "i": 3,
-      "live": 49.3
-    },
     {
       "ts": "2026-07-20T15:10:03.331377Z",
       "score": 49.9,
@@ -4846,6 +4838,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 49.3
+    },
+    {
+      "ts": "2026-08-20T16:34:56.160639Z",
+      "score": 21.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.3
     }
   ],
   "sources": [
