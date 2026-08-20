@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-20T20:24:22.537546Z",
-  "score": 49.4,
+  "generated_at": "2026-08-20T20:55:08.633276Z",
+  "score": 24.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 29.8,
-    "d24h": 27.3,
+    "d1h": 1.7,
+    "d24h": 5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 3.4,
-    "alien_variance": 1.6
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,97 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "20:24",
+    "generated_utc": "20:55",
     "top_drivers": [
-      "News velocity +206% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 3",
+      "Sesame Street | Georgia Public Broadcasting",
+      "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 52.5,
+    "live_signal": 20.0,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 205.67972312966972,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.7,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Sesame Street | Georgia Public Broadcasting",
+      "source": "gpb.org",
+      "url": "https://www.gpb.org/events/community/2026/09/24/sesame-street-and-the-great-elephant-adventure"
+    },
+    {
+      "type": "news",
+      "text": " \u00a1 FAH ! vuelve al Rojas : tres d\u00edas para celebrar la historieta con entrada gratuita",
+      "source": "eldestapeweb.com",
+      "url": "http://www.eldestapeweb.com/cultura/fah-vuelve-rojas-tres-dias-celebrar-historieta-entrada-gratuita-202682016810"
+    },
+    {
+      "type": "news",
+      "text": "Aliens are winning over Gen Z and UFO news may be to blame",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/08/20/lifestyle/aliens-are-winning-over-gen-z-and-ufo-news-may-be-to-blame/"
+    },
+    {
+      "type": "news",
+      "text": "Atlanta Bites : Restaurant , dining news in metro Atlanta for August 2026",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/atlanta-bites-restaurant-dining-news-metro-atlanta-august-2026"
+    },
+    {
+      "type": "news",
+      "text": "48 of the Best Movies on Netflix You Should Stream Now",
+      "source": "cnet.com",
+      "url": "https://www.cnet.com/tech/services-and-software/copy-of-48-of-the-best-movies-on-netflix-you-should-stream-now/"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX Drops 6 %, Dips Below Its IPO Price as 319M Shares Unlock ; Rocket Lab Falls 4 % ",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-6-dips-below-152822462.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Gaming ( UFO ) 24 Hour Trading Volume Hits $1 . 09 Thousand",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13551738/ufo-gaming-ufo-24-hour-trading-volume-hits-1-09-thousand.html"
+    },
+    {
+      "type": "news",
+      "text": "NASA komand\u0101 izrais\u0101s diskusijas : kas tas ir fotogr\u0101fij\u0101 ? ",
+      "source": "nra.lv",
+      "url": "https://nra.lv/pasaule/528115-nasa-atklaj-aizdomigu-figuru-uz-marsa.htm"
+    },
+    {
+      "type": "news",
+      "text": "Banana Ball World Tour comes to Billings this week",
+      "source": "bozemandailychronicle.com",
+      "url": "http://www.bozemandailychronicle.com/news/big-sky/bananas-for-billings-banana-ball-world-tour-comes-to-dehler-park-this-week/article_66f9fa7b-61df-5537-8a57-ffd87ed96f3b.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "kpcnews.com",
+      "url": "https://www.kpcnews.com/news/national/article_4989e4be-8d08-5e24-8c9c-cd6d815cdd10.html"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1523\r Issue Time: 2026 Aug 20 2049 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
@@ -65,12 +131,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1522\r Issue Time: 2026 Aug 20 1158 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 540\r Issue Time: 2026 Aug 20 1139 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -88,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-21T01:07:48.684042Z",
-      "score": 17.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 6.9
-    },
     {
       "ts": "2026-07-21T04:30:54.125447Z",
       "score": 19.0,
@@ -4791,6 +4844,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 52.5
+    },
+    {
+      "ts": "2026-08-20T20:55:08.559208Z",
+      "score": 24.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.0
     }
   ],
   "sources": [
