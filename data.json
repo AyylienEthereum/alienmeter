@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T13:58:22.104293Z",
-  "score": 19.3,
+  "generated_at": "2026-08-20T14:36:24.562244Z",
+  "score": 18.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.3,
-    "d24h": 1.5,
+    "d1h": -0.4,
+    "d24h": -0.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "13:58",
+    "generated_utc": "14:36",
     "top_drivers": [
-      "UFO stories making more people believe in aliens",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.0,
+    "live_signal": 13.1,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": -16.174259807257133,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "UFO stories making more people believe in aliens",
-      "source": "dailypost.co.uk",
-      "url": "https://www.dailypost.co.uk/news/uk-world-news/ufo-stories-making-more-people-34489458"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=74re7ba7tij4307rtnp09v98f0"
-    },
-    {
-      "type": "news",
-      "text": "BONDERAM 2026 PROMISES TO BE A BIGGER CELEBRATION OF CULTURE AND COMMUNITY",
-      "source": "heraldgoa.in",
-      "url": "https://www.heraldgoa.in/cafe/bonderam-2026-promises-to-be-a-bigger-celebration-of-culture-and-community/485930/"
-    },
-    {
-      "type": "news",
-      "text": "Senoia Police Trail Leads to Fayetteville Man in Sexual Assault Case",
-      "source": "thecitizen.com",
-      "url": "https://thecitizen.com/2026/08/20/senoia-police-trail-leads-to-fayetteville-man-in-sexual-assault-case/"
-    },
-    {
-      "type": "news",
-      "text": "WyCo storms leave thousands in the dark ; power restoration may take several days",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/wyandotte-county-storms-leave-thousands-in-the-dark-power-restoration-could-take-several-days"
-    },
-    {
-      "type": "news",
-      "text": "Two Kansas City , Kansas , churches lean on faith after storm devastation",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/god-is-going-to-get-us-through-this-two-kck-churches-lean-on-faith-after-storm-devastation"
-    },
-    {
-      "type": "news",
-      "text": "New film to focus on retired campsite owner fascination with UFOs",
-      "source": "cravenherald.co.uk",
-      "url": "https://www.cravenherald.co.uk/news/26474849.new-film-focus-retired-campsite-owners-fascination-ufos/"
-    },
-    {
-      "type": "news",
-      "text": "KC metro cleans up after widespread overnight storm damage",
-      "source": "wibw.com",
-      "url": "https://www.wibw.com/2026/08/19/after-storm-metro-residents-face-school-cancellations-power-lines-mass-outages-downed-trees/"
-    },
-    {
-      "type": "news",
-      "text": "Changelog in Linux kernel 7 . 2",
-      "source": "opennet.ru",
-      "url": "https://www.opennet.ru/kernel/7.2.html"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico expands NIBIN machines to solve gun crimes in 4 cities",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/new-mexico-expands-nibin-machines-to-solve-gun-crimes-in-4-cities/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-20T04:51:11.216419Z",
-      "score": 24.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.4
-    },
     {
       "ts": "2026-07-20T07:54:38.112683Z",
       "score": 23.4,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.0
+    },
+    {
+      "ts": "2026-08-20T14:36:24.485454Z",
+      "score": 18.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.1
     }
   ],
   "sources": [
