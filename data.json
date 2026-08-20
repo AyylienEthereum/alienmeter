@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-20T02:43:06.975429Z",
-  "score": 22.1,
+  "generated_at": "2026-08-20T03:30:23.917682Z",
+  "score": 15.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": 8.8,
+    "d1h": -3.6,
+    "d24h": 0.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 6.9,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "02:43",
+    "generated_utc": "03:30",
     "top_drivers": [
-      "News velocity +29% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 2",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -41,16 +40,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.5,
+    "live_signal": 9.5,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 28.733761248118917,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -4.778779759332352,
+    "wiki_spike_pct": -9.351618888310389,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -76,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-19T03:51:49.638507Z",
-      "score": 21.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.3
-    },
     {
       "ts": "2026-07-19T06:26:16.148419Z",
       "score": 22.3,
@@ -4779,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.5
+    },
+    {
+      "ts": "2026-08-20T03:30:23.840969Z",
+      "score": 15.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.5
     }
   ],
   "sources": [
