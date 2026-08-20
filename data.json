@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-20T12:01:35.787919Z",
-  "score": 20.5,
+  "generated_at": "2026-08-20T13:03:09.701010Z",
+  "score": 21.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.9,
-    "d24h": 4.9,
+    "d1h": 5.2,
+    "d24h": 2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,21 +31,20 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "12:01",
+    "generated_utc": "13:03",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.5,
+    "live_signal": 16.3,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
     "gdelt_spike_pct": null,
@@ -53,68 +52,14 @@
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=74re7ba7tij4307rtnp09v98f0"
-    },
-    {
-      "type": "news",
-      "text": "BONDERAM 2026 PROMISES TO BE A BIGGER CELEBRATION OF CULTURE AND COMMUNITY",
-      "source": "heraldgoa.in",
-      "url": "https://www.heraldgoa.in/cafe/bonderam-2026-promises-to-be-a-bigger-celebration-of-culture-and-community/485930/"
-    },
-    {
-      "type": "news",
-      "text": "Senoia Police Trail Leads to Fayetteville Man in Sexual Assault Case",
-      "source": "thecitizen.com",
-      "url": "https://thecitizen.com/2026/08/20/senoia-police-trail-leads-to-fayetteville-man-in-sexual-assault-case/"
-    },
-    {
-      "type": "news",
-      "text": "WyCo storms leave thousands in the dark ; power restoration may take several days",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/wyandotte-county-storms-leave-thousands-in-the-dark-power-restoration-could-take-several-days"
-    },
-    {
-      "type": "news",
-      "text": "Two Kansas City , Kansas , churches lean on faith after storm devastation",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/god-is-going-to-get-us-through-this-two-kck-churches-lean-on-faith-after-storm-devastation"
-    },
-    {
-      "type": "news",
-      "text": "New film to focus on retired campsite owner fascination with UFOs",
-      "source": "cravenherald.co.uk",
-      "url": "https://www.cravenherald.co.uk/news/26474849.new-film-focus-retired-campsite-owners-fascination-ufos/"
-    },
-    {
-      "type": "news",
-      "text": "KC metro cleans up after widespread overnight storm damage",
-      "source": "wibw.com",
-      "url": "https://www.wibw.com/2026/08/19/after-storm-metro-residents-face-school-cancellations-power-lines-mass-outages-downed-trees/"
-    },
-    {
-      "type": "news",
-      "text": "Changelog in Linux kernel 7 . 2",
-      "source": "opennet.ru",
-      "url": "https://www.opennet.ru/kernel/7.2.html"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico expands NIBIN machines to solve gun crimes in 4 cities",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/new-mexico-expands-nibin-machines-to-solve-gun-crimes-in-4-cities/"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico Crime Gun Intelligence Center links ballistics evidence to 527 criminal incidents statewide",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/news/nm-gun-intelligence-center-links-firearms-to-527-crimes-across-state/3105476"
+      "type": "swpc",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -129,12 +74,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5406\r Issue Time: 2026 Aug 19 1757 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO 357621 (2005 EG94) passing at 32.14 LD (~1019m, 10.9 km/s)",
       "source": "NASA NeoWs",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-19T23:26:59.447148Z",
-      "score": 24.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.4
-    },
     {
       "ts": "2026-07-20T01:03:13.641997Z",
       "score": 25.3,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.5
+    },
+    {
+      "ts": "2026-08-20T13:03:09.624333Z",
+      "score": 21.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.3
     }
   ],
   "sources": [
