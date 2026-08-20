@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-20T14:36:24.562244Z",
-  "score": 18.6,
+  "generated_at": "2026-08-20T15:16:20.528849Z",
+  "score": 49.2,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "keep an eye on the sky",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -0.4,
-    "d24h": -0.5,
+    "d1h": 28.7,
+    "d24h": 28.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,25 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "14:36",
+    "generated_utc": "15:16",
     "top_drivers": [
+      "UFO news effect ? More say they believe in aliens",
+      "News velocity +208% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.1,
+    "live_signal": 52.3,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 208.05855015649203,
     "x_last_hour": 0,
     "wiki_spike_pct": -13.371952466851397,
     "earthquakes_24h": 0,
@@ -55,6 +57,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "kpcnews.com",
+      "url": "https://www.kpcnews.com/news/national/article_4989e4be-8d08-5e24-8c9c-cd6d815cdd10.html"
+    },
+    {
+      "type": "news",
+      "text": "Il misterioso aereo della Cia racconta la nuova frontiera delle operazioni clandestine",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-20/il-misterioso-aereo-della-cia-racconta-la-nuova-frontiera-delle-operazioni-clandestine/19588015/"
+    },
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "averyjournal.com",
+      "url": "http://www.averyjournal.com/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_5167a8d4-73d0-5f2d-a44a-9dda05fc30af.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Cinema Solutions unveils premium LED cinema technology in Kochi",
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/ufo-cinema-solutions-unveils-premium-led-cinema-technology-in-kochi/article71368706.ece"
+    },
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "fox21online.com",
+      "url": "https://www.fox21online.com/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_e3771a85-ebd7-5988-86b6-f7c28b37036e.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "wyomingnewsnow.tv",
+      "url": "https://www.wyomingnewsnow.tv/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_d7d499c9-290a-509a-a254-9fcbbe211eb2.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO news effect ? More say they believe in aliens",
+      "source": "mtdemocrat.com",
+      "url": "https://www.mtdemocrat.com/news/national/ufo-news-effect-more-say-they-believe-in-aliens/article_9ca559d5-e728-57ce-9354-60aff6200bef.html"
+    },
+    {
+      "type": "news",
+      "text": "Houghton Festival 2026 review : This phone - free festival is an artistic , musical nirvana",
+      "source": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/houghton-festival-2026-review-phone-133228000.html"
+    },
+    {
+      "type": "news",
+      "text": "Wolf Alice : le groupe britannique en concert \u00e0 Rock en Seine",
+      "source": "numero.com",
+      "url": "https://numero.com/culture/musique/wolf-alice-the-clearing-interview/"
+    },
+    {
+      "type": "news",
+      "text": "UFO stories making more people believe in aliens",
+      "source": "belfastlive.co.uk",
+      "url": "https://www.belfastlive.co.uk/news/uk-world-news/ufo-stories-making-more-people-34489458"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
@@ -81,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-20T07:54:38.112683Z",
-      "score": 23.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.1
-    },
     {
       "ts": "2026-07-20T10:45:49.822306Z",
       "score": 21.7,
@@ -4784,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.1
+    },
+    {
+      "ts": "2026-08-20T15:16:20.452201Z",
+      "score": 49.2,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 52.3
     }
   ],
   "sources": [
