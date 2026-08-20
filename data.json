@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T07:27:40.005736Z",
-  "score": 17.0,
+  "generated_at": "2026-08-20T08:05:27.812959Z",
+  "score": 20.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.2,
-    "d24h": 1.9,
+    "d1h": 0.6,
+    "d24h": -0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 3.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 67,
     "date": "20.08.2026",
     "declassified": "20.08.26",
-    "generated_utc": "07:27",
+    "generated_utc": "08:05",
     "top_drivers": [
-      "Senoia Police Trail Leads to Fayetteville Man in Sexual Assault Case",
       "NOAA space-weather alerts active: 1",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -41,81 +40,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.0,
+    "live_signal": 15.0,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
     "gdelt_spike_pct": -74.0446557007943,
     "x_last_hour": 0,
-    "wiki_spike_pct": -13.371952466851397,
+    "wiki_spike_pct": -4.778779759332352,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Senoia Police Trail Leads to Fayetteville Man in Sexual Assault Case",
-      "source": "thecitizen.com",
-      "url": "https://thecitizen.com/2026/08/20/senoia-police-trail-leads-to-fayetteville-man-in-sexual-assault-case/"
-    },
-    {
-      "type": "news",
-      "text": "WyCo storms leave thousands in the dark ; power restoration may take several days",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/wyandotte-county-storms-leave-thousands-in-the-dark-power-restoration-could-take-several-days"
-    },
-    {
-      "type": "news",
-      "text": "Two Kansas City , Kansas , churches lean on faith after storm devastation",
-      "source": "kshb.com",
-      "url": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/god-is-going-to-get-us-through-this-two-kck-churches-lean-on-faith-after-storm-devastation"
-    },
-    {
-      "type": "news",
-      "text": "New film to focus on retired campsite owner fascination with UFOs",
-      "source": "cravenherald.co.uk",
-      "url": "https://www.cravenherald.co.uk/news/26474849.new-film-focus-retired-campsite-owners-fascination-ufos/"
-    },
-    {
-      "type": "news",
-      "text": "KC metro cleans up after widespread overnight storm damage",
-      "source": "wibw.com",
-      "url": "https://www.wibw.com/2026/08/19/after-storm-metro-residents-face-school-cancellations-power-lines-mass-outages-downed-trees/"
-    },
-    {
-      "type": "news",
-      "text": "Changelog in Linux kernel 7 . 2",
-      "source": "opennet.ru",
-      "url": "https://www.opennet.ru/kernel/7.2.html"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico expands NIBIN machines to solve gun crimes in 4 cities",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/new-mexico-expands-nibin-machines-to-solve-gun-crimes-in-4-cities/"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico Crime Gun Intelligence Center links ballistics evidence to 527 criminal incidents statewide",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/news/nm-gun-intelligence-center-links-firearms-to-527-crimes-across-state/3105476"
-    },
-    {
-      "type": "news",
-      "text": "Club shut down after fight inside leads to 2 being shot in parking lot",
-      "source": "wsbtv.com",
-      "url": "https://www.wsbtv.com/news/local/north-fulton-county/club-shut-down-after-fight-inside-leads-2-being-shot-parking-lot/OVPZ7HACXVHDTNI67VVMALEGE4/"
-    },
-    {
-      "type": "news",
-      "text": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/police-shut-down-nubia-cafe-after-weekend-shooting-sandy-springs"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5406\r Issue Time: 2026 Aug 19 1757 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-19T15:14:12.748549Z",
-      "score": 22.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.1
-    },
     {
       "ts": "2026-07-19T16:11:56.043621Z",
       "score": 21.7,
@@ -4833,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.0
+    },
+    {
+      "ts": "2026-08-20T08:05:27.754771Z",
+      "score": 20.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.0
     }
   ],
   "sources": [
