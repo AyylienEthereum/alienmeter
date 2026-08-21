@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T09:32:53.231147Z",
-  "score": 21.3,
+  "generated_at": "2026-08-21T10:05:37.143140Z",
+  "score": 24.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 1.2,
+    "d1h": 3.6,
+    "d24h": 6.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 2.9,
     "search_interest": 0.0,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 6.0,
     "seismic": 3.4,
-    "alien_variance": 0.4
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,97 @@
     "day": 68,
     "date": "21.08.2026",
     "declassified": "21.08.26",
-    "generated_utc": "09:32",
+    "generated_utc": "10:05",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
+      "Veteran Telemundo Local Market Leader Dies In Kenya Accident | Radio & Television Business Report",
+      "NOAA space-weather alerts active: 5",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.5,
+    "live_signal": 20.8,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "M",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": -74.42572741194488,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.857866312858558,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.7,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Veteran Telemundo Local Market Leader Dies In Kenya Accident | Radio & Television Business Report",
+      "source": "rbr.com",
+      "url": "https://rbr.com/veteran-telemundo-local-market-leader-dies-in-kenya-accident/"
+    },
+    {
+      "type": "news",
+      "text": "The unravelling : Jon Ronson and the crisis of modern masculinity",
+      "source": "watoday.com.au",
+      "url": "https://www.watoday.com.au/culture/books/jon-ronson-s-son-was-lured-to-a-creepy-castle-what-happened-next-inspired-his-book-about-men-in-crisis-20260814-p60oce.html"
+    },
+    {
+      "type": "news",
+      "text": "The unravelling : Jon Ronson and the crisis of modern masculinity",
+      "source": "theage.com.au",
+      "url": "https://www.theage.com.au/culture/books/jon-ronson-s-son-was-lured-to-a-creepy-castle-what-happened-next-inspired-his-book-about-men-in-crisis-20260814-p60oce.html"
+    },
+    {
+      "type": "news",
+      "text": "NASA odfotila na Marse \u010dosi , \u010do tam o p\u00e1r sek\u00fand sk\u00f4r nebolo . Internet rie\u0161i z\u00e1hadn\u00fa \u201e med\u00fazu  na tenk\u00fdch noh\u00e1ch",
+      "source": "ta3.com",
+      "url": "https://www.ta3.com/clanok/1066723/nasa-odfotila-na-marse-cosi-co-tam-o-par-sekund-skor-nebolo-internet-riesi-zahadnu-meduzu-na-tenkych-nohach"
+    },
+    {
+      "type": "news",
+      "text": "STRUGGLE IS REAL ! - Jamaica Observer",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/08/21/struggle-is-real/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=q9pld768e8221l1fl7ltp8ra56"
+    },
+    {
+      "type": "news",
+      "text": "\u9776\u573a\u783a\u950b\u8292 \u6267\u67aa\u5c55\u82f1\u59ff - \u7126\u4f5c\u7f51WWW . JZRB . COM",
+      "source": "jzrb.com",
+      "url": "http://www.jzrb.com/news/bendi/202608/960018.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Who Was Alberto Avila , El Paso Sandman Artist",
+      "source": "newstalk1290.com",
+      "url": "https://newstalk1290.com/ixp/63/p/alberto-avila-street-sand-art/"
+    },
+    {
+      "type": "news",
+      "text": "Tecnologie per lambiente | le domande",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-21/tecnologie-per-lambiente-le-domande/19589492/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=akkeopq2v3mn0osn831t8evjs6"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 926\r Issue Time: 2026 Aug 21 0945 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1523\r Issue Time: 2026 Aug 20 2049 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -64,12 +131,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 325\r Issue Time: 2026 Aug 20 1212 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1522\r Issue Time: 2026 Aug 20 1158 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-22T13:11:45.107444Z",
-      "score": 22.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.3
-    },
     {
       "ts": "2026-07-22T15:16:53.486968Z",
       "score": 22.3,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.5
+    },
+    {
+      "ts": "2026-08-21T10:05:37.069946Z",
+      "score": 24.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.8
     }
   ],
   "sources": [
