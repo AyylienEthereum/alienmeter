@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-21T13:31:31.614057Z",
-  "score": 20.4,
+  "generated_at": "2026-08-21T14:08:27.901959Z",
+  "score": 23.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.4,
-    "d24h": -0.6,
+    "d1h": -1.8,
+    "d24h": -0.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 3.4,
-    "alien_variance": 0.4
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 68,
     "date": "21.08.2026",
     "declassified": "21.08.26",
-    "generated_utc": "13:31",
+    "generated_utc": "14:08",
     "top_drivers": [
       "NOAA space-weather alerts active: 3",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.3,
-    "baseline_recent": 16.3,
+    "live_signal": 18.7,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.5386087278563,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.857866312858558,
     "earthquakes_24h": 1,
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-22T22:01:31.230650Z",
-      "score": 24.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.8
-    },
     {
       "ts": "2026-07-22T23:11:08.682405Z",
       "score": 22.6,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.3
+    },
+    {
+      "ts": "2026-08-21T14:08:27.842347Z",
+      "score": 23.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.7
     }
   ],
   "sources": [
