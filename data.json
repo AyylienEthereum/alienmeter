@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-21T15:26:28.134214Z",
-  "score": 50.9,
+  "generated_at": "2026-08-21T15:58:25.846185Z",
+  "score": 21.0,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "they might be cooking",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 30.7,
-    "d24h": 19.3,
+    "d1h": 0.6,
+    "d24h": -2.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 3.4,
-    "alien_variance": 3.5
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 68,
     "date": "21.08.2026",
     "declassified": "21.08.26",
-    "generated_utc": "15:26",
+    "generated_utc": "15:58",
     "top_drivers": [
-      "News velocity +182% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 3",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 54.4,
+    "live_signal": 16.1,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 181.5423008195206,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.857866312858558,
     "earthquakes_24h": 1,
@@ -88,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-23T03:44:41.798468Z",
-      "score": 23.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.8
-    },
     {
       "ts": "2026-07-23T06:19:44.277530Z",
       "score": 40.7,
@@ -4791,6 +4783,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 54.4
+    },
+    {
+      "ts": "2026-08-21T15:58:25.768604Z",
+      "score": 21.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.1
     }
   ],
   "sources": [
