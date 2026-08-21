@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-21T05:57:57.105569Z",
-  "score": 23.5,
+  "generated_at": "2026-08-21T06:42:42.668404Z",
+  "score": 22.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.4,
-    "d24h": 4.8,
+    "d1h": 1.1,
+    "d24h": 3.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.4,
-    "alien_variance": 3.2
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 68,
     "date": "21.08.2026",
     "declassified": "21.08.26",
-    "generated_utc": "05:57",
+    "generated_utc": "06:42",
     "top_drivers": [
+      "Who Was Alberto Avila , El Paso Sandman Artist",
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.3,
+    "live_signal": 18.2,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -3.907005773131541,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.857866312858558,
     "earthquakes_24h": 1,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Who Was Alberto Avila , El Paso Sandman Artist",
+      "source": "newstalk1290.com",
+      "url": "https://newstalk1290.com/ixp/63/p/alberto-avila-street-sand-art/"
+    },
+    {
+      "type": "news",
+      "text": "Tecnologie per lambiente | le domande",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-21/tecnologie-per-lambiente-le-domande/19589492/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=akkeopq2v3mn0osn831t8evjs6"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=l4m936krfaf4ltvn400t7gi256"
+    },
+    {
+      "type": "news",
+      "text": "\u0395\u03c5\u03c4\u03cd\u03c7\u03b7\u03c2 \u039c\u03c0\u03b9\u03c4\u03c3\u03ac\u03ba\u03b7\u03c2 , \u03bc\u03b9\u03b1 \u03b4\u03c5\u03c3\u03b1\u03bd\u03b1\u03c0\u03bb\u03ae\u03c1\u03c9\u03c4\u03b7 \u03b1\u03c0\u03ce\u03bb\u03b5\u03b9\u03b1",
+      "source": "topontiki.gr",
+      "url": "https://www.topontiki.gr/2026/08/21/eftichis-bitsakis-mia-disanapliroti-apolia/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fj487pd0a526b9em8fo9v9ieg4"
+    },
+    {
+      "type": "news",
+      "text": "Kids Talk About God : Why is it important to have eyewitnesses tell us about Jesus ? ",
+      "source": "keysnews.com",
+      "url": "https://www.keysnews.com/opinion/kids-talk-about-god-why-is-it-important-to-have-eyewitnesses-tell-us-about-jesus/article_e16c0285-5cc0-5b3e-ab8b-2e716e541eb1.html"
+    },
+    {
+      "type": "news",
+      "text": "Cosa fare a Milano oggi 21 agosto : The Zen Circus a Radio Onda dUrto e il Festival del Ben - essere",
+      "source": "milano.repubblica.it",
+      "url": "https://milano.repubblica.it/cronaca/2026/08/21/news/cosa_fare_a_milano_oggi_21_agosto-425537734/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=c49680bhdgqsiu9juruossbps2"
+    },
+    {
+      "type": "news",
+      "text": "\u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0625\u0628\u0631\u0629 \u062e\u064a\u0627\u0637\u0629 \u0645\u0646 \u0645\u0639\u062f\u0629 \u0645\u0631\u0627\u0647\u0642 | \u0645\u0646\u0648\u0639\u0627\u062a \u0645\u0646 \u0627\u0644\u0639\u0627\u0644\u0645 | \u0648\u0643\u0627\u0644\u0629 \u0623\u0646\u0628\u0627\u0621 \u0633\u0631\u0627\u064a\u0627 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+      "source": "sarayanews.com",
+      "url": "https://www.sarayanews.com/article/1102224/%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A5%D8%A8%D8%B1%D8%A9-%D8%AE%D9%8A%D8%A7%D8%B7%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%AF%D8%A9-%D9%85%D8%B1%D8%A7%D9%87%D9%82"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1523\r Issue Time: 2026 Aug 20 2049 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-22T01:06:47.996375Z",
-      "score": 23.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.1
-    },
     {
       "ts": "2026-07-22T04:33:16.912492Z",
       "score": 24.7,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.3
+    },
+    {
+      "ts": "2026-08-21T06:42:42.593181Z",
+      "score": 22.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.2
     }
   ],
   "sources": [
