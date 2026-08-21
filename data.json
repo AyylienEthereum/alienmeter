@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-21T07:29:15.824618Z",
-  "score": 21.1,
+  "generated_at": "2026-08-21T08:06:39.410370Z",
+  "score": 22.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.1,
-    "d24h": -13.2,
+    "d1h": -6.4,
+    "d24h": -13.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 3.4,
-    "alien_variance": 0.1
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 68,
     "date": "21.08.2026",
     "declassified": "21.08.26",
-    "generated_utc": "07:29",
+    "generated_utc": "08:06",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
@@ -40,16 +40,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.2,
+    "live_signal": 17.4,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 32.1362251171,
     "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": -0.5848862893942703,
+    "gdelt_spike_pct": -0.5136798584248178,
     "x_last_hour": 0,
-    "wiki_spike_pct": -13.338080551960388,
+    "wiki_spike_pct": -11.857866312858558,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.7,
     "swpc_alerts_24h": 4
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-22T07:21:24.054372Z",
-      "score": 25.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.5
-    },
     {
       "ts": "2026-07-22T09:56:30.823097Z",
       "score": 23.6,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.2
+    },
+    {
+      "ts": "2026-08-21T08:06:39.334112Z",
+      "score": 22.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.4
     }
   ],
   "sources": [
