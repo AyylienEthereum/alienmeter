@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T10:47:44.651702Z",
-  "score": 15.5,
+  "generated_at": "2026-08-22T11:15:26.319250Z",
+  "score": 17.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": -3.2,
+    "d1h": 0.0,
+    "d24h": -2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "10:47",
+    "generated_utc": "11:15",
     "top_drivers": [
+      "\u58f0\u4f20\u5c71\u6d77 \uff01 2026\u8d8a\u6765\u7f8e\u95fd\u5357\u8bed\u539f\u521b\u97f3\u4e50\u4f1a\u5531\u54cd\u60e0\u5dde",
       "NOAA space-weather alerts active: 2",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.1,
+    "live_signal": 11.0,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 39.7436205656,
     "asteroid_name": "(2004 TF10)",
-    "gdelt_spike_pct": -74.65165225139417,
+    "gdelt_spike_pct": -74.648714658917,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u58f0\u4f20\u5c71\u6d77 \uff01 2026\u8d8a\u6765\u7f8e\u95fd\u5357\u8bed\u539f\u521b\u97f3\u4e50\u4f1a\u5531\u54cd\u60e0\u5dde",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L4V37JRB05129QAF.html"
+    },
+    {
+      "type": "news",
+      "text": "15 Places Around the World That Are Off - Limits to Tourists",
+      "source": "purdueexponent.org",
+      "url": "https://www.purdueexponent.org/news/national/15-places-around-the-world-that-are-off-limits-to-tourists/article_49aaaa94-8f77-52d0-a84e-9beb9fc7abf8.html"
+    },
+    {
+      "type": "news",
+      "text": "X - Files : \u03a4\u03bf I Want to Believe \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9 R - rated",
+      "source": "pelop.gr",
+      "url": "https://pelop.gr/x-files-i-want-to-believe-r-rated-directors-cut/"
+    },
+    {
+      "type": "news",
+      "text": "UFOst UAPni : kuidas tundmatust sai julgeolekuk\u00fcsimus",
+      "source": "kultuur.postimees.ee",
+      "url": "https://kultuur.postimees.ee/8531714/ufost-uapni-kuidas-tundmatust-sai-julgeolekukusimus"
+    },
+    {
+      "type": "news",
+      "text": "15 Places Around the World That Are Off - Limits to Tourists",
+      "source": "suncommercial.com",
+      "url": "https://www.suncommercial.com/banner_graphic/news/national/article_13dab32d-c9a3-53ff-824c-e3e00f3b0061.html"
+    },
+    {
+      "type": "news",
+      "text": "New Mexico faces scattered thunderstorms and record heat this weekend",
+      "source": "kob.com",
+      "url": "https://www.kob.com/new-mexico/new-mexico-faces-scattered-thunderstorms-and-record-heat-this-weekend/"
+    },
+    {
+      "type": "news",
+      "text": "El fin de la infancia genera monstruos : el adolescente en la literatura",
+      "source": "elpais.com",
+      "url": "https://elpais.com/babelia/2026-08-22/el-fin-de-la-infancia-genera-monstruos-el-adolescente-en-la-literatura.html"
+    },
+    {
+      "type": "news",
+      "text": "Opinion : How New Mexico can fix charter school funding inequity",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/opinion/opinion-how-new-mexico-can-fix-charter-school-funding/3104803"
+    },
+    {
+      "type": "news",
+      "text": "15 Places Around the World That Are Off - Limits to Tourists",
+      "source": "the-messenger.com",
+      "url": "https://www.the-messenger.com/news/national/article_bd5f00d8-52f5-5267-a1f4-b7b3e5866fb1.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3o405f8jqo5m9gu89kn4mugrl2"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -75,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-25T14:19:24.700896Z",
-      "score": 20.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.9
-    },
     {
       "ts": "2026-07-25T15:37:44.472014Z",
       "score": 19.9,
@@ -4778,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.1
+    },
+    {
+      "ts": "2026-08-22T11:15:26.240682Z",
+      "score": 17.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.0
     }
   ],
   "sources": [
