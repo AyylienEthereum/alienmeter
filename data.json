@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T11:57:12.583498Z",
-  "score": 13.5,
+  "generated_at": "2026-08-22T12:32:27.164643Z",
+  "score": 14.4,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -4.8,
-    "d24h": -5.2,
+    "d1h": -1.1,
+    "d24h": -5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "11:57",
+    "generated_utc": "12:32",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "UFOd on v\u00f5tnud t\u00e4iesti uue kuju : lendavatest objektidest on saanud julgeolekuk\u00fcsimus",
       "NOAA space-weather alerts active: 1",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.6,
+    "live_signal": 7.7,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
@@ -56,6 +56,12 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "UFOd on v\u00f5tnud t\u00e4iesti uue kuju : lendavatest objektidest on saanud julgeolekuk\u00fcsimus",
+      "source": "kultuur.postimees.ee",
+      "url": "https://kultuur.postimees.ee/8531714/ufod-on-votnud-taiesti-uue-kuju-lendavatest-objektidest-on-saanud-julgeolekukusimus"
+    },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
@@ -111,12 +117,6 @@
       "url": "https://www.abqjournal.com/opinion/opinion-how-new-mexico-can-fix-charter-school-funding/3104803"
     },
     {
-      "type": "news",
-      "text": "15 Places Around the World That Are Off - Limits to Tourists",
-      "source": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/national/article_bd5f00d8-52f5-5267-a1f4-b7b3e5866fb1.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -130,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-25T17:41:18.985003Z",
-      "score": 22.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.5
-    },
     {
       "ts": "2026-07-25T18:39:15.107823Z",
       "score": 18.3,
@@ -4833,6 +4826,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.6
+    },
+    {
+      "ts": "2026-08-22T12:32:27.109504Z",
+      "score": 14.4,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.7
     }
   ],
   "sources": [
