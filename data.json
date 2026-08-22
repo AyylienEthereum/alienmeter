@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T16:49:09.243362Z",
-  "score": 13.5,
+  "generated_at": "2026-08-22T17:15:27.625997Z",
+  "score": 16.0,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": 0.6,
-    "d24h": -3.5,
+    "d1h": -0.7,
+    "d24h": -4.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 1.6,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 1.3
+    "seismic": 1.9,
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,37 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "16:49",
+    "generated_utc": "17:15",
     "top_drivers": [
-      "Robert Patrick Stars In This  90s Sci - Fi Film Based On A Real - Life Alien Abduction Claim",
+      "Analyzing Synlogic ( NASDAQ : SYBX ) & Generate Biomedicines ( NASDAQ : GENB ) ",
       "NOAA space-weather alerts active: 1",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.6,
+    "live_signal": 9.9,
     "baseline_recent": 16.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 39.7436205656,
     "asteroid_name": "(2004 TF10)",
-    "gdelt_spike_pct": -20.563299971489876,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.17317045583079,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 3.9,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Analyzing Synlogic ( NASDAQ : SYBX ) & Generate Biomedicines ( NASDAQ : GENB ) ",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13554593/analyzing-synlogic-nasdaqsybx-generate-biomedicines-nasdaqgenb.html"
+    },
     {
       "type": "news",
       "text": "Robert Patrick Stars In This  90s Sci - Fi Film Based On A Real - Life Alien Abduction Claim",
@@ -111,16 +117,16 @@
       "url": "https://www.zazoom.it/2026-08-22/il-trenino-dei-satelliti-starlink-nel-cielo-notturno-della-toscana/19594461/"
     },
     {
-      "type": "news",
-      "text": "Wife of Apollo astronaut reveals never - before - told details of husband secret moon experiment ... and the eerie results on Earth",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-16050533/edgar-mitchell-moon-esp-experiment.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 1 km WSW of Hope, Alaska",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -130,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-26T11:08:10.681162Z",
-      "score": 18.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.2
-    },
     {
       "ts": "2026-07-26T12:16:02.370345Z",
       "score": 24.7,
@@ -4833,6 +4832,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.6
+    },
+    {
+      "ts": "2026-08-22T17:15:27.559445Z",
+      "score": 16.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.9
     }
   ],
   "sources": [
