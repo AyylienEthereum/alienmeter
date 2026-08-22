@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T09:21:09.149516Z",
-  "score": 17.0,
+  "generated_at": "2026-08-22T09:49:57.938637Z",
+  "score": 16.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.6,
-    "d24h": -6.3,
+    "d1h": -0.1,
+    "d24h": -5.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 5.0,
     "asteroid_approach": 1.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "09:21",
+    "generated_utc": "09:49",
     "top_drivers": [
-      "15 Places Around the World That Are Off - Limits to Tourists",
-      "NOAA space-weather alerts active: 3",
+      "UFOst UAPni : kuidas tundmatust sai julgeolekuk\u00fcsimus",
+      "NOAA space-weather alerts active: 2",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.0,
+    "live_signal": 10.3,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -53,9 +53,15 @@
     "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "UFOst UAPni : kuidas tundmatust sai julgeolekuk\u00fcsimus",
+      "source": "kultuur.postimees.ee",
+      "url": "https://kultuur.postimees.ee/8531714/ufost-uapni-kuidas-tundmatust-sai-julgeolekukusimus"
+    },
     {
       "type": "news",
       "text": "15 Places Around the World That Are Off - Limits to Tourists",
@@ -111,12 +117,6 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2vjcllk8l2uadq174g8o2duqj4"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2u3dt4tmcauc335d5q7825p8k0"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -129,12 +129,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 926\r Issue Time: 2026 Aug 21 0945 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2004 TF10) passing at 39.74 LD (~384m, 10.0 km/s)",
       "source": "NASA NeoWs",
@@ -142,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-25T10:06:31.595451Z",
-      "score": 20.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.9
-    },
     {
       "ts": "2026-07-25T11:32:47.822074Z",
       "score": 20.7,
@@ -4845,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.0
+    },
+    {
+      "ts": "2026-08-22T09:49:57.857976Z",
+      "score": 16.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.3
     }
   ],
   "sources": [
