@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-22T15:58:23.483686Z",
-  "score": 14.0,
+  "generated_at": "2026-08-22T16:25:08.549233Z",
+  "score": 14.8,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "boringly terrestrial",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": -3.1,
+    "d1h": -0.6,
+    "d24h": -3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.9,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.0
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "15:58",
+    "generated_utc": "16:25",
     "top_drivers": [
-      "Latest Articles",
       "NOAA space-weather alerts active: 1",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.2,
+    "live_signal": 8.3,
     "baseline_recent": 16.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 39.7436205656,
     "asteroid_name": "(2004 TF10)",
-    "gdelt_spike_pct": 7.740143693775289,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Latest Articles",
-      "source": "freerepublic.com",
-      "url": "https://freerepublic.com/tag/*/index?more=4392727"
-    },
-    {
-      "type": "news",
-      "text": "  We Want to Believe  book explores the reality of UFOs :  It always going to be more likely that someone is wrong about what they saw  ( interview ) ",
-      "source": "space.com",
-      "url": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview"
-    },
-    {
-      "type": "news",
-      "text": "Ask Us : Readers take turn at IDing mystery object",
-      "source": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/local_news/ask-us-readers-take-turn-at-iding-mystery-object/article_3265d1fd-8e9e-4d60-850f-172464b41f1f.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i9580avh2vtrfo1u45i818qnr6"
-    },
-    {
-      "type": "news",
-      "text": "NASA Scientist Reportedly Used Telepathy to Stop UFO Looking Like  Giant Nuclear Weapon  After Military Bailed",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/nasa-physicist-telepathy-mysterious-lights-1815646"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u0432\u044b\u043b\u043e\u0436\u0438\u043b \u043d\u043e\u0432\u044b\u0435 \u0432\u0438\u0434\u0435\u043e \u041d\u041b\u041e , \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0441\u043d\u044f\u043b\u0438 \u00ab \u0445\u043e\u043b\u043e\u0434\u043d\u044b\u0435 \u0441\u0444\u0435\u0440\u044b \u00bb ",
-      "source": "pronedra.ru",
-      "url": "https://pronedra.ru/holodnye-sfery-popali-na-sensor-ac-130j-pentagon-raskryl-zapisi-829453.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=uae60icd5a5mi6ipfi4b1e2664"
-    },
-    {
-      "type": "news",
-      "text": "Il trenino dei satelliti Starlink nel cielo notturno della Toscana",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-22/il-trenino-dei-satelliti-starlink-nel-cielo-notturno-della-toscana/19594461/"
-    },
-    {
-      "type": "news",
-      "text": "Wife of Apollo astronaut reveals never - before - told details of husband secret moon experiment ... and the eerie results on Earth",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-16050533/edgar-mitchell-moon-esp-experiment.html"
-    },
-    {
-      "type": "news",
-      "text": "Hotels have gone bonkers ! You can bed down in a potato - shaped Airbnb in Idaho or a UFO in Wales - but what wrong with a simple B & B ? ",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/travel/article-16070509/Hotels-unusual-host-travel-quirky.html"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-26T07:21:06.942504Z",
-      "score": 46.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 44.3
-    },
     {
       "ts": "2026-07-26T09:32:38.768191Z",
       "score": 20.5,
@@ -4833,6 +4765,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.2
+    },
+    {
+      "ts": "2026-08-22T16:25:08.470959Z",
+      "score": 14.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.3
     }
   ],
   "sources": [
