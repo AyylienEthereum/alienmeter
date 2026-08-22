@@ -1,122 +1,61 @@
 {
-  "generated_at": "2026-08-21T23:46:57.159916Z",
-  "score": 21.3,
+  "generated_at": "2026-08-22T00:53:08.602539Z",
+  "score": 44.6,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 4.7,
-    "d24h": -1.2,
+    "d1h": 27.1,
+    "d24h": 20.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 4.5,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
-    "asteroid_approach": 2.9,
+    "solar_flares": 2.5,
+    "asteroid_approach": 1.6,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 68,
-    "day": 68,
-    "date": "21.08.2026",
-    "declassified": "21.08.26",
-    "generated_utc": "23:46",
+    "number": 69,
+    "day": 69,
+    "date": "22.08.2026",
+    "declassified": "22.08.26",
+    "generated_utc": "00:53",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "News velocity +19% vs 7-day baseline (GDELT)",
+      "News velocity +162% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 2",
-      "NEO 357621 (2005 EG94) passing Earth at 32.1 lunar distances"
+      "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.5,
+    "live_signal": 46.4,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 32.1362251171,
-    "asteroid_name": "357621 (2005 EG94)",
-    "gdelt_spike_pct": 18.701314508276532,
+    "xray_class": "B",
+    "closest_asteroid_ld": 39.7436205656,
+    "asteroid_name": "(2004 TF10)",
+    "gdelt_spike_pct": 162.48234410217879,
     "x_last_hour": 0,
-    "wiki_spike_pct": -11.857866312858558,
+    "wiki_spike_pct": -11.420384176400594,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=u2kfbqid2dqm7c1j9h6b579122"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h21sbmfi8ohht9susc0uu99361"
-    },
-    {
-      "type": "news",
-      "text": "Topo Specter 3 Review - I Tested the $170 Running Sneaker",
-      "source": "menshealth.com",
-      "url": "https://www.menshealth.com/fitness/a73423840/topo-specter-3-review/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=cir1ghsbjoe9mrchrmn9kht581"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jepimje0s3g8s5tm175o28nlp4"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=723kgcebpun0fsecc2o1m72io6"
-    },
-    {
-      "type": "news",
-      "text": "Seven Peachtree City Sexual Battery Charges Preceded Senoia Arrest",
-      "source": "thecitizen.com",
-      "url": "https://thecitizen.com/2026/08/21/seven-peachtree-city-sexual-battery-charges-preceded-senoia-arrest/"
-    },
-    {
-      "type": "news",
-      "text": "Gen Z Is Becoming More Convinced Aliens Are Real , According to a New Survey",
-      "source": "vice.com",
-      "url": "https://www.vice.com/en/article/gen-z-is-becoming-more-convinced-aliens-are-real-according-to-a-new-survey/"
-    },
-    {
-      "type": "news",
-      "text": "Autobot Cosmos Joins Transformers Takara Tomy New Legends Line",
-      "source": "bleedingcool.com",
-      "url": "https://bleedingcool.com/collectibles/autobot-cosmos-joins-transformers-takara-tomy-new-legends-line/"
-    },
-    {
-      "type": "news",
-      "text": "WATCH : Idaho Couple Records  300 To 400 FT  UFO Above Tree Line",
-      "source": "983thesnake.com",
-      "url": "https://983thesnake.com/ixp/94/p/ufo-reports-idaho-2026/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3724\r Issue Time: 2026 Aug 21 1118 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
@@ -131,19 +70,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO 357621 (2005 EG94) passing at 32.14 LD (~1019m, 10.9 km/s)",
+      "text": "NEO (2004 TF10) passing at 39.74 LD (~384m, 10.0 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-24T09:42:52.721402Z",
-      "score": 27.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.6
-    },
     {
       "ts": "2026-07-24T11:25:34.601067Z",
       "score": 26.3,
@@ -4840,6 +4772,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.5
+    },
+    {
+      "ts": "2026-08-22T00:53:08.524754Z",
+      "score": 44.6,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 46.4
     }
   ],
   "sources": [
