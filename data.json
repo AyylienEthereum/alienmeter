@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T03:07:45.531814Z",
-  "score": 15.5,
+  "generated_at": "2026-08-22T03:55:11.589250Z",
+  "score": 15.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.6,
-    "d24h": -5.6,
+    "d1h": -5.5,
+    "d24h": -4.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "03:07",
+    "generated_utc": "03:55",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 2",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.1,
+    "live_signal": 9.5,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -49,12 +50,72 @@
     "asteroid_name": "(2004 TF10)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -11.420384176400594,
+    "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3o405f8jqo5m9gu89kn4mugrl2"
+    },
+    {
+      "type": "news",
+      "text": "15 Places Around the World That Are Off - Limits to Tourists",
+      "source": "advocateanddemocrat.com",
+      "url": "http://www.advocateanddemocrat.com/news/national/article_28e609b9-6f6d-514b-82fe-3ba570268cca.html"
+    },
+    {
+      "type": "news",
+      "text": "15 Places Around the World That Are Off - Limits to Tourists",
+      "source": "mykxlg.com",
+      "url": "https://www.mykxlg.com/news/national/15-places-around-the-world-that-are-off-limits-to-tourists/article_949eb6a7-7e9b-51e4-ac5f-49a1d9ed019f.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2vjcllk8l2uadq174g8o2duqj4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2u3dt4tmcauc335d5q7825p8k0"
+    },
+    {
+      "type": "news",
+      "text": "Woman stalked , attacked in town considered among the safest to live . How police tracked down suspect",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/woman-stalked-attacked-town-considered-among-safest-live-how-police-tracked-down-suspect/XMQPNMWYP5HUTNZ3JIC6SD5NGM/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8ds3t4tefmpnh87ldbdfc6j956"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=u2kfbqid2dqm7c1j9h6b579122"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=h21sbmfi8ohht9susc0uu99361"
+    },
+    {
+      "type": "news",
+      "text": "Topo Specter 3 Review - I Tested the $170 Running Sneaker",
+      "source": "menshealth.com",
+      "url": "https://www.menshealth.com/fitness/a73423840/topo-specter-3-review/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3724\r Issue Time: 2026 Aug 21 1118 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
@@ -75,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-24T14:49:33.656336Z",
-      "score": 24.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.6
-    },
     {
       "ts": "2026-07-24T16:35:36.696738Z",
       "score": 22.0,
@@ -4778,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.1
+    },
+    {
+      "ts": "2026-08-22T03:55:11.529902Z",
+      "score": 15.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.5
     }
   ],
   "sources": [
