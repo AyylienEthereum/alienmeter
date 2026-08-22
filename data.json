@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T18:58:18.463738Z",
-  "score": 16.0,
+  "generated_at": "2026-08-22T19:22:08.208082Z",
+  "score": 15.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": 0.1,
+    "d1h": 0.6,
+    "d24h": -2.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 1.9,
-    "alien_variance": 2.7
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "18:58",
+    "generated_utc": "19:22",
     "top_drivers": [
       "Se cre\u00eda in\u00fatil en adultos , pero la ciencia descubri\u00f3 que la salud del timo frena el envejecimiento",
       "NOAA space-weather alerts active: 1",
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.9,
+    "live_signal": 9.2,
     "baseline_recent": 16.0,
     "score_gain": 1.3,
     "kp": null,
@@ -136,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-26T17:32:55.627280Z",
-      "score": 22.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.3
-    },
     {
       "ts": "2026-07-26T18:41:39.144736Z",
       "score": 26.3,
@@ -4839,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.9
+    },
+    {
+      "ts": "2026-08-22T19:22:08.148796Z",
+      "score": 15.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.2
     }
   ],
   "sources": [
