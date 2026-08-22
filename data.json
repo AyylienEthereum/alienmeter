@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T12:32:27.164643Z",
-  "score": 14.4,
+  "generated_at": "2026-08-22T13:18:22.705354Z",
+  "score": 14.0,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -1.1,
-    "d24h": -5.0,
+    "d1h": -3.0,
+    "d24h": -4.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "12:32",
+    "generated_utc": "13:18",
     "top_drivers": [
-      "UFOd on v\u00f5tnud t\u00e4iesti uue kuju : lendavatest objektidest on saanud julgeolekuk\u00fcsimus",
       "NOAA space-weather alerts active: 1",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.7,
+    "live_signal": 7.2,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 39.7436205656,
     "asteroid_name": "(2004 TF10)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -39.85873470133349,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "UFOd on v\u00f5tnud t\u00e4iesti uue kuju : lendavatest objektidest on saanud julgeolekuk\u00fcsimus",
-      "source": "kultuur.postimees.ee",
-      "url": "https://kultuur.postimees.ee/8531714/ufod-on-votnud-taiesti-uue-kuju-lendavatest-objektidest-on-saanud-julgeolekukusimus"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n5kajot478vq9n1m1kaujggil2"
-    },
-    {
-      "type": "news",
-      "text": "\u58f0\u4f20\u5c71\u6d77 \uff01 2026\u8d8a\u6765\u7f8e\u95fd\u5357\u8bed\u539f\u521b\u97f3\u4e50\u4f1a\u5531\u54cd\u60e0\u5dde",
-      "source": "163.com",
-      "url": "https://www.163.com/dy/article/L4V37JRB05129QAF.html"
-    },
-    {
-      "type": "news",
-      "text": "15 Places Around the World That Are Off - Limits to Tourists",
-      "source": "purdueexponent.org",
-      "url": "https://www.purdueexponent.org/news/national/15-places-around-the-world-that-are-off-limits-to-tourists/article_49aaaa94-8f77-52d0-a84e-9beb9fc7abf8.html"
-    },
-    {
-      "type": "news",
-      "text": "X - Files : \u03a4\u03bf I Want to Believe \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9 R - rated",
-      "source": "pelop.gr",
-      "url": "https://pelop.gr/x-files-i-want-to-believe-r-rated-directors-cut/"
-    },
-    {
-      "type": "news",
-      "text": "UFOst UAPni : kuidas tundmatust sai julgeolekuk\u00fcsimus",
-      "source": "kultuur.postimees.ee",
-      "url": "https://kultuur.postimees.ee/8531714/ufost-uapni-kuidas-tundmatust-sai-julgeolekukusimus"
-    },
-    {
-      "type": "news",
-      "text": "15 Places Around the World That Are Off - Limits to Tourists",
-      "source": "suncommercial.com",
-      "url": "https://www.suncommercial.com/banner_graphic/news/national/article_13dab32d-c9a3-53ff-824c-e3e00f3b0061.html"
-    },
-    {
-      "type": "news",
-      "text": "New Mexico faces scattered thunderstorms and record heat this weekend",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/new-mexico-faces-scattered-thunderstorms-and-record-heat-this-weekend/"
-    },
-    {
-      "type": "news",
-      "text": "El fin de la infancia genera monstruos : el adolescente en la literatura",
-      "source": "elpais.com",
-      "url": "https://elpais.com/babelia/2026-08-22/el-fin-de-la-infancia-genera-monstruos-el-adolescente-en-la-literatura.html"
-    },
-    {
-      "type": "news",
-      "text": "Opinion : How New Mexico can fix charter school funding inequity",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/opinion/opinion-how-new-mexico-can-fix-charter-school-funding/3104803"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-25T18:39:15.107823Z",
-      "score": 18.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.2
-    },
     {
       "ts": "2026-07-25T19:55:07.111740Z",
       "score": 18.2,
@@ -4833,6 +4765,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.7
+    },
+    {
+      "ts": "2026-08-22T13:18:22.627153Z",
+      "score": 14.0,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.2
     }
   ],
   "sources": [
