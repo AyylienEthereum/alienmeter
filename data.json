@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:51:01.682050Z",
+  "generated_at": "2026-08-22T14:15:21.948349Z",
   "score": 15.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": -1.4,
+    "d1h": 1.8,
+    "d24h": -6.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 69,
     "date": "22.08.2026",
     "declassified": "22.08.26",
-    "generated_utc": "13:51",
+    "generated_utc": "14:15",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO (2004 TF10) passing Earth at 39.7 lunar distances"
@@ -47,7 +47,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 39.7436205656,
     "asteroid_name": "(2004 TF10)",
-    "gdelt_spike_pct": -39.85873470133349,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.17317045583079,
     "earthquakes_24h": 0,
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-25T20:43:10.112778Z",
-      "score": 27.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 20.5
-    },
     {
       "ts": "2026-07-25T21:37:17.485225Z",
       "score": 19.9,
@@ -4768,6 +4761,13 @@
     },
     {
       "ts": "2026-08-22T13:51:01.603567Z",
+      "score": 15.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 8.9
+    },
+    {
+      "ts": "2026-08-22T14:15:21.870314Z",
       "score": 15.3,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
