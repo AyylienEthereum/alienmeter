@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-23T06:02:13.510339Z",
-  "score": 13.9,
+  "generated_at": "2026-08-23T06:59:37.317593Z",
+  "score": 14.8,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.9,
-    "d24h": -5.9,
+    "d1h": -15.5,
+    "d24h": -8.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 1.9,
-    "alien_variance": 2.9
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,29 +31,90 @@
     "day": 70,
     "date": "23.08.2026",
     "declassified": "23.08.26",
-    "generated_utc": "06:02",
+    "generated_utc": "06:59",
     "top_drivers": [
+      "13 vinyles parfaits \u00e0 faire tourner sur sa platine pour finir l  \u00e9t\u00e9",
       "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.3,
+    "live_signal": 8.4,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 49.8998087437,
     "asteroid_name": "(2019 QC4)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -9.732367206217498,
     "x_last_hour": 0,
-    "wiki_spike_pct": -8.391030684500407,
+    "wiki_spike_pct": -10.207642146207519,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.9,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "13 vinyles parfaits \u00e0 faire tourner sur sa platine pour finir l  \u00e9t\u00e9",
+      "source": "nouvelobs.com",
+      "url": "https://www.nouvelobs.com/culture/20260823.OBS117589/13-vinyles-parfaits-a-faire-tourner-sur-sa-platine-pour-finir-l-ete.html"
+    },
+    {
+      "type": "news",
+      "text": "Rally Festival 2026 - Ticket Prices & Festival Line Up",
+      "source": "stereoboard.com",
+      "url": "https://www.stereoboard.com/rally-festival-tickets"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=91uanr8j4klk24uv2jplb5s443"
+    },
+    {
+      "type": "news",
+      "text": "Today Happenings ; August 23 , 2026 | South Peace News",
+      "source": "southpeacenews.com",
+      "url": "https://www.southpeacenews.com/todays-happenings-august-23-2026/"
+    },
+    {
+      "type": "news",
+      "text": "La fotograf\u00eda de un OVNI m\u00e1s espectacular jam\u00e1s obtenida : estuvo oculta durante 32 a\u00f1os",
+      "source": "contextotucuman.com",
+      "url": "https://www.contextotucuman.com/nota/409865/la-fotografia-de-un-ovni-mas-espectacular-jamas-obtenida-estuvo-oculta-durante-32-anos.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0426\u0435\u043f\u043e\u0447\u043a\u0443 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043e\u0433\u043d\u0435\u0439 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u043c",
+      "source": "lenta.ru",
+      "url": "https://lenta.ru/news/2026/08/23/tsepochku-neizvestnyh-ogney-zametili-v-nebe-nad-moskovskim-regionom/"
+    },
+    {
+      "type": "news",
+      "text": "Th\u00e9atre .. Am Stram Gram\u00a0 : une saison pour raconter le monde ensemble",
+      "source": "ledauphine.com",
+      "url": "https://www.ledauphine.com/paroles-de-partenaires/2026/08/23/am-stram-gram-une-saison-pour-raconter-le-monde-ensemble"
+    },
+    {
+      "type": "news",
+      "text": "Se cre\u00eda in\u00fatil en adultos , pero la ciencia descubri\u00f3 que la salud del timo frena el envejecimiento",
+      "source": "elpais.com.uy",
+      "url": "https://www.elpais.com.uy/bienestar/vida-sana/se-creia-inutil-en-adultos-pero-la-ciencia-descubrio-que-la-salud-del-timo-frena-el-envejecimiento"
+    },
+    {
+      "type": "news",
+      "text": "Traffic stop turns into chase in Sandy Springs",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/fulton-county/traffic-stop-turns-into-chase-sandy-springs/TJSZBT2RYZDX5KHWBGBJPX6KK4/"
+    },
+    {
+      "type": "news",
+      "text": "Agassi :  Djokovic , Federer y Nadal jugaron de manera diferente al tenis y fueron geniales . Ahora , Carlos Alcaraz juega como Djokovic , Federer y Nadal cuando quiere  ",
+      "source": "larazon.es",
+      "url": "https://www.larazon.es/deportes/tenis/agassi-djokovic-federer-nadal-jugaron-manera-diferente-tenis-fueron-geniales-ahora-carlos-alcaraz-juega-como-djokovic-federer-nadal-cuando-quiere_202608226a89cd49a046ad6ebcc11aaf.html"
+    },
     {
       "type": "seismic",
       "text": "Significant seismic event: 1 km WSW of Hope, Alaska",
@@ -68,13 +129,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-28T08:06:02.513176Z",
-      "score": 18.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.3
-    },
     {
       "ts": "2026-07-28T10:44:49.944529Z",
       "score": 20.1,
@@ -4771,6 +4825,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.3
+    },
+    {
+      "ts": "2026-08-23T06:59:37.239580Z",
+      "score": 14.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.4
     }
   ],
   "sources": [
