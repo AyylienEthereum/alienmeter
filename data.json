@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T20:46:57.206563Z",
-  "score": 19.3,
+  "generated_at": "2026-08-23T21:15:42.993089Z",
+  "score": 16.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 6.1,
-    "d24h": -12.7,
+    "d1h": 0.8,
+    "d24h": -1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 5.5,
+    "news_velocity": 3.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.7
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 70,
     "date": "23.08.2026",
     "declassified": "23.08.26",
-    "generated_utc": "20:46",
+    "generated_utc": "21:15",
     "top_drivers": [
-      "It that batty time of year here in Florida",
-      "News velocity +23% vs 7-day baseline (GDELT)",
+      "News velocity +15% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
     ],
@@ -42,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.4,
+    "live_signal": 10.5,
     "baseline_recent": 15.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 49.8998087437,
     "asteroid_name": "(2019 QC4)",
-    "gdelt_spike_pct": 22.74311342767963,
+    "gdelt_spike_pct": 14.545399276529775,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.207642146207519,
     "earthquakes_24h": 0,
@@ -57,66 +56,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "It that batty time of year here in Florida",
-      "source": "floridaweekly.com",
-      "url": "https://www.floridaweekly.com/articles/fort-myers-ae/its-that-batty-time-of-year-here-in-florida/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ns5bmd313m4p2ai22hc3gkvji6"
-    },
-    {
-      "type": "news",
-      "text": "Missing 76 - year - old man with dementia found safe , Cobb County police say",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/08/23/76-year-old-man-with-dementia-reported-missing-cobb-county/"
-    },
-    {
-      "type": "news",
-      "text": "Santa Fe Chuck Jones Gallery celebrates  Coyote vs . Acme  with Wile E . Coyote art",
-      "source": "abqjournal.com",
-      "url": "https://www.abqjournal.com/lifestyles/anvils-and-art/3106032"
-    },
-    {
-      "type": "news",
-      "text": " \u00ab Est - ce que le port de Saint - Rapha\u00ebl est en bord de mer ? \u00bb : les questions des vacanciers qui ont laiss\u00e9 les pros du tourisme sans voix",
-      "source": "nicematin.com",
-      "url": "https://www.nicematin.com/societe/insolite/est-ce-que-le-port-de-saint-raphael-est-en-bord-de-mer-les-questions-des-vacanciers-qui-ont-laisse-les-pros-du-tourisme-sans-voix-10709874"
-    },
-    {
-      "type": "news",
-      "text": "I was a church leader . There are secret Bible clues about alien life",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15978917/paul-wallis-bible-alien-life-clues.html"
-    },
-    {
-      "type": "news",
-      "text": "Dia D mobiliza postos de sa\u00fade com vacinao e mutir\u00e3o bucal",
-      "source": "opovo.com.br",
-      "url": "https://www.opovo.com.br/noticias/fortaleza/2026/08/22/dia-d-mobiliza-postos-de-saude-com-vacinacao-e-mutirao-bucal.html"
-    },
-    {
-      "type": "news",
-      "text": "SkyLens by YantraAI Live Satellite Tracker + Declassified UAP Files",
-      "source": "skylens.yantraai.app",
-      "url": "https://skylens.yantraai.app/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=f3hv218vn6ckpefhoo7f47pco0"
-    },
-    {
-      "type": "news",
-      "text": "GoblinCon takes over the Bruce , continues on Sunday",
-      "source": "whopam.com",
-      "url": "https://whopam.com/2026/08/23/goblincon-takes-over-the-bruce-continues-on-sunday/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3726\r Issue Time: 2026 Aug 23 0921 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -131,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-30T18:16:02.659096Z",
-      "score": 21.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.9
-    },
     {
       "ts": "2026-07-30T19:54:11.399149Z",
       "score": 49.9,
@@ -4834,6 +4766,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.4
+    },
+    {
+      "ts": "2026-08-23T21:15:42.921485Z",
+      "score": 16.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.5
     }
   ],
   "sources": [
