@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-23T17:57:22.905095Z",
-  "score": 36.7,
+  "generated_at": "2026-08-23T18:24:36.379842Z",
+  "score": 36.9,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "huh",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 21.6,
-    "d24h": 15.7,
+    "d1h": 23.3,
+    "d24h": 16.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 30.0,
+    "news_velocity": 30.2,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 70,
     "date": "23.08.2026",
     "declassified": "23.08.26",
-    "generated_utc": "17:57",
+    "generated_utc": "18:24",
     "top_drivers": [
-      "News velocity +125% vs 7-day baseline (GDELT)",
+      "News velocity +126% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
     ],
@@ -41,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 36.6,
+    "live_signal": 36.9,
     "baseline_recent": 15.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 49.8998087437,
     "asteroid_name": "(2019 QC4)",
-    "gdelt_spike_pct": 124.96843856287781,
+    "gdelt_spike_pct": 125.95371732148752,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.207642146207519,
     "earthquakes_24h": 0,
@@ -70,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-30T04:18:34.996359Z",
-      "score": 15.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 5.1
-    },
     {
       "ts": "2026-07-30T07:09:08.515284Z",
       "score": 17.5,
@@ -4773,6 +4766,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 36.6
+    },
+    {
+      "ts": "2026-08-23T18:24:36.299571Z",
+      "score": 36.9,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 36.9
     }
   ],
   "sources": [
