@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-23T04:22:12.668575Z",
-  "score": 30.3,
+  "generated_at": "2026-08-23T05:01:11.624120Z",
+  "score": 13.0,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
+    "emoji": "\ud83d\udfe2",
+    "min": 0
   },
   "deltas": {
-    "d1h": -11.7,
-    "d24h": 6.3,
+    "d1h": -30.9,
+    "d24h": -9.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 21.9,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 1.9,
-    "alien_variance": 0.7
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 70,
     "date": "23.08.2026",
     "declassified": "23.08.26",
-    "generated_utc": "04:22",
+    "generated_utc": "05:01",
     "top_drivers": [
-      "News velocity +91% vs 7-day baseline (GDELT)",
+      "Rally Festival 2026 - Ticket Prices & Festival Line Up",
       "NOAA space-weather alerts active: 1",
       "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.2,
+    "live_signal": 6.1,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 49.8998087437,
     "asteroid_name": "(2019 QC4)",
-    "gdelt_spike_pct": 91.24193548387096,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -10.207642146207519,
     "earthquakes_24h": 1,
@@ -56,6 +56,66 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Rally Festival 2026 - Ticket Prices & Festival Line Up",
+      "source": "stereoboard.com",
+      "url": "https://www.stereoboard.com/rally-festival-tickets"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=91uanr8j4klk24uv2jplb5s443"
+    },
+    {
+      "type": "news",
+      "text": "Today Happenings ; August 23 , 2026 | South Peace News",
+      "source": "southpeacenews.com",
+      "url": "https://www.southpeacenews.com/todays-happenings-august-23-2026/"
+    },
+    {
+      "type": "news",
+      "text": "La fotograf\u00eda de un OVNI m\u00e1s espectacular jam\u00e1s obtenida : estuvo oculta durante 32 a\u00f1os",
+      "source": "contextotucuman.com",
+      "url": "https://www.contextotucuman.com/nota/409865/la-fotografia-de-un-ovni-mas-espectacular-jamas-obtenida-estuvo-oculta-durante-32-anos.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0426\u0435\u043f\u043e\u0447\u043a\u0443 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043e\u0433\u043d\u0435\u0439 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u043c",
+      "source": "lenta.ru",
+      "url": "https://lenta.ru/news/2026/08/23/tsepochku-neizvestnyh-ogney-zametili-v-nebe-nad-moskovskim-regionom/"
+    },
+    {
+      "type": "news",
+      "text": "Th\u00e9atre .. Am Stram Gram\u00a0 : une saison pour raconter le monde ensemble",
+      "source": "ledauphine.com",
+      "url": "https://www.ledauphine.com/paroles-de-partenaires/2026/08/23/am-stram-gram-une-saison-pour-raconter-le-monde-ensemble"
+    },
+    {
+      "type": "news",
+      "text": "Se cre\u00eda in\u00fatil en adultos , pero la ciencia descubri\u00f3 que la salud del timo frena el envejecimiento",
+      "source": "elpais.com.uy",
+      "url": "https://www.elpais.com.uy/bienestar/vida-sana/se-creia-inutil-en-adultos-pero-la-ciencia-descubrio-que-la-salud-del-timo-frena-el-envejecimiento"
+    },
+    {
+      "type": "news",
+      "text": "Traffic stop turns into chase in Sandy Springs",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/fulton-county/traffic-stop-turns-into-chase-sandy-springs/TJSZBT2RYZDX5KHWBGBJPX6KK4/"
+    },
+    {
+      "type": "news",
+      "text": "Agassi :  Djokovic , Federer y Nadal jugaron de manera diferente al tenis y fueron geniales . Ahora , Carlos Alcaraz juega como Djokovic , Federer y Nadal cuando quiere  ",
+      "source": "larazon.es",
+      "url": "https://www.larazon.es/deportes/tenis/agassi-djokovic-federer-nadal-jugaron-manera-diferente-tenis-fueron-geniales-ahora-carlos-alcaraz-juega-como-djokovic-federer-nadal-cuando-quiere_202608226a89cd49a046ad6ebcc11aaf.html"
+    },
+    {
+      "type": "news",
+      "text": "Harry Potter Fest Coming To Midway Drive - In In Sterling , Illinois",
+      "source": "q985online.com",
+      "url": "https://q985online.com/ixp/722/p/midway-drive-in-harry-potter-fest/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -76,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-27T23:58:27.756446Z",
-      "score": 18.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.8
-    },
     {
       "ts": "2026-07-28T02:32:18.319699Z",
       "score": 19.9,
@@ -4779,6 +4832,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.2
+    },
+    {
+      "ts": "2026-08-23T05:01:11.547622Z",
+      "score": 13.0,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.1
     }
   ],
   "sources": [
