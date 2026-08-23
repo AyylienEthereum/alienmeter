@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:01:11.624120Z",
-  "score": 13.0,
+  "generated_at": "2026-08-23T05:35:11.539502Z",
+  "score": 13.7,
   "band": {
     "name": "NOTHINGBURGER",
     "flavor": "the aliens are sleeping",
@@ -10,8 +10,8 @@
     "min": 0
   },
   "deltas": {
-    "d1h": -30.9,
-    "d24h": -9.3,
+    "d1h": -0.6,
+    "d24h": -9.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 1.9,
-    "alien_variance": 0.5
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,16 @@
     "day": 70,
     "date": "23.08.2026",
     "declassified": "23.08.26",
-    "generated_utc": "05:01",
+    "generated_utc": "05:35",
     "top_drivers": [
       "Rally Festival 2026 - Ticket Prices & Festival Line Up",
-      "NOAA space-weather alerts active: 1",
       "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.1,
+    "live_signal": 7.0,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
@@ -53,7 +52,7 @@
     "wiki_spike_pct": -10.207642146207519,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 3.9,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
     {
@@ -117,12 +116,6 @@
       "url": "https://q985online.com/ixp/722/p/midway-drive-in-harry-potter-fest/"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3725\r Issue Time: 2026 Aug 22 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 1 km WSW of Hope, Alaska",
       "source": "USGS",
@@ -136,13 +129,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-28T02:32:18.319699Z",
-      "score": 19.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.7
-    },
     {
       "ts": "2026-07-28T05:34:09.807814Z",
       "score": 18.9,
@@ -4839,6 +4825,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.1
+    },
+    {
+      "ts": "2026-08-23T05:35:11.464569Z",
+      "score": 13.7,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.0
     }
   ],
   "sources": [
