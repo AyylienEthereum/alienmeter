@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T20:47:07.934173Z",
-  "score": 17.2,
+  "generated_at": "2026-08-24T21:23:00.030207Z",
+  "score": 16.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.4,
-    "d24h": 4.3,
+    "d1h": 0.7,
+    "d24h": -0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.3
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "20:47",
+    "generated_utc": "21:23",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
+    "live_signal": 10.9,
     "baseline_recent": 15.3,
     "score_gain": 1.3,
     "kp": null,
@@ -57,66 +56,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=049vjkh5ou5376h8rjm5dk7kq5"
-    },
-    {
-      "type": "news",
-      "text": "10 Great Sci - Fi Movies To Watch If You Like Netflix The Last House",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/best-movies-like-the-last-house/"
-    },
-    {
-      "type": "news",
-      "text": "Impulsa Sectur corredor tur\u00edstico de Soto la Marina a Ciudad Madero",
-      "source": "elpuntocritico.com",
-      "url": "https://www.elpuntocritico.com/vida-y-estilo/52-turismo/223966-impulsa-sectur-corredor-turistico-de-soto-la-marina-a-ciudad-madero"
-    },
-    {
-      "type": "news",
-      "text": "19 - Year - Old Injured After Car Strikes Parked Semi on Mason City Highway 18 Ramp",
-      "source": "kiow.com",
-      "url": "https://kiow.com/2026/08/24/19-year-old-injured-after-car-strikes-parked-semi-on-mason-city-highway-18-ramp/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nlj16kd83344rtqan2lvf64t64"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dn069ebo9s5oqgkvnu9f2l03e3"
-    },
-    {
-      "type": "news",
-      "text": "La foto de la NASA en Marte que sorprende a los cient\u00edficos : captan un extra\u00f1o objeto negro en el cielo",
-      "source": "semana.com",
-      "url": "https://www.semana.com/tecnologia/articulo/la-foto-de-la-nasa-en-marte-que-sorprende-a-los-cientificos-captan-un-extrano-objeto-negro-en-el-cielo/202617/"
-    },
-    {
-      "type": "news",
-      "text": "WATCH : Idaho Couple Records  300 To 400 FT  UFO Above Tree Line",
-      "source": "mix106radio.com",
-      "url": "https://mix106radio.com/ixp/94/p/ufo-reports-idaho-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Wyndham Clark & girlfriend Emily Tanner cap off a massive weekend with a win , Sox fans fight & a big CFB QB",
-      "source": "foxwilmington.com",
-      "url": "https://foxwilmington.com/wyndham-clark-girlfriend-emily-tanner-cap-off-a-massive-weekend-with-a-win-sox-fans-fight-a-big-cfb-qb/"
-    },
-    {
-      "type": "news",
-      "text": "Georgia trooper , K - 9 named Officers of the Year for DUI enforcement",
-      "source": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/local/georgia-trooper-k-9-named-officers-year-dui-enforcement/2NYA5EA7ANAA7EKAFSTJPMWHYU/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T04:40:41.530212Z",
-      "score": 19.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.7
-    },
     {
       "ts": "2026-08-02T07:17:42.048911Z",
       "score": 19.3,
@@ -4833,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-08-24T21:22:59.954907Z",
+      "score": 16.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.9
     }
   ],
   "sources": [
