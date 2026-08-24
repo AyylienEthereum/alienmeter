@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T07:44:38.486776Z",
-  "score": 15.0,
+  "generated_at": "2026-08-24T08:28:49.052729Z",
+  "score": 17.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.5,
-    "d24h": -1.1,
+    "d1h": 2.4,
+    "d24h": -1.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "07:44",
+    "generated_utc": "08:28",
     "top_drivers": [
+      "Pusieron c\u00e1maras trampa en la Patagonia de Chile y un descubrimiento dej\u00f3 sin palabras a los cient\u00edficos",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.0,
+    "live_signal": 11.7,
     "baseline_recent": 15.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 35.121589318,
     "asteroid_name": "66146 (1998 TU3)",
-    "gdelt_spike_pct": -74.51894863637767,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.080221939660158,
     "earthquakes_24h": 0,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Pusieron c\u00e1maras trampa en la Patagonia de Chile y un descubrimiento dej\u00f3 sin palabras a los cient\u00edficos",
+      "source": "diariouno.com.ar",
+      "url": "https://www.diariouno.com.ar/sociedad/pusieron-camaras-trampa-la-patagonia-chile-y-el-descubrimiento-dejo-palabras-los-cientificos-n1588546"
+    },
+    {
+      "type": "news",
+      "text": "State investment in charter schools improves lives of students",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/opinion/my_view/state-investment-in-charter-schools-improves-lives-of-students/article_3b2220c1-63ec-4082-b615-0a58c283ce1f.html"
+    },
+    {
+      "type": "news",
+      "text": "Curse of the secret ballot",
+      "source": "santafenewmexican.com",
+      "url": "https://www.santafenewmexican.com/news/local_news/curse-of-the-secret-ballot/article_8d77661d-e00a-4d1a-a660-98b20fee649e.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : 2 Meter Tall Face Found On Mars Near Spirit Rover , NASA Index , UFO UAP Sighting News . ",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2026/08/2-meter-tall-face-found-on-mars-near.html"
+    },
+    {
+      "type": "news",
+      "text": "Zlatne ribice \u010dudnih NLO pojava - Naslovi . net",
+      "source": "naslovi.net",
+      "url": "https://naslovi.net/2026-08-24/radar/zlatne-ribice-cudnih-nlo-pojava/42259308"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ilbejc8uim23jtoae1lo422ev2"
+    },
+    {
+      "type": "news",
+      "text": "It that batty time of year here in Florida",
+      "source": "floridaweekly.com",
+      "url": "https://www.floridaweekly.com/articles/bonita-springs-ae/its-that-batty-time-of-year-here-in-florida/"
+    },
+    {
+      "type": "news",
+      "text": "Atomika Festival to bring music , science and UFO talks to Roswell missile silo",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/missile-silo-yes-a-missile-silo-to-host-roswell-festival/3107038"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tc0o973393mgpjlejjqd4r6ck4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g1g2n54tbtn8s4v984vvupog93"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3726\r Issue Time: 2026 Aug 23 0921 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-31T23:15:32.650004Z",
-      "score": 24.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.0
-    },
     {
       "ts": "2026-08-01T00:13:10.477452Z",
       "score": 22.1,
@@ -4772,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.0
+    },
+    {
+      "ts": "2026-08-24T08:28:48.975542Z",
+      "score": 17.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.7
     }
   ],
   "sources": [
