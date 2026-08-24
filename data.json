@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-23T23:56:19.085755Z",
-  "score": 13.8,
+  "generated_at": "2026-08-24T00:58:12.802685Z",
+  "score": 13.4,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "boringly terrestrial",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": -7.5,
+    "d1h": -15.1,
+    "d24h": -31.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,42 +19,103 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 0.0,
+    "asteroid_approach": 2.4,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 70,
-    "day": 70,
-    "date": "23.08.2026",
-    "declassified": "23.08.26",
-    "generated_utc": "23:56",
+    "number": 71,
+    "day": 71,
+    "date": "24.08.2026",
+    "declassified": "24.08.26",
+    "generated_utc": "00:58",
     "top_drivers": [
+      "Atomika Festival to bring music , science and UFO talks to Roswell missile silo",
       "NOAA space-weather alerts active: 1",
-      "NEO (2019 QC4) passing Earth at 49.9 lunar distances"
+      "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.3,
+    "live_signal": 6.8,
     "baseline_recent": 15.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 49.8998087437,
-    "asteroid_name": "(2019 QC4)",
-    "gdelt_spike_pct": -74.80880334273603,
+    "closest_asteroid_ld": 35.121589318,
+    "asteroid_name": "66146 (1998 TU3)",
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -10.207642146207519,
+    "wiki_spike_pct": -9.562690903672806,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Atomika Festival to bring music , science and UFO talks to Roswell missile silo",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/missile-silo-yes-a-missile-silo-to-host-roswell-festival/3107038"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tc0o973393mgpjlejjqd4r6ck4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g1g2n54tbtn8s4v984vvupog93"
+    },
+    {
+      "type": "news",
+      "text": "UFO expert dives into mystery of strange object found in Estonia in 1960s",
+      "source": "thenews.com.pk",
+      "url": "https://www.thenews.com.pk/latest/1413353-ufo-expert-dives-into-mystery-of-strange-object-found-in-estonia-in-1960s"
+    },
+    {
+      "type": "news",
+      "text": "It that batty time of year here in Florida",
+      "source": "floridaweekly.com",
+      "url": "https://www.floridaweekly.com/articles/fort-myers-ae/its-that-batty-time-of-year-here-in-florida/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ns5bmd313m4p2ai22hc3gkvji6"
+    },
+    {
+      "type": "news",
+      "text": "Missing 76 - year - old man with dementia found safe , Cobb County police say",
+      "source": "atlantanewsfirst.com",
+      "url": "https://www.atlantanewsfirst.com/2026/08/23/76-year-old-man-with-dementia-reported-missing-cobb-county/"
+    },
+    {
+      "type": "news",
+      "text": "Santa Fe Chuck Jones Gallery celebrates  Coyote vs . Acme  with Wile E . Coyote art",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/lifestyles/anvils-and-art/3106032"
+    },
+    {
+      "type": "news",
+      "text": " \u00ab Est - ce que le port de Saint - Rapha\u00ebl est en bord de mer ? \u00bb : les questions des vacanciers qui ont laiss\u00e9 les pros du tourisme sans voix",
+      "source": "nicematin.com",
+      "url": "https://www.nicematin.com/societe/insolite/est-ce-que-le-port-de-saint-raphael-est-en-bord-de-mer-les-questions-des-vacanciers-qui-ont-laisse-les-pros-du-tourisme-sans-voix-10709874"
+    },
+    {
+      "type": "news",
+      "text": "I was a church leader . There are secret Bible clues about alien life",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-15978917/paul-wallis-bible-alien-life-clues.html"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3726\r Issue Time: 2026 Aug 23 0921 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -63,19 +124,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2019 QC4) passing at 49.90 LD (~120m, 13.1 km/s)",
+      "text": "NEO 66146 (1998 TU3) passing at 35.12 LD (~7981m, 11.3 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-31T10:15:29.066254Z",
-      "score": 23.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.5
-    },
     {
       "ts": "2026-07-31T12:19:34.833864Z",
       "score": 24.6,
@@ -4772,6 +4826,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.3
+    },
+    {
+      "ts": "2026-08-24T00:58:12.732118Z",
+      "score": 13.4,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.8
     }
   ],
   "sources": [
