@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:51:37.178815Z",
+  "generated_at": "2026-08-24T23:17:56.829292Z",
   "score": 23.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 5.9,
-    "d24h": 9.6,
+    "d1h": 6.6,
+    "d24h": 7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 10.2,
+    "news_velocity": 10.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,10 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "22:51",
+    "generated_utc": "23:17",
     "top_drivers": [
-      "News velocity +43% vs 7-day baseline (GDELT)",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "News velocity +42% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -48,7 +49,7 @@
     "xray_class": "C",
     "closest_asteroid_ld": 35.121589318,
     "asteroid_name": "66146 (1998 TU3)",
-    "gdelt_spike_pct": 42.609973454683335,
+    "gdelt_spike_pct": 41.969994302715705,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.080221939660158,
     "earthquakes_24h": 0,
@@ -56,6 +57,66 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ecdi1omcu32idpgu472kai3e85"
+    },
+    {
+      "type": "news",
+      "text": "Accadde Oggi 25 Agosto | Archivio Storico Digital - News",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-25/accadde-oggi-25-agosto-archivio-storico-digital-news/19602184/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sv6ppieh695797mvrdb3o1ra52"
+    },
+    {
+      "type": "news",
+      "text": "Our World  Is Coming Apart Now ... In Astounding Ways  ",
+      "source": "zerohedge.com",
+      "url": "https://www.zerohedge.com/geopolitical/our-world-coming-apart-now-astounding-ways"
+    },
+    {
+      "type": "news",
+      "text": "SA Liberal president Leah Blyth in preselection battle as Antic supporters claim  betrayal  ",
+      "source": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-25/liberal-senator-facing-preselection-battle/107055842"
+    },
+    {
+      "type": "news",
+      "text": "Trustees get first look at proposed Carson High performing arts center ; district seeks to eliminate state teacher evaluations",
+      "source": "carsonnow.org",
+      "url": "https://www.carsonnow.org/08/24/2026/trustees-get-first-look-at-proposed-carson-high-performing-arts-center-district-seeks-to-eliminate-state-teacher-evaluations"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=049vjkh5ou5376h8rjm5dk7kq5"
+    },
+    {
+      "type": "news",
+      "text": "10 Great Sci - Fi Movies To Watch If You Like Netflix The Last House",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/best-movies-like-the-last-house/"
+    },
+    {
+      "type": "news",
+      "text": "Impulsa Sectur corredor tur\u00edstico de Soto la Marina a Ciudad Madero",
+      "source": "elpuntocritico.com",
+      "url": "https://www.elpuntocritico.com/vida-y-estilo/52-turismo/223966-impulsa-sectur-corredor-turistico-de-soto-la-marina-a-ciudad-madero"
+    },
+    {
+      "type": "news",
+      "text": "19 - Year - Old Injured After Car Strikes Parked Semi on Mason City Highway 18 Ramp",
+      "source": "kiow.com",
+      "url": "https://kiow.com/2026/08/24/19-year-old-injured-after-car-strikes-parked-semi-on-mason-city-highway-18-ramp/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -70,13 +131,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T12:14:46.702964Z",
-      "score": 20.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.2
-    },
     {
       "ts": "2026-08-02T13:57:32.692551Z",
       "score": 19.9,
@@ -4769,6 +4823,13 @@
     },
     {
       "ts": "2026-08-24T22:51:37.102057Z",
+      "score": 23.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.5
+    },
+    {
+      "ts": "2026-08-24T23:17:56.751612Z",
       "score": 23.1,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
