@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T23:45:01.947342Z",
-  "score": 15.0,
+  "generated_at": "2026-08-24T23:59:57.654982Z",
+  "score": 16.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.0,
-    "d24h": 0.1,
+    "d1h": 3.8,
+    "d24h": 0.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "23:45",
+    "generated_utc": "23:59",
     "top_drivers": [
+      "Close Encounters : New UFO - Themed Online Slot Lands at CryptoSlots and Slotland with Free Spins",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.1,
+    "live_signal": 10.5,
     "baseline_recent": 15.2,
     "score_gain": 1.3,
     "kp": null,
@@ -56,6 +57,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Close Encounters : New UFO - Themed Online Slot Lands at CryptoSlots and Slotland with Free Spins",
+      "source": "webwire.com",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=359410"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g0dab3v5h72rr2o559r08atej4"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ecdi1omcu32idpgu472kai3e85"
+    },
+    {
+      "type": "news",
+      "text": "Accadde Oggi 25 Agosto | Archivio Storico Digital - News",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-25/accadde-oggi-25-agosto-archivio-storico-digital-news/19602184/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sv6ppieh695797mvrdb3o1ra52"
+    },
+    {
+      "type": "news",
+      "text": "Our World  Is Coming Apart Now ... In Astounding Ways  ",
+      "source": "zerohedge.com",
+      "url": "https://www.zerohedge.com/geopolitical/our-world-coming-apart-now-astounding-ways"
+    },
+    {
+      "type": "news",
+      "text": "SA Liberal president Leah Blyth in preselection battle as Antic supporters claim  betrayal  ",
+      "source": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-25/liberal-senator-facing-preselection-battle/107055842"
+    },
+    {
+      "type": "news",
+      "text": "Trustees get first look at proposed Carson High performing arts center ; district seeks to eliminate state teacher evaluations",
+      "source": "carsonnow.org",
+      "url": "https://www.carsonnow.org/08/24/2026/trustees-get-first-look-at-proposed-carson-high-performing-arts-center-district-seeks-to-eliminate-state-teacher-evaluations"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=049vjkh5ou5376h8rjm5dk7kq5"
+    },
+    {
+      "type": "news",
+      "text": "10 Great Sci - Fi Movies To Watch If You Like Netflix The Last House",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/best-movies-like-the-last-house/"
+    },
+    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T15:00:46.222144Z",
-      "score": 23.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.9
-    },
     {
       "ts": "2026-08-02T16:06:49.115664Z",
       "score": 20.7,
@@ -4772,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.1
+    },
+    {
+      "ts": "2026-08-24T23:59:57.576786Z",
+      "score": 16.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.5
     }
   ],
   "sources": [
