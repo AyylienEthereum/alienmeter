@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T15:09:06.671918Z",
-  "score": 14.2,
+  "generated_at": "2026-08-24T15:55:14.674887Z",
+  "score": 13.0,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.9,
-    "d24h": -2.8,
+    "d1h": -1.8,
+    "d24h": -2.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "15:09",
+    "generated_utc": "15:55",
     "top_drivers": [
+      "Prinsessan Sofias kl\u00e4dsel skapar rubriker utomlands",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -40,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.0,
-    "baseline_recent": 15.4,
+    "live_signal": 6.5,
+    "baseline_recent": 15.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -56,6 +57,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Prinsessan Sofias kl\u00e4dsel skapar rubriker utomlands",
+      "source": "nyheter24.se",
+      "url": "https://nyheter24.se/noje/kungligt/1507288-prinsessan-sofias-kladsel-skapar-rubriker-utomlands"
+    },
+    {
+      "type": "news",
+      "text": "1982 Event Later Inspired the Movie UP",
+      "source": "1027kord.com",
+      "url": "https://1027kord.com/ixp/136/p/up-was-inspired-by-a-real-event/"
+    },
+    {
+      "type": "news",
+      "text": "HelloNation Article Examines Landlord Insurance With Insurance Expert Andrew Filar",
+      "source": "prnewswire.com",
+      "url": "http://www.prnewswire.com/news-releases/hellonation-article-examines-landlord-insurance-with-insurance-expert-andrew-filar-302858308.html"
+    },
+    {
+      "type": "news",
+      "text": "Cost of raising a child in major US metros in 2026",
+      "source": "whio.com",
+      "url": "https://www.whio.com/news/cost-raising-child/NBUIALRLFA4SZI6S7TUULPB2SM/"
+    },
+    {
+      "type": "news",
+      "text": "Cost of raising a child in major US metros in 2026",
+      "source": "k923orlando.com",
+      "url": "https://www.k923orlando.com/news/cost-raising-child/NBUIALRLFA4SZI6S7TUULPB2SM/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=np8qhgifir365e23l2p5oaumt5"
+    },
+    {
+      "type": "news",
+      "text": "\u533a\u8fd0\u4f1a\u5c04\u51fb \uff08 \u98de\u789f \uff09 \u9879\u76ee\u51b3\u51fa12\u679a\u91d1\u724c - \u5e7f\u897f\u65b0\u95fb\u7f51",
+      "source": "gxnews.com.cn",
+      "url": "http://www.gxnews.com.cn/staticpages/20260824/newgx6a8c34c7-21985279.shtml"
+    },
+    {
+      "type": "news",
+      "text": "CPS cack to school : Chicago Public Schools students return to class Monday as summer break ends",
+      "source": "abc7chicago.com",
+      "url": "https://abc7chicago.com/post/cps-cack-school-chicago-public-schools-students-return-class-monday-summer-break-ends/19726610/"
+    },
+    {
+      "type": "news",
+      "text": "Trump naprawd\u0119 m\u00f3wi to o kosmitach ?! Ujawni\u0142 , gdzie \u017cyj\u0105",
+      "source": "se.pl",
+      "url": "https://www.se.pl/wiadomosci/swiat/trump-naprawde-mowi-to-o-kosmitach-ujawnil-gdzie-zyja-aa-KGHV-4LWj-hRjh.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jd2dbbp682omr2bsfnt279lb81"
+    },
+    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-01T16:28:32.181214Z",
-      "score": 18.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.4
-    },
     {
       "ts": "2026-08-01T17:33:01.204595Z",
       "score": 19.9,
@@ -4772,6 +4826,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 8.0
+    },
+    {
+      "ts": "2026-08-24T15:55:14.599080Z",
+      "score": 13.0,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.5
     }
   ],
   "sources": [
