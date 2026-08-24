@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T20:03:36.859617Z",
+  "generated_at": "2026-08-24T20:47:07.934173Z",
   "score": 17.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.1,
-    "d24h": 1.8,
+    "d1h": -7.4,
+    "d24h": 4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,9 +31,9 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "20:03",
+    "generated_utc": "20:47",
     "top_drivers": [
-      "10 Great Sci - Fi Movies To Watch If You Like Netflix The Last House",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -56,6 +56,12 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=049vjkh5ou5376h8rjm5dk7kq5"
+    },
     {
       "type": "news",
       "text": "10 Great Sci - Fi Movies To Watch If You Like Netflix The Last House",
@@ -111,12 +117,6 @@
       "url": "https://www.wgauradio.com/news/local/georgia-trooper-k-9-named-officers-year-dui-enforcement/2NYA5EA7ANAA7EKAFSTJPMWHYU/"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=k92lpcsb4fvaig65h8vo6lc816"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -130,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T01:14:48.730523Z",
-      "score": 21.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.4
-    },
     {
       "ts": "2026-08-02T04:40:41.530212Z",
       "score": 19.2,
@@ -4829,6 +4822,13 @@
     },
     {
       "ts": "2026-08-24T20:03:36.785951Z",
+      "score": 17.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.9
+    },
+    {
+      "ts": "2026-08-24T20:47:07.858798Z",
       "score": 17.2,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
