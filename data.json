@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T00:58:12.802685Z",
-  "score": 13.4,
+  "generated_at": "2026-08-24T02:22:52.119629Z",
+  "score": 12.9,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -15.1,
-    "d24h": -31.2,
+    "d1h": 1.3,
+    "d24h": -2.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "00:58",
+    "generated_utc": "02:22",
     "top_drivers": [
-      "Atomika Festival to bring music , science and UFO talks to Roswell missile silo",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.8,
+    "live_signal": 6.2,
     "baseline_recent": 15.5,
     "score_gain": 1.3,
     "kp": null,
@@ -56,6 +56,18 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ilbejc8uim23jtoae1lo422ev2"
+    },
+    {
+      "type": "news",
+      "text": "It that batty time of year here in Florida",
+      "source": "floridaweekly.com",
+      "url": "https://www.floridaweekly.com/articles/bonita-springs-ae/its-that-batty-time-of-year-here-in-florida/"
+    },
     {
       "type": "news",
       "text": "Atomika Festival to bring music , science and UFO talks to Roswell missile silo",
@@ -105,18 +117,6 @@
       "url": "https://www.abqjournal.com/lifestyles/anvils-and-art/3106032"
     },
     {
-      "type": "news",
-      "text": " \u00ab Est - ce que le port de Saint - Rapha\u00ebl est en bord de mer ? \u00bb : les questions des vacanciers qui ont laiss\u00e9 les pros du tourisme sans voix",
-      "source": "nicematin.com",
-      "url": "https://www.nicematin.com/societe/insolite/est-ce-que-le-port-de-saint-raphael-est-en-bord-de-mer-les-questions-des-vacanciers-qui-ont-laisse-les-pros-du-tourisme-sans-voix-10709874"
-    },
-    {
-      "type": "news",
-      "text": "I was a church leader . There are secret Bible clues about alien life",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15978917/paul-wallis-bible-alien-life-clues.html"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3726\r Issue Time: 2026 Aug 23 0921 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -130,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-31T12:19:34.833864Z",
-      "score": 24.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.3
-    },
     {
       "ts": "2026-07-31T14:56:39.168588Z",
       "score": 22.2,
@@ -4833,6 +4826,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.8
+    },
+    {
+      "ts": "2026-08-24T02:22:52.066727Z",
+      "score": 12.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.2
     }
   ],
   "sources": [
