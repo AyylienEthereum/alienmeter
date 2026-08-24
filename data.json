@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T08:28:49.052729Z",
-  "score": 17.1,
+  "generated_at": "2026-08-24T09:23:46.257269Z",
+  "score": 16.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
@@ -11,7 +11,7 @@
   },
   "deltas": {
     "d1h": 2.4,
-    "d24h": -1.8,
+    "d24h": -0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,7 +21,7 @@
     "solar_flares": 5.0,
     "asteroid_approach": 2.4,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
     "alien_variance": 3.1
   },
@@ -31,17 +31,16 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "08:28",
+    "generated_utc": "09:23",
     "top_drivers": [
-      "Pusieron c\u00e1maras trampa en la Patagonia de Chile y un descubrimiento dej\u00f3 sin palabras a los cient\u00edficos",
-      "NOAA space-weather alerts active: 1",
+      "\u0427\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u044d\u0442\u043e\u0442 \u0434\u0435\u043d\u044c \u0432 \u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0438 \u0438 \u041a\u0440\u044b\u043c\u0443 \u0432 \u043f\u0440\u043e\u0448\u043b\u044b\u0435 \u0433\u043e\u0434\u044b 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.7,
+    "live_signal": 10.5,
     "baseline_recent": 15.4,
     "score_gain": 1.3,
     "kp": null,
@@ -53,9 +52,15 @@
     "wiki_spike_pct": -6.080221939660158,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u0427\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u044d\u0442\u043e\u0442 \u0434\u0435\u043d\u044c \u0432 \u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0438 \u0438 \u041a\u0440\u044b\u043c\u0443 \u0432 \u043f\u0440\u043e\u0448\u043b\u044b\u0435 \u0433\u043e\u0434\u044b 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430",
+      "source": "kafanews.com",
+      "url": "https://kafanews.com/novosti/212172/chto-bylo-v-etot-den-v-feodosii-i-krymu-v-proshlye-gody-24-avgusta_2026-08-24"
+    },
     {
       "type": "news",
       "text": "Pusieron c\u00e1maras trampa en la Patagonia de Chile y un descubrimiento dej\u00f3 sin palabras a los cient\u00edficos",
@@ -111,18 +116,6 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=tc0o973393mgpjlejjqd4r6ck4"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g1g2n54tbtn8s4v984vvupog93"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3726\r Issue Time: 2026 Aug 23 0921 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO 66146 (1998 TU3) passing at 35.12 LD (~7981m, 11.3 km/s)",
       "source": "NASA NeoWs",
@@ -130,13 +123,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-01T00:13:10.477452Z",
-      "score": 22.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.3
-    },
     {
       "ts": "2026-08-01T03:50:17.741811Z",
       "score": 20.6,
@@ -4833,6 +4819,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.7
+    },
+    {
+      "ts": "2026-08-24T09:23:46.204164Z",
+      "score": 16.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.5
     }
   ],
   "sources": [
