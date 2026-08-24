@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-24T11:52:44.800233Z",
-  "score": 15.1,
+  "generated_at": "2026-08-24T12:36:10.595746Z",
+  "score": 14.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -1.1,
-    "d24h": -1.9,
+    "d1h": 0.1,
+    "d24h": -1.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 2.4,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,23 @@
     "day": 71,
     "date": "24.08.2026",
     "declassified": "24.08.26",
-    "generated_utc": "11:52",
+    "generated_utc": "12:36",
     "top_drivers": [
-      "HP Eliteboard G1a : r\u00e9invention dun design ancestral , que vaut ce PC cach\u00e9 sous un clavier qui veut remplacer notre ordinateur de bureau ? ",
       "NOAA space-weather alerts active: 1",
       "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.1,
+    "live_signal": 8.7,
     "baseline_recent": 15.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 35.121589318,
     "asteroid_name": "66146 (1998 TU3)",
-    "gdelt_spike_pct": -74.18204008825049,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.080221939660158,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "HP Eliteboard G1a : r\u00e9invention dun design ancestral , que vaut ce PC cach\u00e9 sous un clavier qui veut remplacer notre ordinateur de bureau ? ",
-      "source": "bfmtv.com",
-      "url": "https://www.bfmtv.com/tech/produits/hp-eliteboard-g1a-reinvention-d-un-design-ancestral-que-vaut-ce-pc-cache-sous-un-clavier-qui-veut-remplacer-notre-ordinateur-de-bureau_AN-202608240347.html"
-    },
-    {
-      "type": "news",
-      "text": "Lo spread torna a crescere 81 punti base e rendimenti oltre il 4 , 05 % ",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-08-24/lo-spread-torna-a-crescere-81-punti-base-e-rendimenti-oltre-il-405-cosa-sta-succedendo/19599914/"
-    },
-    {
-      "type": "news",
-      "text": "\u0427\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u044d\u0442\u043e\u0442 \u0434\u0435\u043d\u044c \u0432 \u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0438 \u0438 \u041a\u0440\u044b\u043c\u0443 \u0432 \u043f\u0440\u043e\u0448\u043b\u044b\u0435 \u0433\u043e\u0434\u044b 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430",
-      "source": "kafanews.com",
-      "url": "https://kafanews.com/novosti/212172/chto-bylo-v-etot-den-v-feodosii-i-krymu-v-proshlye-gody-24-avgusta_2026-08-24"
-    },
-    {
-      "type": "news",
-      "text": "Pusieron c\u00e1maras trampa en la Patagonia de Chile y un descubrimiento dej\u00f3 sin palabras a los cient\u00edficos",
-      "source": "diariouno.com.ar",
-      "url": "https://www.diariouno.com.ar/sociedad/pusieron-camaras-trampa-la-patagonia-chile-y-el-descubrimiento-dejo-palabras-los-cientificos-n1588546"
-    },
-    {
-      "type": "news",
-      "text": "State investment in charter schools improves lives of students",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/opinion/my_view/state-investment-in-charter-schools-improves-lives-of-students/article_3b2220c1-63ec-4082-b615-0a58c283ce1f.html"
-    },
-    {
-      "type": "news",
-      "text": "Curse of the secret ballot",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/news/local_news/curse-of-the-secret-ballot/article_8d77661d-e00a-4d1a-a660-98b20fee649e.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : 2 Meter Tall Face Found On Mars Near Spirit Rover , NASA Index , UFO UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/08/2-meter-tall-face-found-on-mars-near.html"
-    },
-    {
-      "type": "news",
-      "text": "Zlatne ribice \u010dudnih NLO pojava - Naslovi . net",
-      "source": "naslovi.net",
-      "url": "https://naslovi.net/2026-08-24/radar/zlatne-ribice-cudnih-nlo-pojava/42259308"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ilbejc8uim23jtoae1lo422ev2"
-    },
-    {
-      "type": "news",
-      "text": "It that batty time of year here in Florida",
-      "source": "floridaweekly.com",
-      "url": "https://www.floridaweekly.com/articles/bonita-springs-ae/its-that-batty-time-of-year-here-in-florida/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-01T11:40:54.288711Z",
-      "score": 20.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.6
-    },
     {
       "ts": "2026-08-01T12:39:19.306636Z",
       "score": 21.8,
@@ -4833,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.1
+    },
+    {
+      "ts": "2026-08-24T12:36:10.536897Z",
+      "score": 14.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.7
     }
   ],
   "sources": [
