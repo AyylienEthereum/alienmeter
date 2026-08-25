@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T14:26:59.950307Z",
-  "score": 22.4,
+  "generated_at": "2026-08-25T15:14:26.947157Z",
+  "score": 26.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -4.1,
-    "d24h": 7.6,
+    "d1h": 4.5,
+    "d24h": -4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 3.6,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,10 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "14:26",
+    "generated_utc": "15:14",
     "top_drivers": [
+      "16 destinos abandonados y llenos de misterio",
+      "News velocity +15% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
@@ -40,14 +42,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.6,
+    "live_signal": 23.2,
     "baseline_recent": 15.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 18.4033396007,
     "asteroid_name": "523609 (2005 PJ2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 14.929898296384236,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 0,
@@ -55,6 +57,66 @@
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "16 destinos abandonados y llenos de misterio",
+      "source": "que.es",
+      "url": "https://www.que.es/2026/08/25/16-destinos-abandonados-misterio/"
+    },
+    {
+      "type": "news",
+      "text": "Summernats 39 : Line - up brings huge sound to 2027 Canberra festival | Bay Post - Moruya Examiner",
+      "source": "batemansbaypost.com.au",
+      "url": "https://www.batemansbaypost.com.au/story/9337280/summernats-39-line-up-brings-huge-sound-to-2027-canberra-festival/"
+    },
+    {
+      "type": "news",
+      "text": "Szwecja ma swoj\u0105 Mr\u00f3z - Gorgo\u0144 . Badacz AI oskar\u017cona o napisanie pracy przy pomocy chat - bota",
+      "source": "pch24.pl",
+      "url": "https://pch24.pl/wiadomosci/szwecja-ma-swoja-mroz-gorgon-badacz-ai-oskarzona-o-napisanie-pracy-przy-pomocy-chat-bota,731746"
+    },
+    {
+      "type": "news",
+      "text": "Summernats 39 : Line - up brings huge sound to 2027 Canberra festival | The Canberra Times",
+      "source": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9337280/summernats-39-line-up-brings-huge-sound-to-2027-canberra-festival/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nt4fm7ju868pia84ibbn1sk0l4"
+    },
+    {
+      "type": "news",
+      "text": "Home Shoppers Look Beyond Their Backyards as Affordability Shapes Demand , Realtor . com\u00ae Reports",
+      "source": "prnewswire.com",
+      "url": "http://www.prnewswire.com/news-releases/home-shoppers-look-beyond-their-backyards-as-affordability-shapes-demand-realtorcom-reports-302858536.html"
+    },
+    {
+      "type": "news",
+      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
+      "source": "979kickfm.com",
+      "url": "https://979kickfm.com/ixp/463/p/rural-illinois-sky-phenomena/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7kcpeluqhkd8hb71qbqi99g005"
+    },
+    {
+      "type": "news",
+      "text": "Segunda llamada , segunda",
+      "source": "alcalorpolitico.com",
+      "url": "https://www.alcalorpolitico.com/informacion/columnas.php?idcolumna=24109"
+    },
+    {
+      "type": "news",
+      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
+      "source": "101theeagle.com",
+      "url": "https://101theeagle.com/rural-illinois-sky-phenomena/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUMXM5\r Serial Number: 326\r Issue Time: 2026 Aug 25 1027 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
@@ -81,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-03T23:47:57.056849Z",
-      "score": 16.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 7.6
-    },
     {
       "ts": "2026-08-04T01:56:06.421711Z",
       "score": 19.3,
@@ -4784,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.6
+    },
+    {
+      "ts": "2026-08-25T15:14:26.867815Z",
+      "score": 26.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.2
     }
   ],
   "sources": [
