@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25T16:01:39.727723Z",
-  "score": 27.3,
+  "generated_at": "2026-08-25T16:54:07.717654Z",
+  "score": 22.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 5.6,
-    "d24h": 14.3,
+    "d1h": 0.3,
+    "d24h": 9.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 3.8,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.5,
-    "alien_variance": 2.5
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "16:01",
+    "generated_utc": "16:54",
     "top_drivers": [
-      "News velocity +16% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.9,
+    "live_signal": 19.0,
     "baseline_recent": 15.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 18.4033396007,
     "asteroid_name": "523609 (2005 PJ2)",
-    "gdelt_spike_pct": 15.92315206773039,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 1,
@@ -88,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-04T04:59:29.892097Z",
-      "score": 14.9,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 5.6
-    },
     {
       "ts": "2026-08-04T07:42:14.374135Z",
       "score": 15.0,
@@ -4791,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 24.9
+    },
+    {
+      "ts": "2026-08-25T16:54:07.658227Z",
+      "score": 22.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.0
     }
   ],
   "sources": [
