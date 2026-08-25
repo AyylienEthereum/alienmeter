@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-25T13:34:11.128794Z",
+  "generated_at": "2026-08-25T14:26:59.950307Z",
   "score": 22.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": 8.1,
+    "d1h": -4.1,
+    "d24h": 7.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "13:34",
+    "generated_utc": "14:26",
     "top_drivers": [
       "NOAA space-weather alerts active: 5",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-03T22:40:05.880777Z",
-      "score": 17.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.9
-    },
     {
       "ts": "2026-08-03T23:47:57.056849Z",
       "score": 16.5,
@@ -4780,6 +4773,13 @@
     },
     {
       "ts": "2026-08-25T13:34:11.067543Z",
+      "score": 22.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
+    },
+    {
+      "ts": "2026-08-25T14:26:59.871690Z",
       "score": 22.4,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
