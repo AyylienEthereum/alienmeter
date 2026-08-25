@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T10:05:56.466786Z",
-  "score": 22.5,
+  "generated_at": "2026-08-25T10:48:51.087704Z",
+  "score": 21.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": 7.7,
+    "d1h": 0.7,
+    "d24h": 4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,21 +31,20 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "10:05",
+    "generated_utc": "10:48",
     "top_drivers": [
-      "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 5",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.7,
+    "live_signal": 17.1,
     "baseline_recent": 15.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "C",
     "closest_asteroid_ld": 18.4033396007,
     "asteroid_name": "523609 (2005 PJ2)",
     "gdelt_spike_pct": null,
@@ -53,84 +52,24 @@
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
-      "source": "979kickfm.com",
-      "url": "https://979kickfm.com/ixp/463/p/rural-illinois-sky-phenomena/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7kcpeluqhkd8hb71qbqi99g005"
-    },
-    {
-      "type": "news",
-      "text": "Segunda llamada , segunda",
-      "source": "alcalorpolitico.com",
-      "url": "https://www.alcalorpolitico.com/informacion/columnas.php?idcolumna=24109"
-    },
-    {
-      "type": "news",
-      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
-      "source": "101theeagle.com",
-      "url": "https://101theeagle.com/rural-illinois-sky-phenomena/"
-    },
-    {
-      "type": "news",
-      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
-      "source": "kickam1530.com",
-      "url": "https://kickam1530.com/ixp/463/p/rural-illinois-sky-phenomena/"
-    },
-    {
-      "type": "news",
-      "text": "\u0410\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u044b \u0440\u0430\u0437\u044a\u044f\u0441\u043d\u0438\u043b\u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u00ab \u0437\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0435\u0437\u0434 \u00bb, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u044e\u0442 \u0432 \u041f\u043e\u0434\u043c\u043e\u0441\u043a\u043e\u0432\u044c\u0435",
-      "source": "u-f.ru",
-      "url": "https://u-f.ru/news/society/u9/2026/08/25/423765"
-    },
-    {
-      "type": "news",
-      "text": "De bijzondere wereld van de 85 - jarige Theo Gerrits :  Vol verrassingen  ",
-      "source": "omroepbrabant.nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6017458/de-bijzondere-wereld-van-de-85-jarige-theo-gerrits-vol-verrassingen"
-    },
-    {
-      "type": "news",
-      "text": "Lyko Lovables , Lyko Lovables test | Vi testet Lyko Lovables : S\u00e5 mye sparer du egentlig",
-      "source": "f-b.no",
-      "url": "https://www.f-b.no/lyko-lovables/lyko-lovables-test/skjonnhetsprodukter/vi-testet-lyko-lovables-sa-mye-sparer-du-egentlig/s/5-95-3210792"
-    },
-    {
-      "type": "news",
-      "text": "Airbnb - \u00dcbernachtungszahlen in Rhein - Sieg haben sich verdoppelt",
-      "source": "rundschau-online.de",
-      "url": "https://www.rundschau-online.de:443/region/rhein-sieg/airbnb-uebernachtungszahlen-in-rhein-sieg-haben-sich-verdoppelt-1355382"
-    },
-    {
-      "type": "news",
-      "text": "Zest Fest 2026 : Orange reveals headline act and new features | Blayney Chronicle",
-      "source": "blayneychronicle.com.au",
-      "url": "https://www.blayneychronicle.com.au/story/9336864/zest-fest-2026-orange-reveals-headline-act-and-new-features/"
-    },
-    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 541\r Issue Time: 2026 Aug 25 1001 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
+      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 326\r Issue Time: 2026 Aug 25 1027 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3728\r Issue Time: 2026 Aug 25 0718 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 927\r Issue Time: 2026 Aug 25 1020 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3727\r Issue Time: 2026 Aug 24 1036 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1524\r Issue Time: 2026 Aug 25 1015 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-03T14:25:08.852717Z",
-      "score": 20.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.7
-    },
     {
       "ts": "2026-08-03T16:56:10.354568Z",
       "score": 18.0,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.7
+    },
+    {
+      "ts": "2026-08-25T10:48:51.011775Z",
+      "score": 21.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.1
     }
   ],
   "sources": [
