@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T09:36:48.237626Z",
-  "score": 22.7,
+  "generated_at": "2026-08-25T10:05:56.466786Z",
+  "score": 22.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": 7.6,
+    "d1h": 2.8,
+    "d24h": 7.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 5.6,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 7.5,
     "asteroid_approach": 5.1,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,29 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "09:36",
+    "generated_utc": "10:05",
     "top_drivers": [
       "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
-      "News velocity +23% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 3",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.0,
+    "live_signal": 18.7,
     "baseline_recent": 15.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 18.4033391339,
+    "xray_class": "M",
+    "closest_asteroid_ld": 18.4033396007,
     "asteroid_name": "523609 (2005 PJ2)",
-    "gdelt_spike_pct": 23.451968503937007,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
@@ -119,6 +118,12 @@
     },
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: ALTXMF\r Serial Number: 541\r Issue Time: 2026 Aug 25 1001 UTC\r \r ALERT: X-Ray Flux exceeded M5  Threshold Reached",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3728\r Issue Time: 2026 Aug 25 0718 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
@@ -137,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-03T11:55:08.020588Z",
-      "score": 20.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.3
-    },
     {
       "ts": "2026-08-03T14:25:08.852717Z",
       "score": 20.6,
@@ -4840,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.0
+    },
+    {
+      "ts": "2026-08-25T10:05:56.388461Z",
+      "score": 22.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.7
     }
   ],
   "sources": [
