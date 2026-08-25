@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T23:59:57.654982Z",
-  "score": 16.1,
+  "generated_at": "2026-08-25T01:35:23.232904Z",
+  "score": 23.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,47 +10,48 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.8,
-    "d24h": 0.0,
+    "d1h": 0.0,
+    "d24h": 6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 2.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
-    "asteroid_approach": 2.4,
+    "solar_flares": 7.5,
+    "asteroid_approach": 5.1,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.9
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 71,
-    "day": 71,
-    "date": "24.08.2026",
-    "declassified": "24.08.26",
-    "generated_utc": "23:59",
+    "number": 72,
+    "day": 72,
+    "date": "25.08.2026",
+    "declassified": "25.08.26",
+    "generated_utc": "01:35",
     "top_drivers": [
       "Close Encounters : New UFO - Themed Online Slot Lands at CryptoSlots and Slotland with Free Spins",
+      "News velocity +10% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
-      "NEO 66146 (1998 TU3) passing Earth at 35.1 lunar distances"
+      "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.5,
+    "live_signal": 19.5,
     "baseline_recent": 15.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 35.121589318,
-    "asteroid_name": "66146 (1998 TU3)",
-    "gdelt_spike_pct": null,
+    "xray_class": "M",
+    "closest_asteroid_ld": 18.4033391339,
+    "asteroid_name": "523609 (2005 PJ2)",
+    "gdelt_spike_pct": 10.392003748243,
     "x_last_hour": 0,
-    "wiki_spike_pct": -6.080221939660158,
+    "wiki_spike_pct": -5.49578365804014,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
@@ -124,19 +125,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO 66146 (1998 TU3) passing at 35.12 LD (~7981m, 11.3 km/s)",
+      "text": "NEO 523609 (2005 PJ2) passing at 18.40 LD (~738m, 22.7 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T16:06:49.115664Z",
-      "score": 20.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.7
-    },
     {
       "ts": "2026-08-02T17:13:56.601417Z",
       "score": 21.7,
@@ -4833,6 +4827,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.5
+    },
+    {
+      "ts": "2026-08-25T01:35:23.153225Z",
+      "score": 23.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.5
     }
   ],
   "sources": [
