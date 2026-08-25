@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-25T20:03:43.748464Z",
-  "score": 23.2,
+  "generated_at": "2026-08-25T20:45:36.660934Z",
+  "score": 20.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.0,
-    "d24h": 10.6,
+    "d1h": -0.8,
+    "d24h": 4.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 2.5,
-    "alien_variance": 3.6
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "20:03",
+    "generated_utc": "20:45",
     "top_drivers": [
+      "Synths , impossible physics , and an  erotic experience with a PS5 controller  - the side projects of game devs are a reminder creativity is undimmable",
       "NOAA space-weather alerts active: 6",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.7,
+    "live_signal": 16.2,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 18.4033396007,
     "asteroid_name": "523609 (2005 PJ2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -73.10688789646966,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 1,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 6
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Synths , impossible physics , and an  erotic experience with a PS5 controller  - the side projects of game devs are a reminder creativity is undimmable",
+      "source": "eurogamer.net",
+      "url": "https://www.eurogamer.net/optimism-week-games-industry-side-projects-creativity"
+    },
+    {
+      "type": "news",
+      "text": "Jul r\u00e9pond \u00e0 lappel dune m\u00e8re en deuil\u00a0 : le rappeur rend hommage en plein festival \u00e0 Cl\u00e9ment , un jeune Gersois d\u00e9c\u00e9d\u00e9 \u00e0 l  \u00e2ge de 16 ans",
+      "source": "midilibre.fr",
+      "url": "https://www.midilibre.fr/2026/08/25/jul-repond-a-lappel-dune-mere-en-deuil-le-rappeur-rend-hommage-en-plein-festival-a-clement-un-jeune-gersois-decede-a-lage-de-16-ans-13522407.php"
+    },
+    {
+      "type": "news",
+      "text": "Swiggy Dineout and Cinepolis Launch Revolutionary  Order - in - Cinema Service , ETRetail",
+      "source": "retail.economictimes.indiatimes.com",
+      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/swiggy-dineout-launches-order-in-cinemas-with-cinepolis-and-asian-cinemas/133507529"
+    },
+    {
+      "type": "news",
+      "text": "16 destinos abandonados y llenos de misterio",
+      "source": "que.es",
+      "url": "https://www.que.es/2026/08/25/16-destinos-abandonados-misterio/"
+    },
+    {
+      "type": "news",
+      "text": "Szwecja ma swoj\u0105 Mr\u00f3z - Gorgo\u0144 . Badacz AI oskar\u017cona o napisanie pracy przy pomocy chat - bota",
+      "source": "pch24.pl",
+      "url": "https://pch24.pl/wiadomosci/szwecja-ma-swoja-mroz-gorgon-badacz-ai-oskarzona-o-napisanie-pracy-przy-pomocy-chat-bota,731746"
+    },
+    {
+      "type": "news",
+      "text": "Summernats 39 : Line - up brings huge sound to 2027 Canberra festival | The Canberra Times",
+      "source": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9337280/summernats-39-line-up-brings-huge-sound-to-2027-canberra-festival/"
+    },
+    {
+      "type": "news",
+      "text": "Summernats 39 : Line - up brings huge sound to 2027 Canberra festival | Bay Post - Moruya Examiner",
+      "source": "batemansbaypost.com.au",
+      "url": "https://www.batemansbaypost.com.au/story/9337280/summernats-39-line-up-brings-huge-sound-to-2027-canberra-festival/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nt4fm7ju868pia84ibbn1sk0l4"
+    },
+    {
+      "type": "news",
+      "text": "Home Shoppers Look Beyond Their Backyards as Affordability Shapes Demand , Realtor . com\u00ae Reports",
+      "source": "prnewswire.com",
+      "url": "http://www.prnewswire.com/news-releases/home-shoppers-look-beyond-their-backyards-as-affordability-shapes-demand-realtorcom-reports-302858536.html"
+    },
+    {
+      "type": "news",
+      "text": "Strange Flash Leaves Illinois Witness With a Dead Smartphone",
+      "source": "979kickfm.com",
+      "url": "https://979kickfm.com/ixp/463/p/rural-illinois-sky-phenomena/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 25 1838 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-04T20:08:43.638572Z",
-      "score": 14.6,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 5.3
-    },
     {
       "ts": "2026-08-04T21:35:04.556571Z",
       "score": 14.1,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.7
+    },
+    {
+      "ts": "2026-08-25T20:45:36.579994Z",
+      "score": 20.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.2
     }
   ],
   "sources": [
