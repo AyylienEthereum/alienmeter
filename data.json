@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:51:48.224343Z",
+  "generated_at": "2026-08-25T06:35:19.659545Z",
   "score": 19.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": 4.6,
+    "d1h": 1.7,
+    "d24h": 2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 72,
     "date": "25.08.2026",
     "declassified": "25.08.26",
-    "generated_utc": "05:51",
+    "generated_utc": "06:35",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO 523609 (2005 PJ2) passing Earth at 18.4 lunar distances"
@@ -47,7 +47,7 @@
     "xray_class": "C",
     "closest_asteroid_ld": 18.4033391339,
     "asteroid_name": "523609 (2005 PJ2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -73.95084220283185,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.521222361406467,
     "earthquakes_24h": 0,
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-02T22:38:16.774166Z",
-      "score": 23.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.1
-    },
     {
       "ts": "2026-08-02T23:40:25.468120Z",
       "score": 22.4,
@@ -4768,6 +4761,13 @@
     },
     {
       "ts": "2026-08-25T05:51:48.148526Z",
+      "score": 19.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.6
+    },
+    {
+      "ts": "2026-08-25T06:35:19.581857Z",
       "score": 19.3,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
