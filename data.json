@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-26T05:49:47.962505Z",
-  "score": 21.8,
+  "generated_at": "2026-08-26T06:37:07.429541Z",
+  "score": 23.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.7,
-    "d24h": 9.1,
+    "d1h": 0.8,
+    "d24h": 10.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 7.5,
     "asteroid_approach": 6.5,
-    "search_interest": 0.4,
+    "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "05:49",
+    "generated_utc": "06:37",
     "top_drivers": [
       "NOAA space-weather alerts active: 6",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
@@ -40,16 +40,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.0,
+    "live_signal": 20.3,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "M",
     "closest_asteroid_ld": 9.321656792,
     "asteroid_name": "221455 (2006 BC10)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 2.453201295587745,
+    "wiki_spike_pct": -3.9104083788688286,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 6
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-05T21:56:12.093248Z",
-      "score": 17.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.7
-    },
     {
       "ts": "2026-08-05T22:54:09.897697Z",
       "score": 13.8,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.0
+    },
+    {
+      "ts": "2026-08-26T06:37:07.352611Z",
+      "score": 23.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.3
     }
   ],
   "sources": [
