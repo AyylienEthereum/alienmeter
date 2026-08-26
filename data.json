@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-26T11:44:27.994383Z",
-  "score": 20.2,
+  "generated_at": "2026-08-26T12:04:16.366152Z",
+  "score": 51.0,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "ROSWELL ENERGY",
+    "flavor": "trust nothing",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": 0.3,
-    "d24h": 7.2,
+    "d1h": 29.9,
+    "d24h": 37.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 6.5,
-    "search_interest": 0.4,
+    "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,92 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "11:44",
+    "generated_utc": "12:04",
     "top_drivers": [
+      "Gallup Poll : Americans Are Skeptical Of UFOs | NewsRadio 560 WHYN",
+      "News velocity +198% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 4",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.9,
+    "live_signal": 55.4,
     "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 9.321656792,
     "asteroid_name": "221455 (2006 BC10)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 198.15731075860936,
     "x_last_hour": 0,
-    "wiki_spike_pct": 2.453201295587745,
+    "wiki_spike_pct": -3.9104083788688286,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs | NewsRadio 560 WHYN",
+      "source": "whyn.iheart.com",
+      "url": "https://whyn.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Former coach Felix Curry reaches $525 , 000 settlement with Fort Smith School District over his 2024 removal as Northside football coach",
+      "source": "nwaonline.com",
+      "url": "https://www.nwaonline.com/news/2026/aug/25/former-coach-felix-curry-reaches-525000/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "wtag.iheart.com",
+      "url": "https://wtag.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "newstalk1230.iheart.com",
+      "url": "https://newstalk1230.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "HBG Medical Assistance : Connecting the World to India Healthcare Excellence",
+      "source": "bruneinews.net",
+      "url": "http://www.bruneinews.net/news/279265880/hbg-medical-assistance-connecting-the-world-to-india-healthcare-excellence"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "wmmbam.iheart.com",
+      "url": "https://wmmbam.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "whnz.iheart.com",
+      "url": "https://whnz.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs | News Radio 1190 KEX",
+      "source": "1190kex.iheart.com",
+      "url": "https://1190kex.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs | News Talk 550 KFYI",
+      "source": "kfyi.iheart.com",
+      "url": "https://kfyi.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "600wrec.iheart.com",
+      "url": "https://600wrec.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3729\r Issue Time: 2026 Aug 26 0813 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -81,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-06T14:56:35.100486Z",
-      "score": 12.9,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 3.4
-    },
     {
       "ts": "2026-08-07T00:22:52.835467Z",
       "score": 18.7,
@@ -4784,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.9
+    },
+    {
+      "ts": "2026-08-26T12:04:16.289541Z",
+      "score": 51.0,
+      "band": "ROSWELL ENERGY",
+      "i": 3,
+      "live": 55.4
     }
   ],
   "sources": [
