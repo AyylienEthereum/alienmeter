@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-26T15:55:58.269729Z",
-  "score": 48.0,
+  "generated_at": "2026-08-26T16:43:32.261568Z",
+  "score": 22.1,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 27.8,
-    "d24h": 28.2,
+    "d1h": -28.9,
+    "d24h": 2.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 6.5,
     "search_interest": 0.4,
-    "space_weather_alerts": 4.8,
-    "seismic": 0.0,
-    "alien_variance": 1.4
+    "space_weather_alerts": 6.0,
+    "seismic": 2.6,
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,97 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "15:55",
+    "generated_utc": "16:43",
     "top_drivers": [
-      "News velocity +590% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 4",
+      "Things to do in metro Atlanta , North Georgia | Aug . 28 - 30 , 2026",
+      "NOAA space-weather alerts active: 5",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 51.6,
+    "live_signal": 18.4,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 9.321656792,
     "asteroid_name": "221455 (2006 BC10)",
-    "gdelt_spike_pct": 590.0379064973066,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.453201295587745,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5.2,
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Things to do in metro Atlanta , North Georgia | Aug . 28 - 30 , 2026",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/back-to-school/things-do-metro-atlanta-north-georgia-aug-28-30-2026"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gmanvqh3hfbm7te1i6ktp1q971"
+    },
+    {
+      "type": "news",
+      "text": "T\u00e9l\u00e9cran",
+      "source": "telecran.lu",
+      "url": "https://www.telecran.lu/FR/program/20260826/1242098582"
+    },
+    {
+      "type": "news",
+      "text": "The CIA Shares What Really Happens At Area 51 , And It Has Nothing To Do With Aliens Or UFOs",
+      "source": "2.boredpanda.com",
+      "url": "https://2.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160292&_f=homepage_featured&cexp_var=3"
+    },
+    {
+      "type": "news",
+      "text": "HBG Medical Assistance : Connecting the World to India Healthcare Excellence",
+      "source": "calcuttanews.net",
+      "url": "http://www.calcuttanews.net/news/279266304/hbg-medical-assistance-connecting-the-world-to-india-healthcare-excellence"
+    },
+    {
+      "type": "news",
+      "text": "Area 51 Fuels Alien Theories For Decades , But The Truth Revealed By The CIA Is Far Less Exciting",
+      "source": "boredpanda.com",
+      "url": "https://www.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160293&_f=homepage_featured&cexp_var=5"
+    },
+    {
+      "type": "news",
+      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
+      "source": "khow.iheart.com",
+      "url": "https://khow.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Natural Health Remedies / UFO Investigations | 960 WELI | Coast to Coast AM with George Noory",
+      "source": "960weli.iheart.com",
+      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/coast2coastam-natural-health-remedies-ufo-investigations/"
+    },
+    {
+      "type": "news",
+      "text": "  Earth Is Just a Tiny Rock : White House UFO Adviser Says Aliens Would Not Care Who the President Is",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/aliens-unconcerned-earthly-politics-1816440"
+    },
+    {
+      "type": "news",
+      "text": "The CIA Shares What Really Happens At Area 51 , And It Has Nothing To Do With Aliens Or UFOs",
+      "source": "2.boredpanda.com",
+      "url": "https://2.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160288&_f=homepage_featured&cexp_var=2"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 26 1636 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3729\r Issue Time: 2026 Aug 26 0813 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -69,10 +135,10 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 928\r Issue Time: 2026 Aug 26 0645 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: 55 km NW of Kod\u0101ri\u0307\u0304, Nepal",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -82,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-07T06:19:08.112147Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.9
-    },
     {
       "ts": "2026-08-07T07:51:23.022247Z",
       "score": 18.3,
@@ -4785,6 +4844,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 51.6
+    },
+    {
+      "ts": "2026-08-26T16:43:32.185284Z",
+      "score": 22.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.4
     }
   ],
   "sources": [
