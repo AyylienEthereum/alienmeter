@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T05:04:17.967316Z",
-  "score": 22.6,
+  "generated_at": "2026-08-26T05:49:47.962505Z",
+  "score": 21.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.7,
-    "d24h": 9.5,
+    "d1h": -0.7,
+    "d24h": 9.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "05:04",
+    "generated_utc": "05:49",
     "top_drivers": [
       "NOAA space-weather alerts active: 6",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
@@ -40,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.0,
+    "live_signal": 18.0,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-05T20:43:18.170034Z",
-      "score": 17.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.2
-    },
     {
       "ts": "2026-08-05T21:56:12.093248Z",
       "score": 17.1,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.0
+    },
+    {
+      "ts": "2026-08-26T05:49:47.882839Z",
+      "score": 21.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.0
     }
   ],
   "sources": [
