@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T07:32:05.458359Z",
-  "score": 21.0,
+  "generated_at": "2026-08-26T08:23:58.400282Z",
+  "score": 22.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.0,
-    "d24h": 5.9,
+    "d1h": 0.2,
+    "d24h": 9.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 1.2,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,36 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "07:32",
+    "generated_utc": "08:23",
     "top_drivers": [
-      "NOAA space-weather alerts active: 7",
+      "NOAA space-weather alerts active: 8",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.9,
+    "live_signal": 19.2,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 9.321656792,
     "asteroid_name": "221455 (2006 BC10)",
-    "gdelt_spike_pct": 4.8902426911234,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.453201295587745,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 8
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3729\r Issue Time: 2026 Aug 26 0813 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1525\r Issue Time: 2026 Aug 26 0658 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -68,12 +74,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 25 1838 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO 221455 (2006 BC10) passing at 9.32 LD (~741m, 19.0 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-05T23:55:13.488490Z",
-      "score": 16.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.0
-    },
     {
       "ts": "2026-08-06T01:58:56.612666Z",
       "score": 16.7,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.9
+    },
+    {
+      "ts": "2026-08-26T08:23:58.324022Z",
+      "score": 22.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.2
     }
   ],
   "sources": [
