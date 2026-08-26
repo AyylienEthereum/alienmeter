@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T20:28:28.599779Z",
-  "score": 23.7,
+  "generated_at": "2026-08-26T23:57:18.891732Z",
+  "score": 21.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.6,
-    "d24h": 9.8,
+    "d1h": -26.8,
+    "d24h": 7.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 4.8,
     "seismic": 2.6,
-    "alien_variance": 3.6
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "20:28",
+    "generated_utc": "23:57",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 4",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.4,
+    "live_signal": 17.3,
     "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=f0oaktqe014dte58ijkbfhd4d2"
+    },
+    {
+      "type": "news",
+      "text": "U of C researcher compares groups who claim to contact UFOs with modern - day shamanism",
+      "source": "calgaryherald.com",
+      "url": "https://calgaryherald.com:443/news/u-of-c-prof-makes-religious-parallel-between-groups-who-claim-to-contact-ufos"
+    },
+    {
+      "type": "news",
+      "text": "More Americans believe the government is withholding information about UFOs",
+      "source": "scientificamerican.com",
+      "url": "https://www.scientificamerican.com/article/more-americans-believe-the-government-is-withholding-information-about-ufos/"
+    },
+    {
+      "type": "news",
+      "text": "Two separate mini - Bigfoot sightings reported in an area of Pennsylvania with a history of activity",
+      "source": "foxnews.com",
+      "url": "https://www.foxnews.com/outkick-culture/two-separate-mini-bigfoot-sightings-reported-pennsylvania-history-activity"
+    },
+    {
+      "type": "news",
+      "text": "Delhi court grants 3 days police custody of Deepak Khatri in UAPA case , says allegations related to national security",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20260827/4491038.html"
+    },
+    {
+      "type": "news",
+      "text": "The push for UFO disclosure intensifies as pressure mounts on Donald Trump",
+      "source": "sott.net",
+      "url": "https://www.sott.net/article/508095-The-push-for-UFO-disclosure-intensifies-as-pressure-mounts-on-Donald-Trump"
+    },
+    {
+      "type": "news",
+      "text": "Swiggy Dineout launches  Order - in - Cinema feature , lets moviegoers get food delivered to their seats",
+      "source": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/08/26/swiggy-dineout-launches-order-in-cinemas-feature-lets-moviegoers-get-food-delivered-to-their-seats/"
+    },
+    {
+      "type": "news",
+      "text": "Iker Jim\u00e9nez ( 53 a\u00f1os ), sobre c\u00f3mo empez\u00f3 su pasi\u00f3n por lo paranormal :  El gran misterio de mi vida no es lo que yo cuento en los programas , sino lo que a m\u00ed me pas\u00f3 con 10 a\u00f1os  ",
+      "source": "elperiodico.com",
+      "url": "https://www.elperiodico.com/cuore/famosos/iker-jimenez-empezo-pasion-paranormal-nino-10-anos-ovnis-133514129"
+    },
+    {
+      "type": "news",
+      "text": "Swiggy Dineout launches  Order - in - Cinema feature , lets moviegoers get food delivered to their seats",
+      "source": "bollywoodhungama.com",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/swiggy-dineout-launches-order-in-cinemas-feature-lets-moviegoers-get-food-delivered-to-their-seats/"
+    },
+    {
+      "type": "news",
+      "text": "Things to do in metro Atlanta , North Georgia | Aug . 28 - 30 , 2026",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/back-to-school/things-do-metro-atlanta-north-georgia-aug-28-30-2026"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 26 1636 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-07T09:55:33.113376Z",
-      "score": 19.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.9
-    },
     {
       "ts": "2026-08-07T10:46:12.750238Z",
       "score": 19.5,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.4
+    },
+    {
+      "ts": "2026-08-26T23:57:18.838207Z",
+      "score": 21.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.3
     }
   ],
   "sources": [
