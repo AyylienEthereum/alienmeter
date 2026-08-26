@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-26T06:37:07.429541Z",
-  "score": 23.6,
+  "generated_at": "2026-08-26T07:32:05.458359Z",
+  "score": 21.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.8,
-    "d24h": 10.5,
+    "d1h": 1.0,
+    "d24h": 5.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 1.2,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 7.5,
+    "solar_flares": 2.5,
     "asteroid_approach": 6.5,
-    "search_interest": 0.0,
+    "search_interest": 0.4,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
     "alien_variance": 0.3
@@ -31,45 +31,45 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "06:37",
+    "generated_utc": "07:32",
     "top_drivers": [
-      "NOAA space-weather alerts active: 6",
+      "NOAA space-weather alerts active: 7",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.3,
+    "live_signal": 16.9,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "M",
+    "xray_class": "B",
     "closest_asteroid_ld": 9.321656792,
     "asteroid_name": "221455 (2006 BC10)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 4.8902426911234,
     "x_last_hour": 0,
-    "wiki_spike_pct": -3.9104083788688286,
+    "wiki_spike_pct": 2.453201295587745,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 7
   },
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1525\r Issue Time: 2026 Aug 26 0658 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: SUM10R\r Serial Number: 928\r Issue Time: 2026 Aug 26 0645 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 25 1838 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 326\r Issue Time: 2026 Aug 25 1027 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUM10R\r Serial Number: 927\r Issue Time: 2026 Aug 25 1020 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Aug ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-05T22:54:09.897697Z",
-      "score": 13.8,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 4.5
-    },
     {
       "ts": "2026-08-05T23:55:13.488490Z",
       "score": 16.5,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.3
+    },
+    {
+      "ts": "2026-08-26T07:32:05.383344Z",
+      "score": 21.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.9
     }
   ],
   "sources": [
