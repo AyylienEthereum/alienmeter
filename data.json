@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T16:43:32.261568Z",
-  "score": 22.1,
+  "generated_at": "2026-08-26T18:25:42.188036Z",
+  "score": 22.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -28.9,
-    "d24h": 2.8,
+    "d1h": 0.2,
+    "d24h": 6.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 6.0,
     "seismic": 2.6,
-    "alien_variance": 0.4
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 73,
     "date": "26.08.2026",
     "declassified": "26.08.26",
-    "generated_utc": "16:43",
+    "generated_utc": "18:25",
     "top_drivers": [
-      "Things to do in metro Atlanta , North Georgia | Aug . 28 - 30 , 2026",
       "NOAA space-weather alerts active: 5",
       "NEO 221455 (2006 BC10) passing Earth at 9.3 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.4,
+    "live_signal": 19.3,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 5
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Things to do in metro Atlanta , North Georgia | Aug . 28 - 30 , 2026",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/back-to-school/things-do-metro-atlanta-north-georgia-aug-28-30-2026"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gmanvqh3hfbm7te1i6ktp1q971"
-    },
-    {
-      "type": "news",
-      "text": "T\u00e9l\u00e9cran",
-      "source": "telecran.lu",
-      "url": "https://www.telecran.lu/FR/program/20260826/1242098582"
-    },
-    {
-      "type": "news",
-      "text": "The CIA Shares What Really Happens At Area 51 , And It Has Nothing To Do With Aliens Or UFOs",
-      "source": "2.boredpanda.com",
-      "url": "https://2.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160292&_f=homepage_featured&cexp_var=3"
-    },
-    {
-      "type": "news",
-      "text": "HBG Medical Assistance : Connecting the World to India Healthcare Excellence",
-      "source": "calcuttanews.net",
-      "url": "http://www.calcuttanews.net/news/279266304/hbg-medical-assistance-connecting-the-world-to-india-healthcare-excellence"
-    },
-    {
-      "type": "news",
-      "text": "Area 51 Fuels Alien Theories For Decades , But The Truth Revealed By The CIA Is Far Less Exciting",
-      "source": "boredpanda.com",
-      "url": "https://www.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160293&_f=homepage_featured&cexp_var=5"
-    },
-    {
-      "type": "news",
-      "text": "Gallup Poll : Americans Are Skeptical Of UFOs",
-      "source": "khow.iheart.com",
-      "url": "https://khow.iheart.com/content/2026-08-26-gallup-poll-americans-are-skeptical-of-ufos/"
-    },
-    {
-      "type": "news",
-      "text": "Natural Health Remedies / UFO Investigations | 960 WELI | Coast to Coast AM with George Noory",
-      "source": "960weli.iheart.com",
-      "url": "https://960weli.iheart.com/featured/coast-to-coast-am/content/coast2coastam-natural-health-remedies-ufo-investigations/"
-    },
-    {
-      "type": "news",
-      "text": "  Earth Is Just a Tiny Rock : White House UFO Adviser Says Aliens Would Not Care Who the President Is",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/aliens-unconcerned-earthly-politics-1816440"
-    },
-    {
-      "type": "news",
-      "text": "The CIA Shares What Really Happens At Area 51 , And It Has Nothing To Do With Aliens Or UFOs",
-      "source": "2.boredpanda.com",
-      "url": "https://2.boredpanda.com/area-51-cia-secret-revealed/?cexp_id=160288&_f=homepage_featured&cexp_var=2"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 280\r Issue Time: 2026 Aug 26 1636 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
@@ -148,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-07T07:51:23.022247Z",
-      "score": 18.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.4
-    },
     {
       "ts": "2026-08-07T08:51:33.211352Z",
       "score": 17.7,
@@ -4851,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.4
+    },
+    {
+      "ts": "2026-08-26T18:25:42.128865Z",
+      "score": 22.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.3
     }
   ],
   "sources": [
