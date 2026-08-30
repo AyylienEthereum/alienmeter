@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-30T17:27:58.973704Z",
-  "score": 21.3,
+  "generated_at": "2026-08-30T19:58:05.645641Z",
+  "score": 25.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.3,
-    "d24h": 5.1,
+    "d1h": 9.3,
+    "d24h": 10.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 10.8,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 6.6,
     "search_interest": 0.9,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.9
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 77,
     "date": "30.08.2026",
     "declassified": "30.08.26",
-    "generated_utc": "17:27",
+    "generated_utc": "19:58",
     "top_drivers": [
-      "Netflix 5 - Part Goonies Meets Indiana Jones Adventure Series Hits 80M Hours Viewed",
+      "News velocity +45% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +6% above baseline",
       "NEO (2017 RH16) passing Earth at 8.7 lunar distances"
@@ -42,14 +42,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.6,
+    "live_signal": 22.9,
     "baseline_recent": 14.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 8.6743547236,
     "asteroid_name": "(2017 RH16)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 45.20162291959923,
     "x_last_hour": 0,
     "wiki_spike_pct": 5.604947042431096,
     "earthquakes_24h": 0,
@@ -57,66 +57,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Netflix 5 - Part Goonies Meets Indiana Jones Adventure Series Hits 80M Hours Viewed",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/outer-banks-season-5-gonnies-indiana-jones-comparison-80-million-netflix-streaming-success-august-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Gessime Yassine , on lappelle lOvni - Ligue 1 - J2 - Strasbourg - Lens ( 2 - 1 ) ",
-      "source": "sofoot.com",
-      "url": "https://www.sofoot.com/articles/ligue-1-gessime-yassine-auteur-dun-double-face-au-rc-lens-est-le-nouveau-petit-prince-de-strasbourg"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=slcgk4kgi1pcapk0b5n579v8k5"
-    },
-    {
-      "type": "news",
-      "text": "Bosch FreshUp : hommage \u00e0 ce petit Ovni tech qui nous a sauv\u00e9s tout l  \u00e9t\u00e9",
-      "source": "lesnumeriques.com",
-      "url": "https://www.lesnumeriques.com/divers-electromenager/bosch-freshup-hommage-a-ce-petit-ovni-tech-qui-nous-a-sauves-tout-l-ete-n260712.html"
-    },
-    {
-      "type": "news",
-      "text": "\u4f60\u597d \uff0c \u65b0\u5b66\u671f \uff01 \u6210\u90fd\u9996\u6279  20\u540e  \u840c\u5a03\u4e0a\u5c0f\u5b66\u4e86",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1874957274492070702"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Moon size UFOs flying around Earths sun right now . UFO UAP alien paranormal breaking news . \ud83d\udc7d",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/08/moon-size-ufos-flying-around-earths-sun.html"
-    },
-    {
-      "type": "news",
-      "text": "Televangelist Katie Souza Claims Aliens Used an  Interdimensional Device  to Harvest Her Eggs",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/televangelist-katie-souza-alien-device-hybrid-child-1817030"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jgn255sgoli2u1c8sddd1brit7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9o866n7j99jojhngufnv5fb464"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=087qu5cb5b9fa5353c08vgdll4"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5410\r Issue Time: 2026 Aug 30 0555 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -131,13 +71,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-07T23:47:25.797974Z",
-      "score": 17.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.4
-    },
     {
       "ts": "2026-08-08T01:07:46.835083Z",
       "score": 19.3,
@@ -4834,6 +4767,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.6
+    },
+    {
+      "ts": "2026-08-30T19:58:05.566756Z",
+      "score": 25.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 22.9
     }
   ],
   "sources": [
