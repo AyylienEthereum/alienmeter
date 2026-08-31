@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T22:26:02.234676Z",
-  "score": 16.9,
+  "generated_at": "2026-08-31T00:43:31.852038Z",
+  "score": 18.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -30.1,
-    "d24h": 1.7,
+    "d1h": 1.0,
+    "d24h": 3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,16 +23,17 @@
     "search_interest": 0.9,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 77,
-    "day": 77,
-    "date": "30.08.2026",
-    "declassified": "30.08.26",
-    "generated_utc": "22:26",
+    "number": 78,
+    "day": 78,
+    "date": "31.08.2026",
+    "declassified": "31.08.26",
+    "generated_utc": "00:43",
     "top_drivers": [
+      "Vela lItalia domina la scena nelliQFoil ai Giochi del Mediterraneo ! Quattro azzurri in lotta per la vittoria",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +6% above baseline",
       "NEO (2017 RH16) passing Earth at 8.7 lunar distances"
@@ -41,21 +42,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
+    "live_signal": 13.9,
     "baseline_recent": 14.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 8.6743547236,
     "asteroid_name": "(2017 RH16)",
-    "gdelt_spike_pct": -72.81315843131924,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 5.604947042431096,
+    "wiki_spike_pct": 5.602451104705025,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Vela lItalia domina la scena nelliQFoil ai Giochi del Mediterraneo ! Quattro azzurri in lotta per la vittoria",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-08-30/vela-litalia-domina-la-scena-nelliqfoil-ai-giochi-del-mediterraneo-quattro-azzurri-in-lotta-per-la-vittoria/19623124/"
+    },
+    {
+      "type": "news",
+      "text": "\u0636\u0628\u0637 \u0627\u0644\u0645\u062a\u0647\u0645 \u0628\u0648\u0636\u0639",
+      "source": "dostor.org",
+      "url": "https://www.dostor.org/5685933"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o7i9jvlajc51n35270tnsh8o02"
+    },
+    {
+      "type": "news",
+      "text": "Netflix 5 - Part Goonies Meets Indiana Jones Adventure Series Hits 80M Hours Viewed",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/outer-banks-season-5-gonnies-indiana-jones-comparison-80-million-netflix-streaming-success-august-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Gessime Yassine , on lappelle lOvni - Ligue 1 - J2 - Strasbourg - Lens ( 2 - 1 ) ",
+      "source": "sofoot.com",
+      "url": "https://www.sofoot.com/articles/ligue-1-gessime-yassine-auteur-dun-double-face-au-rc-lens-est-le-nouveau-petit-prince-de-strasbourg"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=slcgk4kgi1pcapk0b5n579v8k5"
+    },
+    {
+      "type": "news",
+      "text": "Bosch FreshUp : hommage \u00e0 ce petit Ovni tech qui nous a sauv\u00e9s tout l  \u00e9t\u00e9",
+      "source": "lesnumeriques.com",
+      "url": "https://www.lesnumeriques.com/divers-electromenager/bosch-freshup-hommage-a-ce-petit-ovni-tech-qui-nous-a-sauves-tout-l-ete-n260712.html"
+    },
+    {
+      "type": "news",
+      "text": "\u4f60\u597d \uff0c \u65b0\u5b66\u671f \uff01 \u6210\u90fd\u9996\u6279  20\u540e  \u840c\u5a03\u4e0a\u5c0f\u5b66\u4e86",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1874957274492070702"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : Moon size UFOs flying around Earths sun right now . UFO UAP alien paranormal breaking news . \ud83d\udc7d",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2026/08/moon-size-ufos-flying-around-earths-sun.html"
+    },
+    {
+      "type": "news",
+      "text": "Televangelist Katie Souza Claims Aliens Used an  Interdimensional Device  to Harvest Her Eggs",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/televangelist-katie-souza-alien-device-hybrid-child-1817030"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5410\r Issue Time: 2026 Aug 30 0555 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -70,13 +131,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T03:00:06.748564Z",
-      "score": 30.1,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 25.7
-    },
     {
       "ts": "2026-08-08T04:14:26.479542Z",
       "score": 18.8,
@@ -4773,6 +4827,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-08-31T00:43:31.798612Z",
+      "score": 18.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.9
     }
   ],
   "sources": [
