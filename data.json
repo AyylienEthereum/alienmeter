@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-02T00:23:25.665236Z",
-  "score": 12.5,
+  "generated_at": "2026-09-02T04:51:56.528105Z",
+  "score": 29.8,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -10.9,
-    "d24h": -3.3,
+    "d1h": 13.0,
+    "d24h": 13.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 20.8,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 1.1,
-    "search_interest": 1.2,
+    "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.3
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,92 +31,31 @@
     "day": 80,
     "date": "02.09.2026",
     "declassified": "02.09.26",
-    "generated_utc": "00:23",
+    "generated_utc": "04:51",
     "top_drivers": [
-      "Tupac Shakur Murder Trial : Inside the Keffe D Verdict",
+      "News velocity +87% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2015 DM215) passing Earth at 42.9 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.3,
+    "live_signal": 28.4,
     "baseline_recent": 14.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 42.8916448831,
     "asteroid_name": "(2015 DM215)",
-    "gdelt_spike_pct": -23.029982784188725,
+    "gdelt_spike_pct": 86.55119453924914,
     "x_last_hour": 0,
-    "wiki_spike_pct": 7.588207605091893,
+    "wiki_spike_pct": -9.94035491048303,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Tupac Shakur Murder Trial : Inside the Keffe D Verdict",
-      "source": "hollywoodreporter.com",
-      "url": "https://www.hollywoodreporter.com/music/music-news/tupac-murder-guilty-verdict-mystery-isnt-over-1236686458/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jujbdrecevbo96bh0855ifoa21"
-    },
-    {
-      "type": "news",
-      "text": "Recovery residences are key for treating substance use disorder . Lawmakers fight for their existence",
-      "source": "gpb.org",
-      "url": "https://www.gpb.org/news/2026/09/01/recovery-residences-are-key-for-treating-substance-use-disorder-lawmakers-fight-for"
-    },
-    {
-      "type": "news",
-      "text": "Happy Hands Quilt Club September meeting set for Sept . 9",
-      "source": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/freeaccess/happy-hands-quilt-club-september-meeting-set-for-sept-9/article_b16250fd-87e8-4747-97e4-c5045d02d3f9.html"
-    },
-    {
-      "type": "news",
-      "text": "Indul az Xbox Disc to Digital programja \u2013 Itt a megmenthet\u0151 lemezes j\u00e1t\u00e9kok list\u00e1ja",
-      "source": "pcguru.hu",
-      "url": "https://www.pcguru.hu/hirek/indul-az-xbox-disc-to-digital-programja--itt-a-megmentheto-lemezes-jatekok-listaja-szlav/103512"
-    },
-    {
-      "type": "news",
-      "text": "Video : Revelan conversaci\u00f3n entre \u00d3scar Arriola y detenido por secuestro por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/9gDGtVK2tAM.revelan-conversacion-entre-oscar-arriola-y-detenido-por-secuestro.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i0jpf6dnvak2b6c2174le4atc4"
-    },
-    {
-      "type": "news",
-      "text": "  BOG TO NIJE HTIO : Vance otkrio detalje razgovora uo\u010di krvavog atentata na Trumpa",
-      "source": "slobodna-bosna.ba",
-      "url": "https://www.slobodna-bosna.ba/vijest/503059/bog_to_nije_htio_vance_otkrio_detalje_razgovora_uochi_krvavog_atentata_na_trumpa.html"
-    },
-    {
-      "type": "news",
-      "text": "12 Haunted Attractions to Visit in Maine For 2026",
-      "source": "wblm.com",
-      "url": "https://wblm.com/ixp/698/p/haunted-attractions-halloween-2026-maine/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o5igce72f1raqpas266v5n8983"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3732\r Issue Time: 2026 Sep 01 0737 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -131,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T12:01:34.672372Z",
-      "score": 23.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.1
-    },
     {
       "ts": "2026-08-08T13:11:00.470369Z",
       "score": 29.7,
@@ -4834,6 +4766,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.3
+    },
+    {
+      "ts": "2026-09-02T04:51:56.474525Z",
+      "score": 29.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 28.4
     }
   ],
   "sources": [
