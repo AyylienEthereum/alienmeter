@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:15:02.193781Z",
-  "score": 8.6,
+  "generated_at": "2026-09-02T13:42:49.279064Z",
+  "score": 12.5,
   "band": {
     "name": "NOTHINGBURGER",
     "flavor": "boringly terrestrial",
@@ -10,20 +10,20 @@
     "min": 0
   },
   "deltas": {
-    "d1h": -7.3,
-    "d24h": -8.6,
+    "d1h": -5.6,
+    "d24h": -4.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 1.1,
     "search_interest": 0.0,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,89 +31,35 @@
     "day": 80,
     "date": "02.09.2026",
     "declassified": "02.09.26",
-    "generated_utc": "09:15",
+    "generated_utc": "13:42",
     "top_drivers": [
-      "  Are Aliens Out There ?: Take These 18 Wild UFO And Conspiracy Questions",
+      "NOAA space-weather alerts active: 1",
       "NEO (2015 DM215) passing Earth at 42.9 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 1.2,
-    "baseline_recent": 14.7,
+    "live_signal": 6.3,
+    "baseline_recent": 14.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "B",
     "closest_asteroid_ld": 42.8916448831,
     "asteroid_name": "(2015 DM215)",
-    "gdelt_spike_pct": -73.20247207195136,
+    "gdelt_spike_pct": -0.8183752523323753,
     "x_last_hour": 0,
     "wiki_spike_pct": -9.94035491048303,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "  Are Aliens Out There ?: Take These 18 Wild UFO And Conspiracy Questions",
-      "source": "boredpanda.com",
-      "url": "https://www.boredpanda.com/ufo-and-conspiracy-theories-trivia/?cexp_id=160625&_f=homepage_featured&cexp_var=3"
-    },
-    {
-      "type": "news",
-      "text": "\u3053\u308c\u304c\u65e5\u672c\u4e0a\u7a7a\u3092\u98db\u3076 \u300c HAPS \u300d\u3001 \u30bd\u30d5\u30c8\u30d0\u30f3\u30af\u304c\u5199\u771f\u516c\u958b \u30b9\u30de\u30db\u901a\u4fe1\u8a66\u9a13\u306b\u6210\u529f",
-      "source": "japan.cnet.com",
-      "url": "https://japan.cnet.com/article/35252186/"
-    },
-    {
-      "type": "news",
-      "text": "Only Sharp - Eyed Trivia Fans Can Untangle These 18 UFO And Conspiracy Theories - Prove Yourself",
-      "source": "2.boredpanda.com",
-      "url": "https://2.boredpanda.com/ufo-and-conspiracy-theories-trivia/"
-    },
-    {
-      "type": "news",
-      "text": "Video : Captura de  Jhonsson Pulpo : Bolivia anuncia su expulsi\u00f3n por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/TfYr6-YMraY.captura-de-jhonsson-pulpo-bolivia-anuncia-su-expulsion.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Mosquitoes test positive for West Nile virus in Roswell",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/mosquitoes-test-positive-west-nile-virus-roswell"
-    },
-    {
-      "type": "news",
-      "text": "Aquiraz tem cobertura abaixo de 70 % em sete vacinas infantis",
-      "source": "opovo.com.br",
-      "url": "https://www.opovo.com.br/noticias/ceara/aquiraz/2026/09/01/aquiraz-tem-cobertura-abaixo-de-70-em-sete-vacinas-infantis.html"
-    },
-    {
-      "type": "news",
-      "text": "Video : Testigo asegura que un expresidente asist\u00eda a reuniones sobre extraterrestres VAOD por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/tfPg5MGX5OU.testigo-asegura-que-un-expresidente-asistia-a-reuniones-sobre-extraterrestres-vaod.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Video : Abogado de Bordemar exige a Municipalidad de Barranco respetar contratos y fallos judiciales por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/Vv-JxuhZ8rk.abogado-de-bordemar-exige-a-municipalidad-de-barranco-respetar-contratos-y-fallos-judiciales.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "Video : \u00a1 SEGUIMOS A FULL CON EL US OPEN ! \u00a1 HOY DEBUTA NACHO BUSE ! DATOFRANCO por RPP Noticias",
-      "source": "deperu.com",
-      "url": "https://www.deperu.com/tv/0MsDzk3m1O8.seguimos-a-full-con-el-us-open-hoy-debuta-nacho-buse-datofranco.UC5j8-2FT0ZMMBkmK72R4aeA.html"
-    },
-    {
-      "type": "news",
-      "text": "\u5c06\u4e8e9\u67082\u65e5\u4e0a\u5e02 \u65b0\u6b3e\u7406\u60f3MEGA\u7d2b\u6676\u7070\u8f66\u8272\u5b98\u56fe \u642d\u914d\u6df1\u7a7a\u7070\u98de\u789f\u8f6e\u5708 _ \u65b0\u8f66\u4e0a\u5e02 _ \u6c7d\u8f66 _ \u4e2d\u91d1\u5728\u7ebf",
-      "source": "auto.cnfol.com",
-      "url": "http://auto.cnfol.com/xincheshangshi/20260902/32357404.shtml"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3733\r Issue Time: 2026 Sep 02 1014 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
@@ -123,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T13:56:09.844794Z",
-      "score": 25.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.8
-    },
     {
       "ts": "2026-08-08T14:26:17.080312Z",
       "score": 25.4,
@@ -4826,6 +4765,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 1.2
+    },
+    {
+      "ts": "2026-09-02T13:42:49.200609Z",
+      "score": 12.5,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.3
     }
   ],
   "sources": [
