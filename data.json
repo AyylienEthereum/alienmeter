@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-09-02T22:25:44.730621Z",
-  "score": 15.3,
+  "generated_at": "2026-09-03T00:27:53.724204Z",
+  "score": 13.6,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 6.7,
-    "d24h": 3.0,
+    "d1h": 1.1,
+    "d24h": -9.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 1.1,
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.2
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 80,
-    "day": 80,
-    "date": "02.09.2026",
-    "declassified": "02.09.26",
-    "generated_utc": "22:25",
+    "number": 81,
+    "day": 81,
+    "date": "03.09.2026",
+    "declassified": "03.09.26",
+    "generated_utc": "00:27",
     "top_drivers": [
       "NOAA space-weather alerts active: 3",
       "NEO (2015 DM215) passing Earth at 42.9 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.9,
+    "live_signal": 7.7,
     "baseline_recent": 14.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 42.8916448831,
     "asteroid_name": "(2015 DM215)",
-    "gdelt_spike_pct": -73.09234908869371,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.94035491048303,
+    "wiki_spike_pct": -9.614517814337521,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T15:57:18.855384Z",
-      "score": 24.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.4
-    },
     {
       "ts": "2026-08-08T16:28:55.082369Z",
       "score": 26.0,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.9
+    },
+    {
+      "ts": "2026-09-03T00:27:53.662922Z",
+      "score": 13.6,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.7
     }
   ],
   "sources": [
