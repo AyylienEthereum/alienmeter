@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:44:13.364884Z",
-  "score": 17.1,
+  "generated_at": "2026-09-03T17:16:51.051220Z",
+  "score": 21.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.8,
-    "d24h": 1.0,
+    "d1h": 7.6,
+    "d24h": -1.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 1.1,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 3.1,
-    "alien_variance": 2.0
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,21 +31,20 @@
     "day": 81,
     "date": "03.09.2026",
     "declassified": "03.09.26",
-    "generated_utc": "13:44",
+    "generated_utc": "17:16",
     "top_drivers": [
-      "Evis Sala dha dor\u00ebheqjen , Klodiana Spahiu propozohet nga Rama p\u00ebr detyr\u00ebn e Ministres s\u00eb Sh\u00ebndet\u00ebsis\u00eb",
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 4",
       "NEO (2015 DM215) passing Earth at 42.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.3,
+    "live_signal": 17.6,
     "baseline_recent": 14.5,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 42.8916448831,
     "asteroid_name": "(2015 DM215)",
     "gdelt_spike_pct": null,
@@ -53,68 +52,14 @@
     "wiki_spike_pct": -9.800765940959957,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Evis Sala dha dor\u00ebheqjen , Klodiana Spahiu propozohet nga Rama p\u00ebr detyr\u00ebn e Ministres s\u00eb Sh\u00ebndet\u00ebsis\u00eb",
-      "source": "rtsh.al",
-      "url": "https://rtsh.al/evis-sala-dha-doreheqjen-klodiana-spahiu-emerohet-ministre-e-shendetesise/"
-    },
-    {
-      "type": "news",
-      "text": "IN MEMORIAM \u2013 o \u00eent\u00e2lnire cu memoria unor arti\u0219ti care au marcat via\u021ba cultural\u0103 a Albei",
-      "source": "ziarulunirea.ro",
-      "url": "https://ziarulunirea.ro/in-memoriam-o-intalnire-cu-memoria-unor-artisti-care-au-marcat-viata-culturala-a-albei-1009672/"
-    },
-    {
-      "type": "news",
-      "text": "\u95ea\u7535\u5feb\u8baf \uff5c \u65b0\u4e00\u4ee3\u7406\u60f3MEGA\u4ee550 . 98\u4e07\u5143\u4e0a\u5e02 \u65b0\u589e\u53f3\u8235\u7248\u672c",
-      "source": "k.sina.com.cn",
-      "url": "https://k.sina.com.cn/article_6192937794_17120bb4202002txcu.html"
-    },
-    {
-      "type": "news",
-      "text": "Deze nieuwe LEGO - set verbergt twee iconische sc\u00e8nes in n model",
-      "source": "xgn.nl",
-      "url": "https://www.xgn.nl/nieuws/deze-nieuwe-lego-set-verbergt-twee-iconische-scenes-in-een-model?comment=23327"
-    },
-    {
-      "type": "news",
-      "text": "Roma Aliena : X - Files , UFO e Misteri venuti dal cielo in una visita guidata",
-      "source": "romatoday.it",
-      "url": "https://www.romatoday.it/eventi/roma-aliena-x-files-ufo-visita-guidata-18-settembre-2026.html"
-    },
-    {
-      "type": "news",
-      "text": "Catch a double - bill of Gregg Araki movies",
-      "source": "outinperth.com",
-      "url": "https://www.outinperth.com/catch-a-double-bill-of-gregg-araki-movies/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=muqlrfuqrnhegs6c719uruqvt2"
-    },
-    {
-      "type": "news",
-      "text": "\u914d\u7f6e\u5168\u7cfb\u62c9\u6ee1 \uff0c \u65b0\u4e00\u4ee3\u7406\u60f3MEGA\u552e\u4ef750 . 98\u4e07\u5143",
-      "source": "xxcb.cn",
-      "url": "https://www.xxcb.cn/details/2q8biSYgB6a98eb8b84201724ec019d42.html"
-    },
-    {
-      "type": "news",
-      "text": "\u65b0\u4e00\u4ee3\u7406\u60f3MEGA\u6b63\u5f0f\u53d1\u5e03 \uff1a \u4ec5\u4fdd\u7559Home\u7248 \u552e\u4ef750 . 98\u4e07\u5143 - \u5546\u4e1a\u6d88\u8d39 - ITBear\u79d1\u6280\u8d44\u8baf",
-      "source": "itbear.com.cn",
-      "url": "https://www.itbear.com.cn/html/2026-09/1539266.html"
-    },
-    {
-      "type": "news",
-      "text": "iQOO 16\u5916\u89c2\u6e32\u67d3\u56fe\u9996\u66dd - \u65b0\u6444\u4f1a _ \u534e\u5546\u7f51\u6570\u7801",
-      "source": "digi.hsw.cn",
-      "url": "https://digi.hsw.cn/system/2026/0903/177899.shtml"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1527\r Issue Time: 2026 Sep 03 1644 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -125,12 +70,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP4\r Serial Number: 716\r Issue Time: 2026 Sep 02 1955 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1526\r Issue Time: 2026 Sep 02 1945 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -154,13 +93,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T18:13:19.729588Z",
-      "score": 23.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.7
-    },
     {
       "ts": "2026-08-08T18:58:46.368793Z",
       "score": 27.0,
@@ -4857,6 +4789,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.3
+    },
+    {
+      "ts": "2026-09-03T17:16:50.976449Z",
+      "score": 21.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.6
     }
   ],
   "sources": [
