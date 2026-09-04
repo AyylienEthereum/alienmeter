@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-04T21:50:00.397441Z",
-  "score": 13.4,
+  "generated_at": "2026-09-04T23:38:04.856106Z",
+  "score": 14.1,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -1.5,
-    "d24h": -9.2,
+    "d1h": 1.9,
+    "d24h": -8.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.4
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 82,
     "date": "04.09.2026",
     "declassified": "04.09.26",
-    "generated_utc": "21:50",
+    "generated_utc": "23:38",
     "top_drivers": [
       "NOAA space-weather alerts active: 3",
       "NEO 246138 (2007 OG3) passing Earth at 49.5 lunar distances"
@@ -40,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.6,
+    "live_signal": 8.5,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T23:53:41.672891Z",
-      "score": 52.6,
-      "band": "ROSWELL ENERGY",
-      "i": 3,
-      "live": 54.5
-    },
     {
       "ts": "2026-08-09T01:11:52.062768Z",
       "score": 24.7,
@@ -4784,6 +4777,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.6
+    },
+    {
+      "ts": "2026-09-04T23:38:04.792758Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.5
     }
   ],
   "sources": [
