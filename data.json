@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-04T17:05:41.175565Z",
-  "score": 12.9,
+  "generated_at": "2026-09-04T19:34:19.389271Z",
+  "score": 15.3,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -5.1,
-    "d24h": -6.8,
+    "d1h": -0.9,
+    "d24h": -5.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 0.1,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,21 +31,20 @@
     "day": 82,
     "date": "04.09.2026",
     "declassified": "04.09.26",
-    "generated_utc": "17:05",
+    "generated_utc": "19:34",
     "top_drivers": [
-      "The Chit Chat Thread - General Discussion Forum - Page 460 ( Page 460 ) ",
       "NOAA space-weather alerts active: 1",
       "NEO 246138 (2007 OG3) passing Earth at 49.5 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.9,
+    "live_signal": 10.0,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 49.5089671399,
     "asteroid_name": "246138 (2007 OG3)",
     "gdelt_spike_pct": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "The Chit Chat Thread - General Discussion Forum - Page 460 ( Page 460 ) ",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/forums/ps_general_discussion/the_chit_chat_thread?start=9180"
-    },
-    {
-      "type": "news",
-      "text": "Entertainment News - 977 The Bay",
-      "source": "977thebay.com",
-      "url": "https://977thebay.com/entertainment-news/4f64f8afb45750bf3e6341ea1f71f83d"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=vuin9ocm96mnjtiqqqmb41m526"
-    },
-    {
-      "type": "news",
-      "text": "Uf\u00f3logo :  Que el comisario se dedique a lo suyo  ",
-      "source": "diariojornada.com.ar",
-      "url": "http://diariojornada.com.ar/422995/magazine/ufologo_que_el_comisario_se_dedique_a_lo_suyo"
-    },
-    {
-      "type": "news",
-      "text": "El festival VESU abre \u00ab Valta la Muria \u00bb, la so primer convocatoria pafayar y acompa\u00f1ar nuevos proyectos musicales asturianos",
-      "source": "lavozdeasturias.es",
-      "url": "https://www.lavozdeasturias.es/noticia/agora/2026/09/04/festival-vesu-abre-valta-muria-so-primer-convocatoria-pafayar-acompanar-nuevos-proyectos-musicales-asturianos/00031788517584924516227.htm"
-    },
-    {
-      "type": "news",
-      "text": "Salle 3000 : Sigur R\u00f3s et son orchestre",
-      "source": "lyoncapitale.fr",
-      "url": "https://www.lyoncapitale.fr/culture/sigur-ros-et-son-orchestre"
-    },
-    {
-      "type": "news",
-      "text": "La NASA fotografi\u00f3 una  medusa  flotando sobre Marte : la historia que esconde este extra\u00f1o hallazgo",
-      "source": "20minutos.es",
-      "url": "https://www.20minutos.es/ciencia/nasa-fotografio-medusa-flotando-marte-historia-esconde-extrano-hallazgo_7032837_0.html"
-    },
-    {
-      "type": "news",
-      "text": "Warum Verschw\u00f6rungsmythen so best\u00e4ndig und fesselnd sind",
-      "source": "stuttgarter-zeitung.de",
-      "url": "https://www.stuttgarter-zeitung.de/politik/von-illuminati-zu-qanon-warum-verschwoerungsmythen-so-bestaendig-und-fesselnd-sind-78829211.html"
-    },
-    {
-      "type": "news",
-      "text": "Sandra Bullock sugli alieni : \u00ab Ho visto gli UFO , ecco quando . Ho preferito non dire niente finch\u00e9 il governo non ha confermato \u00bb ",
-      "source": "leggo.it",
-      "url": "https://www.leggo.it/gossip/news/04_settembre_2026_sandra_bullock_alieni_ufo_podcast_not_gonna_lie_kylie_kelce-9743162.html"
-    },
-    {
-      "type": "news",
-      "text": "  \u5f20\u5de5  \u5f20\u51cc\u8d6b\u4eae\u76f8\u534e\u5e1d\u76f4\u64ad\u95f4 \uff0c \u786c\u6838\u62c6\u673a\u5f15\u767e\u4e07\u7f51\u53cb\u56f4\u89c2 _ \u65b0\u6d6a\u79d1\u6280 _ \u65b0\u6d6a\u7f51",
-      "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqsenu6096461.shtml"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3735\r Issue Time: 2026 Sep 04 1208 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T22:56:30.822639Z",
-      "score": 26.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 21.4
-    },
     {
       "ts": "2026-08-08T23:23:47.627763Z",
       "score": 25.7,
@@ -4833,6 +4765,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.9
+    },
+    {
+      "ts": "2026-09-04T19:34:19.309206Z",
+      "score": 15.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.0
     }
   ],
   "sources": [
