@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-04T00:16:35.373430Z",
-  "score": 18.0,
+  "generated_at": "2026-09-04T04:52:42.858051Z",
+  "score": 16.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": 0.4,
+    "d1h": -5.0,
+    "d24h": -0.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 2.9
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 82,
     "date": "04.09.2026",
     "declassified": "04.09.26",
-    "generated_utc": "00:16",
+    "generated_utc": "04:52",
     "top_drivers": [
-      "Gas Line Near Endicott Huron Campus Damaged",
       "NOAA space-weather alerts active: 2",
       "NEO 246138 (2007 OG3) passing Earth at 49.5 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.5,
+    "live_signal": 11.1,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
@@ -50,72 +49,12 @@
     "asteroid_name": "246138 (2007 OG3)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.715728782525066,
+    "wiki_spike_pct": -11.607142857142849,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Gas Line Near Endicott Huron Campus Damaged",
-      "source": "981thehawk.com",
-      "url": "https://981thehawk.com/ixp/499/p/endicott-gas-line-damaged/"
-    },
-    {
-      "type": "news",
-      "text": "Gas Line Near Endicott Huron Campus Damaged",
-      "source": "991thewhale.com",
-      "url": "https://991thewhale.com/ixp/499/p/endicott-gas-line-damaged/"
-    },
-    {
-      "type": "news",
-      "text": "The US government has a preparedness plan in case of NHI disclosure",
-      "source": "sott.net",
-      "url": "https://www.sott.net/article/508222-The-US-government-has-a-preparedness-plan-in-case-of-NHI-disclosure"
-    },
-    {
-      "type": "news",
-      "text": "O fim do sil\u00eancio de Phoebe Bridgers",
-      "source": "observador.pt",
-      "url": "https://observador.pt/2026/09/03/o-fim-do-silencio-de-phoebe-bridgers/"
-    },
-    {
-      "type": "news",
-      "text": "LAJM I FUNDIT / Pas dor\u00ebheqjes s\u00eb Evis Sal\u00ebs , Rama zgjedh ministren e re e Sh\u00ebndet\u00ebsis\u00eb , ja kush \u00ebsht\u00eb",
-      "source": "portalifiks.com",
-      "url": "https://portalifiks.com/lajm-i-fundit-pas-doreheqjes-se-evis-sales-rama-zgjedh-ministren-e-re-e-shendetesise-ja-kush-eshte/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=il655eclm161rbe5gc9adj34h1"
-    },
-    {
-      "type": "news",
-      "text": "Zv / kryetarja e kuvendit dhe kardiologia , Klodiana Spahiu merr drejtimin e Sh\u00ebndet\u00ebsis\u00eb",
-      "source": "aia.al",
-      "url": "https://aia.al/klodiana-spahiu-merr-drejtimin-e-shendetesise-zevendeson-evis-salen-pas-doreheqjes-se-bujshme/"
-    },
-    {
-      "type": "news",
-      "text": "Light a Light Event Offers Tours , Resources and BBQ Dinner",
-      "source": "961theeagle.com",
-      "url": "https://961theeagle.com/ixp/40/p/oneida-light-a-light-2026/"
-    },
-    {
-      "type": "news",
-      "text": "Man fatally shoots cousin after argument over whose enchiladas were spicier",
-      "source": "wpxi.com",
-      "url": "https://www.wpxi.com/news/trending/man-fatally-shoots-cousin-after-argument-over-whose-enchiladas-were-spicier/KY2USUIHVBDGRITHDNVQMECRGI/"
-    },
-    {
-      "type": "news",
-      "text": "Man fatally shoots cousin after argument over whose enchiladas were spicier",
-      "source": "wokv.com",
-      "url": "https://www.wokv.com/news/trending/man-fatally-shoots-cousin-after-argument-over-whose-enchiladas-were-spicier/KY2USUIHVBDGRITHDNVQMECRGI/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1527\r Issue Time: 2026 Sep 03 1644 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -148,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T20:47:11.093480Z",
-      "score": 26.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 20.4
-    },
     {
       "ts": "2026-08-08T21:23:51.051219Z",
       "score": 25.8,
@@ -4851,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.5
+    },
+    {
+      "ts": "2026-09-04T04:52:42.783403Z",
+      "score": 16.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.1
     }
   ],
   "sources": [
