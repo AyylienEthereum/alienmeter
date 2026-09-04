@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-04T09:16:20.798238Z",
-  "score": 14.9,
+  "generated_at": "2026-09-04T13:39:57.738731Z",
+  "score": 12.2,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -4.1,
-    "d24h": -4.4,
+    "d1h": -4.5,
+    "d24h": -7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 0.1,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
-    "seismic": 3.1,
-    "alien_variance": 3.9
+    "seismic": 0.0,
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 82,
     "date": "04.09.2026",
     "declassified": "04.09.26",
-    "generated_utc": "09:16",
+    "generated_utc": "13:39",
     "top_drivers": [
+      "Salle 3000 : Sigur R\u00f3s et son orchestre",
       "NOAA space-weather alerts active: 2",
       "NEO 246138 (2007 OG3) passing Earth at 49.5 lunar distances"
     ],
@@ -40,44 +41,92 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.5,
+    "live_signal": 6.0,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
-    "closest_asteroid_ld": 49.50896749,
+    "xray_class": "B",
+    "closest_asteroid_ld": 49.5089671399,
     "asteroid_name": "246138 (2007 OG3)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -11.607142857142849,
-    "earthquakes_24h": 2,
-    "max_quake_mag_24h": 6.3,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Salle 3000 : Sigur R\u00f3s et son orchestre",
+      "source": "lyoncapitale.fr",
+      "url": "https://www.lyoncapitale.fr/culture/sigur-ros-et-son-orchestre"
+    },
+    {
+      "type": "news",
+      "text": "La NASA fotografi\u00f3 una  medusa  flotando sobre Marte : la historia que esconde este extra\u00f1o hallazgo",
+      "source": "20minutos.es",
+      "url": "https://www.20minutos.es/ciencia/nasa-fotografio-medusa-flotando-marte-historia-esconde-extrano-hallazgo_7032837_0.html"
+    },
+    {
+      "type": "news",
+      "text": "Warum Verschw\u00f6rungsmythen so best\u00e4ndig und fesselnd sind",
+      "source": "stuttgarter-zeitung.de",
+      "url": "https://www.stuttgarter-zeitung.de/politik/von-illuminati-zu-qanon-warum-verschwoerungsmythen-so-bestaendig-und-fesselnd-sind-78829211.html"
+    },
+    {
+      "type": "news",
+      "text": "Sandra Bullock sugli alieni : \u00ab Ho visto gli UFO , ecco quando . Ho preferito non dire niente finch\u00e9 il governo non ha confermato \u00bb ",
+      "source": "leggo.it",
+      "url": "https://www.leggo.it/gossip/news/04_settembre_2026_sandra_bullock_alieni_ufo_podcast_not_gonna_lie_kylie_kelce-9743162.html"
+    },
+    {
+      "type": "news",
+      "text": "  \u5f20\u5de5  \u5f20\u51cc\u8d6b\u4eae\u76f8\u534e\u5e1d\u76f4\u64ad\u95f4 \uff0c \u786c\u6838\u62c6\u673a\u5f15\u767e\u4e07\u7f51\u53cb\u56f4\u89c2 _ \u65b0\u6d6a\u79d1\u6280 _ \u65b0\u6d6a\u7f51",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqsenu6096461.shtml"
+    },
+    {
+      "type": "news",
+      "text": "\u534e\u5e1d\u5c0f\u98de\u789fK30 \uff1a \u4e3a\u4f55\u88ab\u5938\u6709  \u673a\u738b\u76f8 ?_ \u65b0\u6d6a\u79d1\u6280 _ \u65b0\u6d6a\u7f51",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqsenu1269684.shtml"
+    },
+    {
+      "type": "news",
+      "text": "  \u5f20\u5de5  \u5f20\u51cc\u8d6b\u4eae\u76f8\u534e\u5e1d\u76f4\u64ad\u95f4 \uff0c \u786c\u6838\u62c6\u673a\u5f15\u767e\u4e07\u7f51\u53cb\u56f4\u89c2 _ \u65b0\u6d6a\u79d1\u6280 _ \u65b0\u6d6a\u7f51",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqsenq4101561.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Klodiana Spahiu z\u00ebvend\u00ebson Evis Sal\u00ebn n\u00eb krye t\u00eb Sh\u00ebndet\u00ebsis\u00eb , zbardhet pasuria marramend\u00ebse e ministres s\u00eb re , 11 apartamente , klinik\u00eb private e ullishte dhurat\u00eb me t\u00eb ardhurat nga pagat e saj dhe",
+      "source": "sot.com.al",
+      "url": "http://www.sot.com.al/klodiana-spahiu-zevendeson-evis-salen-ne-krye-te-shendetesise-zbardhet-pasuria-marramendese-e-ministres-se-re-11-apartamente-klinike-private-e-ullishte-dhurate-me-te-ardhurat-nga-pagat-e-saj-dhe-te-bashkeshortit-i5181658"
+    },
+    {
+      "type": "news",
+      "text": "\u9ad8\u7aef\u7eaf\u7535 MPV \u8fdb\u5165\u6280\u672f\u6df1\u6c34\u533a \u5bb6\u7528\u8d5b\u9053\u8fce\u6765\u65d7\u8230\u4ea7\u54c1\u8fed\u4ee3\u4e28\u65b0\u7ecf\u6d4e\u89c2\u5bdf",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqsenu6062475.shtml"
+    },
+    {
+      "type": "news",
+      "text": "\u9ad8\u7aef\u7eaf\u7535 MPV \u8fdb\u5165\u6280\u672f\u6df1\u6c34\u533a \u5bb6\u7528\u8d5b\u9053\u8fce\u6765\u65d7\u8230\u4ea7\u54c1\u8fed\u4ee3\u4e28\u65b0\u7ecf\u6d4e\u89c2\u5bdf",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bbgq6.html"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3735\r Issue Time: 2026 Sep 04 1208 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1527\r Issue Time: 2026 Sep 03 1644 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3734\r Issue Time: 2026 Sep 03 1031 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 21 km WNW of Jiangyou, China",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 84 km SSW of Nikolski, Alaska",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -87,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T21:54:23.727601Z",
-      "score": 26.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 20.6
-    },
     {
       "ts": "2026-08-08T22:22:06.177734Z",
       "score": 25.1,
@@ -4790,6 +4832,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 9.5
+    },
+    {
+      "ts": "2026-09-04T13:39:57.662138Z",
+      "score": 12.2,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.0
     }
   ],
   "sources": [
