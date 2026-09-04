@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-03T22:28:02.824038Z",
-  "score": 16.7,
+  "generated_at": "2026-09-04T00:16:35.373430Z",
+  "score": 18.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.2,
-    "d24h": -0.9,
+    "d1h": 0.9,
+    "d24h": 0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,43 +19,61 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
-    "asteroid_approach": 1.1,
+    "asteroid_approach": 0.1,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 3.1,
-    "alien_variance": 0.2
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 81,
-    "day": 81,
-    "date": "03.09.2026",
-    "declassified": "03.09.26",
-    "generated_utc": "22:28",
+    "number": 82,
+    "day": 82,
+    "date": "04.09.2026",
+    "declassified": "04.09.26",
+    "generated_utc": "00:16",
     "top_drivers": [
-      "O fim do sil\u00eancio de Phoebe Bridgers",
+      "Gas Line Near Endicott Huron Campus Damaged",
       "NOAA space-weather alerts active: 2",
-      "NEO (2015 DM215) passing Earth at 42.9 lunar distances"
+      "NEO 246138 (2007 OG3) passing Earth at 49.5 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.8,
-    "baseline_recent": 14.5,
+    "live_signal": 13.5,
+    "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
-    "closest_asteroid_ld": 42.8916448831,
-    "asteroid_name": "(2015 DM215)",
+    "closest_asteroid_ld": 49.50896749,
+    "asteroid_name": "246138 (2007 OG3)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.800765940959957,
+    "wiki_spike_pct": -9.715728782525066,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Gas Line Near Endicott Huron Campus Damaged",
+      "source": "981thehawk.com",
+      "url": "https://981thehawk.com/ixp/499/p/endicott-gas-line-damaged/"
+    },
+    {
+      "type": "news",
+      "text": "Gas Line Near Endicott Huron Campus Damaged",
+      "source": "991thewhale.com",
+      "url": "https://991thewhale.com/ixp/499/p/endicott-gas-line-damaged/"
+    },
+    {
+      "type": "news",
+      "text": "The US government has a preparedness plan in case of NHI disclosure",
+      "source": "sott.net",
+      "url": "https://www.sott.net/article/508222-The-US-government-has-a-preparedness-plan-in-case-of-NHI-disclosure"
+    },
     {
       "type": "news",
       "text": "O fim do sil\u00eancio de Phoebe Bridgers",
@@ -99,24 +117,6 @@
       "url": "https://www.wokv.com/news/trending/man-fatally-shoots-cousin-after-argument-over-whose-enchiladas-were-spicier/KY2USUIHVBDGRITHDNVQMECRGI/"
     },
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=frjd1rvsrt2b5iv901gn1882v1"
-    },
-    {
-      "type": "news",
-      "text": "Evis Sala dha dor\u00ebheqjen , Klodiana Spahiu propozohet nga Rama p\u00ebr detyr\u00ebn e Ministres s\u00eb Sh\u00ebndet\u00ebsis\u00eb",
-      "source": "rtsh.al",
-      "url": "https://rtsh.al/evis-sala-dha-doreheqjen-klodiana-spahiu-emerohet-ministre-e-shendetesise/"
-    },
-    {
-      "type": "news",
-      "text": "IN MEMORIAM \u2013 o \u00eent\u00e2lnire cu memoria unor arti\u0219ti care au marcat via\u021ba cultural\u0103 a Albei",
-      "source": "ziarulunirea.ro",
-      "url": "https://ziarulunirea.ro/in-memoriam-o-intalnire-cu-memoria-unor-artisti-care-au-marcat-viata-culturala-a-albei-1009672/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1527\r Issue Time: 2026 Sep 03 1644 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
@@ -142,19 +142,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2015 DM215) passing at 42.89 LD (~86m, 14.2 km/s)",
+      "text": "NEO 246138 (2007 OG3) passing at 49.51 LD (~1331m, 4.9 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T20:02:12.793987Z",
-      "score": 28.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 23.0
-    },
     {
       "ts": "2026-08-08T20:47:11.093480Z",
       "score": 26.0,
@@ -4851,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.8
+    },
+    {
+      "ts": "2026-09-04T00:16:35.313282Z",
+      "score": 18.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.5
     }
   ],
   "sources": [
