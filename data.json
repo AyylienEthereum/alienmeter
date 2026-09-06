@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-06T04:35:43.747248Z",
-  "score": 18.1,
+  "generated_at": "2026-09-06T08:55:23.938321Z",
+  "score": 14.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 4.6,
-    "d24h": -4.6,
+    "d1h": -1.0,
+    "d24h": -5.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 1.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 1.9,
-    "alien_variance": 2.1
+    "alien_variance": 0.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 84,
     "date": "06.09.2026",
     "declassified": "06.09.26",
-    "generated_utc": "04:35",
+    "generated_utc": "08:55",
     "top_drivers": [
+      "Vince Tempera | Direttori dorchestra a Sanremo ? C  \u00e8 chi ci va gratis per dire che era l\u00ec Nessuno sa pi\u00f9 scrivere musica",
       "NOAA space-weather alerts active: 7",
       "NEO (2013 OY3) passing Earth at 43.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.6,
+    "live_signal": 9.6,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "A",
     "closest_asteroid_ld": 43.042159136,
     "asteroid_name": "(2013 OY3)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -21.541652264085727,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.5598971154135945,
     "earthquakes_24h": 1,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Vince Tempera | Direttori dorchestra a Sanremo ? C  \u00e8 chi ci va gratis per dire che era l\u00ec Nessuno sa pi\u00f9 scrivere musica",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-09-06/vince-tempera-direttori-dorchestra-a-sanremo-ce-chi-ci-va-gratis-per-dire-che-era-li-nessuno-sa-piu-scrivere-musica/19647972/"
+    },
+    {
+      "type": "news",
+      "text": "Capital du 6 septembre 2026 : le sommaire de l  \u00e9mission ce soir sur M6",
+      "source": "stars-actu.fr",
+      "url": "https://www.stars-actu.fr/2026/09/capital-du-6-septembre-2026-le-sommaire-de-lemission-ce-soir-sur-m6/"
+    },
+    {
+      "type": "news",
+      "text": "\u65b0\u4e00\u4ee3\u7406\u60f3MEGA\u5f00\u542f\u5168\u56fd\u9996\u6279\u4ea4\u4ed8 \u552e\u4ef750 . 98\u4e07\u5143",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_1912222221_71fa320d02001oluq.html"
+    },
+    {
+      "type": "news",
+      "text": "AEW Collision results ( 9 / 6 ): Murphy review of Andrade El Idolo vs . Gabe Kidd for the AEW National Championship , Persephone vs . VertVixen for the TBS Championship , MCMG vs . The Swirl",
+      "source": "prowrestling.net",
+      "url": "https://prowrestling.net/site/2026/09/06/aew-collision-results-9-6-murphys-review-of-andrade-el-idolo-vs-gabe-kidd-for-the-aew-national-championship-persephone-vs-vertvixen-for-the-tbs-championship-mcmg-vs-the-swirl/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n896fmsdhv39o33cundv34pvc7"
+    },
+    {
+      "type": "news",
+      "text": "Mere Possession Of Allegedly Anti - National Books Does Not Make One A Criminal : J & K & L High Court Quashes Detention Of Scholar",
+      "source": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/mere-possession-of-books-with-dispiriting-titles-does-not-make-one-a-criminal-jk-high-court-quashes-psa-detention-of-academic-scholar-548763"
+    },
+    {
+      "type": "news",
+      "text": "Downed trees , power outages reported in metro Atlanta after strong storms",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/downed-trees-power-outages-reported-metro-atlanta-after-strong-storms/NLCYI5UOYJBXRIC2IVGX6C4RYE/"
+    },
+    {
+      "type": "news",
+      "text": "Financial Survey : Generate Biomedicines ( NASDAQ : GENB ) versus Xenon Pharmaceuticals ( NASDAQ : XENE ) ",
+      "source": "themarketsdaily.com",
+      "url": "https://www.themarketsdaily.com/2026/09/06/financial-survey-generate-biomedicines-nasdaqgenb-versus-xenon-pharmaceuticals-nasdaqxene.html"
+    },
+    {
+      "type": "news",
+      "text": "In first major ufology acquisition , Huntington puts Integratron eccentric history on display",
+      "source": "unionleader.com",
+      "url": "https://www.unionleader.com/news/history/in-first-major-ufology-acquisition-huntington-puts-integratrons-eccentric-history-on-display/article_d31e11ff-e984-4f8a-bdfc-08c150b9d380.html"
+    },
+    {
+      "type": "news",
+      "text": "Pink Floyd : The Piper at the Gates of Dawn [ 40th Anniversary Edition ] ",
+      "source": "pitchfork.com",
+      "url": "https://pitchfork.com/reviews/albums/10643-the-piper-at-the-gates-of-dawn-40th-anniversary-edition/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARPX1\r Serial Number: 632\r Issue Time: 2026 Sep 05 2358 UTC\r \r EXTENDED WARNING: Proton 10MeV Integral Flux abo",
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T11:01:36.892678Z",
-      "score": 23.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.6
-    },
     {
       "ts": "2026-08-09T11:43:40.371027Z",
       "score": 23.8,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.6
+    },
+    {
+      "ts": "2026-09-06T08:55:23.876359Z",
+      "score": 14.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 9.6
     }
   ],
   "sources": [
