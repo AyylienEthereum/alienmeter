@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-06T12:32:24.562192Z",
-  "score": 15.4,
+  "generated_at": "2026-09-06T15:46:55.877337Z",
+  "score": 17.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.8,
-    "d24h": -6.8,
+    "d1h": -0.9,
+    "d24h": -3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.6
+    "alien_variance": 3.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 84,
     "date": "06.09.2026",
     "declassified": "06.09.26",
-    "generated_utc": "12:32",
+    "generated_utc": "15:46",
     "top_drivers": [
-      "Mao Haibo Theory Earth Prisoner stands as a monumental contemp - \u535a\u5ba2",
       "NOAA space-weather alerts active: 9",
       "NEO (2013 OY3) passing Earth at 43.0 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.2,
+    "live_signal": 12.9,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 43.042159136,
     "asteroid_name": "(2013 OY3)",
-    "gdelt_spike_pct": -4.862882653061218,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.5598971154135945,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 9
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Mao Haibo Theory Earth Prisoner stands as a monumental contemp - \u535a\u5ba2",
-      "source": "blog.wenxuecity.com",
-      "url": "https://blog.wenxuecity.com/myblog/83693/202609/3553.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-28T00:56:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : White sphere over Albuquerque , New Mexico Sept 5 , 2026 , UAP UFO Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/09/white-sphere-over-albuquerque-new.html"
-    },
-    {
-      "type": "news",
-      "text": "  Arrebato , le film culte qui influen\u00e7a Pedro Almod\u00f3var , sort en salles pour la premi\u00e8re fois en France",
-      "source": "telerama.fr",
-      "url": "https://www.telerama.fr/cinema/arrebato-le-film-culte-qui-influenca-pedro-almodovar-sort-en-salles-pour-la-premiere-fois-en-france_cri-7045720.php"
-    },
-    {
-      "type": "news",
-      "text": "Vince Tempera | Direttori dorchestra a Sanremo ? C  \u00e8 chi ci va gratis per dire che era l\u00ec Nessuno sa pi\u00f9 scrivere musica",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-09-06/vince-tempera-direttori-dorchestra-a-sanremo-ce-chi-ci-va-gratis-per-dire-che-era-li-nessuno-sa-piu-scrivere-musica/19647972/"
-    },
-    {
-      "type": "news",
-      "text": "Capital du 6 septembre 2026 : le sommaire de l  \u00e9mission ce soir sur M6",
-      "source": "stars-actu.fr",
-      "url": "https://www.stars-actu.fr/2026/09/capital-du-6-septembre-2026-le-sommaire-de-lemission-ce-soir-sur-m6/"
-    },
-    {
-      "type": "news",
-      "text": "\u65b0\u4e00\u4ee3\u7406\u60f3MEGA\u5f00\u542f\u5168\u56fd\u9996\u6279\u4ea4\u4ed8 \u552e\u4ef750 . 98\u4e07\u5143",
-      "source": "k.sina.com.cn",
-      "url": "https://k.sina.com.cn/article_1912222221_71fa320d02001oluq.html"
-    },
-    {
-      "type": "news",
-      "text": "AEW Collision results ( 9 / 6 ): Murphy review of Andrade El Idolo vs . Gabe Kidd for the AEW National Championship , Persephone vs . VertVixen for the TBS Championship , MCMG vs . The Swirl",
-      "source": "prowrestling.net",
-      "url": "https://prowrestling.net/site/2026/09/06/aew-collision-results-9-6-murphys-review-of-andrade-el-idolo-vs-gabe-kidd-for-the-aew-national-championship-persephone-vs-vertvixen-for-the-tbs-championship-mcmg-vs-the-swirl/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=n896fmsdhv39o33cundv34pvc7"
-    },
-    {
-      "type": "news",
-      "text": "Mere Possession Of Allegedly Anti - National Books Does Not Make One A Criminal : J & K & L High Court Quashes Detention Of Scholar",
-      "source": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/mere-possession-of-books-with-dispiriting-titles-does-not-make-one-a-criminal-jk-high-court-quashes-psa-detention-of-academic-scholar-548763"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1122\r Issue Time: 2026 Sep 06 1212 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T12:04:05.119430Z",
-      "score": 53.0,
-      "band": "ROSWELL ENERGY",
-      "i": 3,
-      "live": 55.1
-    },
     {
       "ts": "2026-08-09T13:14:46.958142Z",
       "score": 23.4,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.2
+    },
+    {
+      "ts": "2026-09-06T15:46:55.800023Z",
+      "score": 17.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.9
     }
   ],
   "sources": [
