@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-06T08:55:23.938321Z",
-  "score": 14.9,
+  "generated_at": "2026-09-06T12:32:24.562192Z",
+  "score": 15.4,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -1.0,
-    "d24h": -5.7,
+    "d1h": -0.8,
+    "d24h": -6.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 1.1,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
-    "seismic": 1.9,
+    "seismic": 0.0,
     "alien_variance": 0.6
   },
   "sightings_total": 44000,
@@ -31,31 +31,55 @@
     "day": 84,
     "date": "06.09.2026",
     "declassified": "06.09.26",
-    "generated_utc": "08:55",
+    "generated_utc": "12:32",
     "top_drivers": [
-      "Vince Tempera | Direttori dorchestra a Sanremo ? C  \u00e8 chi ci va gratis per dire che era l\u00ec Nessuno sa pi\u00f9 scrivere musica",
-      "NOAA space-weather alerts active: 7",
+      "Mao Haibo Theory Earth Prisoner stands as a monumental contemp - \u535a\u5ba2",
+      "NOAA space-weather alerts active: 9",
       "NEO (2013 OY3) passing Earth at 43.0 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.6,
+    "live_signal": 10.2,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "B",
     "closest_asteroid_ld": 43.042159136,
     "asteroid_name": "(2013 OY3)",
-    "gdelt_spike_pct": -21.541652264085727,
+    "gdelt_spike_pct": -4.862882653061218,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.5598971154135945,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 3.73,
-    "swpc_alerts_24h": 7
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
+    "swpc_alerts_24h": 9
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Mao Haibo Theory Earth Prisoner stands as a monumental contemp - \u535a\u5ba2",
+      "source": "blog.wenxuecity.com",
+      "url": "https://blog.wenxuecity.com/myblog/83693/202609/3553.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-08-28T00:56:00-06:00&max-results=10"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : White sphere over Albuquerque , New Mexico Sept 5 , 2026 , UAP UFO Sighting News . ",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2026/09/white-sphere-over-albuquerque-new.html"
+    },
+    {
+      "type": "news",
+      "text": "  Arrebato , le film culte qui influen\u00e7a Pedro Almod\u00f3var , sort en salles pour la premi\u00e8re fois en France",
+      "source": "telerama.fr",
+      "url": "https://www.telerama.fr/cinema/arrebato-le-film-culte-qui-influenca-pedro-almodovar-sort-en-salles-pour-la-premiere-fois-en-france_cri-7045720.php"
+    },
     {
       "type": "news",
       "text": "Vince Tempera | Direttori dorchestra a Sanremo ? C  \u00e8 chi ci va gratis per dire che era l\u00ec Nessuno sa pi\u00f9 scrivere musica",
@@ -93,52 +117,22 @@
       "url": "https://www.livelaw.in/high-court/jammu-kashmir/mere-possession-of-books-with-dispiriting-titles-does-not-make-one-a-criminal-jk-high-court-quashes-psa-detention-of-academic-scholar-548763"
     },
     {
-      "type": "news",
-      "text": "Downed trees , power outages reported in metro Atlanta after strong storms",
-      "source": "wsbtv.com",
-      "url": "https://www.wsbtv.com/news/local/downed-trees-power-outages-reported-metro-atlanta-after-strong-storms/NLCYI5UOYJBXRIC2IVGX6C4RYE/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1122\r Issue Time: 2026 Sep 06 1212 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "news",
-      "text": "Financial Survey : Generate Biomedicines ( NASDAQ : GENB ) versus Xenon Pharmaceuticals ( NASDAQ : XENE ) ",
-      "source": "themarketsdaily.com",
-      "url": "https://www.themarketsdaily.com/2026/09/06/financial-survey-generate-biomedicines-nasdaqgenb-versus-xenon-pharmaceuticals-nasdaqxene.html"
-    },
-    {
-      "type": "news",
-      "text": "In first major ufology acquisition , Huntington puts Integratron eccentric history on display",
-      "source": "unionleader.com",
-      "url": "https://www.unionleader.com/news/history/in-first-major-ufology-acquisition-huntington-puts-integratrons-eccentric-history-on-display/article_d31e11ff-e984-4f8a-bdfc-08c150b9d380.html"
-    },
-    {
-      "type": "news",
-      "text": "Pink Floyd : The Piper at the Gates of Dawn [ 40th Anniversary Edition ] ",
-      "source": "pitchfork.com",
-      "url": "https://pitchfork.com/reviews/albums/10643-the-piper-at-the-gates-of-dawn-40th-anniversary-edition/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: SUMPX1\r Serial Number: 134\r Issue Time: 2026 Sep 06 1155 UTC\r \r SUMMARY: Proton Event 10MeV Integral Flux exceed",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARPX1\r Serial Number: 632\r Issue Time: 2026 Sep 05 2358 UTC\r \r EXTENDED WARNING: Proton 10MeV Integral Flux abo",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMPC0\r Serial Number: 41\r Issue Time: 2026 Sep 05 2341 UTC\r \r SUMMARY: Proton Event 100MeV Integral Flux exceed",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARPC0\r Serial Number: 124\r Issue Time: 2026 Sep 05 2339 UTC\r \r CANCEL WARNING: Proton 100MeV Integral Flux abov",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 20 km E of Castle Rock, Washington",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -148,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T11:43:40.371027Z",
-      "score": 23.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.7
-    },
     {
       "ts": "2026-08-09T12:04:05.119430Z",
       "score": 53.0,
@@ -4851,6 +4838,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 9.6
+    },
+    {
+      "ts": "2026-09-06T12:32:24.483187Z",
+      "score": 15.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.2
     }
   ],
   "sources": [
