@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-07T06:05:44.966196Z",
-  "score": 14.0,
+  "generated_at": "2026-09-07T12:27:50.880509Z",
+  "score": 15.6,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -2.4,
-    "d24h": -8.9,
+    "d1h": -4.0,
+    "d24h": -5.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,16 @@
     "day": 85,
     "date": "07.09.2026",
     "declassified": "07.09.26",
-    "generated_utc": "06:05",
+    "generated_utc": "12:27",
     "top_drivers": [
-      "Viven To\u00f1o Astiazar\u00e1n y Patty Ruibal \u00e9xito de Dogo Fest en un ambiente familiar",
       "NOAA space-weather alerts active: 3",
       "NEO (2013 TG135) passing Earth at 41.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.5,
+    "live_signal": 10.6,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
@@ -57,80 +56,20 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Viven To\u00f1o Astiazar\u00e1n y Patty Ruibal \u00e9xito de Dogo Fest en un ambiente familiar",
-      "source": "critica.com.mx",
-      "url": "https://www.critica.com.mx/vernoticias.php?artid=118816&relacion=critica&mas=3"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2682\r Issue Time: 2026 Sep 07 1108 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "news",
-      "text": "Viven To\u00f1o Astiazar\u00e1n y Patty Ruibal \u00e9xito de Dogo Fest en un ambiente familiar",
-      "source": "critica.com.mx",
-      "url": "https://www.critica.com.mx/vernoticias.php?artid=118816&mas=1"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qqcao167uimv3aeugjmcbc9sc7"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8meboo9can0m7qg3nfag107441"
-    },
-    {
-      "type": "news",
-      "text": "ENTREVISTA A Sidonie :  Nos acercamos m\u00e1s al cine de autor que a una gran producci\u00f3n de Hollywood  ",
-      "source": "diariocordoba.com",
-      "url": "https://www.diariocordoba.com/cultura/2026/09/07/sidonie-acercamos-cine-autor-gran-134017754.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=eocn5dsqdgvindltr7s7pmq306"
-    },
-    {
-      "type": "news",
-      "text": "\u51a0\u519b\u4e4b\u57ce \uff0c \u5411\u672a\u6765 \u4ece\u7701\u8fd0\u4f1a\u770b\u70df\u53f0\u7ade\u6280\u4f53\u80b2\u7684\u5e95\u6c14\u4e0e\u8fdc\u65b9 - \u70df\u53f0\u6559\u536b - \u6c34\u6bcd\u7f51",
-      "source": "news.shm.com.cn",
-      "url": "https://news.shm.com.cn/2026-09/07/content_5504781.htm"
-    },
-    {
-      "type": "news",
-      "text": "Diario Correo | El diario de todos",
-      "source": "diariocorreo.com.ec",
-      "url": "https://diariocorreo.com.ec/138298/internacional/trump-publica-un-mapa-de-nuevo-mexico-con-el-nombre-nueva-america"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=l2l06alsu3h4s772m9o2824460"
-    },
-    {
-      "type": "news",
-      "text": "12 Haunted Attractions to Visit in Maine For 2026",
-      "source": "949whom.com",
-      "url": "https://949whom.com/ixp/698/p/haunted-attractions-halloween-2026-maine/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5412\r Issue Time: 2026 Sep 07 0855 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3736\r Issue Time: 2026 Sep 06 1824 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1122\r Issue Time: 2026 Sep 06 1212 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: SUMPX1\r Serial Number: 134\r Issue Time: 2026 Sep 06 1155 UTC\r \r SUMMARY: Proton Event 10MeV Integral Flux exceed",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T17:05:12.284481Z",
-      "score": 25.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.4
-    },
     {
       "ts": "2026-08-09T17:46:28.769931Z",
       "score": 23.7,
@@ -4845,6 +4777,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 8.5
+    },
+    {
+      "ts": "2026-09-07T12:27:50.809164Z",
+      "score": 15.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.6
     }
   ],
   "sources": [
