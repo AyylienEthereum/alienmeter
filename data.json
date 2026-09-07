@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-06T23:24:24.751863Z",
-  "score": 15.7,
+  "generated_at": "2026-09-07T01:10:53.914105Z",
+  "score": 14.7,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -1.8,
-    "d24h": -4.7,
+    "d1h": -1.4,
+    "d24h": -7.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,42 +19,103 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 1.1,
+    "asteroid_approach": 1.3,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 84,
-    "day": 84,
-    "date": "06.09.2026",
-    "declassified": "06.09.26",
-    "generated_utc": "23:24",
+    "number": 85,
+    "day": 85,
+    "date": "07.09.2026",
+    "declassified": "07.09.26",
+    "generated_utc": "01:10",
     "top_drivers": [
-      "NOAA space-weather alerts active: 6",
-      "NEO (2013 OY3) passing Earth at 43.0 lunar distances"
+      "Vela . 76\u00aa CentoMiglia a Lul\u00f9 : Tea Faoro prima donna timoniera - armatrice vincitrice della classica del Garda",
+      "NOAA space-weather alerts active: 3",
+      "NEO (2013 TG135) passing Earth at 41.6 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.7,
+    "live_signal": 9.4,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 43.042159136,
-    "asteroid_name": "(2013 OY3)",
-    "gdelt_spike_pct": null,
+    "closest_asteroid_ld": 41.6038140532,
+    "asteroid_name": "(2013 TG135)",
+    "gdelt_spike_pct": -74.10148874667914,
     "x_last_hour": 0,
-    "wiki_spike_pct": -6.5598971154135945,
+    "wiki_spike_pct": -6.682236927468538,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Vela . 76\u00aa CentoMiglia a Lul\u00f9 : Tea Faoro prima donna timoniera - armatrice vincitrice della classica del Garda",
+      "source": "mi-lorenteggio.com",
+      "url": "https://www.mi-lorenteggio.com/2026/09/06/vela-76a-centomiglia-a-lulu-tea-faoro-prima-donna-timoniera-armatrice-vincitrice-della-classica-del-garda/"
+    },
+    {
+      "type": "news",
+      "text": "Southwest based UCalgary researcher examines UFO contact through anthropological lens - DiscoverEstevan . com - Local news , Weather , Sports , Free Classifieds and Business Listings for the Estevan ,",
+      "source": "discoverestevan.com",
+      "url": "https://discoverestevan.com/articles/southwest-based-ucalgary-researcher-examines-ufo-contact-through-anthropological-lens"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=8uvkcaivkcfuh578idnp9st473"
+    },
+    {
+      "type": "news",
+      "text": "AEW Collision Review : Young Bucks , Andrade , and Machine Guns Shine",
+      "source": "bleedingcool.com",
+      "url": "https://bleedingcool.com/tv/aew-collision-review-young-bucks-andrade-and-machine-guns-shine/"
+    },
+    {
+      "type": "news",
+      "text": "Severe storms leave thousands dark in metro Atlanta",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/severe-storms-leave-thousands-dark-metro-atlanta"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=5945dlia0j6s7ld9q82dnjdvl7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ms8incauaobsr5ik86qsl361h1"
+    },
+    {
+      "type": "news",
+      "text": "10 Best Low - Budget Sci - Fi Movies , Ranked",
+      "source": "slashfilm.com",
+      "url": "https://www.slashfilm.com/2248060/best-low-budget-sci-fi-movies-ranked/"
+    },
+    {
+      "type": "news",
+      "text": "Un objeto luminoso genera misterio en Mendoza : an\u00e1lisis de un posible OVNI en el cielo",
+      "source": "cadena3.com",
+      "url": "https://www.cadena3.com/noticia/sociedad/un-objeto-luminoso-genera-misterio-en-mendoza-analisis-de-un-posible-ovni-en-el-cielo_591527"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fai07094ofmlij3eu85ctnfqg6"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3736\r Issue Time: 2026 Sep 06 1824 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
@@ -75,19 +136,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2013 OY3) passing at 43.04 LD (~66m, 6.7 km/s)",
+      "text": "NEO (2013 TG135) passing at 41.60 LD (~54m, 13.1 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T15:46:10.517132Z",
-      "score": 24.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.1
-    },
     {
       "ts": "2026-08-09T16:26:50.473080Z",
       "score": 23.8,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.7
+    },
+    {
+      "ts": "2026-09-07T01:10:53.833512Z",
+      "score": 14.7,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 9.4
     }
   ],
   "sources": [
