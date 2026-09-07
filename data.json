@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-07T12:27:50.880509Z",
-  "score": 15.6,
+  "generated_at": "2026-09-07T17:50:42.575482Z",
+  "score": 15.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -4.0,
-    "d24h": -5.8,
+    "d1h": -0.6,
+    "d24h": -6.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 1.3,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,45 +31,106 @@
     "day": 85,
     "date": "07.09.2026",
     "declassified": "07.09.26",
-    "generated_utc": "12:27",
+    "generated_utc": "17:50",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "NOAA space-weather alerts active: 5",
       "NEO (2013 TG135) passing Earth at 41.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.6,
-    "baseline_recent": 14.2,
+    "live_signal": 9.9,
+    "baseline_recent": 14.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 41.6038140532,
     "asteroid_name": "(2013 TG135)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -16.20952635804121,
     "x_last_hour": 0,
     "wiki_spike_pct": 0.19358893777499345,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=0um8l4gtdvt8ob626hij66usu4"
+    },
+    {
+      "type": "news",
+      "text": "Demonic UFO Connection Explained : Expert Analyses  Poltergeist - Type Activity  in Alien Sightings",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/demonic-connection-ufo-encounters-diana-pasulka-1818255"
+    },
+    {
+      "type": "news",
+      "text": "Misterio en Mendoza : filmaron un objeto luminoso y analizan si podr\u00eda ser un OVNI",
+      "source": "ellitoral.com",
+      "url": "https://www.ellitoral.com/informacion-general/mendoza-ovni-grupoiaac-fenomenosaereos-wabi-accesosur-thiagobenitez_0_RmtVeX5xvm.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9cl0fgd1aoh9n6u5mo8351ten6"
+    },
+    {
+      "type": "news",
+      "text": "Dogos El Compadre se lleva el primer lugar del Dogo Fest 2026",
+      "source": "expreso.com.mx",
+      "url": "https://www.expreso.com.mx/noticias/hermosillo/dogos-el-compadre-se-lleva-el-primer-lugar-del-dogo-fest-2026/264019"
+    },
+    {
+      "type": "news",
+      "text": "ENTREVISTA A Sidonie :  Nos acercamos m\u00e1s al cine de autor que a una gran producci\u00f3n de Hollywood  ",
+      "source": "elperiodicoextremadura.com",
+      "url": "https://www.elperiodicoextremadura.com/cultura/2026/09/07/sidonie-acercamos-cine-autor-gran-134017756.html"
+    },
+    {
+      "type": "news",
+      "text": "Sandra Bullock : \u00ab Il mio incontro con un Ufo \u00bb. Da Boldi a Russell Crowe , fino a Robbie Williams : tutti gli avvistamenti dei vip",
+      "source": "corriere.it",
+      "url": "https://www.corriere.it/tecnologia/26_settembre_06/sandra-bullock-il-mio-incontro-con-un-ufo-da-boldi-a-russell-crowe-fino-a-robbie-williams-tutti-gli-avvistamenti-dei-vip-c866ce94-9b90-4840-a2e1-f0c0c18f6xlk.shtml"
+    },
+    {
+      "type": "news",
+      "text": "ENTREVISTA A Sidonie :  Nos acercamos m\u00e1s al cine de autor que a una gran producci\u00f3n de Hollywood  ",
+      "source": "elperiodicomediterraneo.com",
+      "url": "https://www.elperiodicomediterraneo.com/cultura/2026/09/07/sidonie-acercamos-cine-autor-gran-134017755.html"
+    },
+    {
+      "type": "news",
+      "text": "C\u00e2nd po\u021bi vizita Palatul Prim\u0103verii , fosta re\u0219edin\u021b\u0103 a familiei Ceau\u0219escu . Ce pre\u021b au biletele \u00een 2026",
+      "source": "cancan.ro",
+      "url": "https://www.cancan.ro/cand-poti-vizita-palatul-primaverii-fosta-resedinta-a-familiei-ceausescu-ce-pret-au-biletele-in-2026-21502849"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=d57lid4m638q3hv5jj0e0m9oo4"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1123\r Issue Time: 2026 Sep 07 1635 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5413\r Issue Time: 2026 Sep 07 1413 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK04\r Serial Number: 2682\r Issue Time: 2026 Sep 07 1108 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5412\r Issue Time: 2026 Sep 07 0855 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3736\r Issue Time: 2026 Sep 06 1824 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T17:46:28.769931Z",
-      "score": 23.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.5
-    },
     {
       "ts": "2026-08-09T18:31:52.336595Z",
       "score": 24.7,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.6
+    },
+    {
+      "ts": "2026-09-07T17:50:42.497621Z",
+      "score": 15.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.9
     }
   ],
   "sources": [
