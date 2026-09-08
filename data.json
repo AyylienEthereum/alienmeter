@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:25:21.977626Z",
-  "score": 17.7,
+  "generated_at": "2026-09-08T23:31:07.829482Z",
+  "score": 19.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -0.2,
-    "d24h": -4.9,
+    "d1h": 1.9,
+    "d24h": -2.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.8
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 86,
     "date": "08.09.2026",
     "declassified": "08.09.26",
-    "generated_utc": "21:25",
+    "generated_utc": "23:31",
     "top_drivers": [
-      "Mysterious Figure From 2118 Has Seen WW3 , Aliens And A World Without Borders , Or So He Claims",
       "NOAA space-weather alerts active: 8",
       "NEO (2014 FV32) passing Earth at 31.9 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.2,
+    "live_signal": 15.1,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 8
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Mysterious Figure From 2118 Has Seen WW3 , Aliens And A World Without Borders , Or So He Claims",
-      "source": "boredpanda.com",
-      "url": "https://www.boredpanda.com/time-traveler-chilling-war-prediction/?cexp_id=160985&_f=homepage_featured&cexp_var=1"
-    },
-    {
-      "type": "news",
-      "text": "SpaceX Rises 4 % as Pivotal Research Launches Coverage at $220 , Intuitive Machines Climbs 5 %, Rocket Lab Gains 3 % ",
-      "source": "aol.com",
-      "url": "https://www.aol.com/articles/spacex-rises-4-pivotal-research-185117000.html"
-    },
-    {
-      "type": "news",
-      "text": "Mysterious Figure From 2118 Has Seen WW3 , Aliens And A World Without Borders , Or So He Claims",
-      "source": "boredpanda.com",
-      "url": "https://www.boredpanda.com/time-traveler-chilling-war-prediction/?cexp_id=160986&_f=homepage_featured&cexp_var=12"
-    },
-    {
-      "type": "news",
-      "text": "\u0421\u0410\u0414 \u043f\u0440\u0430\u0432\u0435 \u043f\u043b\u0430\u043d \u0437\u0430 \u0441\u043b\u0443\u0447\u0430\u0458 \u043f\u043e\u0442\u0432\u0440\u0434\u0435 \u043f\u043e\u0441\u0442\u043e\u0458\u0430\u045a\u0430 \u0432\u0430\u043d\u0437\u0435\u043c\u0430\u0459\u0441\u043a\u043e\u0433 \u0436\u0438\u0432\u043e\u0442\u0430",
-      "source": "politika.rs",
-      "url": "https://www.politika.rs/scc/clanak/784100/sad-prave-plan-za-slucaj-potvrde-postojanja-vanzemaljskog-zivota"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u043b\u0430\u043d \u0421\u0428\u0410 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u041d\u041b\u041e : \u0434\u0435\u0442\u0430\u043b\u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0432\u043b\u0430\u0441\u0442\u0435\u0439",
-      "source": "iz.ru",
-      "url": "https://iz.ru/2163550/v-ssha-pridumali-plan-na-sluchai-podtverzhdeniia-sushchestvovaniia-nlo-izi"
-    },
-    {
-      "type": "news",
-      "text": "Sara Beth Brown Prendeville Guests on JCK Video Podcast",
-      "source": "jckonline.com",
-      "url": "https://www.jckonline.com/editorial-article/sara-beth-brown-co-podcast/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=qh8b4vic9g5vgu92u564hal7o3"
-    },
-    {
-      "type": "news",
-      "text": "Your expert guide to 2027 Oscars why Best Picture race is  The Odyssey  to lose  and the hottest fall festival films",
-      "source": "pagesix.com",
-      "url": "https://pagesix.com/2026/09/08/hollywood/your-expert-guide-to-2027-oscars-why-best-picture-race-is-the-odysseys-to-lose-and-the-hottest-fall-festival-films/"
-    },
-    {
-      "type": "news",
-      "text": "Three - Banded Armadillo Rolls Into a Ball While Chasing an Apple",
-      "source": "laughingsquid.com",
-      "url": "https://laughingsquid.com/three-banded-armadillo-rolls-into-ball/"
-    },
-    {
-      "type": "news",
-      "text": "Mysterious Figure From 2118 Has Seen WW3 , Aliens And A World Without Borders , Or So He Claims",
-      "source": "boredpanda.com",
-      "url": "https://www.boredpanda.com/time-traveler-chilling-war-prediction/?cexp_id=160986&_f=homepage_featured&cexp_var=8"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2049\r Issue Time: 2026 Sep 08 1751 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
@@ -142,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-09T23:32:56.183282Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.2
-    },
     {
       "ts": "2026-08-10T00:04:21.684511Z",
       "score": 20.0,
@@ -4845,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.2
+    },
+    {
+      "ts": "2026-09-08T23:31:07.751778Z",
+      "score": 19.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.1
     }
   ],
   "sources": [
