@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-09T21:15:27.845017Z",
-  "score": 16.4,
+  "generated_at": "2026-09-09T23:18:02.642688Z",
+  "score": 18.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.2,
-    "d24h": -4.9,
+    "d1h": 0.2,
+    "d24h": -2.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 2.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.7
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 87,
     "date": "09.09.2026",
     "declassified": "09.09.26",
-    "generated_utc": "21:15",
+    "generated_utc": "23:18",
     "top_drivers": [
       "NOAA space-weather alerts active: 3",
       "NEO 465824 (2010 FR) passing Earth at 20.2 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.6,
-    "baseline_recent": 14.2,
+    "live_signal": 14.1,
+    "baseline_recent": 14.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 20.1715616238,
     "asteroid_name": "465824 (2010 FR)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 8.430443361384219,
     "x_last_hour": 0,
     "wiki_spike_pct": -5.416476099051605,
     "earthquakes_24h": 0,
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-10T10:12:58.842560Z",
-      "score": 18.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.5
-    },
     {
       "ts": "2026-08-10T11:21:10.346481Z",
       "score": 19.2,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.6
+    },
+    {
+      "ts": "2026-09-09T23:18:02.587110Z",
+      "score": 18.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.1
     }
   ],
   "sources": [
