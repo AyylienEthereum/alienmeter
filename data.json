@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:46:10.184879Z",
-  "score": 15.1,
+  "generated_at": "2026-09-09T21:15:27.845017Z",
+  "score": 16.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -3.7,
-    "d24h": -6.0,
+    "d1h": -6.2,
+    "d24h": -4.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.2
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 87,
     "date": "09.09.2026",
     "declassified": "09.09.26",
-    "generated_utc": "18:46",
+    "generated_utc": "21:15",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 3",
       "NEO 465824 (2010 FR) passing Earth at 20.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.9,
+    "live_signal": 11.6,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
@@ -52,9 +52,15 @@
     "wiki_spike_pct": -5.416476099051605,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 282\r Issue Time: 2026 Sep 09 2101 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G2 Pred",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3738\r Issue Time: 2026 Sep 09 0538 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -75,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-10T08:56:18.259453Z",
-      "score": 21.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.5
-    },
     {
       "ts": "2026-08-10T10:12:58.842560Z",
       "score": 18.9,
@@ -4778,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.9
+    },
+    {
+      "ts": "2026-09-09T21:15:27.766696Z",
+      "score": 16.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.6
     }
   ],
   "sources": [
