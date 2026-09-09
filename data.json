@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:17:48.034750Z",
-  "score": 24.4,
+  "generated_at": "2026-09-09T18:46:10.184879Z",
+  "score": 15.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,18 +10,18 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 5.2,
-    "d24h": 4.5,
+    "d1h": -3.7,
+    "d24h": -6.0,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 8.3,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
     "alien_variance": 0.2
   },
@@ -31,92 +31,30 @@
     "day": 87,
     "date": "09.09.2026",
     "declassified": "09.09.26",
-    "generated_utc": "15:17",
+    "generated_utc": "18:46",
     "top_drivers": [
-      "Kil\u00f3metro Cero :  Vendr\u00e1n los alien\u00edgenas y tendr\u00e1n tus ojo y Madring Tech Summit 2026",
-      "News velocity +34% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 7",
+      "NOAA space-weather alerts active: 2",
       "NEO 465824 (2010 FR) passing Earth at 20.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.8,
+    "live_signal": 9.9,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 20.1715616238,
     "asteroid_name": "465824 (2010 FR)",
-    "gdelt_spike_pct": 34.43154746819403,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -5.416476099051605,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 7
+    "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Kil\u00f3metro Cero :  Vendr\u00e1n los alien\u00edgenas y tendr\u00e1n tus ojo y Madring Tech Summit 2026",
-      "source": "esradio.libertaddigital.com",
-      "url": "https://esradio.libertaddigital.com/kilometro-cero/2026-09-09/vendran-los-alienigenas-y-tendran-tus-ojos-y-madring-tech-summit-2026-7457237/"
-    },
-    {
-      "type": "news",
-      "text": "Muri\u00f3 el periodista Samuel  Chiche  Gelblung - \u00daltimas Noticias : El Chubut",
-      "source": "elchubut.com.ar",
-      "url": "https://www.elchubut.com.ar/espectaculos/2026-9-9-7-48-0-murio-el-periodista-samuel-chiche-gelblung"
-    },
-    {
-      "type": "news",
-      "text": "El d\u00eda que Chiche Gelblung gast\u00f3 4 . 000 d\u00f3lares para recrear la autopsia de un alien ficticio",
-      "source": "perfil.com",
-      "url": "https://www.perfil.com/noticias/protagonistas/el-dia-que-chiche-gelblung-gasto-4000-dolares-para-recrear-la-autopsia-de-un-alien-ficticio.phtml"
-    },
-    {
-      "type": "news",
-      "text": "Muri\u00f3 Chiche Gelblung a los 82 a\u00f1os",
-      "source": "clarin.com",
-      "url": "https://www.clarin.com/espectaculos/murio-chiche-gelblung-82-anos_0_TggJga0zb5.html"
-    },
-    {
-      "type": "news",
-      "text": "Muri\u00f3 el reconocido periodista Chiche Gelblung a los 82 a\u00f1os",
-      "source": "losandes.com.ar",
-      "url": "https://www.losandes.com.ar/espectaculos/murio-el-reconocido-periodista-chiche-gelblung-los-82-anos-n6005487"
-    },
-    {
-      "type": "news",
-      "text": "El d\u00eda que Chiche Gelblung le hizo una autopsia a un extraterrestre : la historia detr\u00e1s de un hito en la TV",
-      "source": "losandes.com.ar",
-      "url": "https://www.losandes.com.ar/espectaculos/el-dia-que-chiche-gelblung-le-hizo-una-autopsia-un-extraterrestre-la-historia-detras-un-hito-la-tv-n6005488"
-    },
-    {
-      "type": "news",
-      "text": "Desde el detector de mentiras hasta la autopsia a un alien : los momentos televisivos m\u00e1s memorables de Chiche Gelblung",
-      "source": "tn.com.ar",
-      "url": "https://tn.com.ar/show/famosos/2026/09/09/desde-el-detector-de-mentiras-hasta-la-autopsia-a-un-extraterrestre-los-momentos-mas-memorables-de-chiche-gelblung-en-la-tv/"
-    },
-    {
-      "type": "news",
-      "text": "Muri\u00f3 Samuel \u00ab Chiche \u00bb Gelblung , una leyenda del periodismo argentino \u2013 Diario de Cultura",
-      "source": "diariodecultura.com.ar",
-      "url": "https://www.diariodecultura.com.ar/cine-y-artes-visuales/murio-chiche-gelblung-una-leyenda-del-periodismo-argentino/"
-    },
-    {
-      "type": "news",
-      "text": "Muri\u00f3 el periodista Chiche Gelblung a los 82 a\u00f1os",
-      "source": "tn.com.ar",
-      "url": "https://tn.com.ar/show/famosos/2026/09/09/murio-chiche-gelblung-un-periodista-brillante-que-impuso-un-estilo-unico-durante-cinco-decadas/"
-    },
-    {
-      "type": "news",
-      "text": "Adi\u00f3s a Chiche Gelblung , un animal period\u00edstico de otra \u00e9poca",
-      "source": "tn.com.ar",
-      "url": "https://tn.com.ar/sociedad/2026/09/09/adios-a-chiche-gelblung-un-animal-periodistico-de-otra-epoca/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3738\r Issue Time: 2026 Sep 09 0538 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,12 +68,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2049\r Issue Time: 2026 Sep 08 1751 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO 465824 (2010 FR) passing at 20.17 LD (~273m, 11.6 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -143,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-10T07:19:25.451002Z",
-      "score": 18.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.0
-    },
     {
       "ts": "2026-08-10T08:56:18.259453Z",
       "score": 21.2,
@@ -4846,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.8
+    },
+    {
+      "ts": "2026-09-09T18:46:10.108436Z",
+      "score": 15.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.9
     }
   ],
   "sources": [
