@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-09T23:18:02.642688Z",
-  "score": 18.4,
+  "generated_at": "2026-09-10T01:16:27.134410Z",
+  "score": 19.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.2,
-    "d24h": -2.2,
+    "d1h": -4.6,
+    "d24h": -0.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 2.0,
+    "news_velocity": 1.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,16 +23,17 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 87,
-    "day": 87,
-    "date": "09.09.2026",
-    "declassified": "09.09.26",
-    "generated_utc": "23:18",
+    "number": 88,
+    "day": 88,
+    "date": "10.09.2026",
+    "declassified": "10.09.26",
+    "generated_utc": "01:16",
     "top_drivers": [
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NOAA space-weather alerts active: 3",
       "NEO 465824 (2010 FR) passing Earth at 20.2 lunar distances"
     ],
@@ -40,21 +41,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.1,
+    "live_signal": 15.9,
     "baseline_recent": 14.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 20.1715616238,
     "asteroid_name": "465824 (2010 FR)",
-    "gdelt_spike_pct": 8.430443361384219,
+    "gdelt_spike_pct": 4.762065645218514,
     "x_last_hour": 0,
-    "wiki_spike_pct": -5.416476099051605,
+    "wiki_spike_pct": -5.193789965760377,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=agmjk1jjhett5np2dkv795sn34"
+    },
+    {
+      "type": "news",
+      "text": "Amazon drones draw noise complaints in area neighborhoods",
+      "source": "wafb.com",
+      "url": "https://www.wafb.com/2026/09/09/amazon-drones-draw-noise-complaints-area-neighborhoods/"
+    },
+    {
+      "type": "news",
+      "text": "  La autopsia de un E . T .: el momento m\u00e1s ins\u00f3lito de la carrera de Chiche Gelblung \u00ab Diario La Capital de Mar del Plata",
+      "source": "lacapitalmdp.com",
+      "url": "https://www.lacapitalmdp.com/la-autopsia-de-un-e-t-el-momento-mas-insolito-de-la-carrera-de-chiche-gelblung/"
+    },
+    {
+      "type": "news",
+      "text": "Ex - Soldier Claims Military Jets Chased UFOs From Southern Idaho",
+      "source": "1035kissfmboise.com",
+      "url": "https://1035kissfmboise.com/ixp/97/p/ufo-sightings-idaho-military-jets-uaps/"
+    },
+    {
+      "type": "news",
+      "text": "La recordada  autopsia de un E . T . que realiz\u00f3 Chiche Gelblung en 1995",
+      "source": "exitoina.perfil.com",
+      "url": "https://exitoina.perfil.com/noticias/destacada/autopsia-et-que-realizo-chiche-gelblung-1995.phtml"
+    },
+    {
+      "type": "news",
+      "text": "Ademar Le\u00f3n se aferra a la cantera",
+      "source": "diariodeleon.es",
+      "url": "https://www.diariodeleon.es/deportes/260909/2096910/ademar-leon-aferra-cantera.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=1kqrt2sie929ah451kub0eal41"
+    },
+    {
+      "type": "news",
+      "text": "  Disclosure Day  Streaming Date : How to Watch Steven Spielberg Sci - Fi Thriller",
+      "source": "cnet.com",
+      "url": "https://www.cnet.com/culture/entertainment/disclosure-day-steven-spielberg-how-to-watch-peacock-2/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=u8g9e6fhi423nio3u1psdkahn5"
+    },
+    {
+      "type": "news",
+      "text": "25 years later , 9 / 11 victims hope newly uncovered records will help illuminate Saudi alleged role",
+      "source": "abc13.com",
+      "url": "https://abc13.com/story/25-years-later-911-victims-hope-newly-uncovered-records-will-help-illuminate-saudis-alleged-role/19811041/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 282\r Issue Time: 2026 Sep 09 2101 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G2 Pred",
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-10T11:21:10.346481Z",
-      "score": 19.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.9
-    },
     {
       "ts": "2026-08-10T12:07:15.993350Z",
       "score": 18.9,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.1
+    },
+    {
+      "ts": "2026-09-10T01:16:27.053800Z",
+      "score": 19.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.9
     }
   ],
   "sources": [
