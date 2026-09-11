@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-11T01:03:53.942682Z",
-  "score": 15.3,
+  "generated_at": "2026-09-11T05:57:11.023821Z",
+  "score": 16.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.1,
-    "d24h": -8.4,
+    "d1h": -0.1,
+    "d24h": -5.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.4
+    "alien_variance": 0.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,97 @@
     "day": 89,
     "date": "11.09.2026",
     "declassified": "11.09.26",
-    "generated_utc": "01:03",
+    "generated_utc": "05:57",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "UFO Sightings Daily",
+      "NOAA space-weather alerts active: 3",
       "NEO 465824 (2010 FR) passing Earth at 20.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.1,
+    "live_signal": 11.2,
     "baseline_recent": 14.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 20.1715645802,
     "asteroid_name": "465824 (2010 FR)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -27.33262660034249,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.946473089895878,
+    "wiki_spike_pct": -10.97271679001936,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-09-01T04:24:00-06:00&max-results=10"
+    },
+    {
+      "type": "news",
+      "text": "Big plays on offense help spark Cathedral vs . Anthony",
+      "source": "lufkindailynews.com",
+      "url": "https://lufkindailynews.com/news_reuters/state/big-plays-on-offense-help-spark-cathedral-vs-anthony/article_6339c5f9-ce31-53c1-85a0-a5de2cb00d55.html"
+    },
+    {
+      "type": "news",
+      "text": "Speciale focus sulla statale 68",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-09-11/speciale-focus-sulla-statale-68/19666858/"
+    },
+    {
+      "type": "news",
+      "text": "Video : Marco Rubio : Canciller Carlos Esp\u00e1 recibe al secretario de Estado de EE . UU . en sede de Torre Tagle por RPP Noticias",
+      "source": "deperu.com",
+      "url": "https://www.deperu.com/tv/FdK506E4yRw.marco-rubio-canciller-carlos-espa-recibe-al-secretario-de-estado-de-ee-uu-en-sede-de-torre-tagle.UC5j8-2FT0ZMMBkmK72R4aeA.html"
+    },
+    {
+      "type": "news",
+      "text": "On Love and Loss : Phoebe Bridgers Lost Weekend",
+      "source": "stuyspec.com",
+      "url": "https://stuyspec.com/article/on-love-and-loss-phoebe-bridgerss-lost-weekend"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=veo8929lqacutnfvrrs1c2t0o7"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=502ugel1nalbj8r59qc8bt2j00"
+    },
+    {
+      "type": "news",
+      "text": "Whistleblower from secret pastor UFO meeting issues chilling warning about sinister new religion quietly reaching millions ... and predicts  very , very dark  future for Christian faith",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-16099707/whistleblower-secret-pastor-UFO-meeting-new-religion.html"
+    },
+    {
+      "type": "news",
+      "text": "  Casting for Courage  raises money to help children dealing with cancer",
+      "source": "wnypapers.com",
+      "url": "http://www.wnypapers.com/news/article/featured/2026/09/10/166982/casting-for-courage-raises-money-to-help-children-dealing-with-cancer"
+    },
+    {
+      "type": "news",
+      "text": "R\u00e9quiem tel\u00farico en siete punto cuatro movimientos memor\u00edsticos",
+      "source": "blogs.elespectador.com",
+      "url": "https://blogs.elespectador.com/cultura/yo-veo/requiem-telurico-en-siete-punto-cuatro-movimientos-memoristicos/"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3741\r Issue Time: 2026 Sep 11 0501 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3740\r Issue Time: 2026 Sep 11 0045 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -75,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-10T19:29:08.653802Z",
-      "score": 21.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.9
-    },
     {
       "ts": "2026-08-10T20:09:28.190769Z",
       "score": 20.1,
@@ -4778,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.1
+    },
+    {
+      "ts": "2026-09-11T05:57:10.950058Z",
+      "score": 16.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.2
     }
   ],
   "sources": [
