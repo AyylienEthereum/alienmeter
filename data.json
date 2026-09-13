@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-13T00:20:59.583495Z",
-  "score": 16.8,
+  "generated_at": "2026-09-13T05:06:17.462510Z",
+  "score": 17.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.6,
-    "d24h": -0.6,
+    "d1h": -10.0,
+    "d24h": -4.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 6.5,
-    "search_interest": 0.0,
+    "search_interest": 0.2,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 91,
     "date": "13.09.2026",
     "declassified": "13.09.26",
-    "generated_utc": "00:20",
+    "generated_utc": "05:06",
     "top_drivers": [
+      "\u4e2d\u56fd\u961f\u80fd\u5426\u6536\u83b7  \u5f00\u95e8\u7ea2 \uff1f \u4e9a\u8fd0\u4f1a\u6700\u5168\u89c2\u8d5b\u6307\u5357\u6765\u4e86 - \u65b0\u95fb\u9891\u9053",
       "NOAA space-weather alerts active: 1",
       "NEO (2010 FX9) passing Earth at 9.3 lunar distances"
     ],
@@ -40,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.9,
+    "live_signal": 12.3,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
@@ -49,12 +50,72 @@
     "asteroid_name": "(2010 FX9)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -12.390168355843986,
+    "wiki_spike_pct": 1.0732675089865136,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u4e2d\u56fd\u961f\u80fd\u5426\u6536\u83b7  \u5f00\u95e8\u7ea2 \uff1f \u4e9a\u8fd0\u4f1a\u6700\u5168\u89c2\u8d5b\u6307\u5357\u6765\u4e86 - \u65b0\u95fb\u9891\u9053",
+      "source": "zsnews.cn",
+      "url": "http://www.zsnews.cn/news/index/view/cateid/37/id/782764.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nrvrbcm7uugqb21b613rqg8au4"
+    },
+    {
+      "type": "news",
+      "text": "Madre e hija mueren el mismo d\u00eda pero en diferentes hechos",
+      "source": "eldiariodechihuahua.mx",
+      "url": "https://www.eldiariodechihuahua.mx/viral/2026/sep/12/madre-e-hija-mueren-el-mismo-dia-pero-en-diferentes-hechos-837074.html"
+    },
+    {
+      "type": "news",
+      "text": "\u5e7f\u4e1c \uff1a \u6570\u667a\u6d4b\u7ed8\u7ec7\u5c31  \u5929\u7a7a\u5730\u7f51  |\u536b\u661f|\u5e7f\u5dde|\u9065\u611f|\u96f7\u8fbe",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L6MRKRB50514R9OJ.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 : \u0417\u0435\u043c\u043b\u044e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442 \u0418\u0418 \u0435\u0449\u0435 \u0434\u043e \u0432\u044b\u0441\u0430\u0434\u043a\u0438 \u043d\u0430 \u043d\u0435\u0435 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d",
+      "source": "vesti.ru",
+      "url": "https://www.vesti.ru/ns/bogdanov-zemlyu-unichtozhit-ii-eshche-do-vysadki-na-nee-inoplanetyan"
+    },
+    {
+      "type": "news",
+      "text": "\u0412\u043e\u0439\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d : \u0443 \u0421\u0428\u0410 \u0435\u0441\u0442\u044c \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u043f\u043b\u0430\u043d \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u0435\u0432\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0441 \u041d\u041b\u041e",
+      "source": "focus.ua",
+      "url": "https://focus.ua/world/767514-voyna-protiv-inoplanetyan-u-ssha-est-sekretnyy-plan-na-sluchay-boevyh-deystviy-s-nlo"
+    },
+    {
+      "type": "news",
+      "text": "Generate Biomedicines ( GENB ) versus Its Peers Head - To - Head Review",
+      "source": "tickerreport.com",
+      "url": "https://www.tickerreport.com/banking-finance/13583158/generate-biomedicines-genb-versus-its-peers-head-to-head-review.html"
+    },
+    {
+      "type": "news",
+      "text": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u044b \u0433\u043e\u0442\u043e\u0432\u044b \u043a \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430\u043c \u0441 \u041d\u041b\u041e",
+      "source": "haqqin.az",
+      "url": "https://haqqin.az/newsarchive/392981"
+    },
+    {
+      "type": "news",
+      "text": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0438\u0439 \u0444\u0435\u043d\u043e\u043c\u0435\u043d : \u0447\u0442\u043e \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e \u0432 \u043d\u0435\u0431\u0435 \u041a\u0430\u0440\u0435\u043b\u0438\u0438 20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 1977 \u0433\u043e\u0434\u0430",
+      "source": "echo.msk.ru",
+      "url": "https://echo.msk.ru/istoriya/petrozavodskiy-fenomen-chto-na-samom-dele-proizoshlo-v-nebe-karelii-20-sentyabrya-1977-goda/"
+    },
+    {
+      "type": "news",
+      "text": "4 - Part Sci - Fi Masterpiece On Netflix Is Like The Terminator & Neuromancer In One",
+      "source": "screenrant.com",
+      "url": "https://screenrant.com/love-death-and-robots-netflix-terminator-neuromancer/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3742\r Issue Time: 2026 Sep 12 0645 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-11T10:45:21.448318Z",
-      "score": 20.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.9
-    },
     {
       "ts": "2026-08-11T11:33:05.465390Z",
       "score": 22.5,
@@ -4772,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.9
+    },
+    {
+      "ts": "2026-09-13T05:06:17.386285Z",
+      "score": 17.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.3
     }
   ],
   "sources": [
