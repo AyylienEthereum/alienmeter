@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T19:47:23.710868Z",
-  "score": 20.6,
+  "generated_at": "2026-09-13T22:01:03.568545Z",
+  "score": 18.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,15 +10,15 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.5,
-    "d24h": 1.1,
+    "d1h": 0.4,
+    "d24h": -2.9,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 6.5,
     "search_interest": 0.2,
     "space_weather_alerts": 1.2,
@@ -31,9 +31,8 @@
     "day": 91,
     "date": "13.09.2026",
     "declassified": "13.09.26",
-    "generated_utc": "19:47",
+    "generated_utc": "22:01",
     "top_drivers": [
-      "\u4e2d\u56fd\u961f\u80fd\u5426\u6536\u83b7  \u5f00\u95e8\u7ea2 \uff1f \u4e9a\u8fd0\u4f1a\u6700\u5168\u89c2\u8d5b\u6307\u5357\u6765\u4e86 _ \u5357\u65b9\u7f51",
       "NOAA space-weather alerts active: 1",
       "NEO (2010 FX9) passing Earth at 9.3 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.8,
-    "baseline_recent": 14.5,
+    "live_signal": 14.3,
+    "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 9.3414104843,
     "asteroid_name": "(2010 FX9)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -75.09800952332878,
     "x_last_hour": 0,
     "wiki_spike_pct": 1.0732675089865136,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "\u4e2d\u56fd\u961f\u80fd\u5426\u6536\u83b7  \u5f00\u95e8\u7ea2 \uff1f \u4e9a\u8fd0\u4f1a\u6700\u5168\u89c2\u8d5b\u6307\u5357\u6765\u4e86 _ \u5357\u65b9\u7f51",
-      "source": "news.southcn.com",
-      "url": "https://news.southcn.com/node_041c82d55b/3072d95443.shtml"
-    },
-    {
-      "type": "news",
-      "text": "SAD imaju plan za slu\u010daj potvrde vanzemaljske inteligencije : Trampova administracija \u017eeli vode\u0107u ulogu u globalnom odgovoru",
-      "source": "informer.rs",
-      "url": "https://informer.rs/planeta/vesti/1150269/amerika-vanzemaljci-plan-bela-kuca"
-    },
-    {
-      "type": "news",
-      "text": "Weird and unexpected places to discover in Lancashire",
-      "source": "lancashiretelegraph.co.uk",
-      "url": "https://www.lancashiretelegraph.co.uk/news/26542947.weird-unexpected-places-discover-lancashire/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bf719qekl16l5qdkf0oq0av7p7"
-    },
-    {
-      "type": "news",
-      "text": "Bisceglie , successo per la CompagniAurea al Mono Fita Contest 2026",
-      "source": "pugliain.net",
-      "url": "https://www.pugliain.net/300723-teatro-bisceglie-compagniaurea-mono-fita-contest/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gsgbk202scj49cotgbigqba5g7"
-    },
-    {
-      "type": "news",
-      "text": "\u4e2d\u56fd\u961f\u80fd\u5426\u6536\u83b7  \u5f00\u95e8\u7ea2 \uff1f \u4e9a\u8fd0\u4f1a\u6700\u5168\u89c2\u8d5b\u6307\u5357\u6765\u4e86 - \u65b0\u95fb\u9891\u9053",
-      "source": "zsnews.cn",
-      "url": "http://www.zsnews.cn/news/index/view/cateid/37/id/782764.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nrvrbcm7uugqb21b613rqg8au4"
-    },
-    {
-      "type": "news",
-      "text": "Madre e hija mueren el mismo d\u00eda pero en diferentes hechos",
-      "source": "eldiariodechihuahua.mx",
-      "url": "https://www.eldiariodechihuahua.mx/viral/2026/sep/12/madre-e-hija-mueren-el-mismo-dia-pero-en-diferentes-hechos-837074.html"
-    },
-    {
-      "type": "news",
-      "text": "\u5e7f\u4e1c \uff1a \u6570\u667a\u6d4b\u7ed8\u7ec7\u5c31  \u5929\u7a7a\u5730\u7f51  |\u536b\u661f|\u5e7f\u5dde|\u9065\u611f|\u96f7\u8fbe",
-      "source": "163.com",
-      "url": "https://www.163.com/dy/article/L6MRKRB50514R9OJ.html"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3743\r Issue Time: 2026 Sep 13 0827 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -130,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-11T15:55:30.705192Z",
-      "score": 18.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.9
-    },
     {
       "ts": "2026-08-11T16:53:12.986950Z",
       "score": 21.1,
@@ -4833,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.8
+    },
+    {
+      "ts": "2026-09-13T22:01:03.487744Z",
+      "score": 18.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.3
     }
   ],
   "sources": [
