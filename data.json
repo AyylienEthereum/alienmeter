@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-15T22:44:29.820332Z",
-  "score": 15.2,
+  "generated_at": "2026-09-16T00:50:11.086993Z",
+  "score": 15.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.1,
-    "d24h": 2.7,
+    "d1h": -0.8,
+    "d24h": 3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,26 +21,26 @@
     "solar_flares": 2.5,
     "asteroid_approach": 2.7,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 93,
-    "day": 93,
-    "date": "15.09.2026",
-    "declassified": "15.09.26",
-    "generated_utc": "22:44",
+    "number": 94,
+    "day": 94,
+    "date": "16.09.2026",
+    "declassified": "16.09.26",
+    "generated_utc": "00:50",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 4",
       "NEO (2019 GM1) passing Earth at 32.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.0,
+    "live_signal": 10.9,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,12 +49,18 @@
     "asteroid_name": "(2019 GM1)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -3.597811845197738,
+    "wiki_spike_pct": -3.13457197062036,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2684\r Issue Time: 2026 Sep 16 0034 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2265\r Issue Time: 2026 Sep 15 1856 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
@@ -68,12 +74,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1125\r Issue Time: 2026 Sep 15 1737 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2019 GM1) passing at 32.94 LD (~21m, 3.6 km/s)",
       "source": "NASA NeoWs",
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-12T06:59:18.964813Z",
-      "score": 21.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.4
-    },
     {
       "ts": "2026-08-12T08:21:05.810763Z",
       "score": 20.8,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.0
+    },
+    {
+      "ts": "2026-09-16T00:50:11.009727Z",
+      "score": 15.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.9
     }
   ],
   "sources": [
