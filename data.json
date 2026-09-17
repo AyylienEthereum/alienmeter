@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-17T00:00:47.084730Z",
-  "score": 15.9,
+  "generated_at": "2026-09-17T04:32:49.738168Z",
+  "score": 14.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -2.9,
-    "d24h": -1.2,
+    "d1h": -3.0,
+    "d24h": -6.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 2.7,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 95,
     "date": "17.09.2026",
     "declassified": "17.09.26",
-    "generated_utc": "00:00",
+    "generated_utc": "04:32",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 1",
       "NEO (2019 GM1) passing Earth at 32.9 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.8,
+    "live_signal": 9.4,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
@@ -49,21 +49,15 @@
     "asteroid_name": "(2019 GM1)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -3.2338082867004134,
+    "wiki_spike_pct": -10.8573552490295,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5418\r Issue Time: 2026 Sep 16 0538 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2684\r Issue Time: 2026 Sep 16 0034 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -75,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-12T14:52:04.557638Z",
-      "score": 18.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.9
-    },
     {
       "ts": "2026-08-12T15:53:49.521459Z",
       "score": 17.4,
@@ -4778,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.8
+    },
+    {
+      "ts": "2026-09-17T04:32:49.659546Z",
+      "score": 14.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 9.4
     }
   ],
   "sources": [
