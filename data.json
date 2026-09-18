@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-18T01:31:02.037898Z",
-  "score": 13.9,
+  "generated_at": "2026-09-18T06:30:09.663932Z",
+  "score": 14.6,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
+    "flavor": "the aliens are sleeping",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -2.4,
+    "d1h": 0.6,
     "d24h": 1.7,
     "peak90": 64.4
   },
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.2,
-    "alien_variance": 2.6
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 96,
     "date": "18.09.2026",
     "declassified": "18.09.26",
-    "generated_utc": "01:31",
+    "generated_utc": "06:30",
     "top_drivers": [
       "NEO (2018 MC5) passing Earth at 50.8 lunar distances"
     ],
@@ -39,16 +39,16 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.3,
+    "live_signal": 9.2,
     "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 50.7540231408,
     "asteroid_name": "(2018 MC5)",
-    "gdelt_spike_pct": -73.58436194226982,
+    "gdelt_spike_pct": -74.1975436061513,
     "x_last_hour": 0,
-    "wiki_spike_pct": -10.736306222961385,
+    "wiki_spike_pct": 0.26095031568243576,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.5,
     "swpc_alerts_24h": 0
@@ -68,13 +68,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-12T21:29:11.405812Z",
-      "score": 32.5,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 29.2
-    },
     {
       "ts": "2026-08-12T22:11:41.909966Z",
       "score": 17.8,
@@ -4771,6 +4764,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 8.3
+    },
+    {
+      "ts": "2026-09-18T06:30:09.601690Z",
+      "score": 14.6,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 9.2
     }
   ],
   "sources": [
