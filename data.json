@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-19T17:17:02.654042Z",
-  "score": 14.2,
+  "generated_at": "2026-09-19T19:26:54.136148Z",
+  "score": 13.9,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": -0.8,
-    "d24h": -1.7,
+    "d1h": -1.9,
+    "d24h": -2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 1.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.4
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 97,
     "date": "19.09.2026",
     "declassified": "19.09.26",
-    "generated_utc": "17:17",
+    "generated_utc": "19:26",
     "top_drivers": [
       "Wikipedia UFO pageviews +6% above baseline",
       "NEO (2010 JA) passing Earth at 26.2 lunar distances"
@@ -40,8 +40,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.7,
-    "baseline_recent": 14.4,
+    "live_signal": 8.3,
+    "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -63,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-13T11:29:40.088413Z",
-      "score": 17.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.6
-    },
     {
       "ts": "2026-08-13T12:10:47.864430Z",
       "score": 17.1,
@@ -4766,6 +4759,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 8.7
+    },
+    {
+      "ts": "2026-09-19T19:26:54.059595Z",
+      "score": 13.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.3
     }
   ],
   "sources": [
