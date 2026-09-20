@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-20T12:20:20.829148Z",
-  "score": 20.5,
+  "generated_at": "2026-09-20T16:21:16.471381Z",
+  "score": 20.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 5.8,
-    "d24h": 3.0,
+    "d1h": 6.1,
+    "d24h": 3.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 4.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.2,
-    "alien_variance": 3.2
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 98,
     "date": "20.09.2026",
     "declassified": "20.09.26",
-    "generated_utc": "12:20",
+    "generated_utc": "16:21",
     "top_drivers": [
+      "Broncos pull away late for 38 - 17 win over Rangers | Longview News - Journal",
       "Wikipedia UFO pageviews +25% above baseline",
       "NEO (2010 JA) passing Earth at 26.2 lunar distances"
     ],
@@ -40,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.7,
-    "baseline_recent": 14.3,
+    "live_signal": 16.1,
+    "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 26.2152631191,
     "asteroid_name": "(2010 JA)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -43.84180790960452,
     "x_last_hour": 0,
     "wiki_spike_pct": 25.031094527363184,
     "earthquakes_24h": 1,
@@ -55,6 +56,66 @@
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Broncos pull away late for 38 - 17 win over Rangers | Longview News - Journal",
+      "source": "news-journal.com",
+      "url": "https://news-journal.com/2026/09/20/broncos-pull-away-late-for-38-17-win-over-rangers/"
+    },
+    {
+      "type": "news",
+      "text": "5 Creepiest Episodes Of The X - Files , Ranked",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2260738/the-x-files-creepiest-episodes-ranked/"
+    },
+    {
+      "type": "news",
+      "text": "  Nothing like it : Professionals share impact of Dragon Con , Georgia life on career paths \u2013 WSB - TV Channel 2",
+      "source": "wsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/atlanta/nothing-like-it-professionals-share-impact-dragon-con-georgia-life-career-paths/AIFQ62R335DCTHVTMY74NOAEHE/"
+    },
+    {
+      "type": "news",
+      "text": "Review : Deze nieuwe LEGO - set zit vol details die X - Files - fans direct zullen herkennen",
+      "source": "xgn.nl",
+      "url": "https://www.xgn.nl/review/review-deze-nieuwe-lego-set-zit-vol-details-die-x-files-fans-direct-zullen-herkennen?comment=23601"
+    },
+    {
+      "type": "news",
+      "text": "6th batch of Pentagon UAP files : Air Force talk and more",
+      "source": "earthsky.org",
+      "url": "https://earthsky.org/human-world/6th-batch-of-pentagon-uap-files-ufos-pursue/"
+    },
+    {
+      "type": "news",
+      "text": "\u6a21\u7279\u513f\u8003\u4e0a\u67aa\u679d\u6267\u7167 \u65e5\u672c\u6b63\u59b9\u5f81\u6218\u4e9a\u8fd0\u5149\u534e\u65e5\u62a5 | 1910\u5e74\u521b\u520a \u521b\u65b0\u6bcf\u4e00\u5929\u751f\u6d3b",
+      "source": "kwongwah.com.my",
+      "url": "https://www.kwongwah.com.my/20260920/%E6%A8%A1%E7%89%B9%E5%84%BF%E8%80%83%E4%B8%8A%E6%9E%AA%E6%9E%9D%E6%89%A7%E7%85%A7-%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%A6%B9%E5%BE%81%E6%88%98%E4%BA%9A%E8%BF%90/"
+    },
+    {
+      "type": "news",
+      "text": "COMMENTARY : Will AI cause Doomsday ? | Jefferson City News Tribune",
+      "source": "newstribune.com",
+      "url": "https://www.newstribune.com/news/2026/sep/20/commentary-will-ai-cause-doomsday/"
+    },
+    {
+      "type": "news",
+      "text": "Pentagon otvorio tajne dosijee o NLO : Susreti u kosmosu , razli\u010dite vrste vanzemaljaca , borbe , otmice ... ",
+      "source": "alo.rs",
+      "url": "https://www.alo.rs/vesti/svet/16957820/pentagon-otvorio-tajne-dosijee-o-nlo-susreti-u-kosmosu-razlicite-vrste-vanzemaljaca-borbe-otmice.html"
+    },
+    {
+      "type": "news",
+      "text": "Evenimente vizuale recomandate de UAP",
+      "source": "curierulnational.ro",
+      "url": "https://curierulnational.ro/evenimente-vizuale-recomandate-de-uap-36/"
+    },
+    {
+      "type": "news",
+      "text": "The Noctua Nook Trailer Makes Its Local Debut",
+      "source": "volumeone.org",
+      "url": "https://volumeone.org/articles/2026/09/20/401910-the-noctua-nook-trailer-makes-its-local-debut-stocks-banned-books"
+    },
     {
       "type": "seismic",
       "text": "Significant seismic event: 49 km NNE of Kainantu, Papua New Guinea",
@@ -69,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-13T17:53:12.303561Z",
-      "score": 19.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.3
-    },
     {
       "ts": "2026-08-13T18:54:44.183630Z",
       "score": 18.1,
@@ -4772,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.7
+    },
+    {
+      "ts": "2026-09-20T16:21:16.391042Z",
+      "score": 20.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.1
     }
   ],
   "sources": [
