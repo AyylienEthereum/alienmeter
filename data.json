@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-21T18:40:45.590251Z",
-  "score": 18.4,
+  "generated_at": "2026-09-21T22:14:09.839564Z",
+  "score": 35.7,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 3.3,
+    "d1h": 16.8,
+    "d24h": 14.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 23.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 2.8,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 99,
     "date": "21.09.2026",
     "declassified": "21.09.26",
-    "generated_utc": "18:40",
+    "generated_utc": "22:14",
     "top_drivers": [
-      "Is New Jersey a likely place for an alien abduction ? ",
+      "News velocity +99% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +17% above baseline",
       "NEO (2010 JA) passing Earth at 26.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.0,
+    "live_signal": 36.2,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 26.2152631191,
     "asteroid_name": "(2010 JA)",
-    "gdelt_spike_pct": -26.97278911564625,
+    "gdelt_spike_pct": 98.88059701492534,
     "x_last_hour": 0,
     "wiki_spike_pct": 17.249490275431036,
     "earthquakes_24h": 0,
@@ -57,66 +57,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Is New Jersey a likely place for an alien abduction ? ",
-      "source": "nj1015.com",
-      "url": "https://nj1015.com/abducted-by-aliens-in-nj/"
-    },
-    {
-      "type": "news",
-      "text": "\u0411\u044b\u0432\u0448\u0438\u0439 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0424\u0418\u0414\u0415 \u0418\u043b\u044e\u043c\u0436\u0438\u043d\u043e\u0432 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0445 \u0441 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u0430\u043c\u0438",
-      "source": "life.ru",
-      "url": "https://life.ru/p/kogda-za-toboy-snova-priletyat-byvshiy-prezident-fide-rasskazal-o-vstrechah-s"
-    },
-    {
-      "type": "news",
-      "text": "Titokzatos jelens\u00e9g tartja l\u00e1zban a vil\u00e1got : Amerika cs\u00facsfegyvere mutatta meg mag\u00e1t a fesz\u00fclt k\u00f6zel - keleti orsz\u00e1g felett ? ",
-      "source": "portfolio.hu",
-      "url": "https://www.portfolio.hu/global/20260921/titokzatos-jelenseg-tartja-lazban-a-vilagot-amerika-csucsfegyvere-mutatta-meg-magat-a-feszult-kozel-keleti-orszag-felett-864236"
-    },
-    {
-      "type": "news",
-      "text": "\u0908\u0930\u093e\u0928 \u092a\u0930 \u092e\u0902\u0921\u0930\u093e\u092f\u093e \u092c\u0921\u093c\u093e \u0938\u0902\u0915\u091f ? \u0930\u0939\u0938\u094d\u092f\u092e\u092f\u0940 \u0935\u093f\u092e\u093e\u0928 \u0915\u093e \u0915\u094d\u092f\u093e \u0939\u0948 \u0930\u093e\u091c , 50 \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u093e \u0938\u0902\u092f\u094b\u0917",
-      "source": "livehindustan.com",
-      "url": "https://www.livehindustan.com/international/bright-object-seen-in-iran-mystery-surrounded-amid-us-war-israel-201790005063915.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=12gfp7q3nvvp811bphv4ahfbj1"
-    },
-    {
-      "type": "news",
-      "text": "Combined X - Men and Fantastic Four Team Revealed By Marvel , All Members and Powers",
-      "source": "screenrant.com",
-      "url": "https://screenrant.com/new-x-men-fantastic-four-combined-team-explained/"
-    },
-    {
-      "type": "news",
-      "text": "Chase & Status Announce Generic Everything united kingdom And European Arena Tour For 2027",
-      "source": "stereoboard.com",
-      "url": "https://www.stereoboard.com/content/view/253008/9"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7koh8t5trc4js679qcudmk7fo6"
-    },
-    {
-      "type": "news",
-      "text": "UFO Researcher Becomes Christian , Claiming 700 Abductions Were  Demonic  Entities Stopped by Jesus Christ",
-      "source": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/joe-jordan-ufo-abductions-demonic-explanation-1820939"
-    },
-    {
-      "type": "news",
-      "text": "Roswell residents push back on proposed property tax increase - WSB - TV Channel 2",
-      "source": "wsbtv.com",
-      "url": "https://www.wsbtv.com/news/local/roswell-cuts-down-property-tax-increase-proposal-neighbors-can-weigh-today/2IGWP2L3YNFO5GPETJLJL6KSYY/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1126\r Issue Time: 2026 Sep 21 1832 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -131,13 +71,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T01:40:28.281809Z",
-      "score": 15.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 7.9
-    },
     {
       "ts": "2026-08-14T03:51:35.565299Z",
       "score": 13.5,
@@ -4834,6 +4767,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.0
+    },
+    {
+      "ts": "2026-09-21T22:14:09.761172Z",
+      "score": 35.7,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 36.2
     }
   ],
   "sources": [
