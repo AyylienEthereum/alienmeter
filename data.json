@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T21:45:09.721564Z",
-  "score": 17.5,
+  "generated_at": "2026-09-22T23:52:10.793644Z",
+  "score": 17.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.1,
-    "d24h": -1.3,
+    "d1h": 1.6,
+    "d24h": -0.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 4.8,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 100,
     "date": "22.09.2026",
     "declassified": "22.09.26",
-    "generated_utc": "21:45",
+    "generated_utc": "23:52",
     "top_drivers": [
-      "Objekt misterioz i ndritsh\u00ebm filmohet mbi Teheran , pamjet nxisin spekulime p\u00ebr UFO",
       "Wikipedia UFO pageviews +30% above baseline",
       "NEO (2012 VB37) passing Earth at 26.8 lunar distances"
     ],
@@ -41,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.0,
+    "live_signal": 12.6,
     "baseline_recent": 14.1,
     "score_gain": 1.3,
     "kp": null,
@@ -57,66 +56,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Objekt misterioz i ndritsh\u00ebm filmohet mbi Teheran , pamjet nxisin spekulime p\u00ebr UFO",
-      "source": "gazetaexpress.com",
-      "url": "https://www.gazetaexpress.com/objekt-misterioz-i-ndritshem-filmohet-mbi-teheran-pamjet-nxisin-spekulime-per-ufo/"
-    },
-    {
-      "type": "news",
-      "text": "Pentagoni publikon dosje t\u00eb reja p\u00ebr UFO - t : pamje t\u00eb objekteve misterioze dhe formacioneve q\u00eb mbet\u00ebn pa shpjegim",
-      "source": "gazetaexpress.com",
-      "url": "https://www.gazetaexpress.com/pentagoni-publikon-dosje-te-reja-per-ufo-t-pamje-te-objekteve-misterioze-dhe-formacioneve-qe-mbeten-pa-shpjegim/"
-    },
-    {
-      "type": "news",
-      "text": "Episode 1319 : Meryl Streep as Aslan ? Plus Christian Bale Foster Village & the Case for Boredom",
-      "source": "relevantmagazine.com",
-      "url": "https://relevantmagazine.com/podcast/episode-1319-meryl-streep-as-aslan-plus-christian-bales-foster-village-the-case-for-boredom/"
-    },
-    {
-      "type": "news",
-      "text": "Roswell residents pack meeting over proposed 20 % property tax increase",
-      "source": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/local/roswell-residents-pack-meeting-over-proposed-20-property-tax-increase/KRKGVYP6XBBNXMZVEXLR3NYBAA/"
-    },
-    {
-      "type": "news",
-      "text": "A Classified Doc Dump Just Opened up a Huge Opportunity for Investors",
-      "source": "wealthdaily.com",
-      "url": "https://www.wealthdaily.com/a-classified-doc-dump-just-opened-up-a-huge-opportunity-for-investors/"
-    },
-    {
-      "type": "news",
-      "text": "Lepoca doro delle sigle italiane dei cartoni giapponesi",
-      "source": "ilpost.it",
-      "url": "https://www.ilpost.it/2024/09/17/sigle-italiane-cartoni-giapponesi/?homepagePosition=13.2&referrerPost=3684935"
-    },
-    {
-      "type": "news",
-      "text": "RetroPop : Museo OVNI La Serena | BioBioChileTV",
-      "source": "biobiochile.cl",
-      "url": "https://www.biobiochile.cl/biobiotv/programas/retropop/2026/09/22/retropop-museo-ovni-la-serena.shtml"
-    },
-    {
-      "type": "news",
-      "text": "Ufo , il Pentagono rilascia nuovi file : alcuni sono gi\u00e0 noti . Quali sono le novit\u00e0",
-      "source": "repubblica.it",
-      "url": "https://www.repubblica.it/tecnologia/2026/09/22/news/ufo_pentagono_nuovi_file_novita-425600289/"
-    },
-    {
-      "type": "news",
-      "text": "Herbst - St\u00e4dtetrip in Europas : Gute Geheimtipps gegen Touristenmassen",
-      "source": "fnp.de",
-      "url": "http://www.fnp.de/verbraucher/europa-beste-staedtetripstipps-wien-prag-athen-sevilla-florenz-amsterdam-gegen-massen-touristen-zr-94504976.html"
-    },
-    {
-      "type": "news",
-      "text": "Iran UFO Alien Mystery ; Tehran Flying Object Or US Spy Weapons Testing",
-      "source": "bhaskar.com",
-      "url": "https://www.bhaskar.com/bhaskar-khaas/bhaskar-explainer/news/iran-ufo-alien-mystery-tehran-flying-object-or-us-spy-weapons-testing-west-asia-war-139113105.html"
-    },
-    {
       "type": "neo",
       "text": "NEO (2012 VB37) passing at 26.80 LD (~47m, 6.3 km/s)",
       "source": "NASA NeoWs",
@@ -124,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T11:27:23.172056Z",
-      "score": 17.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.0
-    },
     {
       "ts": "2026-08-14T12:07:35.007916Z",
       "score": 16.6,
@@ -4827,6 +4759,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.0
+    },
+    {
+      "ts": "2026-09-22T23:52:10.722660Z",
+      "score": 17.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.6
     }
   ],
   "sources": [
