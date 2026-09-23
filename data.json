@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-23T21:12:19.125015Z",
-  "score": 16.0,
+  "generated_at": "2026-09-23T23:41:23.896483Z",
+  "score": 16.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.0,
-    "d24h": -8.4,
+    "d1h": 0.6,
+    "d24h": 1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 4.2,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 101,
     "date": "23.09.2026",
     "declassified": "23.09.26",
-    "generated_utc": "21:12",
+    "generated_utc": "23:41",
     "top_drivers": [
+      "Jorge Fernando dos Santos lan\u00e7a nova edio de livro sobre ETs de Varginha",
       "Wikipedia UFO pageviews +27% above baseline",
       "NEO (2012 VB37) passing Earth at 26.8 lunar distances"
     ],
@@ -40,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.3,
-    "baseline_recent": 13.9,
+    "live_signal": 11.7,
+    "baseline_recent": 13.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -56,6 +57,66 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Jorge Fernando dos Santos lan\u00e7a nova edio de livro sobre ETs de Varginha",
+      "source": "em.com.br",
+      "url": "http://www.em.com.br/cultura/2026/09/7507105-jorge-fernando-dos-santos-lanca-nova-edicao-de-livro-sobre-ets-de-varginha.html"
+    },
+    {
+      "type": "news",
+      "text": "New Mexico nears average precipitation with late monsoon , but drought relief depends on snowfall",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/more-than-half-of-new-mexico-nears-average-annual-precipitation-with-late-monsoon-surge/3127073"
+    },
+    {
+      "type": "news",
+      "text": "Eastern New Mexico rain brings flooding concerns , up to 4 inches reported",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/how-much-rain-will-fall-in-eastern-new-mexico/3127015"
+    },
+    {
+      "type": "news",
+      "text": "Flood warnings issued across southern New Mexico",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/steady-rain-flood-warnings-across-southern-new-mexico/3127011"
+    },
+    {
+      "type": "news",
+      "text": "Local Haunted House Season Starts October 2nd In The Region",
+      "source": "1037theloon.com",
+      "url": "https://1037theloon.com/ixp/65/p/haunted-attractions-october-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Breaking News - AMC Global Media October Highlights Include  Kill Jackie ,  Yaga ,  V / H / S / Mixtape ,  Signora Volpe  and More",
+      "source": "thefutoncritic.com",
+      "url": "http://thefutoncritic.com/news/2026/09/23/amc-global-medias-october-highlights-include-kill-jackie-yaga-v-h-s-mixtape-signora-volpe-and-more-210415/20260923amc01/"
+    },
+    {
+      "type": "news",
+      "text": "Forgotten record review : Songs in the key of Springsteen",
+      "source": "daytondailynews.com",
+      "url": "https://www.daytondailynews.com/lifestyles/forgotten-record-review-songs-in-the-key-of-springsteen/article_bd64ba9a-e877-5abd-98de-1ecc9546ca41.html"
+    },
+    {
+      "type": "news",
+      "text": "Local Haunted House Season Starts October 2nd In The Region",
+      "source": "kdhlradio.com",
+      "url": "https://kdhlradio.com/ixp/65/p/haunted-attractions-october-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Local Haunted House Season Starts October 2nd In The Region",
+      "source": "power96radio.com",
+      "url": "https://power96radio.com/ixp/65/p/haunted-attractions-october-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Alex Radus and Stu Fuchs at Stage 33 Live",
+      "source": "reformer.com",
+      "url": "https://www.reformer.com/arts_and_culture/entertainment/alex-radus-and-stu-fuchs-at-stage-33-live/article_e517f1cb-8336-496a-9fcd-fdfa71bc5097.html"
+    },
+    {
       "type": "neo",
       "text": "NEO (2012 VB37) passing at 26.80 LD (~47m, 6.3 km/s)",
       "source": "NASA NeoWs",
@@ -63,13 +124,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T17:25:54.901270Z",
-      "score": 31.3,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 28.0
-    },
     {
       "ts": "2026-08-14T18:14:58.981016Z",
       "score": 15.3,
@@ -4766,6 +4820,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.3
+    },
+    {
+      "ts": "2026-09-23T23:41:23.815307Z",
+      "score": 16.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.7
     }
   ],
   "sources": [
