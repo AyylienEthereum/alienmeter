@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-24T06:45:14.477486Z",
-  "score": 13.3,
+  "generated_at": "2026-09-24T12:17:20.457504Z",
+  "score": 15.2,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -3.9,
-    "d24h": -5.1,
+    "d1h": -0.8,
+    "d24h": -4.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,7 +21,7 @@
     "solar_flares": 2.5,
     "asteroid_approach": 2.5,
     "search_interest": 1.7,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
     "alien_variance": 1.1
   },
@@ -31,90 +31,42 @@
     "day": 102,
     "date": "24.09.2026",
     "declassified": "24.09.26",
-    "generated_utc": "06:45",
+    "generated_utc": "12:17",
     "top_drivers": [
-      "Pre - Doctoral Programme in Art and Design - Announcements",
+      "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +10% above baseline",
       "NEO (2016 LY8) passing Earth at 34.2 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.8,
-    "baseline_recent": 13.8,
+    "live_signal": 10.2,
+    "baseline_recent": 13.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 34.1740498531,
     "asteroid_name": "(2016 LY8)",
-    "gdelt_spike_pct": -13.040368722186905,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 10.37265962554008,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Pre - Doctoral Programme in Art and Design - Announcements",
-      "source": "e-flux.com",
-      "url": "https://www.e-flux.com/announcements/6788224/pre-doctoral-programme-in-art-and-design"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2685\r Issue Time: 2026 Sep 24 0952 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "news",
-      "text": "\u4e9a\u8fd0\u4f1a9\u670824\u65e5\u770b\u70b9 \uff1a \u4e52\u7fbd\u5747\u8fce\u56e2\u4f53\u51b3\u8d5b 55\u679a\u91d1\u724c\u82b1\u843d\u8c01\u5bb6 \uff1f - \u65b0\u95fb\u9891\u9053",
-      "source": "zsnews.cn",
-      "url": "http://www.zsnews.cn/news/index/view/cateid/37/id/783486.html"
-    },
-    {
-      "type": "news",
-      "text": "\u4e9a\u8fd0\u7efc\u5408\uff5c\u4e2d\u56fd\u961f\u5355\u65e516\u91d1 \u4f53\u64cd\u56e2\u4f53\u5305\u63fd - \u5373\u65f6\u65b0\u95fb",
-      "source": "news.fjsen.com",
-      "url": "http://news.fjsen.com/2026-09/24/content_32258650.htm"
-    },
-    {
-      "type": "news",
-      "text": "\u4e00\u65e5\u4e09\u91d1 \uff01 \u5e7f\u4e1c\u519b\u56e2\u4e9a\u8fd0\u8d5b\u573a\u7206\u53d1 \u6df1\u5733\u57f9\u517b\u529b\u91cf\u591a\u7ebf\u95ea\u8000 _ \u6df1\u5733\u65b0\u95fb\u7f51",
-      "source": "sznews.com",
-      "url": "https://www.sznews.com/news/content/2026-09/24/content_32179293.htm"
-    },
-    {
-      "type": "news",
-      "text": "\u4e9a\u8fd0\u6218\u62a5\uff5c\u7834\u7eaa\u5f55\u593a\u91d1 \uff01 \u6df1\u5733\u5065\u513f\u8f66\u96e8\u970f\u5c04\u843d\u98de\u789f\u56e2\u4f53\u91d1\u724c _ \u6df1\u5733\u65b0\u95fb\u7f51",
-      "source": "sznews.com",
-      "url": "https://www.sznews.com/news/content/2026-09/24/content_32179289.htm"
-    },
-    {
-      "type": "news",
-      "text": "Bosch , la CIA , Duvalier y el golpe de Estado de 1963",
-      "source": "acento.com.do",
-      "url": "https://acento.com.do/opinion/bosch-la-cia-duvalier-y-el-golpe-de-estado-de-1963-9756720.html"
-    },
-    {
-      "type": "news",
-      "text": "\u4e9a\u8fd0\u7efc\u5408\uff5c\u4e2d\u56fd\u961f\u5355\u65e516\u91d1 \u4f53\u64cd\u56e2\u4f53\u5305\u63fd",
-      "source": "banyuetan.org",
-      "url": "http://www.banyuetan.org/yw/detail/20260924/1000200033137441790212351583777121_1.html"
-    },
-    {
-      "type": "news",
-      "text": "A Mysterious Military Drone Was Recovered By A Fishing Charter Off Florida Gulf Coast",
-      "source": "bgr.com",
-      "url": "https://www.bgr.com/2266468/mysterious-military-drone-recovered-fishing-charter-florida-gulf-coast/"
-    },
-    {
-      "type": "news",
-      "text": "\u676d\u5dde\u805a\u529b\u5f15\u8fdb\u56fd\u9645\u9876\u7ea7\u8d5b\u4e8b",
-      "source": "hznews.hangzhou.com.cn",
-      "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-09/24/content_9315359.htm"
-    },
-    {
-      "type": "news",
-      "text": "\u4e2d\u56fd\u961f\u5355\u65e516\u91d1 \u4f53\u64cd\u56e2\u4f53\u5305\u63fd",
-      "source": "qstheory.cn",
-      "url": "http://qstheory.cn/20260924/f63e44f66f5d41658b37d516a757ee1d/c.html"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5419\r Issue Time: 2026 Sep 24 0945 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "neo",
@@ -124,13 +76,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T19:57:57.888569Z",
-      "score": 17.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.2
-    },
     {
       "ts": "2026-08-14T20:29:45.786272Z",
       "score": 13.3,
@@ -4827,6 +4772,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.8
+    },
+    {
+      "ts": "2026-09-24T12:17:20.378815Z",
+      "score": 15.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.2
     }
   ],
   "sources": [
