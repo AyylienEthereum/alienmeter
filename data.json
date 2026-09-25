@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-25T01:43:54.886286Z",
-  "score": 16.3,
+  "generated_at": "2026-09-25T06:38:52.118769Z",
+  "score": 17.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.1,
-    "d24h": 0.1,
+    "d1h": -0.5,
+    "d24h": 1.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.5,
-    "search_interest": 1.6,
-    "space_weather_alerts": 3.6,
+    "search_interest": 0.3,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.5
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,46 +31,45 @@
     "day": 103,
     "date": "25.09.2026",
     "declassified": "25.09.26",
-    "generated_utc": "01:43",
+    "generated_utc": "06:38",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
-      "Wikipedia UFO pageviews +10% above baseline",
+      "NOAA space-weather alerts active: 5",
       "NEO (2016 LY8) passing Earth at 34.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.7,
-    "baseline_recent": 13.8,
+    "live_signal": 13.2,
+    "baseline_recent": 13.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 34.1740498531,
     "asteroid_name": "(2016 LY8)",
-    "gdelt_spike_pct": -20.277820380797966,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 10.309544859962875,
+    "wiki_spike_pct": 1.7582308113762064,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2686\r Issue Time: 2026 Sep 25 0300 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5421\r Issue Time: 2026 Sep 25 0226 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5420\r Issue Time: 2026 Sep 24 1430 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2685\r Issue Time: 2026 Sep 24 0952 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5419\r Issue Time: 2026 Sep 24 0945 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -82,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T22:16:21.100713Z",
-      "score": 15.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.3
-    },
     {
       "ts": "2026-08-14T22:47:44.627499Z",
       "score": 18.2,
@@ -4785,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.7
+    },
+    {
+      "ts": "2026-09-25T06:38:52.042370Z",
+      "score": 17.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.2
     }
   ],
   "sources": [
