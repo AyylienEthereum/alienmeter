@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-25T17:13:47.756694Z",
-  "score": 16.3,
+  "generated_at": "2026-09-25T20:30:39.474614Z",
+  "score": 14.1,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "boringly terrestrial",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -26.6,
-    "d24h": 1.0,
+    "d1h": -2.2,
+    "d24h": -2.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.3,
     "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 2.9
+    "alien_variance": 0.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 103,
     "date": "25.09.2026",
     "declassified": "25.09.26",
-    "generated_utc": "17:13",
+    "generated_utc": "20:30",
     "top_drivers": [
       "La puntata del 24 settembre # DriveUp",
       "NOAA space-weather alerts active: 3",
       "NEO (2016 LY8) passing Earth at 34.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.8,
+    "live_signal": 8.9,
     "baseline_recent": 13.7,
     "score_gain": 1.3,
     "kp": null,
@@ -142,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T23:46:08.274998Z",
-      "score": 17.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.4
-    },
     {
       "ts": "2026-08-15T00:52:51.160461Z",
       "score": 17.1,
@@ -4845,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.8
+    },
+    {
+      "ts": "2026-09-25T20:30:39.405767Z",
+      "score": 14.1,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.9
     }
   ],
   "sources": [
