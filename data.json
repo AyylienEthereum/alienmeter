@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T12:14:29.694631Z",
-  "score": 16.0,
+  "generated_at": "2026-09-25T17:13:47.756694Z",
+  "score": 16.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -12.6,
-    "d24h": -0.9,
+    "d1h": -26.6,
+    "d24h": 1.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 2.5,
     "search_interest": 0.3,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,17 @@
     "day": 103,
     "date": "25.09.2026",
     "declassified": "25.09.26",
-    "generated_utc": "12:14",
+    "generated_utc": "17:13",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
+      "La puntata del 24 settembre # DriveUp",
+      "NOAA space-weather alerts active: 3",
       "NEO (2016 LY8) passing Earth at 34.2 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.4,
+    "live_signal": 11.8,
     "baseline_recent": 13.7,
     "score_gain": 1.3,
     "kp": null,
@@ -52,9 +53,69 @@
     "wiki_spike_pct": 1.7582308113762064,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "La puntata del 24 settembre # DriveUp",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-09-25/la-puntata-del-24-settembre-driveup/19722130/"
+    },
+    {
+      "type": "news",
+      "text": "Una nuova X - Files : arriva in tv la storia di un vero Agente Mulder",
+      "source": "comingsoon.it",
+      "url": "https://www.comingsoon.it/serietv/news/una-nuova-x-files-arriva-in-tv-la-storia-di-un-vero-agente-mulder/n232590/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=fgtkl9mmccjbnadn75qh4627q4"
+    },
+    {
+      "type": "news",
+      "text": "Una nuova X - Files : lautore de I Soprano porta in tv la storia di un vero Agente Mulder",
+      "source": "comingsoon.it",
+      "url": "https://www.comingsoon.it/serietv/news/una-nuova-x-files-l-autore-de-i-soprano-porta-in-tv-la-storia-di-un-vero/n232590/"
+    },
+    {
+      "type": "news",
+      "text": "Why AI agents need an identity layer to act safely on web built for humans",
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/why-ai-agents-need-an-identity-layer-to-act-safely-on-web-built-for-humans-126092500591_1.html"
+    },
+    {
+      "type": "news",
+      "text": "Incredibile Simone Annichiarico \u00e8 il pi\u00f9 pagato del GF VIP | cifra altissima ricever\u00e0 il compenso anche se squalificato",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-09-25/incredibile-simone-annichiarico-e-il-piu-pagato-del-gf-vip-cifra-altissima-ricevera-il-compenso-anche-se-squalificato/19721904/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9jf7lkim6cbmdadodkabjof972"
+    },
+    {
+      "type": "news",
+      "text": "West - Current Conditions",
+      "source": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/west-current-conditions/article_65d26297-2e2f-527f-9035-c2c9ae120c0a.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Festival 2026 in Fukushima City Oct . 31",
+      "source": "japan.stripes.com",
+      "url": "https://japan.stripes.com/travel/ufo-festival-fukushima.html"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=jsmgsmn9rivai35g0v250ia563"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK05\r Serial Number: 2266\r Issue Time: 2026 Sep 25 0835 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
@@ -81,13 +142,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-14T23:16:17.504072Z",
-      "score": 16.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.3
-    },
     {
       "ts": "2026-08-14T23:46:08.274998Z",
       "score": 17.4,
@@ -4784,6 +4838,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.4
+    },
+    {
+      "ts": "2026-09-25T17:13:47.678782Z",
+      "score": 16.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.8
     }
   ],
   "sources": [
