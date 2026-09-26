@@ -1,56 +1,55 @@
 {
-  "generated_at": "2026-09-25T23:27:49.500707Z",
-  "score": 46.3,
+  "generated_at": "2026-09-26T01:48:32.946275Z",
+  "score": 19.9,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 28.9,
-    "d24h": 30.1,
+    "d1h": 3.9,
+    "d24h": -15.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 32.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 2.5,
+    "asteroid_approach": 1.8,
     "search_interest": 0.3,
     "space_weather_alerts": 6.0,
     "seismic": 3.3,
-    "alien_variance": 3.6
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 103,
-    "day": 103,
-    "date": "25.09.2026",
-    "declassified": "25.09.26",
-    "generated_utc": "23:27",
+    "number": 104,
+    "day": 104,
+    "date": "26.09.2026",
+    "declassified": "26.09.26",
+    "generated_utc": "01:48",
     "top_drivers": [
-      "News velocity +133% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
-      "NEO (2016 LY8) passing Earth at 34.2 lunar distances"
+      "NEO (2008 ST) passing Earth at 38.7 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 50.2,
-    "baseline_recent": 13.7,
+    "live_signal": 16.3,
+    "baseline_recent": 13.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 34.1740498531,
-    "asteroid_name": "(2016 LY8)",
-    "gdelt_spike_pct": 133.435717419921,
+    "closest_asteroid_ld": 38.6897476006,
+    "asteroid_name": "(2008 ST)",
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 1.7582308113762064,
+    "wiki_spike_pct": 1.9092832447494699,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
     "swpc_alerts_24h": 5
@@ -82,19 +81,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2016 LY8) passing at 34.17 LD (~147m, 7.3 km/s)",
+      "text": "NEO (2008 ST) passing at 38.69 LD (~23m, 6.2 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T02:11:18.705205Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.0
-    },
     {
       "ts": "2026-08-15T03:04:30.093429Z",
       "score": 18.5,
@@ -4791,6 +4783,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 50.2
+    },
+    {
+      "ts": "2026-09-26T01:48:32.867126Z",
+      "score": 19.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.3
     }
   ],
   "sources": [
