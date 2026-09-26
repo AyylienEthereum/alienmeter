@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-26T06:58:00.489401Z",
-  "score": 17.9,
+  "generated_at": "2026-09-26T12:04:38.202725Z",
+  "score": 17.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.6,
-    "d24h": 0.3,
+    "d1h": 3.7,
+    "d24h": -3.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 1.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 3.3,
-    "alien_variance": 2.6
+    "alien_variance": 3.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 104,
     "date": "26.09.2026",
     "declassified": "26.09.26",
-    "generated_utc": "06:58",
+    "generated_utc": "12:04",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 2",
       "NEO (2008 ST) passing Earth at 38.7 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.8,
+    "live_signal": 13.7,
     "baseline_recent": 13.7,
     "score_gain": 1.3,
     "kp": null,
@@ -52,7 +52,7 @@
     "wiki_spike_pct": 0.10967098703887881,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.6,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
@@ -64,12 +64,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5422\r Issue Time: 2026 Sep 25 2155 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2266\r Issue Time: 2026 Sep 25 0835 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -87,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T03:53:06.720418Z",
-      "score": 17.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.1
-    },
     {
       "ts": "2026-08-15T04:23:44.469634Z",
       "score": 17.5,
@@ -4790,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.8
+    },
+    {
+      "ts": "2026-09-26T12:04:38.127605Z",
+      "score": 17.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.7
     }
   ],
   "sources": [
