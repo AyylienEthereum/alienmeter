@@ -1,55 +1,56 @@
 {
-  "generated_at": "2026-09-26T22:03:39.781862Z",
-  "score": 11.8,
+  "generated_at": "2026-09-27T00:34:16.844107Z",
+  "score": 40.0,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
-    "index": 0,
-    "color": "#00FF94",
-    "emoji": "\ud83d\udfe2",
-    "min": 0
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -6.1,
-    "d24h": -5.6,
+    "d1h": 22.2,
+    "d24h": 22.9,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 33.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 1.8,
+    "asteroid_approach": 4.6,
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 104,
-    "day": 104,
-    "date": "26.09.2026",
-    "declassified": "26.09.26",
-    "generated_utc": "22:03",
+    "number": 105,
+    "day": 105,
+    "date": "27.09.2026",
+    "declassified": "27.09.26",
+    "generated_utc": "00:34",
     "top_drivers": [
+      "News velocity +140% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
-      "NEO (2008 ST) passing Earth at 38.7 lunar distances"
+      "NEO 138971 (2001 CB21) passing Earth at 21.1 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.0,
+    "live_signal": 42.2,
     "baseline_recent": 13.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 38.6897476006,
-    "asteroid_name": "(2008 ST)",
-    "gdelt_spike_pct": null,
+    "closest_asteroid_ld": 21.0538897122,
+    "asteroid_name": "138971 (2001 CB21)",
+    "gdelt_spike_pct": 139.75632452552532,
     "x_last_hour": 0,
-    "wiki_spike_pct": 0.10967098703887881,
+    "wiki_spike_pct": 0.15167774154938343,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
@@ -63,19 +64,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2008 ST) passing at 38.69 LD (~23m, 6.2 km/s)",
+      "text": "NEO 138971 (2001 CB21) passing at 21.05 LD (~1164m, 10.2 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T05:49:43.932049Z",
-      "score": 16.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.8
-    },
     {
       "ts": "2026-08-15T06:26:35.634831Z",
       "score": 17.3,
@@ -4772,6 +4766,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.0
+    },
+    {
+      "ts": "2026-09-27T00:34:16.764100Z",
+      "score": 40.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 42.2
     }
   ],
   "sources": [
