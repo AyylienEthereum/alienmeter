@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T06:31:44.455457Z",
-  "score": 19.3,
+  "generated_at": "2026-09-28T14:29:09.264632Z",
+  "score": 19.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.7,
-    "d24h": 2.2,
+    "d1h": -23.7,
+    "d24h": 1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.8,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 3.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 106,
     "date": "28.09.2026",
     "declassified": "28.09.26",
-    "generated_utc": "06:31",
+    "generated_utc": "14:29",
     "top_drivers": [
-      "Lawyers help House candidate rake in $261K in a month",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +5% above baseline",
       "NEO (2018 SP2) passing Earth at 5.0 lunar distances"
@@ -42,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.5,
-    "baseline_recent": 13.9,
+    "live_signal": 15.6,
+    "baseline_recent": 14.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 5.0110399223,
     "asteroid_name": "(2018 SP2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -73.12379000113881,
     "x_last_hour": 0,
     "wiki_spike_pct": 5.169961103429059,
     "earthquakes_24h": 0,
@@ -57,66 +56,6 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Lawyers help House candidate rake in $261K in a month",
-      "source": "santafenewmexican.com",
-      "url": "https://www.santafenewmexican.com/news/local_news/lawyers-help-house-candidate-rake-in-261k-in-a-month/article_595057d7-a271-4a9a-86c4-1eebe8a71234.html"
-    },
-    {
-      "type": "news",
-      "text": "Anexo : Familia Flanders - Wikipedia , la enciclopedia libre",
-      "source": "es.wikipedia.org",
-      "url": "https://es.wikipedia.org/wiki/Anexo:Familia_Flanders"
-    },
-    {
-      "type": "news",
-      "text": "Un paseo casi nost\u00e1lgico por el Parque de la Vida , que este lunes ya no abrir\u00e1 sus puertas al p\u00fablico en Luarca",
-      "source": "lavozdeasturias.es",
-      "url": "https://www.lavozdeasturias.es/noticia/asturias/2026/09/27/paseo-nostalgico-parque-vida-lunes-abrira-puertas-publico-luarca/00031790532909372230774.htm"
-    },
-    {
-      "type": "news",
-      "text": "On a revu la premi\u00e8re saison de  X - Files , sur M6+ , s\u00e9rie culte au complotisme  cool  ",
-      "source": "telerama.fr",
-      "url": "https://www.telerama.fr/series-tv/on-a-revu-la-premiere-saison-de-x-files-sur-m6-serie-culte-au-complotisme-cool-7033124.php"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2mdr31rb150shc1u8mm74e8ej2"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-09-20T00:41:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Plasma Orbs United Into Massive Sphere Over Karachi , Pakistan Sept 19 , 2026 , UFO UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/09/plasma-orbs-united-into-massive-sphere.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=maeglf8n74bjveicrksb430uc1"
-    },
-    {
-      "type": "news",
-      "text": "Lions Club San Marino , inaugurato lanno lionistico con un incontro sul manoscritto di Marino e Leone",
-      "source": "libertas.sm",
-      "url": "https://www.libertas.sm/lions-club-san-marino-inaugurato-lanno-lionistico-con-un-incontro-sul-manoscritto-di-marino-e-leone/"
-    },
-    {
-      "type": "news",
-      "text": "Roger S . Foster , Jr ., MD , FACS , and Baiba J . Grube , MD , FACS , Are the ACS Foundation Distinguished Philanthropists of the Year",
-      "source": "newswise.com",
-      "url": "https://www.newswise.com/articles/roger-s-foster-jr-md-facs-and-baiba-j-grube-md-facs-are-the-acs-foundation-distinguished-philanthropists-of-the-year"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3747\r Issue Time: 2026 Sep 28 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -131,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T09:57:45.684881Z",
-      "score": 27.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 23.8
-    },
     {
       "ts": "2026-08-15T10:21:36.117132Z",
       "score": 28.6,
@@ -4834,6 +4766,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.5
+    },
+    {
+      "ts": "2026-09-28T14:29:09.209470Z",
+      "score": 19.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.6
     }
   ],
   "sources": [
