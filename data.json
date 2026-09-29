@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T20:41:15.297784Z",
-  "score": 18.4,
+  "generated_at": "2026-09-29T00:33:09.353585Z",
+  "score": 18.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.1,
-    "d24h": 2.1,
+    "d1h": 0.7,
+    "d24h": 2.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,16 +23,17 @@
     "search_interest": 0.8,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.5
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 106,
-    "day": 106,
-    "date": "28.09.2026",
-    "declassified": "28.09.26",
-    "generated_utc": "20:41",
+    "number": 107,
+    "day": 107,
+    "date": "29.09.2026",
+    "declassified": "29.09.26",
+    "generated_utc": "00:33",
     "top_drivers": [
+      "Election 2026 : Public lands commissioner candidates",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +5% above baseline",
       "NEO (2018 SP2) passing Earth at 5.0 lunar distances"
@@ -41,21 +42,81 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.2,
+    "live_signal": 14.6,
     "baseline_recent": 14.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 5.0110399223,
     "asteroid_name": "(2018 SP2)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -71.85784724160386,
     "x_last_hour": 0,
-    "wiki_spike_pct": 5.169961103429059,
+    "wiki_spike_pct": 5.11828841802098,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Election 2026 : Public lands commissioner candidates",
+      "source": "kunm.org",
+      "url": "https://www.kunm.org/local-news/2026-09-28/public-lands-commissioner-candidates"
+    },
+    {
+      "type": "news",
+      "text": "5th Circuit rejects qualified immunity for cops who made a bogus traffic stop",
+      "source": "reason.com",
+      "url": "https://reason.com/2026/09/28/the-5th-circuit-rejects-qualified-immunity-for-cops-who-searched-a-driver-after-a-bogus-traffic-stop/"
+    },
+    {
+      "type": "news",
+      "text": "SpaceX Historic Launch Stunned Viewers as Alleged  UFO  Flew by on Livestream :  We Just Saw an Alien Mothership  ",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/mysterious-object-spacex-starship-flight-ufo-speculation-1822476"
+    },
+    {
+      "type": "news",
+      "text": "Tag : sean _ parnell",
+      "source": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/tag/sean_parnell"
+    },
+    {
+      "type": "news",
+      "text": "Roswell Park Recognizes Team Members Driving Excellence in Cancer Care and Research",
+      "source": "onclive.com",
+      "url": "https://www.onclive.com/view/roswell-park-recognizes-team-members-driving-excellence-in-cancer-care-and-research"
+    },
+    {
+      "type": "news",
+      "text": "Level 3 Flash Flood Risk Set for Arizona , New Mexico and Southern Utah as Hurricane Polo Moisture Moves In",
+      "source": "natureworldnews.com",
+      "url": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm"
+    },
+    {
+      "type": "news",
+      "text": "A & E 2026 summer favorites \u2013 The UCSD Guardian",
+      "source": "ucsdguardian.org",
+      "url": "https://ucsdguardian.org/2026/09/28/aes-2026-summer-favorites/"
+    },
+    {
+      "type": "news",
+      "text": "10 Fascinating New Great Reads make the Q3 2026 BOOKS TO BOOKMARK List of What to Read This Fall",
+      "source": "californianewswire.com",
+      "url": "https://californianewswire.com/10-fascinating-new-great-reads-make-the-q3-2026-books-to-bookmark-list-of-what-to-read-this-fall/"
+    },
+    {
+      "type": "news",
+      "text": "J\u00e3o ganha doc sobre pausa na carreira ; veja o teaser divulgado pela Netflix",
+      "source": "uai.com.br",
+      "url": "https://www.uai.com.br/app/entretenimento/colunistas/coluna-do-bandeira/2026/09/28/interna-coluna-do-bandeira,391612/jao-ganha-doc-sobre-pausa-na-carreira-veja-o-teaser-divulgado-pela-netflix.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bd252rrv8nu74140od42u992d1"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3747\r Issue Time: 2026 Sep 28 0500 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -70,13 +131,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T10:46:30.401071Z",
-      "score": 29.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 25.3
-    },
     {
       "ts": "2026-08-15T11:14:17.372124Z",
       "score": 16.6,
@@ -4773,6 +4827,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.2
+    },
+    {
+      "ts": "2026-09-29T00:33:09.272470Z",
+      "score": 18.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.6
     }
   ],
   "sources": [
