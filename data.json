@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T07:04:15.229756Z",
-  "score": 22.6,
+  "generated_at": "2026-09-30T13:40:38.268652Z",
+  "score": 21.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -17.6,
-    "d24h": 3.2,
+    "d1h": 3.2,
+    "d24h": 2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 3.6,
     "seismic": 2.1,
-    "alien_variance": 3.9
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 108,
     "date": "30.09.2026",
     "declassified": "30.09.26",
-    "generated_utc": "07:04",
+    "generated_utc": "13:40",
     "top_drivers": [
+      "Lenovo Yoga Mini - Neobi\u010dno simpati\u010dan - Recenzije @ Bug . hr",
       "NOAA space-weather alerts active: 3",
       "NEO (2018 SP2) passing Earth at 5.0 lunar distances"
     ],
@@ -40,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.3,
-    "baseline_recent": 14.5,
+    "live_signal": 17.7,
+    "baseline_recent": 14.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -56,6 +57,72 @@
   },
   "ticker": [
     {
+      "type": "news",
+      "text": "Lenovo Yoga Mini - Neobi\u010dno simpati\u010dan - Recenzije @ Bug . hr",
+      "source": "bug.hr",
+      "url": "https://www.bug.hr/recenzije/lenovo-yoga-mini-neobicno-simpatican-63174"
+    },
+    {
+      "type": "news",
+      "text": "\u4e9a\u8fd0\u7efc\u5408\uff5c\u9648\u59a4\u9889\u63a5\u529b  \u9006\u88ad  \u56fd\u7fbd\u5973\u53cc  \u71c3\u5c3d  ",
+      "source": "china.zjol.com.cn",
+      "url": "https://china.zjol.com.cn/sz/202609/t20260930_31942620.shtml"
+    },
+    {
+      "type": "news",
+      "text": "\u05e2\u05d1  \u05dd \u05d1\u05e9\u05d9\u05d3\u05d5\u05e8 \u05e9\u05dc SpaceX ? \u05d4\u05e2\u05e6\u05dd \u05d4\u05de\u05e1\u05ea\u05d5\u05e8\u05d9 \u05e9\u05ea\u05d5\u05e2\u05d3 \u05d1\u05d7\u05dc\u05dc",
+      "source": "walla.co.il",
+      "url": "https://www.walla.co.il:443/news/donotmiss/383955708"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=b97rbrueg67185eue33p7vgcs4"
+    },
+    {
+      "type": "news",
+      "text": "Jump Festa 2027 : Shonen Power Systems Are Blueprints for Biology You Cannot Do Yet",
+      "source": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/328216/20260929/jump-festa-2027-shonen-power-systems-are-blueprints-biology-you-cannot-do-yet.htm"
+    },
+    {
+      "type": "news",
+      "text": "A Signature Roadside Attraction in Maine Goes Up For Sale",
+      "source": "b985.fm",
+      "url": "https://b985.fm/ixp/698/p/wild-blueberry-land-maine-for-sale/"
+    },
+    {
+      "type": "news",
+      "text": "A Signature Roadside Attraction in Maine Goes Up For Sale",
+      "source": "92moose.fm",
+      "url": "https://92moose.fm/ixp/698/p/wild-blueberry-land-maine-for-sale/"
+    },
+    {
+      "type": "news",
+      "text": "A Signature Roadside Attraction in Maine Goes Up For Sale",
+      "source": "949whom.com",
+      "url": "https://949whom.com/ixp/698/p/wild-blueberry-land-maine-for-sale/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=42i058i3mpv9lo8eabuq0q0556"
+    },
+    {
+      "type": "news",
+      "text": "Avistamientos OVNI en Nevado del Tolima , Colombia : misterios , figuras de oro y teor\u00edas alien\u00edgenas",
+      "source": "pulzo.com",
+      "url": "https://www.pulzo.com/entretenimiento/avistamientos-ovni-en-nevado-del-tolima-colombia-misterios-figuras-de-oro-y-teorias-alienigenas-PP5316436A"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3749\r Issue Time: 2026 Sep 30 1004 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP4\r Serial Number: 718\r Issue Time: 2026 Sep 30 0339 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
       "source": "NOAA SWPC",
@@ -64,12 +131,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1529\r Issue Time: 2026 Sep 30 0338 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1127\r Issue Time: 2026 Sep 29 1301 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -87,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T13:59:34.005396Z",
-      "score": 15.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.0
-    },
     {
       "ts": "2026-08-15T14:26:23.446359Z",
       "score": 15.4,
@@ -4790,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.3
+    },
+    {
+      "ts": "2026-09-30T13:40:38.187465Z",
+      "score": 21.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.7
     }
   ],
   "sources": [
