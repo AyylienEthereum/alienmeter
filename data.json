@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-01T15:00:09.942894Z",
-  "score": 16.3,
+  "generated_at": "2026-10-01T20:15:08.904844Z",
+  "score": 30.8,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "huh",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -3.4,
-    "d24h": 3.6,
+    "d1h": 11.1,
+    "d24h": 15.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 19.5,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.1,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,24 @@
     "day": 109,
     "date": "01.10.2026",
     "declassified": "01.10.26",
-    "generated_utc": "15:00",
+    "generated_utc": "20:15",
     "top_drivers": [
+      "News velocity +81% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 2",
       "NEO (2013 HO11) passing Earth at 25.2 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.1,
-    "baseline_recent": 14.8,
+    "live_signal": 29.5,
+    "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 25.2371740838,
     "asteroid_name": "(2013 HO11)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 81.05458338162012,
     "x_last_hour": 0,
     "wiki_spike_pct": 0.5593312082757071,
     "earthquakes_24h": 0,
@@ -75,13 +76,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T16:17:38.422732Z",
-      "score": 16.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.9
-    },
     {
       "ts": "2026-08-15T16:49:02.259710Z",
       "score": 17.8,
@@ -4778,6 +4772,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.1
+    },
+    {
+      "ts": "2026-10-01T20:15:08.842652Z",
+      "score": 30.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 29.5
     }
   ],
   "sources": [
