@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-01T07:49:05.639559Z",
-  "score": 14.5,
+  "generated_at": "2026-10-01T15:00:09.942894Z",
+  "score": 16.3,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "all quiet",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -6.9,
-    "d24h": -2.2,
+    "d1h": -3.4,
+    "d24h": 3.6,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 4.0,
     "search_interest": 0.1,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.1
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,17 @@
     "day": 109,
     "date": "01.10.2026",
     "declassified": "01.10.26",
-    "generated_utc": "07:49",
+    "generated_utc": "15:00",
     "top_drivers": [
-      "Il centro cerca casa nel campo largo | veti strategie e possibili federatori",
-      "NOAA space-weather alerts active: 1",
+      "NOAA space-weather alerts active: 2",
       "NEO (2013 HO11) passing Earth at 25.2 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 8.9,
-    "baseline_recent": 14.6,
+    "live_signal": 11.1,
+    "baseline_recent": 14.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -53,72 +52,18 @@
     "wiki_spike_pct": 0.5593312082757071,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Il centro cerca casa nel campo largo | veti strategie e possibili federatori",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-10-01/il-centro-cerca-casa-nel-campo-largo-veti-strategie-e-possibili-federatori/19743713/"
-    },
-    {
-      "type": "news",
-      "text": "Il Foglio il M5s e la conferenza sugli Ufo a Palazzo Valentini",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-10-01/il-foglio-il-m5s-e-la-conferenza-sugli-ufo-a-palazzo-valentini/19743533/"
-    },
-    {
-      "type": "news",
-      "text": "\u534e\u4e3aMate 90\u7cfb\u5217\u53ca\u5168\u573a\u666f\u65b0\u54c1\u53d1\u5e03\u4f1a\u4e3e\u884c \uff0c \u591a\u6b3e\u91cd\u78c5\u65b0\u54c1\u4eae\u76f8",
-      "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-01/doc-initsyam6779713.shtml"
-    },
-    {
-      "type": "news",
-      "text": "I dipinti nascosti saranno mostrati soltanto in foto",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-10-01/i-dipinti-nascosti-saranno-mostrati-soltanto-in-foto/19743427/"
-    },
-    {
-      "type": "news",
-      "text": "Le armi united states nello spazio ? 17 piccoli satelliti che fanno da sentinelle in orbita",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-10-01/le-armi-usa-nello-spazio-17-piccoli-satelliti-che-fanno-da-sentinelle-in-orbita/19743402/"
-    },
-    {
-      "type": "news",
-      "text": "\u534e\u4e3a\u5168\u65b0\u97f3\u9891\u7cfb\u5217HUAWEI FreeBuds Neo\u53d1\u5e03 \uff1a \u5148\u950b\u7f8e\u5b66 \uff0c \u4e00\u773c\u89c1\u65b0 \uff0c \u552e\u4ef7699\u5143",
-      "source": "mobile.zol.com.cn",
-      "url": "https://mobile.zol.com.cn/1255/12551833.html"
-    },
-    {
-      "type": "news",
-      "text": "Los cinco podcasts m\u00e1s escuchados en M\u00e9xico : terror y comedia lideran las listas",
-      "source": "excelsior.com.mx",
-      "url": "https://www.excelsior.com.mx/espectaculos/cinco-podcasts-mas-escuchados-mexico-terror-y-comedia-lideran-listas"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2o31teotvtf353ftcl0ssl16q5"
-    },
-    {
-      "type": "news",
-      "text": "Rain - soaked northern New Mexico on alert for landslides Wednesday night",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/rain-soaked-northern-new-mexico-on-alert-for-landslides-wednesday-night/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=422hpejhaepa4n1cds7a2sohc2"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3750\r Issue Time: 2026 Oct 01 1430 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3749\r Issue Time: 2026 Sep 30 1004 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1128\r Issue Time: 2026 Oct 01 1428 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -130,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T15:55:41.903310Z",
-      "score": 17.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.0
-    },
     {
       "ts": "2026-08-15T16:17:38.422732Z",
       "score": 16.9,
@@ -4833,6 +4771,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 8.9
+    },
+    {
+      "ts": "2026-10-01T15:00:09.866453Z",
+      "score": 16.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.1
     }
   ],
   "sources": [
