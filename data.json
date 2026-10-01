@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-01T20:15:08.904844Z",
-  "score": 30.8,
+  "generated_at": "2026-10-01T23:54:41.226409Z",
+  "score": 15.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 11.1,
-    "d24h": 15.4,
+    "d1h": -2.7,
+    "d24h": 0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 19.5,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.1,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.0
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,24 +31,24 @@
     "day": 109,
     "date": "01.10.2026",
     "declassified": "01.10.26",
-    "generated_utc": "20:15",
+    "generated_utc": "23:54",
     "top_drivers": [
-      "News velocity +81% vs 7-day baseline (GDELT)",
+      "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
       "NOAA space-weather alerts active: 2",
       "NEO (2013 HO11) passing Earth at 25.2 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 29.5,
+    "live_signal": 9.8,
     "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 25.2371740838,
     "asteroid_name": "(2013 HO11)",
-    "gdelt_spike_pct": 81.05458338162012,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 0.5593312082757071,
     "earthquakes_24h": 0,
@@ -56,6 +56,66 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
+      "source": "991thewhale.com",
+      "url": "https://991thewhale.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
+      "source": "wzozfm.com",
+      "url": "https://wzozfm.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "Photos - Iron Maiden Wrap 2026 U . S . Tour Dates",
+      "source": "loudwire.com",
+      "url": "https://loudwire.com/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "\u0411\u043e\u043d\u0443\u0441\u044b \u0432 GTA Online : \u00ab \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u00bb \u0425\u044d\u043b\u043b\u043e\u0443\u0438\u043d ( \u0447\u0430\u0441\u0442\u044c 1 ) / GTA . com . ua",
+      "source": "gta.com.ua",
+      "url": "https://gta.com.ua/news/gta-online/bonuses-the-last-halloween-part-1"
+    },
+    {
+      "type": "news",
+      "text": "\u5c04\u51fb\u9879\u76ee\u5341\u516d\u91d1\u6536\u5b98 \u521b\u591a\u4e2a\u4e16\u754c\u7eaa\u5f55 -- \u6587\u65c5 \u00b7 \u4f53\u80b2 -- \u4eba\u6c11\u7f51",
+      "source": "ent.people.com.cn",
+      "url": "http://ent.people.com.cn/n1/2026/1002/c1012-40808727.html"
+    },
+    {
+      "type": "news",
+      "text": "Charlton Heston Starred In The Failed Spin - Off Of A Major  80s Primetime Soap Opera",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2270355/charlton-heston-star-failed-spin-off-major-80s-primetime-soap-opera-the-colbys/"
+    },
+    {
+      "type": "news",
+      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
+      "source": "ultimateclassicrock.com",
+      "url": "https://ultimateclassicrock.com/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
+      "source": "kool1017.com",
+      "url": "https://kool1017.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
+      "source": "kbat.com",
+      "url": "https://kbat.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
+    },
+    {
+      "type": "news",
+      "text": "Worthplaying |  Grand Theft Auto Online  Update Adds Triple Rewards on Slasher Modes and Halloween Survivals , Double Rewards on UFO Business Battles , and More",
+      "source": "worthplaying.com",
+      "url": "https://worthplaying.com/article/2026/10/1/news/151121-grand-theft-auto-online-update-adds-triple-rewards-on-slasher-modes-and-halloween-survivals-double-rewards-on-ufo-business-battles-and-more/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3750\r Issue Time: 2026 Oct 01 1430 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -76,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T16:49:02.259710Z",
-      "score": 17.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.1
-    },
     {
       "ts": "2026-08-15T17:15:39.859484Z",
       "score": 15.5,
@@ -4779,6 +4832,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 29.5
+    },
+    {
+      "ts": "2026-10-01T23:54:41.150133Z",
+      "score": 15.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.8
     }
   ],
   "sources": [
