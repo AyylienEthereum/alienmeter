@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-02T03:34:42.312258Z",
-  "score": 16.7,
+  "generated_at": "2026-10-02T10:03:45.937583Z",
+  "score": 17.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.2,
-    "d24h": 0.8,
+    "d1h": 1.1,
+    "d24h": 1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.4,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.1
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 110,
     "date": "02.10.2026",
     "declassified": "02.10.26",
-    "generated_utc": "03:34",
+    "generated_utc": "10:03",
     "top_drivers": [
-      "Generate Biomedicines ( GENB ) and Its Peers Financial Contrast",
       "NOAA space-weather alerts active: 2",
       "NEO (2013 HO11) passing Earth at 25.2 lunar distances"
     ],
@@ -41,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.4,
+    "live_signal": 12.4,
     "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 25.2371740838,
     "asteroid_name": "(2013 HO11)",
-    "gdelt_spike_pct": -7.903704517972961,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 2.246168847161009,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Generate Biomedicines ( GENB ) and Its Peers Financial Contrast",
-      "source": "tickerreport.com",
-      "url": "https://www.tickerreport.com/banking-finance/13605463/generate-biomedicines-genb-and-its-peers-financial-contrast.html"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "mega993online.com",
-      "url": "https://mega993online.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "El Tel\u00e9grafo - \u00bf Ovnis o demonios ? La teor\u00eda de Joe Jordan sobre las supuestas abducciones",
-      "source": "eltelegrafo.com.ec",
-      "url": "https://www.eltelegrafo.com.ec/noticias/tendencias/213/ovnis-o-demonios-la-teoria-de-joe-jordan-sobre-las-supuestas-abducciones"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "myq1075.com",
-      "url": "https://myq1075.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "wblm.com",
-      "url": "https://wblm.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "kdat.com",
-      "url": "https://kdat.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "1057thehawk.com",
-      "url": "https://1057thehawk.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "991thewhale.com",
-      "url": "https://991thewhale.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Iron Maiden Wraps 2026 US Tour : Set List , Photos + Review",
-      "source": "wzozfm.com",
-      "url": "https://wzozfm.com/ixp/295/p/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
-    {
-      "type": "news",
-      "text": "Photos - Iron Maiden Wrap 2026 U . S . Tour Dates",
-      "source": "loudwire.com",
-      "url": "https://loudwire.com/iron-maiden-us-tour-closer-review-set-list-photos/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3750\r Issue Time: 2026 Oct 01 1430 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -136,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T17:37:43.833730Z",
-      "score": 16.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.5
-    },
     {
       "ts": "2026-08-15T17:56:56.257088Z",
       "score": 14.2,
@@ -4839,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.4
+    },
+    {
+      "ts": "2026-10-02T10:03:45.858784Z",
+      "score": 17.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.4
     }
   ],
   "sources": [
