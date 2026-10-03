@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-03T00:06:36.302804Z",
-  "score": 43.0,
+  "generated_at": "2026-10-03T05:15:35.210795Z",
+  "score": 17.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 26.3,
-    "d24h": 26.0,
+    "d1h": -0.1,
+    "d24h": 1.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.7,
-    "search_interest": 0.3,
+    "search_interest": 1.2,
     "space_weather_alerts": 0.0,
     "seismic": 2.4,
-    "alien_variance": 1.4
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,25 +31,25 @@
     "day": 111,
     "date": "03.10.2026",
     "declassified": "03.10.26",
-    "generated_utc": "00:06",
+    "generated_utc": "05:15",
     "top_drivers": [
-      "News velocity +339% vs 7-day baseline (GDELT)",
+      "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2007 UW1) passing Earth at 33.0 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 45.3,
-    "baseline_recent": 14.8,
+    "live_signal": 12.4,
+    "baseline_recent": 14.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 32.9661550222,
     "asteroid_name": "(2007 UW1)",
-    "gdelt_spike_pct": 338.73548791967363,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 1.9561790995250874,
+    "wiki_spike_pct": 7.464301276689533,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 4.7,
     "swpc_alerts_24h": 0
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T19:17:19.391787Z",
-      "score": 16.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.6
-    },
     {
       "ts": "2026-08-15T19:43:51.939531Z",
       "score": 16.2,
@@ -4772,6 +4765,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 45.3
+    },
+    {
+      "ts": "2026-10-03T05:15:35.135946Z",
+      "score": 17.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.4
     }
   ],
   "sources": [
