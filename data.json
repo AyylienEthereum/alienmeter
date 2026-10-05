@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-04T22:25:01.385963Z",
-  "score": 19.3,
+  "generated_at": "2026-10-05T01:05:49.213345Z",
+  "score": 46.5,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": -21.4,
-    "d24h": 6.2,
+    "d1h": 1.2,
+    "d24h": 36.8,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,39 +23,46 @@
     "search_interest": 1.1,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.8
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 112,
-    "day": 112,
-    "date": "04.10.2026",
-    "declassified": "04.10.26",
-    "generated_utc": "22:25",
+    "number": 113,
+    "day": 113,
+    "date": "05.10.2026",
+    "declassified": "05.10.26",
+    "generated_utc": "01:05",
     "top_drivers": [
-      "NOAA space-weather alerts active: 10",
+      "News velocity +347% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 11",
       "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2007 UW1) passing Earth at 33.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.1,
+    "live_signal": 50.0,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 32.9661550222,
     "asteroid_name": "(2007 UW1)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 347.3527662105889,
     "x_last_hour": 0,
-    "wiki_spike_pct": 7.0105003088326105,
+    "wiki_spike_pct": 6.5794538334813035,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 10
+    "swpc_alerts_24h": 11
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2053\r Issue Time: 2026 Oct 04 2357 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK06\r Serial Number: 726\r Issue Time: 2026 Oct 04 2058 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
@@ -69,12 +76,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2268\r Issue Time: 2026 Oct 04 1850 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 5 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2007 UW1) passing at 32.97 LD (~171m, 4.7 km/s)",
       "source": "NASA NeoWs",
@@ -82,13 +83,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T23:20:19.292395Z",
-      "score": 13.8,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 6.2
-    },
     {
       "ts": "2026-08-15T23:42:58.738465Z",
       "score": 15.8,
@@ -4785,6 +4779,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.1
+    },
+    {
+      "ts": "2026-10-05T01:05:49.134283Z",
+      "score": 46.5,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 50.0
     }
   ],
   "sources": [
