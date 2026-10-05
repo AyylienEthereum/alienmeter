@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-05T07:01:08.283720Z",
-  "score": 46.8,
+  "generated_at": "2026-10-05T15:49:49.103060Z",
+  "score": 46.7,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "keep an eye on the sky",
+    "flavor": "that's... unusual",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 28.3,
-    "d24h": 35.5,
+    "d1h": 27.7,
+    "d24h": 34.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,10 +31,10 @@
     "day": 113,
     "date": "05.10.2026",
     "declassified": "05.10.26",
-    "generated_utc": "07:01",
+    "generated_utc": "15:49",
     "top_drivers": [
-      "News velocity +331% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 13",
+      "News velocity +325% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 9",
       "Wikipedia UFO pageviews +9% above baseline",
       "NEO (2007 UW1) passing Earth at 33.0 lunar distances"
     ],
@@ -43,18 +43,18 @@
   },
   "raw": {
     "live_signal": 50.4,
-    "baseline_recent": 14.4,
+    "baseline_recent": 14.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 32.9661550222,
     "asteroid_name": "(2007 UW1)",
-    "gdelt_spike_pct": 331.1173233161527,
+    "gdelt_spike_pct": 325.39972878362613,
     "x_last_hour": 0,
     "wiki_spike_pct": 8.79659422800851,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 13
+    "swpc_alerts_24h": 9
   },
   "ticker": [
     {
@@ -83,13 +83,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T23:57:45.319466Z",
-      "score": 16.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.7
-    },
     {
       "ts": "2026-08-16T01:10:24.044679Z",
       "score": 18.7,
@@ -4783,6 +4776,13 @@
     {
       "ts": "2026-10-05T07:01:08.217761Z",
       "score": 46.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 50.4
+    },
+    {
+      "ts": "2026-10-05T15:49:49.023664Z",
+      "score": 46.7,
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 50.4
