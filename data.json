@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-05T01:05:49.213345Z",
-  "score": 46.5,
+  "generated_at": "2026-10-05T07:01:08.283720Z",
+  "score": 46.8,
   "band": {
     "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
+    "flavor": "keep an eye on the sky",
     "index": 2,
     "color": "#FFE066",
     "emoji": "\ud83d\udfe1",
     "min": 30
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": 36.8,
+    "d1h": 28.3,
+    "d24h": 35.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 2.7,
-    "search_interest": 1.1,
+    "search_interest": 1.4,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 1.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,47 +31,47 @@
     "day": 113,
     "date": "05.10.2026",
     "declassified": "05.10.26",
-    "generated_utc": "01:05",
+    "generated_utc": "07:01",
     "top_drivers": [
-      "News velocity +347% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 11",
-      "Wikipedia UFO pageviews +7% above baseline",
+      "News velocity +331% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 13",
+      "Wikipedia UFO pageviews +9% above baseline",
       "NEO (2007 UW1) passing Earth at 33.0 lunar distances"
     ],
     "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 50.0,
+    "live_signal": 50.4,
     "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 32.9661550222,
     "asteroid_name": "(2007 UW1)",
-    "gdelt_spike_pct": 347.3527662105889,
+    "gdelt_spike_pct": 331.1173233161527,
     "x_last_hour": 0,
-    "wiki_spike_pct": 6.5794538334813035,
+    "wiki_spike_pct": 8.79659422800851,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 11
+    "swpc_alerts_24h": 13
   },
   "ticker": [
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2053\r Issue Time: 2026 Oct 04 2357 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2054\r Issue Time: 2026 Oct 05 0352 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 726\r Issue Time: 2026 Oct 04 2058 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2269\r Issue Time: 2026 Oct 05 0350 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5425\r Issue Time: 2026 Oct 04 1901 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5426\r Issue Time: 2026 Oct 05 0156 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -83,13 +83,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-15T23:42:58.738465Z",
-      "score": 15.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.7
-    },
     {
       "ts": "2026-08-15T23:57:45.319466Z",
       "score": 16.6,
@@ -4786,6 +4779,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 50.0
+    },
+    {
+      "ts": "2026-10-05T07:01:08.217761Z",
+      "score": 46.8,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 50.4
     }
   ],
   "sources": [
