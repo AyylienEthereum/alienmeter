@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T15:56:31.066922Z",
-  "score": 24.5,
+  "generated_at": "2026-10-06T20:45:18.685707Z",
+  "score": 27.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -22.2,
-    "d24h": 11.0,
+    "d1h": 9.8,
+    "d24h": 12.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 7.2,
     "search_interest": 1.1,
     "space_weather_alerts": 6.0,
-    "seismic": 0.0,
-    "alien_variance": 2.4
+    "seismic": 2.8,
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 114,
     "date": "06.10.2026",
     "declassified": "06.10.26",
-    "generated_utc": "15:56",
+    "generated_utc": "20:45",
     "top_drivers": [
       "NOAA space-weather alerts active: 5",
       "Wikipedia UFO pageviews +7% above baseline",
@@ -41,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.7,
-    "baseline_recent": 14.7,
+    "live_signal": 25.1,
+    "baseline_recent": 14.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
@@ -51,11 +51,17 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.810871425620451,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5.5,
     "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 283\r Issue Time: 2026 Oct 06 1633 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1530\r Issue Time: 2026 Oct 06 0615 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -69,10 +75,10 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5428\r Issue Time: 2026 Oct 06 0343 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: 92 km NNW of Aleneva, Alaska",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -82,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T04:59:31.197866Z",
-      "score": 17.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 10.8
-    },
     {
       "ts": "2026-08-16T05:31:13.697504Z",
       "score": 15.4,
@@ -4785,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.7
+    },
+    {
+      "ts": "2026-10-06T20:45:18.626092Z",
+      "score": 27.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 25.1
     }
   ],
   "sources": [
