@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-06T02:23:22.704833Z",
-  "score": 50.5,
+  "generated_at": "2026-10-06T09:11:59.008153Z",
+  "score": 21.4,
   "band": {
-    "name": "ROSWELL ENERGY",
-    "flavor": "trust nothing",
-    "index": 3,
-    "color": "#FFB347",
-    "emoji": "\ud83d\udfe0",
-    "min": 50
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 4.0,
-    "d24h": 35.5,
+    "d1h": -25.4,
+    "d24h": 5.6,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 36.0,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 0.0,
     "asteroid_approach": 7.2,
-    "search_interest": 1.3,
-    "space_weather_alerts": 4.8,
+    "search_interest": 1.1,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 0.9
+    "alien_variance": 3.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,47 +31,46 @@
     "day": 114,
     "date": "06.10.2026",
     "declassified": "06.10.26",
-    "generated_utc": "02:23",
+    "generated_utc": "09:11",
     "top_drivers": [
-      "News velocity +318% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +8% above baseline",
+      "NOAA space-weather alerts active: 5",
+      "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
     ],
-    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 55.2,
-    "baseline_recent": 14.3,
+    "live_signal": 17.8,
+    "baseline_recent": 14.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "A",
     "closest_asteroid_ld": 4.7167186323,
     "asteroid_name": "(2015 TS238)",
-    "gdelt_spike_pct": 317.57239899892744,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 8.397110145104993,
+    "wiki_spike_pct": 6.810871425620451,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5427\r Issue Time: 2026 Oct 05 2111 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1530\r Issue Time: 2026 Oct 06 0615 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3751\r Issue Time: 2026 Oct 05 1847 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 06 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2054\r Issue Time: 2026 Oct 05 0352 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5428\r Issue Time: 2026 Oct 06 0343 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -83,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T03:32:12.903387Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.5
-    },
     {
       "ts": "2026-08-16T04:20:54.196968Z",
       "score": 14.9,
@@ -4786,6 +4778,13 @@
       "band": "ROSWELL ENERGY",
       "i": 3,
       "live": 55.2
+    },
+    {
+      "ts": "2026-10-06T09:11:58.929558Z",
+      "score": 21.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.8
     }
   ],
   "sources": [
