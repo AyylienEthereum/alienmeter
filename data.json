@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-07T19:03:08.978716Z",
-  "score": 20.7,
+  "generated_at": "2026-10-07T23:35:27.046334Z",
+  "score": 18.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.6,
-    "d24h": 6.8,
+    "d1h": -7.5,
+    "d24h": 2.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 7.2,
     "search_interest": 1.7,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.2
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 115,
     "date": "07.10.2026",
     "declassified": "07.10.26",
-    "generated_utc": "19:03",
+    "generated_utc": "23:35",
     "top_drivers": [
+      "Atlanta 10 Best Steakhouses : Luella",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +11% above baseline",
       "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
@@ -41,11 +42,11 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.3,
-    "baseline_recent": 15.4,
+    "live_signal": 13.6,
+    "baseline_recent": 15.6,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 4.7167186323,
     "asteroid_name": "(2015 TS238)",
     "gdelt_spike_pct": null,
@@ -56,6 +57,18 @@
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Atlanta 10 Best Steakhouses : Luella",
+      "source": "atlantamagazine.com",
+      "url": "https://www.atlantamagazine.com/dining-news/atlantas-10-best-steakhouses-luella/"
+    },
+    {
+      "type": "news",
+      "text": "Atlanta 10 Best Steakhouses : Kaiser Chophouse",
+      "source": "atlantamagazine.com",
+      "url": "https://www.atlantamagazine.com/dining-news/atlantas-10-best-steakhouses-kaisers-chophouse/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 07 0504 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -70,13 +83,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T07:53:34.493251Z",
-      "score": 14.7,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 7.4
-    },
     {
       "ts": "2026-08-16T08:20:56.215789Z",
       "score": 15.4,
@@ -4773,6 +4779,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.3
+    },
+    {
+      "ts": "2026-10-07T23:35:26.988691Z",
+      "score": 18.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.6
     }
   ],
   "sources": [
