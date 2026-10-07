@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-07T00:11:21.676534Z",
-  "score": 26.2,
+  "generated_at": "2026-10-07T05:55:26.689581Z",
+  "score": 25.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -24.3,
+    "d1h": 4.5,
     "d24h": 12.0,
     "peak90": 64.4
   },
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 7.2,
-    "search_interest": 1.0,
-    "space_weather_alerts": 4.8,
+    "search_interest": 1.7,
+    "space_weather_alerts": 3.6,
     "seismic": 2.8,
-    "alien_variance": 2.9
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,50 @@
     "day": 115,
     "date": "07.10.2026",
     "declassified": "07.10.26",
-    "generated_utc": "00:11",
+    "generated_utc": "05:55",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +6% above baseline",
+      "Atlanta 10 Best Steakhouses : Luella",
+      "NOAA space-weather alerts active: 3",
+      "Wikipedia UFO pageviews +11% above baseline",
       "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 23.7,
+    "live_signal": 23.3,
     "baseline_recent": 14.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 4.7167186323,
     "asteroid_name": "(2015 TS238)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.26192278576835,
     "x_last_hour": 0,
-    "wiki_spike_pct": 6.49800631081261,
+    "wiki_spike_pct": 10.803920513209475,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 5.5,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Atlanta 10 Best Steakhouses : Luella",
+      "source": "atlantamagazine.com",
+      "url": "https://www.atlantamagazine.com/dining-news/atlantas-10-best-steakhouses-luella/"
+    },
+    {
+      "type": "news",
+      "text": "Atlanta 10 Best Steakhouses : Kaiser Chophouse",
+      "source": "atlantamagazine.com",
+      "url": "https://www.atlantamagazine.com/dining-news/atlantas-10-best-steakhouses-kaisers-chophouse/"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 07 0504 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 283\r Issue Time: 2026 Oct 06 1633 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
@@ -65,12 +84,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1530\r Issue Time: 2026 Oct 06 0615 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 06 0507 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -88,13 +101,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T06:00:45.779329Z",
-      "score": 14.9,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 7.7
-    },
     {
       "ts": "2026-08-16T06:50:34.883993Z",
       "score": 13.8,
@@ -4791,6 +4797,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 23.7
+    },
+    {
+      "ts": "2026-10-07T05:55:26.645366Z",
+      "score": 25.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.3
     }
   ],
   "sources": [
