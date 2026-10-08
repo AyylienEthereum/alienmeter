@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T17:07:26.688850Z",
-  "score": 27.4,
+  "generated_at": "2026-10-08T22:04:08.135073Z",
+  "score": 25.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 6.7,
-    "d24h": 7.4,
+    "d1h": 7.0,
+    "d24h": 4.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.1,
-    "alien_variance": 3.1
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 116,
     "date": "08.10.2026",
     "declassified": "08.10.26",
-    "generated_utc": "17:07",
+    "generated_utc": "22:04",
     "top_drivers": [
       "NOAA space-weather alerts active: 6",
       "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 24.4,
-    "baseline_recent": 16.0,
+    "live_signal": 22.2,
+    "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 4.7167186323,
     "asteroid_name": "(2015 TS238)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.43643969323728,
     "x_last_hour": 0,
     "wiki_spike_pct": -2.663360403766805,
     "earthquakes_24h": 1,
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T09:50:16.287907Z",
-      "score": 24.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 19.6
-    },
     {
       "ts": "2026-08-16T10:16:21.680996Z",
       "score": 26.0,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 24.4
+    },
+    {
+      "ts": "2026-10-08T22:04:08.088179Z",
+      "score": 25.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 22.2
     }
   ],
   "sources": [
