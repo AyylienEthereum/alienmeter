@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-08T02:56:34.720411Z",
-  "score": 19.8,
+  "generated_at": "2026-10-08T09:52:17.633269Z",
+  "score": 24.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.1,
-    "d24h": 1.4,
+    "d1h": 0.5,
+    "d24h": 3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 7.2,
-    "search_interest": 0.1,
+    "search_interest": 0.0,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 1.4
+    "seismic": 3.1,
+    "alien_variance": 4.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 116,
     "date": "08.10.2026",
     "declassified": "08.10.26",
-    "generated_utc": "02:56",
+    "generated_utc": "09:52",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
@@ -40,26 +40,32 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.9,
-    "baseline_recent": 15.7,
+    "live_signal": 20.5,
+    "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
     "closest_asteroid_ld": 4.7167186323,
     "asteroid_name": "(2015 TS238)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -74.80314960629921,
     "x_last_hour": 0,
-    "wiki_spike_pct": 0.5924294957437154,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "wiki_spike_pct": -2.663360403766805,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 07 0504 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3752\r Issue Time: 2026 Oct 08 0501 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 102 km NE of Norsup, Vanuatu",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -69,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T08:54:58.099465Z",
-      "score": 18.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.2
-    },
     {
       "ts": "2026-08-16T09:21:30.669540Z",
       "score": 18.5,
@@ -4772,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.9
+    },
+    {
+      "ts": "2026-10-08T09:52:17.553255Z",
+      "score": 24.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.5
     }
   ],
   "sources": [
