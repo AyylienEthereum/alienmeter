@@ -1,60 +1,66 @@
 {
-  "generated_at": "2026-10-08T22:04:08.135073Z",
-  "score": 25.7,
+  "generated_at": "2026-10-09T02:07:54.013166Z",
+  "score": 23.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 7.0,
-    "d24h": 4.7,
+    "d1h": 4.0,
+    "d24h": 5.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
-    "asteroid_approach": 7.2,
+    "solar_flares": 2.5,
+    "asteroid_approach": 5.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.1,
-    "alien_variance": 0.9
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 116,
-    "day": 116,
-    "date": "08.10.2026",
-    "declassified": "08.10.26",
-    "generated_utc": "22:04",
+    "number": 117,
+    "day": 117,
+    "date": "09.10.2026",
+    "declassified": "09.10.26",
+    "generated_utc": "02:07",
     "top_drivers": [
-      "NOAA space-weather alerts active: 6",
-      "NEO (2015 TS238) passing Earth at 4.7 lunar distances"
+      "NOAA space-weather alerts active: 7",
+      "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.2,
-    "baseline_recent": 16.1,
+    "live_signal": 19.7,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 4.7167186323,
-    "asteroid_name": "(2015 TS238)",
-    "gdelt_spike_pct": -74.43643969323728,
+    "xray_class": "B",
+    "closest_asteroid_ld": 18.6251240607,
+    "asteroid_name": "(2019 SD8)",
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -2.663360403766805,
+    "wiki_spike_pct": -2.8568554471381145,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.3,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5429\r Issue Time: 2026 Oct 09 0129 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1531\r Issue Time: 2026 Oct 08 1646 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
@@ -68,12 +74,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1531\r Issue Time: 2026 Oct 08 1643 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 102 km NE of Norsup, Vanuatu",
       "source": "USGS",
@@ -81,19 +81,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2015 TS238) passing at 4.72 LD (~49m, 15.8 km/s)",
+      "text": "NEO (2019 SD8) passing at 18.63 LD (~20m, 9.5 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T10:16:21.680996Z",
-      "score": 26.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 21.9
-    },
     {
       "ts": "2026-08-16T10:47:33.494112Z",
       "score": 15.8,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 22.2
+    },
+    {
+      "ts": "2026-10-09T02:07:53.932127Z",
+      "score": 23.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.7
     }
   ],
   "sources": [
