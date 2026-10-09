@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T09:00:11.083470Z",
-  "score": 21.9,
+  "generated_at": "2026-10-09T15:59:46.004772Z",
+  "score": 24.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -2.3,
-    "d24h": 2.2,
+    "d1h": -3.0,
+    "d24h": 5.5,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 0.0,
+    "solar_flares": 5.0,
     "asteroid_approach": 5.0,
-    "search_interest": 0.0,
+    "search_interest": 2.0,
     "space_weather_alerts": 6.0,
-    "seismic": 3.1,
-    "alien_variance": 3.2
+    "seismic": 0.0,
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,37 @@
     "day": 117,
     "date": "09.10.2026",
     "declassified": "09.10.26",
-    "generated_utc": "09:00",
+    "generated_utc": "15:59",
     "top_drivers": [
       "NOAA space-weather alerts active: 7",
+      "Wikipedia UFO pageviews +12% above baseline",
       "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.3,
-    "baseline_recent": 16.3,
+    "live_signal": 20.5,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "A",
+    "xray_class": "C",
     "closest_asteroid_ld": 18.6251240607,
     "asteroid_name": "(2019 SD8)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -2.8568554471381145,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.3,
+    "wiki_spike_pct": 12.229900720264752,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 7
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2690\r Issue Time: 2026 Oct 09 1001 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 284\r Issue Time: 2026 Oct 09 0812 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
@@ -68,18 +75,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1531\r Issue Time: 2026 Oct 08 1646 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 102 km NE of Norsup, Vanuatu",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2019 SD8) passing at 18.63 LD (~20m, 9.5 km/s)",
       "source": "NASA NeoWs",
@@ -87,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T11:15:01.245557Z",
-      "score": 14.9,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 7.7
-    },
     {
       "ts": "2026-08-16T11:35:20.142616Z",
       "score": 13.1,
@@ -4790,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.3
+    },
+    {
+      "ts": "2026-10-09T15:59:45.960348Z",
+      "score": 24.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.5
     }
   ],
   "sources": [
