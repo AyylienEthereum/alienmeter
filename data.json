@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-09T15:59:46.004772Z",
-  "score": 24.4,
+  "generated_at": "2026-10-09T20:41:43.417003Z",
+  "score": 25.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.0,
-    "d24h": 5.5,
+    "d1h": -0.3,
+    "d24h": 7.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 5.0,
     "asteroid_approach": 5.0,
     "search_interest": 2.0,
-    "space_weather_alerts": 6.0,
-    "seismic": 0.0,
-    "alien_variance": 2.5
+    "space_weather_alerts": 4.8,
+    "seismic": 3.9,
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 117,
     "date": "09.10.2026",
     "declassified": "09.10.26",
-    "generated_utc": "15:59",
+    "generated_utc": "20:41",
     "top_drivers": [
-      "NOAA space-weather alerts active: 7",
+      "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +12% above baseline",
       "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
     ],
@@ -41,8 +41,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.5,
-    "baseline_recent": 16.2,
+    "live_signal": 21.8,
+    "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
@@ -51,11 +51,17 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 12.229900720264752,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 7
+    "earthquakes_24h": 3,
+    "max_quake_mag_24h": 7.7,
+    "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 285\r Issue Time: 2026 Oct 09 1636 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK04\r Serial Number: 2690\r Issue Time: 2026 Oct 09 1001 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
@@ -69,10 +75,16 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5429\r Issue Time: 2026 Oct 09 0129 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+      "type": "seismic",
+      "text": "Significant seismic event: 14 km W of R\u00edo Grande, Panama",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 1 km S of El Cacao, Panama",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -82,13 +94,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T11:35:20.142616Z",
-      "score": 13.1,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 5.4
-    },
     {
       "ts": "2026-08-16T11:56:19.239951Z",
       "score": 15.5,
@@ -4785,6 +4790,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.5
+    },
+    {
+      "ts": "2026-10-09T20:41:43.334509Z",
+      "score": 25.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.8
     }
   ],
   "sources": [
