@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T02:07:54.013166Z",
-  "score": 23.8,
+  "generated_at": "2026-10-09T09:00:11.083470Z",
+  "score": 21.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 4.0,
-    "d24h": 5.6,
+    "d1h": -2.3,
+    "d24h": 2.2,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 0.0,
     "asteroid_approach": 5.0,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.1,
-    "alien_variance": 3.1
+    "alien_variance": 3.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 117,
     "date": "09.10.2026",
     "declassified": "09.10.26",
-    "generated_utc": "02:07",
+    "generated_utc": "09:00",
     "top_drivers": [
       "NOAA space-weather alerts active: 7",
       "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
@@ -40,11 +40,11 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.7,
-    "baseline_recent": 16.2,
+    "live_signal": 17.3,
+    "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "A",
     "closest_asteroid_ld": 18.6251240607,
     "asteroid_name": "(2019 SD8)",
     "gdelt_spike_pct": null,
@@ -57,6 +57,12 @@
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 284\r Issue Time: 2026 Oct 09 0812 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5429\r Issue Time: 2026 Oct 09 0129 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
@@ -64,12 +70,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1531\r Issue Time: 2026 Oct 08 1646 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 719\r Issue Time: 2026 Oct 08 1644 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -87,13 +87,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T10:47:33.494112Z",
-      "score": 15.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.9
-    },
     {
       "ts": "2026-08-16T11:15:01.245557Z",
       "score": 14.9,
@@ -4790,6 +4783,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.7
+    },
+    {
+      "ts": "2026-10-09T09:00:11.023249Z",
+      "score": 21.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.3
     }
   ],
   "sources": [
