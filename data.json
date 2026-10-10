@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-10T06:09:27.116362Z",
-  "score": 23.4,
+  "generated_at": "2026-10-10T12:28:12.970911Z",
+  "score": 52.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "ROSWELL ENERGY",
+    "flavor": "trust nothing",
+    "index": 3,
+    "color": "#FFB347",
+    "emoji": "\ud83d\udfe0",
+    "min": 50
   },
   "deltas": {
-    "d1h": 1.5,
-    "d24h": 5.0,
+    "d1h": 28.5,
+    "d24h": 17.2,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 36.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 5.0,
     "search_interest": 1.1,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 2.4,
     "seismic": 3.9,
-    "alien_variance": 2.0
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,38 @@
     "day": 118,
     "date": "10.10.2026",
     "declassified": "10.10.26",
-    "generated_utc": "06:09",
+    "generated_utc": "12:28",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +7% above baseline",
-      "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
+      "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
+      "News velocity +545% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +7% above baseline"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "Evidence remains inconclusive but public interest is accelerating. The disclosure cycle continues to drive sustained anomalous signal. Recommend continued surveillance.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.3,
-    "baseline_recent": 16.0,
+    "live_signal": 57.2,
+    "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 18.6251240607,
     "asteroid_name": "(2019 SD8)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 545.0,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.576314441211434,
     "earthquakes_24h": 4,
     "max_quake_mag_24h": 7.7,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
+      "source": "ura.news",
+      "url": "https://ura.news/news/1053133869"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5430\r Issue Time: 2026 Oct 10 0538 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -65,12 +72,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA30\r Serial Number: 285\r Issue Time: 2026 Oct 09 1636 UTC\r \r WATCH: Geomagnetic Storm Category G2 Predicted  ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2690\r Issue Time: 2026 Oct 09 1001 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -94,13 +95,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T13:09:42.609485Z",
-      "score": 14.2,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 6.8
-    },
     {
       "ts": "2026-08-16T13:44:28.121707Z",
       "score": 13.0,
@@ -4797,6 +4791,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.3
+    },
+    {
+      "ts": "2026-10-10T12:28:12.890884Z",
+      "score": 52.9,
+      "band": "ROSWELL ENERGY",
+      "i": 3,
+      "live": 57.2
     }
   ],
   "sources": [
