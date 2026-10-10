@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-09T20:41:43.417003Z",
-  "score": 25.4,
+  "generated_at": "2026-10-10T00:19:54.401572Z",
+  "score": 25.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -0.3,
-    "d24h": 7.1,
+    "d1h": 1.3,
+    "d24h": 8.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,18 +20,18 @@
     "geomagnetic": 0.0,
     "solar_flares": 5.0,
     "asteroid_approach": 5.0,
-    "search_interest": 2.0,
+    "search_interest": 1.9,
     "space_weather_alerts": 4.8,
     "seismic": 3.9,
-    "alien_variance": 1.1
+    "alien_variance": 0.8
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 117,
-    "day": 117,
-    "date": "09.10.2026",
-    "declassified": "09.10.26",
-    "generated_utc": "20:41",
+    "number": 118,
+    "day": 118,
+    "date": "10.10.2026",
+    "declassified": "10.10.26",
+    "generated_utc": "00:19",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +12% above baseline",
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.8,
+    "live_signal": 21.4,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +50,7 @@
     "asteroid_name": "(2019 SD8)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 12.229900720264752,
+    "wiki_spike_pct": 11.905204134392875,
     "earthquakes_24h": 3,
     "max_quake_mag_24h": 7.7,
     "swpc_alerts_24h": 4
@@ -94,13 +94,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T11:56:19.239951Z",
-      "score": 15.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.5
-    },
     {
       "ts": "2026-08-16T12:27:26.849333Z",
       "score": 14.5,
@@ -4797,6 +4790,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.8
+    },
+    {
+      "ts": "2026-10-10T00:19:54.342384Z",
+      "score": 25.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.4
     }
   ],
   "sources": [
