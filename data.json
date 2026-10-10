@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T17:25:46.962118Z",
-  "score": 25.5,
+  "generated_at": "2026-10-10T20:38:00.751374Z",
+  "score": 26.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.1,
-    "d24h": 7.2,
+    "d1h": 1.1,
+    "d24h": 8.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -22,8 +22,8 @@
     "asteroid_approach": 5.0,
     "search_interest": 1.1,
     "space_weather_alerts": 6.0,
-    "seismic": 3.9,
-    "alien_variance": 1.1
+    "seismic": 3.0,
+    "alien_variance": 2.9
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 118,
     "date": "10.10.2026",
     "declassified": "10.10.26",
-    "generated_utc": "17:25",
+    "generated_utc": "20:38",
     "top_drivers": [
-      "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
-      "NOAA space-weather alerts active: 13",
+      "NOAA space-weather alerts active: 18",
       "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
     ],
@@ -42,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 22.1,
+    "live_signal": 23.0,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
@@ -52,44 +51,32 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.576314441211434,
-    "earthquakes_24h": 4,
-    "max_quake_mag_24h": 7.7,
-    "swpc_alerts_24h": 13
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6,
+    "swpc_alerts_24h": 18
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
-      "source": "ura.news",
-      "url": "https://ura.news/news/1053133869"
-    },
-    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 727\r Issue Time: 2026 Oct 10 1718 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
+      "text": "Space Weather Message Code: ALTK07\r Serial Number: 220\r Issue Time: 2026 Oct 10 1927 UTC\r \r ALERT: Geomagnetic K-index of 7  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2055\r Issue Time: 2026 Oct 10 1535 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "text": "Space Weather Message Code: ALTK06\r Serial Number: 728\r Issue Time: 2026 Oct 10 1837 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: SUMXM5\r Serial Number: 328\r Issue Time: 2026 Oct 10 1527 UTC\r \r SUMMARY: X-ray Event exceeded M5  Begin Time: 20",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2056\r Issue Time: 2026 Oct 10 1818 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "seismic",
       "text": "Significant seismic event: 7 km N of La Tronosa, Panama",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 14 km W of R\u00edo Grande, Panama",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -101,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T14:00:42.895660Z",
-      "score": 14.7,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 7.5
-    },
     {
       "ts": "2026-08-16T14:29:08.446818Z",
       "score": 13.7,
@@ -4804,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 22.1
+    },
+    {
+      "ts": "2026-10-10T20:38:00.691654Z",
+      "score": 26.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.0
     }
   ],
   "sources": [
