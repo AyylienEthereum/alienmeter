@@ -1,68 +1,61 @@
 {
-  "generated_at": "2026-10-10T23:49:56.281151Z",
-  "score": 24.4,
+  "generated_at": "2026-10-11T03:23:22.411599Z",
+  "score": 20.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.0,
-    "d24h": 8.8,
+    "d1h": -32.9,
+    "d24h": 1.3,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
-    "asteroid_approach": 5.0,
-    "search_interest": 1.1,
+    "solar_flares": 2.5,
+    "asteroid_approach": 1.6,
+    "search_interest": 1.0,
     "space_weather_alerts": 6.0,
     "seismic": 3.0,
-    "alien_variance": 0.6
+    "alien_variance": 0.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 118,
-    "day": 118,
-    "date": "10.10.2026",
-    "declassified": "10.10.26",
-    "generated_utc": "23:49",
+    "number": 119,
+    "day": 119,
+    "date": "11.10.2026",
+    "declassified": "11.10.26",
+    "generated_utc": "03:23",
     "top_drivers": [
-      "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
       "NOAA space-weather alerts active: 19",
-      "Wikipedia UFO pageviews +7% above baseline",
-      "NEO (2019 SD8) passing Earth at 18.6 lunar distances"
+      "Wikipedia UFO pageviews +6% above baseline",
+      "NEO (2012 WH1) passing Earth at 39.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 20.7,
+    "live_signal": 15.0,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 18.6251240607,
-    "asteroid_name": "(2019 SD8)",
+    "xray_class": "B",
+    "closest_asteroid_ld": 39.9055784594,
+    "asteroid_name": "(2012 WH1)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 6.576314441211434,
+    "wiki_spike_pct": 6.266951491731292,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6,
     "swpc_alerts_24h": 19
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "\u041d\u041b\u041e \u043d\u0430\u0434 \u0423\u0440\u0430\u043b\u043e\u043c : \u043f\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u043f\u0440\u043e \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0432 \u0442\u0430\u0439\u0433\u0435 , \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0443 \u0438 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0435",
-      "source": "ura.news",
-      "url": "https://ura.news/news/1053133869"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2057\r Issue Time: 2026 Oct 10 2145 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
@@ -89,19 +82,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2019 SD8) passing at 18.63 LD (~20m, 9.5 km/s)",
+      "text": "NEO (2012 WH1) passing at 39.91 LD (~86m, 7.0 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T14:50:50.545838Z",
-      "score": 12.1,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 4.2
-    },
     {
       "ts": "2026-08-16T15:15:19.622533Z",
       "score": 43.4,
@@ -4798,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 20.7
+    },
+    {
+      "ts": "2026-10-11T03:23:22.337385Z",
+      "score": 20.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.0
     }
   ],
   "sources": [
