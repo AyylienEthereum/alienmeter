@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T16:20:01.028554Z",
-  "score": 20.0,
+  "generated_at": "2026-10-11T20:27:42.499274Z",
+  "score": 18.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -6.2,
-    "d24h": 2.5,
+    "d1h": -6.0,
+    "d24h": 1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 1.6,
     "search_interest": 1.0,
-    "space_weather_alerts": 6.0,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.9
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 119,
     "date": "11.10.2026",
     "declassified": "11.10.26",
-    "generated_utc": "16:20",
+    "generated_utc": "20:27",
     "top_drivers": [
-      "NOAA space-weather alerts active: 8",
+      "NOAA space-weather alerts active: 4",
       "Wikipedia UFO pageviews +6% above baseline",
       "NEO (2012 WH1) passing Earth at 39.9 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.0,
+    "live_signal": 13.0,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
@@ -53,24 +53,24 @@
     "wiki_spike_pct": 6.266951491731292,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1129\r Issue Time: 2026 Oct 11 1911 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA30\r Serial Number: 286\r Issue Time: 2026 Oct 11 1702 UTC\r \r CANCEL WATCH: Geomagnetic Storm Category G2 Pred",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5432\r Issue Time: 2026 Oct 11 0457 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2057\r Issue Time: 2026 Oct 10 2145 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK07\r Serial Number: 220\r Issue Time: 2026 Oct 10 1927 UTC\r \r ALERT: Geomagnetic K-index of 7  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -82,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T15:56:42.453913Z",
-      "score": 41.8,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 42.2
-    },
     {
       "ts": "2026-08-16T16:20:39.190120Z",
       "score": 42.8,
@@ -4785,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.0
+    },
+    {
+      "ts": "2026-10-11T20:27:42.417085Z",
+      "score": 18.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.0
     }
   ],
   "sources": [
