@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-13T09:23:31.515142Z",
-  "score": 19.2,
+  "generated_at": "2026-10-13T17:03:13.173675Z",
+  "score": 22.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.0,
-    "d24h": 2.9,
+    "d1h": 5.1,
+    "d24h": 7.8,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 4.5,
     "search_interest": 2.4,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 3.4,
-    "alien_variance": 0.0
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 121,
     "date": "13.10.2026",
     "declassified": "13.10.26",
-    "generated_utc": "09:23",
+    "generated_utc": "17:03",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
+      "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +15% above baseline",
       "NEO (2018 EH4) passing Earth at 21.9 lunar distances"
     ],
@@ -41,21 +41,27 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.0,
+    "live_signal": 18.7,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 21.914449983,
     "asteroid_name": "(2018 EH4)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 15.12985263038452,
-    "earthquakes_24h": 2,
-    "max_quake_mag_24h": 6.7,
-    "swpc_alerts_24h": 1
+    "earthquakes_24h": 3,
+    "max_quake_mag_24h": 6.8,
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5434\r Issue Time: 2026 Oct 13 1431 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5433\r Issue Time: 2026 Oct 13 0115 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -70,7 +76,7 @@
     },
     {
       "type": "seismic",
-      "text": "Significant seismic event: 17 km W of R\u00edo Grande, Panama",
+      "text": "Significant seismic event: central Mid-Atlantic Ridge",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
@@ -82,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T18:54:34.529366Z",
-      "score": 15.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.6
-    },
     {
       "ts": "2026-08-16T19:17:15.077490Z",
       "score": 15.0,
@@ -4785,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.0
+    },
+    {
+      "ts": "2026-10-13T17:03:13.092036Z",
+      "score": 22.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.7
     }
   ],
   "sources": [
