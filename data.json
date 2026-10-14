@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T10:37:27.995336Z",
-  "score": 21.4,
+  "generated_at": "2026-10-14T15:29:41.932644Z",
+  "score": 16.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.4,
-    "d24h": -7.2,
+    "d1h": -5.5,
+    "d24h": -26.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 1.5,
-    "space_weather_alerts": 2.4,
-    "seismic": 3.4,
-    "alien_variance": 2.3
+    "space_weather_alerts": 1.2,
+    "seismic": 0.0,
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 122,
     "date": "14.10.2026",
     "declassified": "14.10.26",
-    "generated_utc": "10:37",
+    "generated_utc": "15:29",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +9% above baseline",
       "NEO (2000 SZ162) passing Earth at 19.8 lunar distances"
     ],
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.9,
+    "live_signal": 10.5,
     "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
@@ -51,9 +51,9 @@
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 9.417612902922963,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.8,
-    "swpc_alerts_24h": 2
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
@@ -63,18 +63,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5434\r Issue Time: 2026 Oct 13 1431 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: central Mid-Atlantic Ridge",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2000 SZ162) passing at 19.82 LD (~21m, 5.7 km/s)",
       "source": "NASA NeoWs",
@@ -82,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T20:40:27.170559Z",
-      "score": 14.5,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 7.4
-    },
     {
       "ts": "2026-08-16T20:57:50.160217Z",
       "score": 15.5,
@@ -4785,6 +4766,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.9
+    },
+    {
+      "ts": "2026-10-14T15:29:41.850945Z",
+      "score": 16.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.5
     }
   ],
   "sources": [
