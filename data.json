@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T15:29:41.932644Z",
-  "score": 16.4,
+  "generated_at": "2026-10-14T19:37:43.700022Z",
+  "score": 17.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.5,
-    "d24h": -26.5,
+    "d1h": -4.1,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 1.5,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 0.5
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 122,
     "date": "14.10.2026",
     "declassified": "14.10.26",
-    "generated_utc": "15:29",
+    "generated_utc": "19:37",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +9% above baseline",
@@ -41,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.5,
+    "live_signal": 12.1,
     "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
@@ -70,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T20:57:50.160217Z",
-      "score": 15.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.6
-    },
     {
       "ts": "2026-08-16T21:19:01.280686Z",
       "score": 12.0,
@@ -4773,6 +4766,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.5
+    },
+    {
+      "ts": "2026-10-14T19:37:43.618197Z",
+      "score": 17.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.1
     }
   ],
   "sources": [
