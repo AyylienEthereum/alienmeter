@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T00:48:54.276913Z",
-  "score": 21.8,
+  "generated_at": "2026-10-14T05:42:55.357851Z",
+  "score": 20.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 2.8,
-    "d24h": 6.6,
+    "d1h": 1.7,
+    "d24h": 3.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
-    "search_interest": 2.4,
-    "space_weather_alerts": 3.6,
+    "search_interest": 1.5,
+    "space_weather_alerts": 2.4,
     "seismic": 3.4,
-    "alien_variance": 0.6
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 122,
     "date": "14.10.2026",
     "declassified": "14.10.26",
-    "generated_utc": "00:48",
+    "generated_utc": "05:42",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
-      "Wikipedia UFO pageviews +15% above baseline",
+      "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +9% above baseline",
       "NEO (2000 SZ162) passing Earth at 19.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.3,
+    "live_signal": 16.2,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
@@ -50,10 +50,10 @@
     "asteroid_name": "(2000 SZ162)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 14.870681241460074,
+    "wiki_spike_pct": 9.417612902922963,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.8,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
@@ -65,12 +65,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5434\r Issue Time: 2026 Oct 13 1431 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5433\r Issue Time: 2026 Oct 13 0115 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -94,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T19:55:00.386546Z",
-      "score": 15.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.0
-    },
     {
       "ts": "2026-08-16T20:14:48.107484Z",
       "score": 14.2,
@@ -4797,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.3
+    },
+    {
+      "ts": "2026-10-14T05:42:55.297969Z",
+      "score": 20.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 16.2
     }
   ],
   "sources": [
