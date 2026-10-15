@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T22:37:49.609675Z",
-  "score": 16.1,
+  "generated_at": "2026-10-15T00:52:40.571030Z",
+  "score": 16.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -4.8,
-    "d24h": -1.3,
+    "d1h": -5.2,
+    "d24h": 0.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,18 +20,18 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
-    "search_interest": 1.5,
+    "search_interest": 1.4,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 122,
-    "day": 122,
-    "date": "14.10.2026",
-    "declassified": "14.10.26",
-    "generated_utc": "22:37",
+    "number": 123,
+    "day": 123,
+    "date": "15.10.2026",
+    "declassified": "15.10.26",
+    "generated_utc": "00:52",
     "top_drivers": [
       "Wikipedia UFO pageviews +9% above baseline",
       "NEO (2000 SZ162) passing Earth at 19.8 lunar distances"
@@ -40,7 +40,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.1,
+    "live_signal": 10.2,
     "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
@@ -49,7 +49,7 @@
     "asteroid_name": "(2000 SZ162)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 9.417612902922963,
+    "wiki_spike_pct": 9.055270544961763,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 0
@@ -63,13 +63,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-16T21:42:49.937972Z",
-      "score": 28.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 24.9
-    },
     {
       "ts": "2026-08-16T21:56:55.001940Z",
       "score": 11.4,
@@ -4766,6 +4759,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.1
+    },
+    {
+      "ts": "2026-10-15T00:52:40.488103Z",
+      "score": 16.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.2
     }
   ],
   "sources": [
