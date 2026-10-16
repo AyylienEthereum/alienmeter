@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-16T17:48:39.502174Z",
-  "score": 22.0,
+  "generated_at": "2026-10-16T20:23:19.530188Z",
+  "score": 20.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.6,
-    "d24h": -18.0,
+    "d1h": 1.1,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 3.8,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 3.6,
     "seismic": 3.5,
-    "alien_variance": 2.1
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,103 @@
     "day": 124,
     "date": "16.10.2026",
     "declassified": "16.10.26",
-    "generated_utc": "17:48",
+    "generated_utc": "20:23",
     "top_drivers": [
-      "News velocity +16% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 1",
+      "Giant  UFO mothership  spotted shooting across Earth sun at  near light speed , claims UFOlogist",
+      "NOAA space-weather alerts active: 3",
       "NEO (2000 SZ162) passing Earth at 19.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.9,
+    "live_signal": 15.9,
     "baseline_recent": 15.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 19.8195657156,
     "asteroid_name": "(2000 SZ162)",
-    "gdelt_spike_pct": 15.626861226920779,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.78225724028357,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.9,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Giant  UFO mothership  spotted shooting across Earth sun at  near light speed , claims UFOlogist",
+      "source": "blog.seniorennet.be",
+      "url": "https://blog.seniorennet.be/peter2011/2726048-giant-ufo-mothership-spotted-shooting-across-earth-s-sun-at"
+    },
+    {
+      "type": "news",
+      "text": "  Space Object  Found In West Central Minnesota Corn Field",
+      "source": "kool1017.com",
+      "url": "https://kool1017.com/ixp/164/p/metal-space-object-minnesota-field/"
+    },
+    {
+      "type": "news",
+      "text": "Cat dies in Roswell house fire , department says",
+      "source": "atlantanewsfirst.com",
+      "url": "https://www.atlantanewsfirst.com/2026/10/16/cat-dies-roswell-house-fire-department-says/"
+    },
+    {
+      "type": "news",
+      "text": "A Hudson Valley Car Wash Is Adding Some Halloween Frights",
+      "source": "wpdh.com",
+      "url": "https://wpdh.com/ixp/706/p/poughkeepsie-haunted-car-wash-halloween/"
+    },
+    {
+      "type": "news",
+      "text": "La Salonul Na\u021bional de Art\u0103 Contemporan\u0103 vor putea fi admirate cele mai noi \u0219i valoroase crea\u021bii ale arti\u0219tilor vizuali rom\u00e2ni",
+      "source": "curierulnational.ro",
+      "url": "https://curierulnational.ro/la-salonul-national-de-arta-contemporana-vor-putea-fi-admirate-cele-mai-noi-si-valoroase-creatii-ale-artistilor-vizuali-romani/"
+    },
+    {
+      "type": "news",
+      "text": "  They went ape ! A teenage Yngwie Malmsteen sent a cassette to Guitar Player and Kiss wouldnt stop calling him \u2026 ",
+      "source": "guitarplayer.com",
+      "url": "https://www.guitarplayer.com/guitarists/yngwie-malmsteen-sent-a-cassette-to-guitar-player-then-kiss-wouldnt-stop-calling-him"
+    },
+    {
+      "type": "news",
+      "text": "Residents escape late - night house fire in Roswell , officials say",
+      "source": "fox5atlanta.com",
+      "url": "https://www.fox5atlanta.com/news/residents-escape-overnight-house-fire-roswell-officials-say"
+    },
+    {
+      "type": "news",
+      "text": "Carlsbad Energy Summit to Highlight Permian Basin National Impact",
+      "source": "currentargus.com",
+      "url": "https://currentargus.com/carlsbad-energy-summit-to-highlight-permian-basins-national-impact/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Moviez Launches  Blessing Ahead of Ramayana : Part 1",
+      "source": "adgully.com",
+      "url": "https://www.adgully.com/post/22427/ufo-moviez-launches-blessings-ahead-of-ramayana-part-1"
+    },
+    {
+      "type": "news",
+      "text": "Scienza , filosofia e ufologia si incontrano a Mercogliano",
+      "source": "corriereirpinia.it",
+      "url": "https://corriereirpinia.it/scienza-filosofia-e-ufologia-si-incontrano-a-mercogliano/"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2691\r Issue Time: 2026 Oct 16 1939 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5436\r Issue Time: 2026 Oct 16 1938 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3754\r Issue Time: 2026 Oct 16 1419 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
@@ -76,13 +148,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T04:11:06.453463Z",
-      "score": 13.5,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 6.1
-    },
     {
       "ts": "2026-08-17T04:57:14.784691Z",
       "score": 28.9,
@@ -4779,6 +4844,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.9
+    },
+    {
+      "ts": "2026-10-16T20:23:19.468293Z",
+      "score": 20.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.9
     }
   ],
   "sources": [
