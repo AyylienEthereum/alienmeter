@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T16:55:05.038656Z",
-  "score": 13.6,
+  "generated_at": "2026-10-18T19:10:25.157387Z",
+  "score": 12.9,
   "band": {
     "name": "NOTHINGBURGER",
     "flavor": "the aliens are sleeping",
@@ -10,8 +10,8 @@
     "min": 0
   },
   "deltas": {
-    "d1h": -0.6,
-    "d24h": -25.2,
+    "d1h": -20.6,
+    "d24h": -9.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,49 @@
     "day": 126,
     "date": "18.10.2026",
     "declassified": "18.10.26",
-    "generated_utc": "16:55",
+    "generated_utc": "19:10",
     "top_drivers": [
-      "Roswell  The Henge  nears completion of major restoration",
-      "NOAA space-weather alerts active: 1",
+      " \u00ab \u00catre chanteuse ne maurait pas d\u00e9plu \u00bb : Zabou Breitman et Arnold Turboust , appel dairs",
+      "NOAA space-weather alerts active: 2",
       "NEO 509505 (2007 VL8) passing Earth at 50.5 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.9,
+    "live_signal": 6.1,
     "baseline_recent": 15.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 50.4573815825,
     "asteroid_name": "509505 (2007 VL8)",
-    "gdelt_spike_pct": -41.82106289614822,
+    "gdelt_spike_pct": -8.437406632805493,
     "x_last_hour": 0,
     "wiki_spike_pct": -5.878185226551469,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": " \u00ab \u00catre chanteuse ne maurait pas d\u00e9plu \u00bb : Zabou Breitman et Arnold Turboust , appel dairs",
+      "source": "parismatch.com",
+      "url": "https://www.parismatch.com/culture/musique/etre-chanteuse-ne-maurait-pas-deplu-zabou-breitman-et-arnold-turboust-appel-dairs-277648"
+    },
+    {
+      "type": "news",
+      "text": "Iker Jim\u00e9nez , el hombre bulo",
+      "source": "diariodepontevedra.es",
+      "url": "https://www.diariodepontevedra.es/blog/rodrigo-cota-estoy-pensando/iker-jimenez-hombre-bulo/202610181724321472727.html"
+    },
+    {
+      "type": "news",
+      "text": "10 TV Shows To Watch If You Like Alien : Earth",
+      "source": "tvline.com",
+      "url": "https://www.tvline.com/2289588/tv-shows-like-alien-earth/"
+    },
     {
       "type": "news",
       "text": "Roswell  The Henge  nears completion of major restoration",
@@ -99,22 +117,10 @@
       "url": "https://fr.euronews.com/2026/10/18/explosion-possible-dun-drone-en-lituanie-pres-de-la-frontiere-lettone"
     },
     {
-      "type": "news",
-      "text": "Nacieron a 284 kil\u00f3metros y se encontraron en una fiesta : las ra\u00edces separadas de Iker Jim\u00e9nez y Carmen Porter unen una ciudad de murallas medievales y una capital de grandes palacios y museos",
-      "source": "viajar.elperiodico.com",
-      "url": "https://viajar.elperiodico.com/viajeros/iker-jimenez-carmen-porter-donde-viven-135402561"
-    },
-    {
-      "type": "news",
-      "text": "\u039b\u03b9\u03b8\u03bf\u03c5\u03b1\u03bd\u03af\u03b1 : \u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 drone \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b1 \u03c3\u03cd\u03bd\u03bf\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u039b\u03b5\u03c4\u03bf\u03bd\u03af\u03b1",
-      "source": "gr.euronews.com",
-      "url": "https://gr.euronews.com/2026/10/18/lithoyania-ereyna-gia-thn-ekrh3h-drone-konta-sta-synora-me-th-letonia"
-    },
-    {
-      "type": "news",
-      "text": "Ferrari Hypersail : el  b\u00f3lido  con forma de ovni para devorar r\u00e9cords en el oc\u00e9ano a 100 km / hora",
-      "source": "marca.com",
-      "url": "https://www.marca.com/vela/2026/10/18/ferrari-hypersail-bolido-forma-ovni-devorar-records-oceano-100-km-h.html"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1131\r Issue Time: 2026 Oct 18 1724 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -130,13 +136,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T14:33:49.645882Z",
-      "score": 12.2,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 4.6
-    },
     {
       "ts": "2026-08-17T15:00:35.514626Z",
       "score": 12.3,
@@ -4833,6 +4832,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.9
+    },
+    {
+      "ts": "2026-10-18T19:10:25.106806Z",
+      "score": 12.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 6.1
     }
   ],
   "sources": [
