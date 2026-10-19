@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T01:42:11.492427Z",
+  "generated_at": "2026-10-19T06:51:29.266277Z",
   "score": 13.6,
   "band": {
     "name": "NOTHINGBURGER",
-    "flavor": "the aliens are sleeping",
+    "flavor": "all quiet",
     "index": 0,
     "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
     "min": 0
   },
   "deltas": {
-    "d1h": 0.0,
-    "d24h": -6.1,
+    "d1h": 0.7,
+    "d24h": -4.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -31,7 +31,7 @@
     "day": 127,
     "date": "19.10.2026",
     "declassified": "19.10.26",
-    "generated_utc": "01:42",
+    "generated_utc": "06:51",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO (2011 TK5) passing Earth at 57.0 lunar distances"
@@ -47,7 +47,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 56.9574424345,
     "asteroid_name": "(2011 TK5)",
-    "gdelt_spike_pct": -76.58146508639155,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.268768959507311,
     "earthquakes_24h": 0,
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T16:20:33.160099Z",
-      "score": 12.7,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 5.3
-    },
     {
       "ts": "2026-08-17T16:54:29.854478Z",
       "score": 13.3,
@@ -4768,6 +4761,13 @@
     },
     {
       "ts": "2026-10-19T01:42:11.411023Z",
+      "score": 13.6,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.1
+    },
+    {
+      "ts": "2026-10-19T06:51:29.180895Z",
       "score": 13.6,
       "band": "NOTHINGBURGER",
       "i": 0,
