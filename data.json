@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T14:14:55.161017Z",
-  "score": 16.4,
+  "generated_at": "2026-10-19T19:58:11.565000Z",
+  "score": 14.9,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "all quiet",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": 4.9,
-    "d24h": 1.9,
+    "d1h": 3.3,
+    "d24h": -1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 0.0,
     "search_interest": 2.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.7
+    "alien_variance": 3.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,17 @@
     "day": 127,
     "date": "19.10.2026",
     "declassified": "19.10.26",
-    "generated_utc": "14:14",
+    "generated_utc": "19:58",
     "top_drivers": [
-      "Trump running his mouth is shattering a major MAGA myth : analysis",
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +13% above baseline",
       "NEO (2011 TK5) passing Earth at 57.0 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.6,
+    "live_signal": 8.7,
     "baseline_recent": 15.6,
     "score_gain": 1.3,
     "kp": null,
@@ -54,78 +53,12 @@
     "wiki_spike_pct": 12.55746941846913,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Trump running his mouth is shattering a major MAGA myth : analysis",
-      "source": "alternet.org",
-      "url": "https://www.alternet.org/trump-decline-rick-wilson/"
-    },
-    {
-      "type": "news",
-      "text": "UFO expert cast doubt on claims of recovered bodies and spacecraft",
-      "source": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/world/ufo-expert-cast-doubt-on-claims-of-recovered-bodies-and-spacecraft-c-23044049"
-    },
-    {
-      "type": "news",
-      "text": "Willie Peyote , la possibile scaletta del concerto a Milano",
-      "source": "tg24.sky.it",
-      "url": "https://tg24.sky.it/spettacolo/musica/2026/10/19/scaletta-willie-peyote-milano-concerto"
-    },
-    {
-      "type": "news",
-      "text": "Donazioni allUsl Umbria 1 : cuffie per la chemioterapia , poltrone per i prelievi e un letto per lhospice",
-      "source": "perugiatoday.it",
-      "url": "https://www.perugiatoday.it/attualita/donazioni-alla-sanita-pubblica-perugia.html"
-    },
-    {
-      "type": "news",
-      "text": "Devilman e il lato oscuro dellanimo umano \u2013 Lo Spazio Bianco",
-      "source": "lospaziobianco.it",
-      "url": "https://www.lospaziobianco.it/devilman-lato-oscuro-animo-umano/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=3ma6jqpk619nkddvlkk7iluo73"
-    },
-    {
-      "type": "news",
-      "text": "Coru\u00f1a Ins\u00f3lita | La ufolog\u00eda , un invento corus :  Los ovnis nacieron en Juana de Vega  ",
-      "source": "elidealgallego.com",
-      "url": "https://www.elidealgallego.com/a-coruna/2026-10-19/coruna-insolita-la-ufologia-un-invento-corunes-los-ovnis-nacieron-en-juana-de-vega-885722.html"
-    },
-    {
-      "type": "news",
-      "text": "Uniunea Arti\u0219tilor Plastici din Rom\u00e2nia recomand\u0103 c\u00e2teva evenimente vizuale care vor avea loc \u00een s\u0103pt\u0103m\u00e2na 19 - 25 octombrie 2026",
-      "source": "radioromaniacultural.ro",
-      "url": "https://www.radioromaniacultural.ro/sectiuni-articole/muzica-dans-arte/uniunea-artistilor-plastici-din-romania-recomanda-cateva-evenimente-vizuale-care-vor-avea-loc-in-saptamana-19-25-octombrie-2026-id55598.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ssqr5gogq1forf45ramum728u0"
-    },
-    {
-      "type": "news",
-      "text": "\u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0438 \u0430\u0440\u043c\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438 \u0438\u0449\u0443\u0442 \u041d\u041b\u041e \u043f\u043e\u0434 \u041b\u044e\u0431\u043b\u0438\u043d\u043e\u043c",
-      "source": "news.mail.ru",
-      "url": "https://news.mail.ru/incident/72768430/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: SUM10R\r Serial Number: 930\r Issue Time: 2026 Oct 19 0909 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Oct ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1131\r Issue Time: 2026 Oct 18 1724 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -137,13 +70,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T17:22:19.015895Z",
-      "score": 14.9,
-      "band": "NOTHINGBURGER",
-      "i": 0,
-      "live": 8.1
-    },
     {
       "ts": "2026-08-17T17:53:35.070576Z",
       "score": 16.4,
@@ -4840,6 +4766,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.6
+    },
+    {
+      "ts": "2026-10-19T19:58:11.505583Z",
+      "score": 14.9,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.7
     }
   ],
   "sources": [
