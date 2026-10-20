@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:43:06.045545Z",
-  "score": 18.9,
+  "generated_at": "2026-10-20T20:53:54.048890Z",
+  "score": 19.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 5.1,
-    "d24h": 3.2,
+    "d1h": 2.0,
+    "d24h": 3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
     "search_interest": 1.3,
-    "space_weather_alerts": 0.0,
+    "space_weather_alerts": 1.2,
     "seismic": 3.1,
-    "alien_variance": 1.6
+    "alien_variance": 0.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,10 @@
     "day": 128,
     "date": "20.10.2026",
     "declassified": "20.10.26",
-    "generated_utc": "17:43",
+    "generated_utc": "20:53",
     "top_drivers": [
+      "Mysterious Object Spotted Over Illinois Lake Has People Curious",
+      "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
     ],
@@ -40,8 +42,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.8,
-    "baseline_recent": 15.7,
+    "live_signal": 13.9,
+    "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -52,9 +54,75 @@
     "wiki_spike_pct": 8.326607663160182,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 6.3,
-    "swpc_alerts_24h": 0
+    "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Mysterious Object Spotted Over Illinois Lake Has People Curious",
+      "source": "979kickfm.com",
+      "url": "https://979kickfm.com/ixp/463/p/egg-object-over-illinois-lake/"
+    },
+    {
+      "type": "news",
+      "text": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644 : \u0627\u0644\u0644\u0639\u0646\u0629 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0648\u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0645\u0624\u062c\u0644\u0629",
+      "source": "alakhbar.info",
+      "url": "https://www.alakhbar.info/6ad792a37162110001e518c3/"
+    },
+    {
+      "type": "news",
+      "text": "Nintendo announces Halloween 2026 sale for Switch 2 and Switch",
+      "source": "nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-switch-halloween-sale-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Un objet m\u00e9tallique de 3 , 3 m\u00e8tres a fini sa course au milieu dun champ de ma\u00efs du Minnesota : ce qui la fait tomber n  \u00e9tait ni un avion ni un ovni",
+      "source": "sciencepost.fr",
+      "url": "https://sciencepost.fr/un-objet-metallique-de-33-metres-a-fini-sa-course-au-milieu-dun-champ-de-mais-du-minnesota-ce-qui-la-fait-tomber-netait-ni-un-avion-ni-un-ovni/"
+    },
+    {
+      "type": "news",
+      "text": "Alpharetta Body Contouring MedSpa Sculpted Contours MedSpa Surpasses 18 , 000 Treatments",
+      "source": "saltlakecitysun.com",
+      "url": "http://www.saltlakecitysun.com/news/279387811/alpharetta-body-contouring-medspa-sculpted-contours-medspa-surpasses-18000-treatments"
+    },
+    {
+      "type": "news",
+      "text": "Alpharetta Body Contouring MedSpa Sculpted Contours MedSpa Surpasses 18 , 000 Treatments",
+      "source": "phoenixherald.com",
+      "url": "http://www.phoenixherald.com/news/279387811/alpharetta-body-contouring-medspa-sculpted-contours-medspa-surpasses-18000-treatments"
+    },
+    {
+      "type": "news",
+      "text": "Study crowns the best cities for small businesses in 2026",
+      "source": "k923orlando.com",
+      "url": "https://www.k923orlando.com/news/study-crowns-best/FD3CICIAKE4KFJPBQKONTQANLI/"
+    },
+    {
+      "type": "news",
+      "text": "Study crowns the best cities for small businesses in 2026",
+      "source": "wpxi.com",
+      "url": "https://www.wpxi.com/news/study-crowns-best/FD3CICIAKE4KFJPBQKONTQANLI/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9sb24776mrvro3871i9it90s06"
+    },
+    {
+      "type": "news",
+      "text": "Study crowns the best cities for small businesses in 2026",
+      "source": "star945.com",
+      "url": "https://www.star945.com/news/study-crowns-best/FD3CICIAKE4KFJPBQKONTQANLI/"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1132\r Issue Time: 2026 Oct 20 1912 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "seismic",
       "text": "Significant seismic event: 197 km NW of Port-Olry, Vanuatu",
@@ -69,13 +137,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T20:29:41.657059Z",
-      "score": 15.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.4
-    },
     {
       "ts": "2026-08-17T20:55:25.876035Z",
       "score": 20.3,
@@ -4772,6 +4833,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.8
+    },
+    {
+      "ts": "2026-10-20T20:53:53.998811Z",
+      "score": 19.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.9
     }
   ],
   "sources": [
