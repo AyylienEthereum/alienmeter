@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-20T01:58:56.375414Z",
-  "score": 17.0,
+  "generated_at": "2026-10-20T07:16:41.869933Z",
+  "score": 20.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": 1.6,
+    "d1h": 3.8,
+    "d24h": 3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
-    "search_interest": 2.0,
+    "search_interest": 1.3,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 0.3
+    "seismic": 3.1,
+    "alien_variance": 2.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,36 +31,103 @@
     "day": 128,
     "date": "20.10.2026",
     "declassified": "20.10.26",
-    "generated_utc": "01:58",
+    "generated_utc": "07:16",
     "top_drivers": [
+      "\u041f\u043e\u0447\u0435\u043c\u0443 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0438\u0449\u0443\u0442 \u041d\u041b\u041e \u0432 \u041f\u043e\u043b\u044c\u0448\u0435 \u0443 \u0433\u0440\u0430\u043d\u0438\u0446\u044b \u0441 \u0423\u043a\u0440\u0430\u0438\u043d\u043e\u0439",
       "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +12% above baseline",
+      "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 11.3,
+    "live_signal": 15.4,
     "baseline_recent": 15.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -76.59807724742788,
     "x_last_hour": 0,
-    "wiki_spike_pct": 12.31504461663793,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "wiki_spike_pct": 8.326607663160182,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0438\u0449\u0443\u0442 \u041d\u041b\u041e \u0432 \u041f\u043e\u043b\u044c\u0448\u0435 \u0443 \u0433\u0440\u0430\u043d\u0438\u0446\u044b \u0441 \u0423\u043a\u0440\u0430\u0438\u043d\u043e\u0439",
+      "source": "pronedra.ru",
+      "url": "https://pronedra.ru/nlo-nad-lyublinom-kak-polskie-voennye-vsyu-noch-iskali-zagadochnyj-obekt-u-graniczy-s-ukrainoj-835790.html"
+    },
+    {
+      "type": "news",
+      "text": "New Mexico rainfall boosts El Ni\u00f1o snowfall outlook for winter",
+      "source": "abqjournal.com",
+      "url": "https://www.abqjournal.com/news/the-signal-is-there-returning-rainfall-heightens-expectations-for-el-nino-snowfall-in-the-southwest/3145222"
+    },
+    {
+      "type": "news",
+      "text": "Observer takes home 18 New Mexico Press Association awards",
+      "source": "rrobserver.com",
+      "url": "https://www.rrobserver.com/business/observer-takes-home-18-new-mexico-press-association-awards/3145213"
+    },
+    {
+      "type": "news",
+      "text": "Exorcist Father Ripperger agrees to 1 - year  fast  from public speaking",
+      "source": "ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=ijcdatjcdubboniaogltga2492"
+    },
+    {
+      "type": "news",
+      "text": "Dark and Stormy Nights thrill and chill Ocean Shores",
+      "source": "thedailyworld.com",
+      "url": "https://www.thedailyworld.com/2026/10/19/dark-and-stormy-nights-thrill-and-chill-ocean-shores/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=dq6ie0tlki167ahdkm713lloa3"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sks4922p94b3nj2c22u4lo8fi5"
+    },
+    {
+      "type": "news",
+      "text": "Idaho Witness Reports Cluster Of Erratic UFOs Over Sand Dunes",
+      "source": "1035kissfmboise.com",
+      "url": "https://1035kissfmboise.com/ixp/94/p/uap-sightings-idaho-2026-st-anthony/"
+    },
+    {
+      "type": "news",
+      "text": "WATCH : South Idaho Couple Captures Round UFO With  Tail  ",
+      "source": "kezj.com",
+      "url": "https://kezj.com/idaho-ufo-sightings-2026/"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: SUM10R\r Serial Number: 930\r Issue Time: 2026 Oct 19 0909 UTC\r \r SUMMARY: 10cm Radio Burst  Begin Time: 2026 Oct ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 197 km NW of Port-Olry, Vanuatu",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -70,13 +137,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T19:08:10.022506Z",
-      "score": 15.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.7
-    },
     {
       "ts": "2026-08-17T19:41:16.017811Z",
       "score": 14.5,
@@ -4773,6 +4833,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 11.3
+    },
+    {
+      "ts": "2026-10-20T07:16:41.798537Z",
+      "score": 20.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.4
     }
   ],
   "sources": [
