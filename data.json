@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-21T02:02:22.437927Z",
-  "score": 19.1,
+  "generated_at": "2026-10-21T07:35:30.536122Z",
+  "score": 20.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.3,
-    "d24h": 1.8,
+    "d1h": 1.4,
+    "d24h": 6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
-    "search_interest": 1.4,
-    "space_weather_alerts": 1.2,
-    "seismic": 3.1,
-    "alien_variance": 0.5
+    "search_interest": 2.4,
+    "space_weather_alerts": 3.6,
+    "seismic": 0.0,
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 129,
     "date": "21.10.2026",
     "declassified": "21.10.26",
-    "generated_utc": "02:02",
+    "generated_utc": "07:35",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
-      "Wikipedia UFO pageviews +9% above baseline",
+      "NOAA space-weather alerts active: 3",
+      "Wikipedia UFO pageviews +15% above baseline",
       "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.0,
+    "live_signal": 15.5,
     "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
@@ -50,23 +50,29 @@
     "asteroid_name": "(2017 UX7)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 8.701784945116849,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 6.3,
-    "swpc_alerts_24h": 1
+    "wiki_spike_pct": 14.765541594809891,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
+    "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2692\r Issue Time: 2026 Oct 21 0429 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5437\r Issue Time: 2026 Oct 21 0205 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1132\r Issue Time: 2026 Oct 20 1912 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 197 km NW of Port-Olry, Vanuatu",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -76,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T21:49:07.768820Z",
-      "score": 15.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 8.8
-    },
     {
       "ts": "2026-08-17T22:18:08.853504Z",
       "score": 21.4,
@@ -4779,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.0
+    },
+    {
+      "ts": "2026-10-21T07:35:30.490498Z",
+      "score": 20.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.5
     }
   ],
   "sources": [
