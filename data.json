@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-22T09:47:40.322224Z",
-  "score": 23.0,
+  "generated_at": "2026-10-22T14:48:54.518225Z",
+  "score": 22.2,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.3,
-    "d24h": -22.3,
+    "d1h": -0.3,
+    "d24h": 3.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 1.1,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.8
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 130,
     "date": "22.10.2026",
     "declassified": "22.10.26",
-    "generated_utc": "09:47",
+    "generated_utc": "14:48",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "NOAA space-weather alerts active: 5",
+      "NOAA space-weather alerts active: 6",
       "Wikipedia UFO pageviews +7% above baseline",
       "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
     ],
@@ -42,80 +41,26 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.7,
+    "live_signal": 17.7,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": -14.488002424309215,
+    "gdelt_spike_pct": -15.740805604203153,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.723464614181612,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 5
+    "swpc_alerts_24h": 6
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7lpl1den221olf61c6jhpjm6o6"
-    },
-    {
-      "type": "news",
-      "text": "Janet Marie Courchene - Monadnock Ledger - Transcript",
-      "source": "ledgertranscript.com",
-      "url": "https://ledgertranscript.com/2026/10/22/obit-janet-marie-courchene-212636543/"
-    },
-    {
-      "type": "news",
-      "text": "  Vivono tra noi  | il giornalista Daniel Lavelle indaga lAmerica degli Ufo",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-10-22/vivono-tra-noi-il-giornalista-daniel-lavelle-indaga-lamerica-degli-ufo/19831720/"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily : Glowing Orbs Over Portland , Oregon Oct 9 , 2026 , UFO UAP Sighting News . ",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/2026/10/glowing-orbs-over-portland-oregon-oct-9.html"
-    },
-    {
-      "type": "news",
-      "text": "UFO Sightings Daily",
-      "source": "ufosightingsdaily.com",
-      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-10-12T01:44:00-06:00&max-results=10"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o3pdg34j0d73rgtq9ot5fp2002"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lkeju80ncvpm30pq4l0k3u8775"
-    },
-    {
-      "type": "news",
-      "text": "5 Horror Movie Remakes That Made the Original Basically Unwatchable By Comparison",
-      "source": "comicbook.com",
-      "url": "https://comicbook.com/movies/list/5-horror-movie-remakes-that-made-the-original-basically-unwatchable-by-comparison/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bg9n4669ff5e1rj5dsdj3n6qf5"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9babq4a8h0cu17v0rif62qb567"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5440\r Issue Time: 2026 Oct 22 1424 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -130,12 +75,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2271\r Issue Time: 2026 Oct 21 2228 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2017 UX7) passing at 16.90 LD (~45m, 10.3 km/s)",
       "source": "NASA NeoWs",
@@ -143,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T03:26:41.822025Z",
-      "score": 17.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 11.9
-    },
     {
       "ts": "2026-08-18T04:06:56.574926Z",
       "score": 19.1,
@@ -4846,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.7
+    },
+    {
+      "ts": "2026-10-22T14:48:54.468968Z",
+      "score": 22.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 17.7
     }
   ],
   "sources": [
