@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T04:49:08.364206Z",
-  "score": 25.3,
+  "generated_at": "2026-10-22T09:47:40.322224Z",
+  "score": 23.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,20 +10,20 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.5,
-    "d24h": -15.4,
+    "d1h": 1.3,
+    "d24h": -22.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 5.7,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
     "search_interest": 1.1,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,91 +31,97 @@
     "day": 130,
     "date": "22.10.2026",
     "declassified": "22.10.26",
-    "generated_utc": "04:49",
+    "generated_utc": "09:47",
     "top_drivers": [
-      "Taranto : inizia  Monsters - Fantastic film festival  \u2013 Noi Notizie . ",
-      "News velocity +24% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +7% above baseline"
+      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "NOAA space-weather alerts active: 5",
+      "Wikipedia UFO pageviews +7% above baseline",
+      "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 21.8,
-    "baseline_recent": 16.0,
+    "live_signal": 18.7,
+    "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": 23.651604011082515,
+    "gdelt_spike_pct": -14.488002424309215,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.723464614181612,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 5
   },
   "ticker": [
     {
       "type": "news",
-      "text": "Taranto : inizia  Monsters - Fantastic film festival  \u2013 Noi Notizie . ",
-      "source": "noinotizie.it",
-      "url": "https://www.noinotizie.it/22-10-2026/taranto-inizia-monsters-fantastic-film-festival/"
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=7lpl1den221olf61c6jhpjm6o6"
     },
     {
       "type": "news",
-      "text": "18 Of The Creepiest Towns In The US To Put On Your  DO NOT VISIT  List",
-      "source": "aol.com",
-      "url": "https://www.aol.com/articles/18-creepiest-towns-us-put-023101000.html"
+      "text": "Janet Marie Courchene - Monadnock Ledger - Transcript",
+      "source": "ledgertranscript.com",
+      "url": "https://ledgertranscript.com/2026/10/22/obit-janet-marie-courchene-212636543/"
+    },
+    {
+      "type": "news",
+      "text": "  Vivono tra noi  | il giornalista Daniel Lavelle indaga lAmerica degli Ufo",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-10-22/vivono-tra-noi-il-giornalista-daniel-lavelle-indaga-lamerica-degli-ufo/19831720/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily : Glowing Orbs Over Portland , Oregon Oct 9 , 2026 , UFO UAP Sighting News . ",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/2026/10/glowing-orbs-over-portland-oregon-oct-9.html"
+    },
+    {
+      "type": "news",
+      "text": "UFO Sightings Daily",
+      "source": "ufosightingsdaily.com",
+      "url": "https://www.ufosightingsdaily.com/search?updated-max=2026-10-12T01:44:00-06:00&max-results=10"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=c62d998ju4ih94oa9b42bl1ui6"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o3pdg34j0d73rgtq9ot5fp2002"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g4094hldgij8sh7396b6r408u4"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=lkeju80ncvpm30pq4l0k3u8775"
     },
     {
       "type": "news",
-      "text": " \u300a \u73b0\u4ee3\u6218\u4e894 \u300b \u5956\u676f\u6311\u6218\u66dd\u5149 \uff01 PS5\u7adf\u65e0\u767d\u91d1",
-      "source": "163.com",
-      "url": "https://www.163.com/dy/article/L9RC40VI0526K1KN.html"
-    },
-    {
-      "type": "news",
-      "text": "Calendarul zilei - 22 octombrie - Radio Rom\u00e2nia Constan\u021ba",
-      "source": "radioconstanta.ro",
-      "url": "https://www.radioconstanta.ro/2026/10/22/calendarul-zilei-22-octombrie-13/"
-    },
-    {
-      "type": "news",
-      "text": "Criatura misteriosa ataca animais e assusta moradores no M\u00e9xico",
-      "source": "dol.com.br",
-      "url": "https://dol.com.br/tuedoide/bizarro/966214/criatura-misteriosa-ataca-animais-e-assusta-moradores-no-mexico"
+      "text": "5 Horror Movie Remakes That Made the Original Basically Unwatchable By Comparison",
+      "source": "comicbook.com",
+      "url": "https://comicbook.com/movies/list/5-horror-movie-remakes-that-made-the-original-basically-unwatchable-by-comparison/"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kq9l84li66347vj6nejirucoe1"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=bg9n4669ff5e1rj5dsdj3n6qf5"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oh1rahtel8qi58abbf63ll9314"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9babq4a8h0cu17v0rif62qb567"
     },
     {
-      "type": "news",
-      "text": "NH Famous Betty and Barney Hill Alien Abduction Story",
-      "source": "wokq.com",
-      "url": "https://wokq.com/betty-barney-hill-nh-ufo-abduction/"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5439\r Issue Time: 2026 Oct 22 0532 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
@@ -130,12 +136,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2693\r Issue Time: 2026 Oct 21 2130 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2017 UX7) passing at 16.90 LD (~45m, 10.3 km/s)",
       "source": "NASA NeoWs",
@@ -143,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T02:34:56.461715Z",
-      "score": 18.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.2
-    },
     {
       "ts": "2026-08-18T03:26:41.822025Z",
       "score": 17.8,
@@ -4846,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 21.8
+    },
+    {
+      "ts": "2026-10-22T09:47:40.236131Z",
+      "score": 23.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.7
     }
   ],
   "sources": [
