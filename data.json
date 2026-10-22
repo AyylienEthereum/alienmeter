@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-22T19:01:22.102968Z",
-  "score": 23.1,
+  "generated_at": "2026-10-22T22:13:36.513346Z",
+  "score": 24.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -14.9,
-    "d24h": 4.1,
+    "d1h": -0.7,
+    "d24h": 5.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 1.1,
     "space_weather_alerts": 6.0,
     "seismic": 3.5,
-    "alien_variance": 0.5
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 130,
     "date": "22.10.2026",
     "declassified": "22.10.26",
-    "generated_utc": "19:01",
+    "generated_utc": "22:13",
     "top_drivers": [
       "NOAA space-weather alerts active: 6",
       "Wikipedia UFO pageviews +7% above baseline",
@@ -41,14 +41,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
+    "live_signal": 20.8,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": -16.030644486445155,
+    "gdelt_spike_pct": -15.751846381093056,
     "x_last_hour": 0,
     "wiki_spike_pct": 6.723464614181612,
     "earthquakes_24h": 1,
@@ -58,6 +58,12 @@
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5442\r Issue Time: 2026 Oct 22 2021 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5441\r Issue Time: 2026 Oct 22 1648 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
@@ -65,12 +71,6 @@
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5440\r Issue Time: 2026 Oct 22 1424 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5439\r Issue Time: 2026 Oct 22 0532 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -88,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T04:49:50.040159Z",
-      "score": 20.8,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.8
-    },
     {
       "ts": "2026-08-18T05:22:53.137667Z",
       "score": 18.7,
@@ -4791,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-10-22T22:13:36.466862Z",
+      "score": 24.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 20.8
     }
   ],
   "sources": [
