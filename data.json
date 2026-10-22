@@ -1,73 +1,109 @@
 {
-  "generated_at": "2026-10-21T21:40:08.198858Z",
-  "score": 22.5,
+  "generated_at": "2026-10-22T00:13:49.965948Z",
+  "score": 38.0,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
-    "index": 1,
-    "color": "#5DD49C",
-    "emoji": "\ud83d\udfe2",
-    "min": 15
+    "name": "THAT'S WEIRD",
+    "flavor": "that's... unusual",
+    "index": 2,
+    "color": "#FFE066",
+    "emoji": "\ud83d\udfe1",
+    "min": 30
   },
   "deltas": {
-    "d1h": 3.4,
-    "d24h": 6.8,
+    "d1h": 17.7,
+    "d24h": 23.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 21.8,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
     "search_interest": 2.4,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 129,
-    "day": 129,
-    "date": "21.10.2026",
-    "declassified": "21.10.26",
-    "generated_utc": "21:40",
+    "number": 130,
+    "day": 130,
+    "date": "22.10.2026",
+    "declassified": "22.10.26",
+    "generated_utc": "00:13",
     "top_drivers": [
-      "They Are Here : Alien Abduction Horror Physical Edition Coming to PlayStation 5 in 2027 \u2013 Hartware",
-      "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +15% above baseline",
-      "NEO (2017 UX7) passing Earth at 16.9 lunar distances"
+      "Collection Obsessions Archives",
+      "News velocity +91% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 6",
+      "Wikipedia UFO pageviews +15% above baseline"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.2,
+    "live_signal": 38.1,
     "baseline_recent": 15.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 90.91615248200965,
     "x_last_hour": 0,
-    "wiki_spike_pct": 14.765541594809891,
+    "wiki_spike_pct": 14.930332362838872,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 6
   },
   "ticker": [
     {
       "type": "news",
-      "text": "They Are Here : Alien Abduction Horror Physical Edition Coming to PlayStation 5 in 2027 \u2013 Hartware",
-      "source": "hartware.de",
-      "url": "https://www.hartware.de/2026/10/21/they-are-here-alien-abduction-horror-physical-edition-coming-to-playstation-5-in-2027/"
+      "text": "Collection Obsessions Archives",
+      "source": "utahstories.com",
+      "url": "https://utahstories.com/collection-obsessions/"
+    },
+    {
+      "type": "news",
+      "text": "UFO Landing Site Hidden in Utah Desert",
+      "source": "utahstories.com",
+      "url": "https://utahstories.com/2026/10/ufo-landing-site-hidden-in-utah-desert/"
+    },
+    {
+      "type": "news",
+      "text": "Un di\u00e1logo m\u00e1s all\u00e1 de lo humano | El Comercio : Diario de Asturias",
+      "source": "elcomercio.es",
+      "url": "https://www.elcomercio.es/culturas/arte/dialogo-alla-humano-20261021220850-nt.html"
+    },
+    {
+      "type": "news",
+      "text": "Dark Forest",
+      "source": "fwweekly.com",
+      "url": "https://www.fwweekly.com/2026/10/21/dark-forest/"
+    },
+    {
+      "type": "news",
+      "text": "A puzzle game where you must avoid the doing the most awkward of things : facing someone while riding an elevator",
+      "source": "rockpapershotgun.com",
+      "url": "https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator"
+    },
+    {
+      "type": "news",
+      "text": "  Je nai pas le souvenir que \u00e7a soit d\u00e9j\u00e0 arriv\u00e9 ! : Val\u00e9ry Lerouge d\u00e9nonce le  d\u00e9rapage  dun reportage du 20 Heures de France 2",
+      "source": "ozap.com",
+      "url": "https://www.ozap.com/actu/je-nai-pas-le-souvenir-que-ca-soit-deja-arrive-valery-lerouge-denonce-le-derapage-dun-reportage-du-20-heures-de-france-2/657577"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=66ep086e94lq7d96c4456ig7s6"
+    },
+    {
+      "type": "news",
+      "text": "They Are Here : Alien Abduction Horror Physical Edition Coming to PlayStation 5 in 2027 \u2013 Hartware",
+      "source": "hartware.de",
+      "url": "https://www.hartware.de/2026/10/21/they-are-here-alien-abduction-horror-physical-edition-coming-to-playstation-5-in-2027/"
     },
     {
       "type": "news",
@@ -82,56 +118,20 @@
       "url": "https://www.the-express.com/news/world-news/218309/photograph-mystery-being-ufo-mexico"
     },
     {
-      "type": "news",
-      "text": "Are UFOs a figment of people imagination ? The answer is not so simple - UFO of UAP , ASTRONOMIE , RUIMTEVAART , ARCHEOLOGIE , OUDHEIDKUNDE , SF - SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN",
-      "source": "blog.seniorennet.be",
-      "url": "https://blog.seniorennet.be/peter2011/2726909-are-ufos-a-figment-of-people-s-imagination-the-answer-is-not"
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTK05\r Serial Number: 2058\r Issue Time: 2026 Oct 22 0003 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "news",
-      "text": "Mysterious six - feet tall , pale predator near US - Mexico border found stealing chicken . A UFO investigator says it might be from another dimension",
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/mysterious-six-feet-tall-pale-predator-near-us-mexico-border-found-stealing-chicken-a-ufo-investigator-says-it-might-be-from-another-dimension/articleshow/135098108.cms"
-    },
-    {
-      "type": "news",
-      "text": "Krijesa misterioze pran\u00eb kufirit SHBA \u2013 Meksik\u00eb ngjall frik\u00eb , studiuesi i UFO - ve pretendon se mund t\u00eb vij\u00eb nga nj\u00eb dimension tjet\u00ebr",
-      "source": "gazetaexpress.com",
-      "url": "https://www.gazetaexpress.com/krijesa-misterioze-prane-kufirit-shba-meksike-ngjall-frike-studiuesi-i-ufo-ve-pretendon-se-mund-te-vije-nga-nje-dimension-tjeter/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=rn16nqbiltoh5s5j7lv2s585n0"
-    },
-    {
-      "type": "news",
-      "text": "UAP Celebrates 100 Years with a $100 , 000 Donation to the Pointe - \u00e0 - Calli\u00e8re Foundation . A four - year partnership to help preserve and showcase Montreal history",
-      "source": "cantechletter.com",
-      "url": "https://www.cantechletter.com/newswires/uap-celebrates-100-years-with-a-100000-donation-to-the-pointe-a-calliere-foundation-a-four-year-partnership-to-help-preserve-and-showcase-montreals-history/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=c06fan2qc5ok78k2i9f9697q44"
+      "type": "swpc",
+      "text": "Space Weather Message Code: WARK05\r Serial Number: 2271\r Issue Time: 2026 Oct 21 2228 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTK04\r Serial Number: 2693\r Issue Time: 2026 Oct 21 2130 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5438\r Issue Time: 2026 Oct 21 1617 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2692\r Issue Time: 2026 Oct 21 0429 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -143,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-17T23:44:46.860158Z",
-      "score": 38.2,
-      "band": "THAT'S WEIRD",
-      "i": 2,
-      "live": 38.1
-    },
     {
       "ts": "2026-08-18T01:27:17.245950Z",
       "score": 15.6,
@@ -4846,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.2
+    },
+    {
+      "ts": "2026-10-22T00:13:49.921484Z",
+      "score": 38.0,
+      "band": "THAT'S WEIRD",
+      "i": 2,
+      "live": 38.1
     }
   ],
   "sources": [
