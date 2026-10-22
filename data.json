@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-22T00:13:49.965948Z",
-  "score": 38.0,
+  "generated_at": "2026-10-22T04:49:08.364206Z",
+  "score": 25.3,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 17.7,
-    "d24h": 23.5,
+    "d1h": 0.5,
+    "d24h": -15.4,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 21.8,
+    "news_velocity": 5.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 5.3,
-    "search_interest": 2.4,
-    "space_weather_alerts": 6.0,
+    "search_interest": 1.1,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 2.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,91 +31,91 @@
     "day": 130,
     "date": "22.10.2026",
     "declassified": "22.10.26",
-    "generated_utc": "00:13",
+    "generated_utc": "04:49",
     "top_drivers": [
-      "Collection Obsessions Archives",
-      "News velocity +91% vs 7-day baseline (GDELT)",
-      "NOAA space-weather alerts active: 6",
-      "Wikipedia UFO pageviews +15% above baseline"
+      "Taranto : inizia  Monsters - Fantastic film festival  \u2013 Noi Notizie . ",
+      "News velocity +24% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 4",
+      "Wikipedia UFO pageviews +7% above baseline"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 38.1,
-    "baseline_recent": 15.9,
+    "live_signal": 21.8,
+    "baseline_recent": 16.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 16.9036276284,
     "asteroid_name": "(2017 UX7)",
-    "gdelt_spike_pct": 90.91615248200965,
+    "gdelt_spike_pct": 23.651604011082515,
     "x_last_hour": 0,
-    "wiki_spike_pct": 14.930332362838872,
+    "wiki_spike_pct": 6.723464614181612,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 4
   },
   "ticker": [
     {
       "type": "news",
-      "text": "Collection Obsessions Archives",
-      "source": "utahstories.com",
-      "url": "https://utahstories.com/collection-obsessions/"
+      "text": "Taranto : inizia  Monsters - Fantastic film festival  \u2013 Noi Notizie . ",
+      "source": "noinotizie.it",
+      "url": "https://www.noinotizie.it/22-10-2026/taranto-inizia-monsters-fantastic-film-festival/"
     },
     {
       "type": "news",
-      "text": "UFO Landing Site Hidden in Utah Desert",
-      "source": "utahstories.com",
-      "url": "https://utahstories.com/2026/10/ufo-landing-site-hidden-in-utah-desert/"
-    },
-    {
-      "type": "news",
-      "text": "Un di\u00e1logo m\u00e1s all\u00e1 de lo humano | El Comercio : Diario de Asturias",
-      "source": "elcomercio.es",
-      "url": "https://www.elcomercio.es/culturas/arte/dialogo-alla-humano-20261021220850-nt.html"
-    },
-    {
-      "type": "news",
-      "text": "Dark Forest",
-      "source": "fwweekly.com",
-      "url": "https://www.fwweekly.com/2026/10/21/dark-forest/"
-    },
-    {
-      "type": "news",
-      "text": "A puzzle game where you must avoid the doing the most awkward of things : facing someone while riding an elevator",
-      "source": "rockpapershotgun.com",
-      "url": "https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator"
-    },
-    {
-      "type": "news",
-      "text": "  Je nai pas le souvenir que \u00e7a soit d\u00e9j\u00e0 arriv\u00e9 ! : Val\u00e9ry Lerouge d\u00e9nonce le  d\u00e9rapage  dun reportage du 20 Heures de France 2",
-      "source": "ozap.com",
-      "url": "https://www.ozap.com/actu/je-nai-pas-le-souvenir-que-ca-soit-deja-arrive-valery-lerouge-denonce-le-derapage-dun-reportage-du-20-heures-de-france-2/657577"
+      "text": "18 Of The Creepiest Towns In The US To Put On Your  DO NOT VISIT  List",
+      "source": "aol.com",
+      "url": "https://www.aol.com/articles/18-creepiest-towns-us-put-023101000.html"
     },
     {
       "type": "news",
       "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=66ep086e94lq7d96c4456ig7s6"
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=c62d998ju4ih94oa9b42bl1ui6"
     },
     {
       "type": "news",
-      "text": "They Are Here : Alien Abduction Horror Physical Edition Coming to PlayStation 5 in 2027 \u2013 Hartware",
-      "source": "hartware.de",
-      "url": "https://www.hartware.de/2026/10/21/they-are-here-alien-abduction-horror-physical-edition-coming-to-playstation-5-in-2027/"
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g4094hldgij8sh7396b6r408u4"
     },
     {
       "type": "news",
-      "text": "Casino Victoria en Victoria , Entre R\u00edos : cu\u00e1nto cuesta la noche",
-      "source": "zonanortediario.com.ar",
-      "url": "https://www.zonanortediario.com.ar/21/10/2026/casino-victoria-en-victoria-entre-rios-cuanto-cuesta-la-noche/"
+      "text": " \u300a \u73b0\u4ee3\u6218\u4e894 \u300b \u5956\u676f\u6311\u6218\u66dd\u5149 \uff01 PS5\u7adf\u65e0\u767d\u91d1",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L9RC40VI0526K1KN.html"
     },
     {
       "type": "news",
-      "text": "Photograph of  terrifying  mystery being sparks debate over animal attacks - World News - News",
-      "source": "the-express.com",
-      "url": "https://www.the-express.com/news/world-news/218309/photograph-mystery-being-ufo-mexico"
+      "text": "Calendarul zilei - 22 octombrie - Radio Rom\u00e2nia Constan\u021ba",
+      "source": "radioconstanta.ro",
+      "url": "https://www.radioconstanta.ro/2026/10/22/calendarul-zilei-22-octombrie-13/"
+    },
+    {
+      "type": "news",
+      "text": "Criatura misteriosa ataca animais e assusta moradores no M\u00e9xico",
+      "source": "dol.com.br",
+      "url": "https://dol.com.br/tuedoide/bizarro/966214/criatura-misteriosa-ataca-animais-e-assusta-moradores-no-mexico"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=kq9l84li66347vj6nejirucoe1"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=oh1rahtel8qi58abbf63ll9314"
+    },
+    {
+      "type": "news",
+      "text": "NH Famous Betty and Barney Hill Alien Abduction Story",
+      "source": "wokq.com",
+      "url": "https://wokq.com/betty-barney-hill-nh-ufo-abduction/"
     },
     {
       "type": "swpc",
@@ -143,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T01:27:17.245950Z",
-      "score": 15.6,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 9.1
-    },
     {
       "ts": "2026-08-18T02:34:56.461715Z",
       "score": 18.8,
@@ -4846,6 +4839,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 38.1
+    },
+    {
+      "ts": "2026-10-22T04:49:08.303318Z",
+      "score": 25.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 21.8
     }
   ],
   "sources": [
