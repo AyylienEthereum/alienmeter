@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T19:25:38.101189Z",
-  "score": 16.3,
+  "generated_at": "2026-10-23T22:28:48.177729Z",
+  "score": 18.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.7,
-    "d24h": -34.2,
+    "d1h": -4.9,
+    "d24h": -3.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 3.8,
     "search_interest": 1.3,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 3.6,
     "seismic": 0.0,
-    "alien_variance": 0.1
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,9 @@
     "day": 131,
     "date": "23.10.2026",
     "declassified": "23.10.26",
-    "generated_utc": "19:25",
+    "generated_utc": "22:28",
     "top_drivers": [
-      "Sailors spot UFOs zooming across the Atlantic at  hypersonic speeds  ",
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
     ],
@@ -42,7 +41,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.1,
+    "live_signal": 12.2,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
@@ -54,78 +53,24 @@
     "wiki_spike_pct": 7.897232913193363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Sailors spot UFOs zooming across the Atlantic at  hypersonic speeds  ",
-      "source": "dailymail.com",
-      "url": "https://www.dailymail.com/snapchat/article-16233509/Sailors-spot-UFOs-zooming-Atlantic-hypersonic-speeds.html"
-    },
-    {
-      "type": "news",
-      "text": "Federal agents reported seeing silent black triangle in latest UFO file release",
-      "source": "kfdm.com",
-      "url": "https://kfdm.com/news/nation-world/federal-agents-reported-seeing-silent-black-triangle-in-latest-ufo-file-release-defense-department-presidential-unsealing-reporting-system-uap-encounters-fbi-extraterrestrial-activity"
-    },
-    {
-      "type": "news",
-      "text": "Federal agents reported seeing silent black triangle in latest UFO file release",
-      "source": "fox17.com",
-      "url": "https://fox17.com/news/nation-world/federal-agents-reported-seeing-silent-black-triangle-in-latest-ufo-file-release-defense-department-presidential-unsealing-reporting-system-uap-encounters-fbi-extraterrestrial-activity"
-    },
-    {
-      "type": "news",
-      "text": "\u041d\u0430\u0434 \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u043a\u0435\u0430\u043d\u043e\u043c \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u041d\u041b\u041e : \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u043b\u0435\u0442\u0435\u043b\u0438 \u0441 \u0433\u0438\u043f\u0435\u0440\u0437\u0432\u0443\u043a\u043e\u0432\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e ( \u0444\u043e\u0442\u043e ) ",
-      "source": "science.focus.ua",
-      "url": "https://science.focus.ua/nauka/772274-nad-atlanticheskim-okeanom-zametili-nlo-obekty-leteli-s-giperzvukovoy-skorostyu-foto"
-    },
-    {
-      "type": "news",
-      "text": "  Je nai pas d\u00e9pass\u00e9 la page 36  : Russell Crowe a refus\u00e9 lun des films de science - fiction les plus influents de tous les temps parce quil ne comprenait pas le sc\u00e9nario ! ",
-      "source": "allocine.fr",
-      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000228784.html"
-    },
-    {
-      "type": "news",
-      "text": "  Watt ! au Bazacle : on a test\u00e9 cette nouvelle animation en r\u00e9alit\u00e9 augment\u00e9e , \u00e0 d\u00e9couvrir d\u00e8s 12 ans \u00e0 Toulouse",
-      "source": "ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/10/23/watt-au-bazacle-on-a-teste-cette-nouvelle-animation-en-realite-augmentee-a-decouvrir-des-12-ans-a-toulouse-13615378.php"
-    },
-    {
-      "type": "news",
-      "text": "Exclusive | Eerie Catalina Island UFO sightings exposed in White House docs",
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/10/23/us-news/eerie-catalina-island-ufo-sightings-exposed-in-white-house-docs/"
-    },
-    {
-      "type": "news",
-      "text": "Sailors See 100 Meter UFO With Orb Fleet 450 Miles Off Nova Scotia , Oct 11 , 2026 , UAP Sighting News . ",
-      "source": "blog.seniorennet.be",
-      "url": "https://blog.seniorennet.be/peter2011/2727135-sailors-see-100-meter-ufo-with-orb-fleet-450-miles-off-nova"
-    },
-    {
-      "type": "news",
-      "text": "Japon : mort de l  \u00e9crivain Ryu Murakami , auteur des  B\u00e9bs de la consigne automatique ",
-      "source": "sudouest.fr",
-      "url": "https://www.sudouest.fr/culture/litterature/japon-mort-de-l-ecrivain-ryu-murakami-auteur-des-bebes-de-la-consigne-automatique-31201774.php"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gft41kj63aegptr4tr7oten082"
-    },
-    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3755\r Issue Time: 2026 Oct 23 1147 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "text": "Space Weather Message Code: ALTK04\r Serial Number: 2694\r Issue Time: 2026 Oct 23 1955 UTC\r \r ALERT: Geomagnetic K-index of 4  Threshold Reac",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5442\r Issue Time: 2026 Oct 22 2021 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5443\r Issue Time: 2026 Oct 23 1927 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3755\r Issue Time: 2026 Oct 23 1147 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -137,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T08:52:46.090693Z",
-      "score": 19.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.9
-    },
     {
       "ts": "2026-08-18T09:26:06.497964Z",
       "score": 18.9,
@@ -4840,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.1
+    },
+    {
+      "ts": "2026-10-23T22:28:48.096988Z",
+      "score": 18.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.2
     }
   ],
   "sources": [
