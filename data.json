@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T15:19:42.024967Z",
-  "score": 19.6,
+  "generated_at": "2026-10-23T19:25:38.101189Z",
+  "score": 16.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.0,
-    "d24h": 2.1,
+    "d1h": -5.7,
+    "d24h": -34.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 3.8,
     "search_interest": 1.3,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 3.1
+    "alien_variance": 0.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,10 +31,10 @@
     "day": 131,
     "date": "23.10.2026",
     "declassified": "23.10.26",
-    "generated_utc": "15:19",
+    "generated_utc": "19:25",
     "top_drivers": [
       "Sailors spot UFOs zooming across the Atlantic at  hypersonic speeds  ",
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 2",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
     ],
@@ -42,7 +42,7 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.3,
+    "live_signal": 10.1,
     "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
@@ -54,7 +54,7 @@
     "wiki_spike_pct": 7.897232913193363,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 2
   },
   "ticker": [
     {
@@ -68,6 +68,18 @@
       "text": "Federal agents reported seeing silent black triangle in latest UFO file release",
       "source": "kfdm.com",
       "url": "https://kfdm.com/news/nation-world/federal-agents-reported-seeing-silent-black-triangle-in-latest-ufo-file-release-defense-department-presidential-unsealing-reporting-system-uap-encounters-fbi-extraterrestrial-activity"
+    },
+    {
+      "type": "news",
+      "text": "Federal agents reported seeing silent black triangle in latest UFO file release",
+      "source": "fox17.com",
+      "url": "https://fox17.com/news/nation-world/federal-agents-reported-seeing-silent-black-triangle-in-latest-ufo-file-release-defense-department-presidential-unsealing-reporting-system-uap-encounters-fbi-extraterrestrial-activity"
+    },
+    {
+      "type": "news",
+      "text": "\u041d\u0430\u0434 \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u043a\u0435\u0430\u043d\u043e\u043c \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u041d\u041b\u041e : \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u043b\u0435\u0442\u0435\u043b\u0438 \u0441 \u0433\u0438\u043f\u0435\u0440\u0437\u0432\u0443\u043a\u043e\u0432\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e ( \u0444\u043e\u0442\u043e ) ",
+      "source": "science.focus.ua",
+      "url": "https://science.focus.ua/nauka/772274-nad-atlanticheskim-okeanom-zametili-nlo-obekty-leteli-s-giperzvukovoy-skorostyu-foto"
     },
     {
       "type": "news",
@@ -106,18 +118,6 @@
       "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gft41kj63aegptr4tr7oten082"
     },
     {
-      "type": "news",
-      "text": "  Glowing  UFOs seen flying at  hypersonic speed as they  vanish and reappear  ",
-      "source": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/news/latest-news/glowing-ufos-seen-flying-hypersonic-37802699"
-    },
-    {
-      "type": "news",
-      "text": "Plan 9 from Outer Space",
-      "source": "film-news.co.uk",
-      "url": "https://www.film-news.co.uk:443/review/UK/6689/Home-Ent/Plan-9-from-Outer-Space"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3755\r Issue Time: 2026 Oct 23 1147 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
       "source": "NOAA SWPC",
@@ -130,12 +130,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5441\r Issue Time: 2026 Oct 22 1648 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2017 UQ7) passing at 26.56 LD (~53m, 16.0 km/s)",
       "source": "NASA NeoWs",
@@ -143,13 +137,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T08:02:39.322842Z",
-      "score": 19.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.0
-    },
     {
       "ts": "2026-08-18T08:52:46.090693Z",
       "score": 19.3,
@@ -4846,6 +4833,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.3
+    },
+    {
+      "ts": "2026-10-23T19:25:38.023427Z",
+      "score": 16.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.1
     }
   ],
   "sources": [
