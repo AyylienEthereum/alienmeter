@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T10:21:21.041221Z",
-  "score": 24.0,
+  "generated_at": "2026-10-23T15:19:42.024967Z",
+  "score": 19.6,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.9,
-    "d24h": -22.7,
+    "d1h": -5.0,
+    "d24h": 2.1,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 3.8,
     "search_interest": 1.3,
     "space_weather_alerts": 3.6,
-    "seismic": 3.5,
-    "alien_variance": 2.7
+    "seismic": 0.0,
+    "alien_variance": 3.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,8 +31,9 @@
     "day": 131,
     "date": "23.10.2026",
     "declassified": "23.10.26",
-    "generated_utc": "10:21",
+    "generated_utc": "15:19",
     "top_drivers": [
+      "Sailors spot UFOs zooming across the Atlantic at  hypersonic speeds  ",
       "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
@@ -41,21 +42,87 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 19.9,
-    "baseline_recent": 16.2,
+    "live_signal": 14.3,
+    "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 26.556717244,
     "asteroid_name": "(2017 UQ7)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": 7.897232913193363,
-    "earthquakes_24h": 1,
-    "max_quake_mag_24h": 7,
+    "earthquakes_24h": 0,
+    "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 3
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Sailors spot UFOs zooming across the Atlantic at  hypersonic speeds  ",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/snapchat/article-16233509/Sailors-spot-UFOs-zooming-Atlantic-hypersonic-speeds.html"
+    },
+    {
+      "type": "news",
+      "text": "Federal agents reported seeing silent black triangle in latest UFO file release",
+      "source": "kfdm.com",
+      "url": "https://kfdm.com/news/nation-world/federal-agents-reported-seeing-silent-black-triangle-in-latest-ufo-file-release-defense-department-presidential-unsealing-reporting-system-uap-encounters-fbi-extraterrestrial-activity"
+    },
+    {
+      "type": "news",
+      "text": "  Je nai pas d\u00e9pass\u00e9 la page 36  : Russell Crowe a refus\u00e9 lun des films de science - fiction les plus influents de tous les temps parce quil ne comprenait pas le sc\u00e9nario ! ",
+      "source": "allocine.fr",
+      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000228784.html"
+    },
+    {
+      "type": "news",
+      "text": "  Watt ! au Bazacle : on a test\u00e9 cette nouvelle animation en r\u00e9alit\u00e9 augment\u00e9e , \u00e0 d\u00e9couvrir d\u00e8s 12 ans \u00e0 Toulouse",
+      "source": "ladepeche.fr",
+      "url": "https://www.ladepeche.fr/2026/10/23/watt-au-bazacle-on-a-teste-cette-nouvelle-animation-en-realite-augmentee-a-decouvrir-des-12-ans-a-toulouse-13615378.php"
+    },
+    {
+      "type": "news",
+      "text": "Exclusive | Eerie Catalina Island UFO sightings exposed in White House docs",
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/10/23/us-news/eerie-catalina-island-ufo-sightings-exposed-in-white-house-docs/"
+    },
+    {
+      "type": "news",
+      "text": "Sailors See 100 Meter UFO With Orb Fleet 450 Miles Off Nova Scotia , Oct 11 , 2026 , UAP Sighting News . ",
+      "source": "blog.seniorennet.be",
+      "url": "https://blog.seniorennet.be/peter2011/2727135-sailors-see-100-meter-ufo-with-orb-fleet-450-miles-off-nova"
+    },
+    {
+      "type": "news",
+      "text": "Japon : mort de l  \u00e9crivain Ryu Murakami , auteur des  B\u00e9bs de la consigne automatique ",
+      "source": "sudouest.fr",
+      "url": "https://www.sudouest.fr/culture/litterature/japon-mort-de-l-ecrivain-ryu-murakami-auteur-des-bebes-de-la-consigne-automatique-31201774.php"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=gft41kj63aegptr4tr7oten082"
+    },
+    {
+      "type": "news",
+      "text": "  Glowing  UFOs seen flying at  hypersonic speed as they  vanish and reappear  ",
+      "source": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/news/latest-news/glowing-ufos-seen-flying-hypersonic-37802699"
+    },
+    {
+      "type": "news",
+      "text": "Plan 9 from Outer Space",
+      "source": "film-news.co.uk",
+      "url": "https://www.film-news.co.uk:443/review/UK/6689/Home-Ent/Plan-9-from-Outer-Space"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3755\r Issue Time: 2026 Oct 23 1147 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5442\r Issue Time: 2026 Oct 22 2021 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -69,18 +136,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5440\r Issue Time: 2026 Oct 22 1424 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "seismic",
-      "text": "Significant seismic event: 191 km ENE of Nagqu, China",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/map/"
-    },
-    {
       "type": "neo",
       "text": "NEO (2017 UQ7) passing at 26.56 LD (~53m, 16.0 km/s)",
       "source": "NASA NeoWs",
@@ -88,13 +143,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T07:24:20.279516Z",
-      "score": 22.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.4
-    },
     {
       "ts": "2026-08-18T08:02:39.322842Z",
       "score": 19.4,
@@ -4791,6 +4839,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 19.9
+    },
+    {
+      "ts": "2026-10-23T15:19:41.943687Z",
+      "score": 19.6,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.3
     }
   ],
   "sources": [
