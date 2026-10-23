@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T00:41:21.954539Z",
-  "score": 22.0,
+  "generated_at": "2026-10-23T05:23:23.065997Z",
+  "score": 22.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.0,
-    "d24h": -24.5,
+    "d1h": 0.7,
+    "d24h": -23.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.8,
-    "search_interest": 1.2,
+    "search_interest": 1.3,
     "space_weather_alerts": 4.8,
     "seismic": 3.5,
-    "alien_variance": 1.6
+    "alien_variance": 2.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 131,
     "date": "23.10.2026",
     "declassified": "23.10.26",
-    "generated_utc": "00:41",
+    "generated_utc": "05:23",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
-      "Wikipedia UFO pageviews +7% above baseline",
+      "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.4,
+    "live_signal": 18.6,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
@@ -50,7 +50,7 @@
     "asteroid_name": "(2017 UQ7)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 7.309887594754734,
+    "wiki_spike_pct": 7.897232913193363,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7,
     "swpc_alerts_24h": 4
@@ -88,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T05:53:49.211807Z",
-      "score": 29.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 27.2
-    },
     {
       "ts": "2026-08-18T06:32:29.242321Z",
       "score": 19.5,
@@ -4791,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.4
+    },
+    {
+      "ts": "2026-10-23T05:23:23.022873Z",
+      "score": 22.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.6
     }
   ],
   "sources": [
