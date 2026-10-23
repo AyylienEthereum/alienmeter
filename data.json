@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-23T05:23:23.065997Z",
-  "score": 22.9,
+  "generated_at": "2026-10-23T10:21:21.041221Z",
+  "score": 24.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 0.7,
-    "d24h": -23.9,
+    "d1h": 0.9,
+    "d24h": -22.7,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
+    "solar_flares": 5.0,
     "asteroid_approach": 3.8,
     "search_interest": 1.3,
-    "space_weather_alerts": 4.8,
+    "space_weather_alerts": 3.6,
     "seismic": 3.5,
     "alien_variance": 2.7
   },
@@ -31,9 +31,9 @@
     "day": 131,
     "date": "23.10.2026",
     "declassified": "23.10.26",
-    "generated_utc": "05:23",
+    "generated_utc": "10:21",
     "top_drivers": [
-      "NOAA space-weather alerts active: 4",
+      "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
     ],
@@ -41,11 +41,11 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.6,
+    "live_signal": 19.9,
     "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
+    "xray_class": "C",
     "closest_asteroid_ld": 26.556717244,
     "asteroid_name": "(2017 UQ7)",
     "gdelt_spike_pct": null,
@@ -53,7 +53,7 @@
     "wiki_spike_pct": 7.897232913193363,
     "earthquakes_24h": 1,
     "max_quake_mag_24h": 7,
-    "swpc_alerts_24h": 4
+    "swpc_alerts_24h": 3
   },
   "ticker": [
     {
@@ -88,13 +88,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T06:32:29.242321Z",
-      "score": 19.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 14.1
-    },
     {
       "ts": "2026-08-18T07:24:20.279516Z",
       "score": 22.0,
@@ -4791,6 +4784,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.6
+    },
+    {
+      "ts": "2026-10-23T10:21:20.960114Z",
+      "score": 24.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.9
     }
   ],
   "sources": [
