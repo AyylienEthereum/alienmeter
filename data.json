@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T13:36:40.191565Z",
-  "score": 21.5,
+  "generated_at": "2026-10-24T16:58:31.840083Z",
+  "score": 22.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 3.5,
-    "d24h": -4.4,
+    "d1h": 2.6,
+    "d24h": -0.8,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 1.3,
     "space_weather_alerts": 3.6,
     "seismic": 3.5,
-    "alien_variance": 2.0
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,9 @@
     "day": 132,
     "date": "24.10.2026",
     "declassified": "24.10.26",
-    "generated_utc": "13:36",
+    "generated_utc": "16:58",
     "top_drivers": [
-      "Pentagon objavio nova dokumenta o NLO :  Videli smo crni trougao , lebdeo je , a onda nestao  ",
+      "Trump odtajnia akta o UFO .  Czarny tr\u00f3jk\u0105t  nad  wra\u017cliwym miejscem  ",
       "NOAA space-weather alerts active: 3",
       "Wikipedia UFO pageviews +8% above baseline",
       "NEO (2017 UQ7) passing Earth at 26.6 lunar distances"
@@ -42,14 +42,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 16.7,
-    "baseline_recent": 16.3,
+    "live_signal": 18.5,
+    "baseline_recent": 16.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 26.556717244,
     "asteroid_name": "(2017 UQ7)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -17.554401582591485,
     "x_last_hour": 0,
     "wiki_spike_pct": 8.209756654861186,
     "earthquakes_24h": 2,
@@ -59,63 +59,63 @@
   "ticker": [
     {
       "type": "news",
-      "text": "Pentagon objavio nova dokumenta o NLO :  Videli smo crni trougao , lebdeo je , a onda nestao  ",
-      "source": "blic.rs",
-      "url": "https://www.blic.rs/vesti/svet/pentagon-objavio-nova-dokumenta-o-nlo-videli-smo-crni-trougao-lebdeo-je-a-onda-nestao/cdg7mjt"
+      "text": "Trump odtajnia akta o UFO .  Czarny tr\u00f3jk\u0105t  nad  wra\u017cliwym miejscem  ",
+      "source": "tech.wp.pl",
+      "url": "https://tech.wp.pl/trump-odtajnia-akta-o-ufo-czarny-trojkat-nad-wrazliwym-miejscem,7343509130373152a"
     },
     {
       "type": "news",
-      "text": "Roswell UFO Witness Describes Alien Bodies , Egg - Shaped Craft in Newly Released Files",
-      "source": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/us/roswell-ufo-witness-describes-alien-bodies-egg-shaped-craft-in-newly-released-files-6108231"
+      "text": "New UFO files detail sightings of six - foot  skinwalker and  portal to another world  near America famous paranormal hotspot",
+      "source": "dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-16234357/ufo-files-skinwalkers-portal-skinwalker-ranch-utah.html"
     },
     {
       "type": "news",
-      "text": "Index - K\u00fclf\u00f6ld - Rejt\u00e9lyes rep\u00fcl\u0151 t\u00e1rgyat \u00e9szleltek az amerikai katon\u00e1k , nyilv\u00e1noss\u00e1gra ker\u00fclt a Pentagon jelent\u00e9se",
-      "source": "index.hu",
-      "url": "https://index.hu/kulfold/2026/10/24/donald-trump-ufo-dron-rejtely-pentagon-jelentes/"
+      "text": "\u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u044a\u0442 \u0440\u0430\u0437\u0441\u0435\u043a\u0440\u0435\u0442\u0438 \u043d\u043e\u0432\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438 \u0437\u0430 \u041d\u041b\u041e : \u0422\u0440\u0438\u044a\u0433\u044a\u043b\u043d\u0438\u043a \u0431\u0435\u0437 \u0437\u0432\u0443\u043a \u0438 \u0441 \u0445\u0438\u043f\u0435\u0440\u0441\u043a\u043e\u0440\u043e\u0441\u0442",
+      "source": "novinite.bg",
+      "url": "https://www.novinite.bg/articles/292070/pentagonat-razsekreti-novi-dokumenti-za-nlo-triagalnik-bez-zvuk-i-s-hiperskorost"
     },
     {
       "type": "news",
-      "text": "\u7f8e\u56fd\u516c\u5e03\u65b0\u4e00\u6279UFO\u6587\u4ef6 \u795e\u79d8  \u9ed1\u4e09\u89d2  \u5f15\u5173\u6ce8 - \u56fd\u9645\u89c6\u91ce",
-      "source": "news.voc.com.cn",
-      "url": "https://news.voc.com.cn/news/202610/34077083.html"
+      "text": " \u00ab \u0394\u03cd\u03bf \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03bf\u03b9 \u03c3\u03ba\u03bf\u03c4\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03bf \u03a1\u03cc\u03c3\u03b3\u03bf\u03c5\u03b5\u03bb \u00bb \u2013 \u039d\u03ad\u03b1 \u03b1\u03c0\u03bf\u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 \u03ad\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03c9\u03bd\u03bf \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03c4\u03b9 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03bf 1947",
+      "source": "inewsgr.com",
+      "url": "https://www.inewsgr.com/97/dyo-exogiinoi-skotothikan-sto-rosgouel--nea-apocharaktirismena-engrafa-apo-to-pentagono-apokalyptoun-ti-egine-to-1947.htm"
     },
     {
       "type": "news",
-      "text": "\u0422\u0430\u043c\u043d\u0430 \u0442\u0440\u043e\u0443\u0433\u043b\u0430\u0441\u0442\u0430 \u043b\u0435\u0442\u0435\u043b\u0438\u0446\u0430 \u0431\u0435\u0437 \u0431\u0443\u043a\u0435 \u0438 \u0438\u0437\u0434\u0443\u0432\u043d\u0438\u0445 \u0433\u0430\u0441\u043e\u0432\u0430 : \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d \u043e\u0431\u0458\u0430\u0432\u0438\u043e \u043d\u043e\u0432\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0435 \u043e \u041d\u041b\u041e",
-      "source": "sputnikportal.rs",
-      "url": "https://sputnikportal.rs/20261024/tamna-trouglasta-letelica-bez-buke-i-izduvnih-gasova-pentagon-objavio-nove-dokumente-o-nlo-1204886641.html"
+      "text": "Elle a vendu sa maison pour lancer sa marque , elle nest pas nez , mais  orchestre le parfum : comment cette cr\u00e9atrice veut d\u00e9velopper une parfumerie de niche plus \u00e9colo",
+      "source": "bfmtv.com",
+      "url": "https://www.bfmtv.com/luxe/elle-a-vendu-sa-maison-pour-lancer-sa-marque-elle-n-est-pas-nez-mais-orchestre-le-parfum-comment-cette-creatrice-veut-developper-une-parfumerie-de-niche-plus-ecolo_GN-202610240319.html"
     },
     {
       "type": "news",
-      "text": "First Impressions Count",
-      "source": "centralstation.net.au",
-      "url": "https://www.centralstation.net.au/first-impressions-count/"
+      "text": " \u00ab \u0394\u03cd\u03bf \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03bf\u03b9 \u03c3\u03ba\u03bf\u03c4\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03bf \u03a1\u03cc\u03c3\u03b3\u03bf\u03c5\u03b5\u03bb \u00bb \u2013 \u039d\u03ad\u03b1 \u03ad\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03c9\u03bd\u03bf \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03c4\u03b9 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03bf 1947",
+      "source": "newsbeast.gr",
+      "url": "https://www.newsbeast.gr/world/arthro/13448572/dyo-exogiinoi-skotothikan-sto-rosgouel-nea-apocharaktirismena-engrafa-apo-to-pentagono-apokalyptoun-ti-egine-to-1947"
     },
     {
       "type": "news",
-      "text": "\ufeff\u041b\u044e\u0434\u0438 , \u0434\u0435\u0440\u0436\u0430\u0432\u0448\u0438\u0435 \u043d\u0435\u0431\u043e \u0438 \u0437\u0435\u043c\u043b\u044e",
-      "source": "pravdasevera.ru",
-      "url": "https://pravdasevera.ru/2026/10/24/6ad9f7b2b4266d1c530bb017.html"
+      "text": "Pentagon Releases Latest Tranche of UFO Files",
+      "source": "wmal.com",
+      "url": "https://www.wmal.com/2026/10/24/pentagon-releases-latest-tranche-of-ufo-files/"
     },
     {
       "type": "news",
-      "text": " \u00ab \u0394\u03c5\u03bf \u03b5\u03be\u03c9\u03b3\u03ae\u03b9\u03bd\u03bf\u03b9 \u03c3\u03ba\u03bf\u03c4\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03bf \u03a1\u03cc\u03c3\u03b3\u03bf\u03c5\u03b5\u03bb \u00bb: \u039d\u03ad\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03c9\u03bd\u03bf \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03c4\u03b9 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03bf 1947",
-      "source": "newsbomb.gr",
-      "url": "https://www.newsbomb.gr/kosmos/story/1771972/dyo-eksogiinoi-skotothikan-sto-rosgouel-nea-arxeia-apo-to-pentagono-apokalyptoun-ti-egine-to-1947"
+      "text": "V\u00ebzhgime t\u00eb reja UFO :  Trek\u00ebnd\u00ebsha t\u00eb zinj  misterioz\u00eb fluturojn\u00eb mbi nj\u00eb zon\u00eb t\u00eb ndjeshme amerikane , sipas dosjeve t\u00eb Pentagonit KOHA JON\u00cb",
+      "source": "kohajone.com",
+      "url": "https://kohajone.com/teknologji/vezhgime-te-reja-ufo-trekendesha-te-zinj-misterioze-fluturojne-mbi-nje-zone-te-ndjeshme-amerikane-sipas-dosjeve-te-pentagonit/"
     },
     {
       "type": "news",
-      "text": "\u7f8e\u56fd\u516c\u5e03\u65b0\u4e00\u6279UFO\u6587\u4ef6 \u795e\u79d8  \u9ed1\u4e09\u89d2  \u5f15\u5173\u6ce8 - \u65b0\u534e\u7f51",
-      "source": "news.cn",
-      "url": "https://www.news.cn/world/20261024/027d0740692f4fbb84c5caa2fe8b13aa/c.html"
+      "text": "New Pentagon UFO files reveal mystery  black triangle  over sensitive US site",
+      "source": "independent.co.uk",
+      "url": "https://www.independent.co.uk/news/world/americas/pentagon-ufo-files-triangles-us-trump-b3072621.html"
     },
     {
       "type": "news",
-      "text": "5 \u043c\u0435\u0441\u0442 \u043d\u0430 \u0417\u0435\u043c\u043b\u0435 , \u043a\u0443\u0434\u0430 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e : \u0437\u0430\u043f\u0440\u0435\u0442\u044b , \u0441\u0432\u044f\u0442\u044b\u043d\u0438 \u0438 \u043d\u0435\u043f\u043e\u043a\u043e\u0440\u0451\u043d\u043d\u044b\u0435 \u0432\u0435\u0440\u0448\u0438\u043d\u044b",
-      "source": "life.ru",
-      "url": "https://life.ru/p/5-mest-na-zemle-kuda-cheloveku-popast-nevozmozhno-zaprety-svyatyni-i"
+      "text": "Sigma FP2 : un hybride \u00e0 capteur plein format de poche qui se r\u00eave en cam\u00e9ra de cin\u00e9ma",
+      "source": "lesnumeriques.com",
+      "url": "https://www.lesnumeriques.com/reflex-hybride/sigma-fp2-un-hybride-a-capteur-plein-format-de-poche-qui-se-reve-en-camera-de-cinema-n263720.html"
     },
     {
       "type": "swpc",
@@ -155,13 +155,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T11:19:45.583950Z",
-      "score": 20.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.7
-    },
     {
       "ts": "2026-08-18T11:49:34.775280Z",
       "score": 24.3,
@@ -4858,6 +4851,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 16.7
+    },
+    {
+      "ts": "2026-10-24T16:58:31.779347Z",
+      "score": 22.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.5
     }
   ],
   "sources": [
