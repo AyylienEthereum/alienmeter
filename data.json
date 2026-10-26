@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T02:42:27.975962Z",
-  "score": 19.1,
+  "generated_at": "2026-10-26T08:08:15.736064Z",
+  "score": 18.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "probably venus",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 0.5,
-    "d24h": -6.0,
+    "d1h": -0.3,
+    "d24h": -4.5,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,10 +20,10 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 6.2,
-    "search_interest": 0.8,
-    "space_weather_alerts": 1.2,
+    "search_interest": 1.7,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 2.8
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,18 @@
     "day": 134,
     "date": "26.10.2026",
     "declassified": "26.10.26",
-    "generated_utc": "02:42",
+    "generated_utc": "08:08",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
+      "NOAA space-weather alerts active: 2",
+      "Wikipedia UFO pageviews +11% above baseline",
       "NEO (2018 GS1) passing Earth at 11.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.5,
-    "baseline_recent": 16.5,
+    "live_signal": 13.2,
+    "baseline_recent": 16.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -49,12 +50,18 @@
     "asteroid_name": "(2018 GS1)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 4.852482463032407,
+    "wiki_spike_pct": 10.554132839317825,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3758\r Issue Time: 2026 Oct 26 0517 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3757\r Issue Time: 2026 Oct 25 0927 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -69,13 +76,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T18:28:31.658595Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.2
-    },
     {
       "ts": "2026-08-18T19:07:48.635176Z",
       "score": 18.7,
@@ -4772,6 +4772,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.5
+    },
+    {
+      "ts": "2026-10-26T08:08:15.665266Z",
+      "score": 18.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.2
     }
   ],
   "sources": [
