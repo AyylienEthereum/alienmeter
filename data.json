@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T15:42:02.648784Z",
-  "score": 18.6,
+  "generated_at": "2026-10-27T20:15:33.284464Z",
+  "score": 17.7,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "weather balloon energy",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -1.2,
-    "d24h": -0.4,
+    "d1h": -2.5,
+    "d24h": -2.3,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.6,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 1.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 135,
     "date": "27.10.2026",
     "declassified": "27.10.26",
-    "generated_utc": "15:42",
+    "generated_utc": "20:15",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
       "NEO (2018 GS1) passing Earth at 11.0 lunar distances"
@@ -40,8 +40,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.9,
-    "baseline_recent": 16.4,
+    "live_signal": 11.8,
+    "baseline_recent": 16.3,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -69,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-18T21:46:24.208038Z",
-      "score": 20.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.8
-    },
     {
       "ts": "2026-08-18T22:16:31.975344Z",
       "score": 23.5,
@@ -4772,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.9
+    },
+    {
+      "ts": "2026-10-27T20:15:33.213982Z",
+      "score": 17.7,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.8
     }
   ],
   "sources": [
