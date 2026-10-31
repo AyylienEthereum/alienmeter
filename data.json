@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T06:04:11.921503Z",
-  "score": 20.1,
+  "generated_at": "2026-10-31T12:21:39.951612Z",
+  "score": 20.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.5,
+    "d1h": 2.7,
     "d24h": 3.9,
     "peak90": 64.4
   },
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 2.0
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 139,
     "date": "31.10.2026",
     "declassified": "31.10.26",
-    "generated_utc": "06:04",
+    "generated_utc": "12:21",
     "top_drivers": [
       "NOAA space-weather alerts active: 4",
       "NEO 524522 Zoozve (2002 VE68) passing Earth at 15.6 lunar distances"
@@ -40,14 +40,14 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.8,
+    "live_signal": 15.1,
     "baseline_recent": 16.4,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 15.649871837,
+    "closest_asteroid_ld": 15.6498723038,
     "asteroid_name": "524522 Zoozve (2002 VE68)",
-    "gdelt_spike_pct": -15.32846715328467,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -4.160157121814047,
     "earthquakes_24h": 0,
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T09:27:06.595409Z",
-      "score": 22.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.4
-    },
     {
       "ts": "2026-08-19T09:58:36.522396Z",
       "score": 22.3,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.8
+    },
+    {
+      "ts": "2026-10-31T12:21:39.865169Z",
+      "score": 20.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.1
     }
   ],
   "sources": [
