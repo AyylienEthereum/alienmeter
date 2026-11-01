@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T09:43:28.476086Z",
-  "score": 22.3,
+  "generated_at": "2026-11-01T16:25:11.726356Z",
+  "score": 20.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": 1.7,
-    "d24h": 3.9,
+    "d1h": 0.1,
+    "d24h": 1.4,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 3.6
+    "alien_variance": 1.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,45 +31,45 @@
     "day": 140,
     "date": "01.11.2026",
     "declassified": "01.11.26",
-    "generated_utc": "09:43",
+    "generated_utc": "16:25",
     "top_drivers": [
-      "NOAA space-weather alerts active: 8",
+      "NOAA space-weather alerts active: 9",
       "NEO 524522 Zoozve (2002 VE68) passing Earth at 15.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 17.6,
+    "live_signal": 15.6,
     "baseline_recent": 16.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 15.6498723038,
+    "closest_asteroid_ld": 15.6498726539,
     "asteroid_name": "524522 Zoozve (2002 VE68)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.538559191800411,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 8
+    "swpc_alerts_24h": 9
   },
   "ticker": [
     {
       "type": "swpc",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5446\r Issue Time: 2026 Nov 01 1457 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3763\r Issue Time: 2026 Nov 01 1302 UTC\r \r ALERT: Electron 2MeV Integral Flux exceeded 1,0",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "swpc",
       "text": "Space Weather Message Code: ALTK05\r Serial Number: 2060\r Issue Time: 2026 Nov 01 0117 UTC\r \r ALERT: Geomagnetic K-index of 5  Threshold Reac",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK05\r Serial Number: 2274\r Issue Time: 2026 Nov 01 0008 UTC\r \r WARNING: Geomagnetic K-index of 5 expected  Val",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTK06\r Serial Number: 729\r Issue Time: 2026 Oct 31 1914 UTC\r \r ALERT: Geomagnetic K-index of 6  Threshold Reach",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -81,13 +81,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T12:33:21.225241Z",
-      "score": 22.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.1
-    },
     {
       "ts": "2026-08-19T13:30:05.726722Z",
       "score": 24.1,
@@ -4784,6 +4777,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 17.6
+    },
+    {
+      "ts": "2026-11-01T16:25:11.639478Z",
+      "score": 20.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 15.6
     }
   ],
   "sources": [
