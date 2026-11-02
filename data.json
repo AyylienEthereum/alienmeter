@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-02T03:52:05.751307Z",
-  "score": 33.4,
+  "generated_at": "2026-11-02T11:56:11.830975Z",
+  "score": 17.8,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "that's... unusual",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 11.1,
-    "d24h": 11.4,
+    "d1h": -3.0,
+    "d24h": -2.7,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 20.5,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,26 +31,25 @@
     "day": 141,
     "date": "02.11.2026",
     "declassified": "02.11.26",
-    "generated_utc": "03:52",
+    "generated_utc": "11:56",
     "top_drivers": [
-      "News velocity +85% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 2",
       "NEO 524522 Zoozve (2002 VE68) passing Earth at 15.6 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 31.7,
-    "baseline_recent": 16.8,
+    "live_signal": 11.6,
+    "baseline_recent": 16.9,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 15.6498726539,
+    "closest_asteroid_ld": 15.6498749101,
     "asteroid_name": "524522 Zoozve (2002 VE68)",
-    "gdelt_spike_pct": 85.21008403361346,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.613052108221817,
+    "wiki_spike_pct": -9.377336323827828,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
@@ -76,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T15:24:45.827542Z",
-      "score": 20.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.8
-    },
     {
       "ts": "2026-08-19T15:56:03.474731Z",
       "score": 21.4,
@@ -4779,6 +4771,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 31.7
+    },
+    {
+      "ts": "2026-11-02T11:56:11.742581Z",
+      "score": 17.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.6
     }
   ],
   "sources": [
