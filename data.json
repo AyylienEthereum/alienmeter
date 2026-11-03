@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T10:34:20.415582Z",
-  "score": 18.3,
+  "generated_at": "2026-11-03T18:02:50.942827Z",
+  "score": 16.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -10,8 +10,8 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -15.1,
-    "d24h": 3.6,
+    "d1h": -1.4,
+    "d24h": -1.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 5.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 0.4
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,17 @@
     "day": 142,
     "date": "03.11.2026",
     "declassified": "03.11.26",
-    "generated_utc": "10:34",
+    "generated_utc": "18:02",
     "top_drivers": [
-      "NOAA space-weather alerts active: 2",
+      "NOAA space-weather alerts active: 1",
       "NEO (2017 WJ2) passing Earth at 15.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.1,
-    "baseline_recent": 17.1,
+    "live_signal": 9.6,
+    "baseline_recent": 17.2,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -52,18 +52,12 @@
     "wiki_spike_pct": -7.612280920712461,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3765\r Issue Time: 2026 Nov 03 0502 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3764\r Issue Time: 2026 Nov 02 1203 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -75,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T17:21:21.447513Z",
-      "score": 22.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.9
-    },
     {
       "ts": "2026-08-19T17:48:53.352849Z",
       "score": 22.8,
@@ -4778,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.1
+    },
+    {
+      "ts": "2026-11-03T18:02:50.877032Z",
+      "score": 16.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.6
     }
   ],
   "sources": [
