@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-02T21:17:51.602481Z",
-  "score": 18.5,
+  "generated_at": "2026-11-03T02:59:09.122426Z",
+  "score": 18.0,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -3.2,
-    "d24h": -3.0,
+    "d1h": -17.9,
+    "d24h": -0.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,33 +23,33 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 3.2
+    "alien_variance": 2.5
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 141,
-    "day": 141,
-    "date": "02.11.2026",
-    "declassified": "02.11.26",
-    "generated_utc": "21:17",
+    "number": 142,
+    "day": 142,
+    "date": "03.11.2026",
+    "declassified": "03.11.26",
+    "generated_utc": "02:59",
     "top_drivers": [
       "NOAA space-weather alerts active: 1",
-      "NEO 524522 Zoozve (2002 VE68) passing Earth at 15.6 lunar distances"
+      "NEO (2017 WJ2) passing Earth at 15.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.4,
-    "baseline_recent": 17.0,
+    "live_signal": 11.7,
+    "baseline_recent": 17.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 15.6498749101,
-    "asteroid_name": "524522 Zoozve (2002 VE68)",
+    "closest_asteroid_ld": 15.5597434545,
+    "asteroid_name": "(2017 WJ2)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -9.377336323827828,
+    "wiki_spike_pct": -9.518293804008096,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 1
@@ -63,19 +63,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO 524522 Zoozve (2002 VE68) passing at 15.65 LD (~463m, 8.7 km/s) \u2014 PHA",
+      "text": "NEO (2017 WJ2) passing at 15.56 LD (~197m, 11.8 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T16:23:51.696378Z",
-      "score": 21.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.1
-    },
     {
       "ts": "2026-08-19T16:55:35.158954Z",
       "score": 50.9,
@@ -4772,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.4
+    },
+    {
+      "ts": "2026-11-03T02:59:09.036463Z",
+      "score": 18.0,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.7
     }
   ],
   "sources": [
