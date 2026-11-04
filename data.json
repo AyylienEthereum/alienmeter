@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-04T10:51:23.426349Z",
-  "score": 16.8,
+  "generated_at": "2026-11-04T18:22:22.302439Z",
+  "score": 19.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -1.5,
-    "d24h": -0.4,
+    "d1h": 2.7,
+    "d24h": 4.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 5.5,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 143,
     "date": "04.11.2026",
     "declassified": "04.11.26",
-    "generated_utc": "10:51",
+    "generated_utc": "18:22",
     "top_drivers": [
-      "NOAA space-weather alerts active: 1",
+      "NOAA space-weather alerts active: 2",
       "NEO (2017 WJ2) passing Earth at 15.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.0,
+    "live_signal": 13.0,
     "baseline_recent": 17.2,
     "score_gain": 1.3,
     "kp": null,
@@ -52,9 +52,15 @@
     "wiki_spike_pct": -13.720012851635015,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3766\r Issue Time: 2026 Nov 04 1447 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5447\r Issue Time: 2026 Nov 04 0819 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
@@ -69,13 +75,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T19:37:00.693652Z",
-      "score": 22.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.0
-    },
     {
       "ts": "2026-08-19T19:58:17.565029Z",
       "score": 22.3,
@@ -4772,6 +4771,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.0
+    },
+    {
+      "ts": "2026-11-04T18:22:22.214599Z",
+      "score": 19.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.0
     }
   ],
   "sources": [
