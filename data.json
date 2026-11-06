@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-06T15:32:36.226350Z",
-  "score": 20.6,
+  "generated_at": "2026-11-06T21:04:17.024019Z",
+  "score": 19.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.3,
-    "d24h": 7.7,
+    "d1h": -2.0,
+    "d24h": 7.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 5.0,
     "asteroid_approach": 5.0,
     "search_interest": 0.0,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 1.4
+    "alien_variance": 2.2
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,16 +31,16 @@
     "day": 145,
     "date": "06.11.2026",
     "declassified": "06.11.26",
-    "generated_utc": "15:32",
+    "generated_utc": "21:04",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "NOAA space-weather alerts active: 1",
       "NEO (2001 KF54) passing Earth at 18.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 15.0,
+    "live_signal": 13.4,
     "baseline_recent": 17.2,
     "score_gain": 1.3,
     "kp": null,
@@ -52,24 +52,12 @@
     "wiki_spike_pct": -13.231742484319806,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 1
   },
   "ticker": [
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3768\r Issue Time: 2026 Nov 06 1056 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP2\r Serial Number: 1533\r Issue Time: 2026 Nov 05 1857 UTC\r \r ALERT: Type II Radio Emission  Begin Time: 2026",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1136\r Issue Time: 2026 Nov 05 1745 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -81,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-19T23:17:30.215788Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.1
-    },
     {
       "ts": "2026-08-19T23:45:56.343041Z",
       "score": 19.4,
@@ -4784,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 15.0
+    },
+    {
+      "ts": "2026-11-06T21:04:16.971743Z",
+      "score": 19.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.4
     }
   ],
   "sources": [
