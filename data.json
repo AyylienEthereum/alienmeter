@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-11T02:54:38.911078Z",
-  "score": 20.4,
+  "generated_at": "2026-11-11T10:10:03.874339Z",
+  "score": 17.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -5.3,
-    "d24h": -17.6,
+    "d1h": -5.6,
+    "d24h": -7.4,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 4.8,
     "search_interest": 0.0,
-    "space_weather_alerts": 2.4,
+    "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 2.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,31 +31,61 @@
     "day": 150,
     "date": "11.11.2026",
     "declassified": "11.11.26",
-    "generated_utc": "02:54",
+    "generated_utc": "10:10",
     "top_drivers": [
-      "\u041d\u041b\u041e \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041b\u0438\u0442\u0432\u043e\u0439 \u043f\u043e\u0434\u043d\u044f\u043b\u0438 \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0438 \u041d\u0410\u0422\u041e",
-      "NOAA space-weather alerts active: 2",
+      "\u041d\u0430\u0434 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0431\u0430\u0437\u043e\u0439 \u0421\u0428\u0410 \u043d\u0430 \u0410\u043b\u044f\u0441\u043a\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u041d\u041b\u041e , \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0432\u0448\u0438\u0439 \u043a\u0430\u043a \u043c\u0435\u0434\u0443\u0437\u0430 ( \u0444\u043e\u0442\u043e ) ",
+      "NOAA space-weather alerts active: 1",
       "NEO 363790 (2005 JE46) passing Earth at 20.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 14.5,
+    "live_signal": 11.3,
     "baseline_recent": 17.5,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 20.0135786098,
     "asteroid_name": "363790 (2005 JE46)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -1.3456160552722478,
+    "wiki_spike_pct": -6.033099548642519,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 2
+    "swpc_alerts_24h": 1
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041d\u0430\u0434 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0431\u0430\u0437\u043e\u0439 \u0421\u0428\u0410 \u043d\u0430 \u0410\u043b\u044f\u0441\u043a\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u041d\u041b\u041e , \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0432\u0448\u0438\u0439 \u043a\u0430\u043a \u043c\u0435\u0434\u0443\u0437\u0430 ( \u0444\u043e\u0442\u043e ) ",
+      "source": "science.focus.ua",
+      "url": "https://science.focus.ua/nauka/774280-nad-voennoy-bazoy-ssha-na-alyaske-zametili-bolshoy-nlo-vyglyadevshiy-meduzoy-foto"
+    },
+    {
+      "type": "news",
+      "text": "\u8fd9\u624d\u53eb\u6781\u7b80\u8f7b\u5962\u98ce \uff01 \u6781\u661f\u53d1\u5e03\u5168\u65b0\u7eaf\u7535\u6982\u5ff5\u8f66Formula 2030",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyitse8570189.shtml"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=o887m9g2efti96e3ntpkg6p351"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=65ubka25581iqkqbatoa20ai25"
+    },
+    {
+      "type": "news",
+      "text": "Musei pi\u00f9 strani del mondo | la mappa che ha raccolto pi\u00f9 di mille collezioni fuori dal comune",
+      "source": "zazoom.it",
+      "url": "https://www.zazoom.it/2026-11-06/musei-piu-strani-del-mondo-la-mappa-che-ha-raccolto-piu-di-mille-collezioni-fuori-dal-comune-2/19912968/"
+    },
     {
       "type": "news",
       "text": "\u041d\u041b\u041e \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041b\u0438\u0442\u0432\u043e\u0439 \u043f\u043e\u0434\u043d\u044f\u043b\u0438 \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0438 \u041d\u0410\u0422\u041e",
@@ -87,44 +117,8 @@
       "url": "https://life.ru/p/v-litve-obyavili-vozdushnuyu-trevogu-iz-za-nlo-i-podnyali-istrebiteli-nato"
     },
     {
-      "type": "news",
-      "text": "Nicko McBrain on Lemmy , UFO Encounter + Life in Iron Maiden",
-      "source": "kmhk.com",
-      "url": "https://kmhk.com/ixp/366/p/nicko-mcbrain-iron-maiden-book-interview/"
-    },
-    {
-      "type": "news",
-      "text": "\u0412 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043e\u0431\u044a\u044f\u0432\u0438\u043b\u0438 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0443\u044e \u0442\u0440\u0435\u0432\u043e\u0433\u0443 \u0438\u0437 - \u0437\u0430 \u041d\u041b\u041e",
-      "source": "lenta.ru",
-      "url": "https://lenta.ru/news/2026/11/11/v-evropeyskoy-strane-ob-yavili-vozdushnuyu-trevogu-iz-za-nlo/"
-    },
-    {
-      "type": "news",
-      "text": "Jet Blast Flips Small Plane Upside Down At California Airport",
-      "source": "brobible.com",
-      "url": "https://brobible.com/culture/article/small-plane-flipped-jet-blast-california/"
-    },
-    {
-      "type": "news",
-      "text": "Polestar Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving",
-      "source": "caranddriver.com",
-      "url": "https://www.caranddriver.com/news/a74389720/polestar-formula-2030-concept-revealed/"
-    },
-    {
-      "type": "news",
-      "text": "Nicko McBrain on Lemmy , UFO Encounter + Life in Iron Maiden",
-      "source": "squatchrocks.com",
-      "url": "https://squatchrocks.com/ixp/366/p/nicko-mcbrain-iron-maiden-book-interview/"
-    },
-    {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3771\r Issue Time: 2026 Nov 10 0501 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WARK04\r Serial Number: 5453\r Issue Time: 2026 Nov 10 0302 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
+      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3772\r Issue Time: 2026 Nov 11 0501 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
@@ -136,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T12:01:35.712399Z",
-      "score": 20.5,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.5
-    },
     {
       "ts": "2026-08-20T13:03:09.624333Z",
       "score": 21.1,
@@ -4839,6 +4826,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 14.5
+    },
+    {
+      "ts": "2026-11-11T10:10:03.788705Z",
+      "score": 17.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.3
     }
   ],
   "sources": [
