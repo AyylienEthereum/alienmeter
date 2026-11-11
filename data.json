@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:10:03.874339Z",
+  "generated_at": "2026-11-11T17:52:47.345295Z",
   "score": 17.9,
   "band": {
     "name": "PROBABLY SWAMP GAS",
@@ -10,12 +10,12 @@
     "min": 15
   },
   "deltas": {
-    "d1h": -5.6,
-    "d24h": -7.4,
+    "d1h": -3.5,
+    "d24h": -5.1,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 1.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.8
+    "alien_variance": 1.7
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,7 +31,7 @@
     "day": 150,
     "date": "11.11.2026",
     "declassified": "11.11.26",
-    "generated_utc": "10:10",
+    "generated_utc": "17:52",
     "top_drivers": [
       "\u041d\u0430\u0434 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0431\u0430\u0437\u043e\u0439 \u0421\u0428\u0410 \u043d\u0430 \u0410\u043b\u044f\u0441\u043a\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u041d\u041b\u041e , \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0432\u0448\u0438\u0439 \u043a\u0430\u043a \u043c\u0435\u0434\u0443\u0437\u0430 ( \u0444\u043e\u0442\u043e ) ",
       "NOAA space-weather alerts active: 1",
@@ -48,7 +48,7 @@
     "xray_class": "B",
     "closest_asteroid_ld": 20.0135786098,
     "asteroid_name": "363790 (2005 JE46)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 4.4618312539649025,
     "x_last_hour": 0,
     "wiki_spike_pct": -6.033099548642519,
     "earthquakes_24h": 0,
@@ -130,13 +130,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T13:03:09.624333Z",
-      "score": 21.1,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 16.3
-    },
     {
       "ts": "2026-08-20T13:58:22.026353Z",
       "score": 19.3,
@@ -4829,6 +4822,13 @@
     },
     {
       "ts": "2026-11-11T10:10:03.788705Z",
+      "score": 17.9,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 11.3
+    },
+    {
+      "ts": "2026-11-11T17:52:47.260607Z",
       "score": 17.9,
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
