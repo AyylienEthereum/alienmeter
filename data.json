@@ -1,61 +1,109 @@
 {
-  "generated_at": "2026-11-10T23:26:22.168025Z",
-  "score": 19.0,
+  "generated_at": "2026-11-11T02:54:38.911078Z",
+  "score": 20.4,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -7.9,
-    "d24h": -3.5,
+    "d1h": -5.3,
+    "d24h": -17.6,
     "peak90": 64.4
   },
   "contributing_factors": {
     "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 2.5,
-    "asteroid_approach": 6.4,
+    "solar_flares": 5.0,
+    "asteroid_approach": 4.8,
     "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 2.3
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 149,
-    "day": 149,
-    "date": "10.11.2026",
-    "declassified": "10.11.26",
-    "generated_utc": "23:26",
+    "number": 150,
+    "day": 150,
+    "date": "11.11.2026",
+    "declassified": "11.11.26",
+    "generated_utc": "02:54",
     "top_drivers": [
-      "Polestar Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving",
+      "\u041d\u041b\u041e \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041b\u0438\u0442\u0432\u043e\u0439 \u043f\u043e\u0434\u043d\u044f\u043b\u0438 \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0438 \u041d\u0410\u0422\u041e",
       "NOAA space-weather alerts active: 2",
-      "NEO (2015 VH65) passing Earth at 9.7 lunar distances"
+      "NEO 363790 (2005 JE46) passing Earth at 20.0 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 12.6,
-    "baseline_recent": 17.6,
+    "live_signal": 14.5,
+    "baseline_recent": 17.5,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "B",
-    "closest_asteroid_ld": 9.6895148754,
-    "asteroid_name": "(2015 VH65)",
-    "gdelt_spike_pct": -72.65182949830252,
+    "xray_class": "C",
+    "closest_asteroid_ld": 20.0135786098,
+    "asteroid_name": "363790 (2005 JE46)",
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -1.364561378007121,
+    "wiki_spike_pct": -1.3456160552722478,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041d\u041b\u041e \u0432 \u043d\u0435\u0431\u0435 \u043d\u0430\u0434 \u041b\u0438\u0442\u0432\u043e\u0439 \u043f\u043e\u0434\u043d\u044f\u043b\u0438 \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0438 \u041d\u0410\u0422\u041e",
+      "source": "5-tv.ru",
+      "url": "https://www.5-tv.ru/news/5095064/nlo-ispugali-litvu-vnebo-podnali-istrebiteli-nato/"
+    },
+    {
+      "type": "news",
+      "text": "Synth City : Moving on - 10 Nov 2026",
+      "source": "phoenixfm.com",
+      "url": "https://phoenixfm.com/2026/11/10/synth-city-moving-on-10-nov-2026/"
+    },
+    {
+      "type": "news",
+      "text": "Como un OVNI patrullando la sala de estar : la ins\u00f3lita c\u00e1mara - dron voladora con la que Amazon vigilar\u00e1 los hogares",
+      "source": "eluniverso.com",
+      "url": "https://www.eluniverso.com/internacional/estados-unidos/como-un-ovni-patrullando-la-sala-de-estar-la-insolita-camara-dron-voladora-con-la-que-amazon-vigilara-los-hogares-nota/"
+    },
+    {
+      "type": "news",
+      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
+      "source": "funkytaurusmedia.com",
+      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=i07t84n6sl2k8kt0hida3an265"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u041b\u0438\u0442\u0432\u0435 \u043e\u0431\u044a\u044f\u0432\u0438\u043b\u0438 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0443\u044e \u0442\u0440\u0435\u0432\u043e\u0433\u0443 \u0438\u0437 - \u0437\u0430 \u041d\u041b\u041e \u0438 \u043f\u043e\u0434\u043d\u044f\u043b\u0438 \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0438 \u041d\u0410\u0422\u041e",
+      "source": "life.ru",
+      "url": "https://life.ru/p/v-litve-obyavili-vozdushnuyu-trevogu-iz-za-nlo-i-podnyali-istrebiteli-nato"
+    },
+    {
+      "type": "news",
+      "text": "Nicko McBrain on Lemmy , UFO Encounter + Life in Iron Maiden",
+      "source": "kmhk.com",
+      "url": "https://kmhk.com/ixp/366/p/nicko-mcbrain-iron-maiden-book-interview/"
+    },
+    {
+      "type": "news",
+      "text": "\u0412 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043e\u0431\u044a\u044f\u0432\u0438\u043b\u0438 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0443\u044e \u0442\u0440\u0435\u0432\u043e\u0433\u0443 \u0438\u0437 - \u0437\u0430 \u041d\u041b\u041e",
+      "source": "lenta.ru",
+      "url": "https://lenta.ru/news/2026/11/11/v-evropeyskoy-strane-ob-yavili-vozdushnuyu-trevogu-iz-za-nlo/"
+    },
+    {
+      "type": "news",
+      "text": "Jet Blast Flips Small Plane Upside Down At California Airport",
+      "source": "brobible.com",
+      "url": "https://brobible.com/culture/article/small-plane-flipped-jet-blast-california/"
+    },
     {
       "type": "news",
       "text": "Polestar Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving",
@@ -67,54 +115,6 @@
       "text": "Nicko McBrain on Lemmy , UFO Encounter + Life in Iron Maiden",
       "source": "squatchrocks.com",
       "url": "https://squatchrocks.com/ixp/366/p/nicko-mcbrain-iron-maiden-book-interview/"
-    },
-    {
-      "type": "news",
-      "text": "Trump says Air Force pilots described a round UFO flying three times faster than an F - 22 fighter jet",
-      "source": "fox35orlando.com",
-      "url": "https://www.fox35orlando.com/news/trump-says-air-force-pilots-described-round-ufo-flying-three-times-faster-than-f-22-fighter-jet"
-    },
-    {
-      "type": "news",
-      "text": "Trump says Air Force pilots described a round UFO flying three times faster than an F - 22 fighter jet",
-      "source": "ktvu.com",
-      "url": "https://www.ktvu.com/news/trump-says-air-force-pilots-described-round-ufo-flying-three-times-faster-than-f-22-fighter-jet"
-    },
-    {
-      "type": "news",
-      "text": "Monday evening forecast : Patchy fog in some areas tomorrow with cold front coming Tuesday night",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/monday-evening-forecast-patchy-fog-in-some-areas-tomorrow-with-cold-front-coming-tuesday-night/"
-    },
-    {
-      "type": "news",
-      "text": "Mammoth Wolfgang Van Halen Names His 3 Most Influential Albums",
-      "source": "963theblaze.com",
-      "url": "https://963theblaze.com/ixp/366/p/mammoth-wolfgang-van-halen-most-influential-albums/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=2bgbh9led723rnj07a5q8s1mn7"
-    },
-    {
-      "type": "news",
-      "text": "Mammoth Wolfgang Van Halen Names His 3 Most Influential Albums",
-      "source": "kmhk.com",
-      "url": "https://kmhk.com/ixp/366/p/mammoth-wolfgang-van-halen-most-influential-albums/"
-    },
-    {
-      "type": "news",
-      "text": "Trump says Air Force pilots described a round UFO flying three times faster than an F - 22 fighter jet",
-      "source": "fox5atlanta.com",
-      "url": "https://www.fox5atlanta.com/news/trump-says-air-force-pilots-described-round-ufo-flying-three-times-faster-than-f-22-fighter-jet"
-    },
-    {
-      "type": "news",
-      "text": "Crise du norovirus\u00a0 : comment les eaux de l  \u00e9tang de Thau sont - elles surveill\u00e9es\u00a0 ? ",
-      "source": "midilibre.fr",
-      "url": "https://www.midilibre.fr/2026/11/09/crise-du-norovirus-comment-les-eaux-de-letang-de-thau-sont-elles-surveillees-13641332.php"
     },
     {
       "type": "swpc",
@@ -130,19 +130,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2015 VH65) passing at 9.69 LD (~17m, 8.0 km/s)",
+      "text": "NEO 363790 (2005 JE46) passing at 20.01 LD (~1600m, 14.7 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T11:40:56.574947Z",
-      "score": 19.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.6
-    },
     {
       "ts": "2026-08-20T12:01:35.712399Z",
       "score": 20.5,
@@ -4839,6 +4832,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 12.6
+    },
+    {
+      "ts": "2026-11-11T02:54:38.863557Z",
+      "score": 20.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 14.5
     }
   ],
   "sources": [
