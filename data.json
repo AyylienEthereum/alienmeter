@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-13T09:20:50.915525Z",
-  "score": 17.5,
+  "generated_at": "2026-11-13T17:18:41.919966Z",
+  "score": 18.5,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "weather balloon energy",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 1.2,
-    "d24h": -6.5,
+    "d1h": 0.8,
+    "d24h": -1.1,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 1.2,
     "seismic": 0.0,
-    "alien_variance": 2.4
+    "alien_variance": 3.8
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,9 +31,8 @@
     "day": 152,
     "date": "13.11.2026",
     "declassified": "13.11.26",
-    "generated_utc": "09:20",
+    "generated_utc": "17:18",
     "top_drivers": [
-      "Manga\u00a0 : enfin l  \u00e2ge de raison\u00a0 ? ",
       "NOAA space-weather alerts active: 1",
       "NEO 363790 (2005 JE46) passing Earth at 20.0 lunar distances"
     ],
@@ -41,8 +40,8 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.9,
-    "baseline_recent": 17.3,
+    "live_signal": 12.3,
+    "baseline_recent": 17.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
@@ -57,42 +56,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Manga\u00a0 : enfin l  \u00e2ge de raison\u00a0 ? ",
-      "source": "lalibre.be",
-      "url": "https://www.lalibre.be/culture/2026/11/12/manga-enfin-lage-de-raison-KFD6P6THGFBHTFVNSW62PX7D7Q/"
-    },
-    {
-      "type": "news",
-      "text": "Hyperlite Introduces IES - Powered Online Layout Tool for Instant Photometric and Spatial Lighting Calculations",
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/plentisoft/hyperlite-introduces-ies-powered-online-layout-tool-for-instant-photometric-and-spatial-lighting-calculations/2468079"
-    },
-    {
-      "type": "news",
-      "text": "\u51b0\u96ea\u65c5\u6e38\u62c9\u5f00\u5e8f\u5e55 \u5357\u65b9\u6e38\u5ba2\u6491\u8d77\u4e86\u516d\u6210\u8ba2\u5355 _ \u4e1c\u65b9\u8d22\u5bcc\u7f51",
-      "source": "finance.eastmoney.com",
-      "url": "https://finance.eastmoney.com/a/202611123929317089.html"
-    },
-    {
-      "type": "news",
-      "text": "\u52a8\u8d77\u6765 \uff0c \u66f4\u7cbe\u5f69 \uff01 \u798f\u5efa\u4f53\u80b2\u62d4\u8282\u751f\u957f - \u6c11\u751f",
-      "source": "fjnews.fjsen.com",
-      "url": "http://fjnews.fjsen.com/2026-11/12/content_32282155.htm"
-    },
-    {
-      "type": "news",
-      "text": "El enigma de la  medusa voladora : El OVNI que apareci\u00f3 y se esfum\u00f3 en 3 minutos sobre Alaska",
-      "source": "notisclepr5c-la.com",
-      "url": "https://notisclepr5c-la.com/viral/el-enigma-de-la-medusa-voladora-el-ovni-que-aparecio-y-se-esfumo-en-3-minutos-sobre-alaska/"
-    },
-    {
-      "type": "news",
-      "text": "Bray Road Beast and the Things the Cameras Miss",
-      "source": "mysteriousuniverse.org",
-      "url": "https://mysteriousuniverse.org/2026/11/Bray-Road-s-Beast-and-the-Things-the-Cameras-Miss/"
-    },
-    {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3774\r Issue Time: 2026 Nov 13 0505 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
       "source": "NOAA SWPC",
@@ -106,13 +69,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T17:44:17.126851Z",
-      "score": 18.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 12.7
-    },
     {
       "ts": "2026-08-20T18:04:23.685476Z",
       "score": 19.6,
@@ -4809,6 +4765,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.9
+    },
+    {
+      "ts": "2026-11-13T17:18:41.852047Z",
+      "score": 18.5,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 12.3
     }
   ],
   "sources": [
