@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-15T06:23:54.193506Z",
-  "score": 17.1,
+  "generated_at": "2026-11-15T14:11:26.564965Z",
+  "score": 26.8,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "weather balloon energy",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.1,
-    "d24h": -5.8,
+    "d1h": 14.0,
+    "d24h": 6.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 13.1,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 1.6,
     "search_interest": 0.1,
-    "space_weather_alerts": 3.6,
+    "space_weather_alerts": 4.8,
     "seismic": 0.0,
-    "alien_variance": 3.0
+    "alien_variance": 1.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,30 +31,56 @@
     "day": 154,
     "date": "15.11.2026",
     "declassified": "15.11.26",
-    "generated_utc": "06:23",
+    "generated_utc": "14:11",
     "top_drivers": [
-      "NOAA space-weather alerts active: 3",
+      "\u041d\u041b\u041e \u043b\u0438 \u0441\u043f\u0440\u044f \u043f\u043e\u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0421\u0410\u0429 ? \u0424\u0430\u043a\u0442\u0438\u0442\u0435",
+      "News velocity +55% vs 7-day baseline (GDELT)",
+      "NOAA space-weather alerts active: 4",
       "NEO (2019 XL) passing Earth at 39.8 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 10.8,
+    "live_signal": 23.2,
     "baseline_recent": 16.7,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 39.8102512475,
     "asteroid_name": "(2019 XL)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": 54.7455518901087,
     "x_last_hour": 0,
     "wiki_spike_pct": 0.5967643749192921,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 3
+    "swpc_alerts_24h": 4
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "\u041d\u041b\u041e \u043b\u0438 \u0441\u043f\u0440\u044f \u043f\u043e\u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0421\u0410\u0429 ? \u0424\u0430\u043a\u0442\u0438\u0442\u0435",
+      "source": "fakti.bg",
+      "url": "https://fakti.bg/life/1100953-nlo-li-spra-poletite-v-sasht-valna-ot-lubopitni-kadri-v-mrejata"
+    },
+    {
+      "type": "news",
+      "text": "Os mitos mais estranhos do GTA : a hist\u00f3ria completa",
+      "source": "br.ign.com",
+      "url": "https://br.ign.com/grand-theft-auto-vi/157594/os-mitos-mais-estranhos-do-gta-a-historia-completa"
+    },
+    {
+      "type": "news",
+      "text": "Tim the Yowie Man | Snowy Mountain mystery octagonal trail devices explained | Braidwood Times",
+      "source": "braidwoodtimes.com.au",
+      "url": "https://www.braidwoodtimes.com.au/story/9389511/tim-the-yowie-man-snowy-mountain-mystery-octagonal-trail-devices-explained/"
+    },
+    {
+      "type": "swpc",
+      "text": "Space Weather Message Code: WATA20\r Serial Number: 1138\r Issue Time: 2026 Nov 15 1334 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
+      "source": "NOAA SWPC",
+      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3776\r Issue Time: 2026 Nov 15 0516 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
@@ -68,12 +94,6 @@
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
     },
     {
-      "type": "swpc",
-      "text": "Space Weather Message Code: ALTTP4\r Serial Number: 720\r Issue Time: 2026 Nov 14 2249 UTC\r \r ALERT: Type IV Radio Emission  Begin Time: 2026 ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
-    {
       "type": "neo",
       "text": "NEO (2019 XL) passing at 39.81 LD (~28m, 10.4 km/s)",
       "source": "NASA NeoWs",
@@ -81,13 +101,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T21:52:32.025069Z",
-      "score": 23.2,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.9
-    },
     {
       "ts": "2026-08-20T22:20:23.149040Z",
       "score": 19.8,
@@ -4784,6 +4797,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 10.8
+    },
+    {
+      "ts": "2026-11-15T14:11:26.507515Z",
+      "score": 26.8,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 23.2
     }
   ],
   "sources": [
