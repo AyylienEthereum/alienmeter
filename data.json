@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-15T23:41:20.306400Z",
-  "score": 14.8,
+  "generated_at": "2026-11-16T03:08:27.508417Z",
+  "score": 19.1,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -2.6,
-    "d24h": -6.4,
+    "d1h": 2.0,
+    "d24h": -1.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,61 +19,42 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 1.6,
-    "search_interest": 0.1,
+    "asteroid_approach": 4.9,
+    "search_interest": 0.0,
     "space_weather_alerts": 2.4,
     "seismic": 0.0,
-    "alien_variance": 1.3
+    "alien_variance": 3.6
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 154,
-    "day": 154,
-    "date": "15.11.2026",
-    "declassified": "15.11.26",
-    "generated_utc": "23:41",
+    "number": 155,
+    "day": 155,
+    "date": "16.11.2026",
+    "declassified": "16.11.26",
+    "generated_utc": "03:08",
     "top_drivers": [
-      "\u041d\u041b\u041e \u043b\u0438 \u0441\u043f\u0440\u044f \u043f\u043e\u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0421\u0410\u0429 ? \u0424\u0430\u043a\u0442\u0438\u0442\u0435",
       "NOAA space-weather alerts active: 2",
-      "NEO (2019 XL) passing Earth at 39.8 lunar distances"
+      "NEO (2019 WT1) passing Earth at 19.6 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 7.9,
+    "live_signal": 13.4,
     "baseline_recent": 16.6,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 39.8102512475,
-    "asteroid_name": "(2019 XL)",
+    "closest_asteroid_ld": 19.6106747773,
+    "asteroid_name": "(2019 WT1)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 0.5967643749192921,
+    "wiki_spike_pct": -1.2638295898415743,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 2
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "\u041d\u041b\u041e \u043b\u0438 \u0441\u043f\u0440\u044f \u043f\u043e\u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0421\u0410\u0429 ? \u0424\u0430\u043a\u0442\u0438\u0442\u0435",
-      "source": "fakti.bg",
-      "url": "https://fakti.bg/life/1100953-nlo-li-spra-poletite-v-sasht-valna-ot-lubopitni-kadri-v-mrejata"
-    },
-    {
-      "type": "news",
-      "text": "Os mitos mais estranhos do GTA : a hist\u00f3ria completa",
-      "source": "br.ign.com",
-      "url": "https://br.ign.com/grand-theft-auto-vi/157594/os-mitos-mais-estranhos-do-gta-a-historia-completa"
-    },
-    {
-      "type": "news",
-      "text": "Tim the Yowie Man | Snowy Mountain mystery octagonal trail devices explained | Braidwood Times",
-      "source": "braidwoodtimes.com.au",
-      "url": "https://www.braidwoodtimes.com.au/story/9389511/tim-the-yowie-man-snowy-mountain-mystery-octagonal-trail-devices-explained/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1138\r Issue Time: 2026 Nov 15 1334 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -88,19 +69,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2019 XL) passing at 39.81 LD (~28m, 10.4 km/s)",
+      "text": "NEO (2019 WT1) passing at 19.61 LD (~26m, 9.7 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-20T23:19:41.779104Z",
-      "score": 21.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.2
-    },
     {
       "ts": "2026-08-20T23:49:06.587165Z",
       "score": 23.0,
@@ -4797,6 +4771,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 7.9
+    },
+    {
+      "ts": "2026-11-16T03:08:27.451422Z",
+      "score": 19.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.4
     }
   ],
   "sources": [
