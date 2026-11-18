@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-18T02:54:10.834362Z",
-  "score": 34.6,
+  "generated_at": "2026-11-18T10:58:23.719611Z",
+  "score": 19.4,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "nothing to see here",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": 17.7,
-    "d24h": 14.8,
+    "d1h": -8.2,
+    "d24h": 0.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 17.9,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
+    "solar_flares": 2.5,
     "asteroid_approach": 5.3,
-    "search_interest": 0.6,
+    "search_interest": 0.2,
     "space_weather_alerts": 1.2,
-    "seismic": 0.0,
-    "alien_variance": 3.4
+    "seismic": 2.6,
+    "alien_variance": 2.1
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,29 +31,28 @@
     "day": 157,
     "date": "18.11.2026",
     "declassified": "18.11.26",
-    "generated_utc": "02:54",
+    "generated_utc": "10:58",
     "top_drivers": [
       "Montana Helicopter Flight Captures Strange Underwater Mass",
-      "News velocity +74% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 1",
       "NEO (2018 NE1) passing Earth at 16.6 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 33.4,
-    "baseline_recent": 16.5,
+    "live_signal": 13.9,
+    "baseline_recent": 16.4,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
+    "xray_class": "B",
     "closest_asteroid_ld": 16.6046609393,
     "asteroid_name": "(2018 NE1)",
-    "gdelt_spike_pct": 74.44977660102596,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 3.629087898440734,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "wiki_spike_pct": 1.064440697743867,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 5.3,
     "swpc_alerts_24h": 1
   },
   "ticker": [
@@ -65,9 +64,15 @@
     },
     {
       "type": "swpc",
-      "text": "Space Weather Message Code: ALTEF3\r Serial Number: 3778\r Issue Time: 2026 Nov 17 0848 UTC\r \r CONTINUED ALERT: Electron 2MeV Integral Flux ex",
+      "text": "Space Weather Message Code: WARK04\r Serial Number: 5454\r Issue Time: 2026 Nov 18 0556 UTC\r \r WARNING: Geomagnetic K-index of 4 expected  Val",
       "source": "NOAA SWPC",
       "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+    },
+    {
+      "type": "seismic",
+      "text": "Significant seismic event: 16 km ESE of Comand\u0103u, Romania",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
     },
     {
       "type": "neo",
@@ -77,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T05:27:04.313714Z",
-      "score": 28.4,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 25.6
-    },
     {
       "ts": "2026-08-21T05:57:57.029164Z",
       "score": 23.5,
@@ -4780,6 +4778,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 33.4
+    },
+    {
+      "ts": "2026-11-18T10:58:23.667654Z",
+      "score": 19.4,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.9
     }
   ],
   "sources": [
