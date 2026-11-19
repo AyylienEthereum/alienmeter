@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-19T08:50:50.161804Z",
-  "score": 22.5,
+  "generated_at": "2026-11-19T17:54:25.276194Z",
+  "score": 23.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "nothing to see here",
+    "flavor": "probably venus",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": -12.1,
-    "d24h": 2.7,
+    "d1h": 3.7,
+    "d24h": 2.9,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 1.7
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,18 +31,18 @@
     "day": 158,
     "date": "19.11.2026",
     "declassified": "19.11.26",
-    "generated_utc": "08:50",
+    "generated_utc": "17:54",
     "top_drivers": [
-      "Montana Helicopter Flight Captures Strange Underwater Mass",
-      "NOAA space-weather alerts active: 6",
+      "Yakima Shoppers Arent Panicking Over Recent World Events",
+      "NOAA space-weather alerts active: 5",
       "NEO (2018 NE1) passing Earth at 16.6 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.0,
-    "baseline_recent": 16.2,
+    "live_signal": 18.9,
+    "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "C",
@@ -53,9 +53,15 @@
     "wiki_spike_pct": -4.782109404184863,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 6
+    "swpc_alerts_24h": 5
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Yakima Shoppers Arent Panicking Over Recent World Events",
+      "source": "newstalkkit.com",
+      "url": "https://newstalkkit.com/ixp/137/p/yakima-avoids-panic-buying/"
+    },
     {
       "type": "news",
       "text": "Montana Helicopter Flight Captures Strange Underwater Mass",
@@ -88,13 +94,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T08:06:39.334112Z",
-      "score": 22.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 17.4
-    },
     {
       "ts": "2026-08-21T08:56:42.407472Z",
       "score": 19.3,
@@ -4791,6 +4790,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.0
+    },
+    {
+      "ts": "2026-11-19T17:54:25.205779Z",
+      "score": 23.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 18.9
     }
   ],
   "sources": [
