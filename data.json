@@ -1,73 +1,61 @@
 {
-  "generated_at": "2026-11-19T17:54:25.276194Z",
-  "score": 23.1,
+  "generated_at": "2026-11-20T00:09:10.344333Z",
+  "score": 23.3,
   "band": {
     "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
+    "flavor": "nothing to see here",
     "index": 1,
     "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
     "min": 15
   },
   "deltas": {
-    "d1h": 3.7,
-    "d24h": 2.9,
+    "d1h": -18.2,
+    "d24h": 4.3,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 0.0,
+    "news_velocity": 5.7,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
-    "solar_flares": 5.0,
-    "asteroid_approach": 5.3,
+    "solar_flares": 2.5,
+    "asteroid_approach": 4.3,
     "search_interest": 0.0,
     "space_weather_alerts": 6.0,
     "seismic": 0.0,
-    "alien_variance": 2.6
+    "alien_variance": 0.7
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 158,
-    "day": 158,
-    "date": "19.11.2026",
-    "declassified": "19.11.26",
-    "generated_utc": "17:54",
+    "number": 159,
+    "day": 159,
+    "date": "20.11.2026",
+    "declassified": "20.11.26",
+    "generated_utc": "00:09",
     "top_drivers": [
-      "Yakima Shoppers Arent Panicking Over Recent World Events",
+      "News velocity +24% vs 7-day baseline (GDELT)",
       "NOAA space-weather alerts active: 5",
-      "NEO (2018 NE1) passing Earth at 16.6 lunar distances"
+      "NEO (2019 VF1) passing Earth at 23.4 lunar distances"
     ],
     "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 18.9,
+    "live_signal": 19.2,
     "baseline_recent": 16.1,
     "score_gain": 1.3,
     "kp": null,
-    "xray_class": "C",
-    "closest_asteroid_ld": 16.6046609393,
-    "asteroid_name": "(2018 NE1)",
-    "gdelt_spike_pct": null,
+    "xray_class": "B",
+    "closest_asteroid_ld": 23.3555544762,
+    "asteroid_name": "(2019 VF1)",
+    "gdelt_spike_pct": 23.952569169960483,
     "x_last_hour": 0,
-    "wiki_spike_pct": -4.782109404184863,
+    "wiki_spike_pct": -4.466995356852239,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
     "swpc_alerts_24h": 5
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "Yakima Shoppers Arent Panicking Over Recent World Events",
-      "source": "newstalkkit.com",
-      "url": "https://newstalkkit.com/ixp/137/p/yakima-avoids-panic-buying/"
-    },
-    {
-      "type": "news",
-      "text": "Montana Helicopter Flight Captures Strange Underwater Mass",
-      "source": "963theblaze.com",
-      "url": "https://963theblaze.com/ixp/1106/p/montana-flathead-lake-monster-photo/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WARK04\r Serial Number: 5457\r Issue Time: 2026 Nov 19 0118 UTC\r \r EXTENDED WARNING: Geomagnetic K-index of 4 expe",
@@ -88,19 +76,12 @@
     },
     {
       "type": "neo",
-      "text": "NEO (2018 NE1) passing at 16.60 LD (~124m, 13.3 km/s)",
+      "text": "NEO (2019 VF1) passing at 23.36 LD (~149m, 19.8 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T08:56:42.407472Z",
-      "score": 19.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.9
-    },
     {
       "ts": "2026-08-21T09:32:53.150921Z",
       "score": 21.3,
@@ -4797,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 18.9
+    },
+    {
+      "ts": "2026-11-20T00:09:10.288539Z",
+      "score": 23.3,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 19.2
     }
   ],
   "sources": [
