@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-21T23:17:07.599508Z",
-  "score": 30.7,
+  "generated_at": "2026-11-22T03:20:04.614536Z",
+  "score": 15.2,
   "band": {
-    "name": "THAT'S WEIRD",
-    "flavor": "huh",
-    "index": 2,
-    "color": "#FFE066",
-    "emoji": "\ud83d\udfe1",
-    "min": 30
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "weather balloon energy",
+    "index": 1,
+    "color": "#5DD49C",
+    "emoji": "\ud83d\udfe2",
+    "min": 15
   },
   "deltas": {
-    "d1h": -13.4,
-    "d24h": 14.4,
+    "d1h": -0.1,
+    "d24h": -3.5,
     "peak90": 64.4
   },
   "contributing_factors": {
-    "news_velocity": 20.3,
+    "news_velocity": 0.0,
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
@@ -23,39 +23,44 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 3.4,
-    "alien_variance": 1.5
+    "alien_variance": 1.9
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 160,
-    "day": 160,
-    "date": "21.11.2026",
-    "declassified": "21.11.26",
-    "generated_utc": "23:17",
+    "number": 161,
+    "day": 161,
+    "date": "22.11.2026",
+    "declassified": "22.11.26",
+    "generated_utc": "03:20",
     "top_drivers": [
-      "Spisi Pentagona otkrivaju plan za podzemni NLO trezor",
-      "News velocity +85% vs 7-day baseline (GDELT)",
+      "Pentagon ujawni\u0142 kolejne akta UFO . Jest w nich plan tajnego \u201e podziemnego skarbca  ",
       "NEO (2010 HG20) passing Earth at 42.5 lunar distances"
     ],
-    "assessment": "A handful of signals are running above baseline. Nothing definitive, but the needle is twitching. Worth keeping an eye on the sky tonight.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 28.9,
-    "baseline_recent": 15.7,
+    "live_signal": 9.0,
+    "baseline_recent": 15.8,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 42.4530017923,
     "asteroid_name": "(2010 HG20)",
-    "gdelt_spike_pct": 84.78276030406585,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -7.931308088143184,
-    "earthquakes_24h": 3,
+    "wiki_spike_pct": -7.569164341511129,
+    "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.8,
     "swpc_alerts_24h": 0
   },
   "ticker": [
+    {
+      "type": "news",
+      "text": "Pentagon ujawni\u0142 kolejne akta UFO . Jest w nich plan tajnego \u201e podziemnego skarbca  ",
+      "source": "wiadomosci.radiozet.pl",
+      "url": "https://wiadomosci.radiozet.pl/swiat/pentagon-ujawnil-kolejne-akta-ufo-jest-w-nich-plan-tajnego-podziemnego-skarbca"
+    },
     {
       "type": "news",
       "text": "Spisi Pentagona otkrivaju plan za podzemni NLO trezor",
@@ -111,12 +116,6 @@
       "url": "https://kohajone.com/bota/pentagoni-deklasifikon-pamjet-reja-ufo-filmuara-ushtria/"
     },
     {
-      "type": "news",
-      "text": "Alessia Marcuzzi il segreto per una famiglia allargata e la reazione di Mia all  ultima separazione",
-      "source": "zazoom.it",
-      "url": "https://www.zazoom.it/2026-11-21/alessia-marcuzzi-il-segreto-per-una-famiglia-allargata-e-la-reazione-di-mia-allultima-separazione/19957658/"
-    },
-    {
       "type": "seismic",
       "text": "Significant seismic event: 238 km SW of Yanglong, China",
       "source": "USGS",
@@ -136,13 +135,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T14:08:27.842347Z",
-      "score": 23.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 18.7
-    },
     {
       "ts": "2026-08-21T14:52:58.198921Z",
       "score": 20.3,
@@ -4839,6 +4831,13 @@
       "band": "THAT'S WEIRD",
       "i": 2,
       "live": 28.9
+    },
+    {
+      "ts": "2026-11-22T03:20:04.566070Z",
+      "score": 15.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 9.0
     }
   ],
   "sources": [
