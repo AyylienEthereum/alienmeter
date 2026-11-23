@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-22T23:58:13.910309Z",
-  "score": 12.3,
+  "generated_at": "2026-11-23T05:58:50.189788Z",
+  "score": 16.2,
   "band": {
-    "name": "NOTHINGBURGER",
-    "flavor": "boringly terrestrial",
-    "index": 0,
-    "color": "#00FF94",
+    "name": "PROBABLY SWAMP GAS",
+    "flavor": "probably venus",
+    "index": 1,
+    "color": "#5DD49C",
     "emoji": "\ud83d\udfe2",
-    "min": 0
+    "min": 15
   },
   "deltas": {
-    "d1h": -18.4,
-    "d24h": -6.5,
+    "d1h": 1.0,
+    "d24h": -4.2,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -19,56 +19,55 @@
     "social_chatter": 0.0,
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
-    "asteroid_approach": 1.2,
+    "asteroid_approach": 3.5,
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
-    "seismic": 0.0,
-    "alien_variance": 1.6
+    "seismic": 3.2,
+    "alien_variance": 1.2
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 161,
-    "day": 161,
-    "date": "22.11.2026",
-    "declassified": "22.11.26",
-    "generated_utc": "23:58",
+    "number": 162,
+    "day": 162,
+    "date": "23.11.2026",
+    "declassified": "23.11.26",
+    "generated_utc": "05:58",
     "top_drivers": [
-      "NEO (2010 HG20) passing Earth at 42.5 lunar distances"
+      "NEO (2018 VL8) passing Earth at 28.2 lunar distances"
     ],
-    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
+    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 5.3,
-    "baseline_recent": 15.6,
+    "live_signal": 10.4,
+    "baseline_recent": 15.5,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 42.4530017923,
-    "asteroid_name": "(2010 HG20)",
-    "gdelt_spike_pct": null,
+    "closest_asteroid_ld": 28.1530746714,
+    "asteroid_name": "(2018 VL8)",
+    "gdelt_spike_pct": -85.22187162998762,
     "x_last_hour": 0,
-    "wiki_spike_pct": -13.49993228317774,
-    "earthquakes_24h": 0,
-    "max_quake_mag_24h": 0,
+    "wiki_spike_pct": -3.474484768186939,
+    "earthquakes_24h": 1,
+    "max_quake_mag_24h": 6.5,
     "swpc_alerts_24h": 0
   },
   "ticker": [
     {
+      "type": "seismic",
+      "text": "Significant seismic event: Vanuatu region",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/"
+    },
+    {
       "type": "neo",
-      "text": "NEO (2010 HG20) passing at 42.45 LD (~312m, 10.5 km/s)",
+      "text": "NEO (2018 VL8) passing at 28.15 LD (~164m, 17.6 km/s)",
       "source": "NASA NeoWs",
       "url": "https://cneos.jpl.nasa.gov/ca/"
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T16:34:54.818392Z",
-      "score": 20.9,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.9
-    },
     {
       "ts": "2026-08-21T17:05:38.855000Z",
       "score": 23.0,
@@ -4765,6 +4764,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 5.3
+    },
+    {
+      "ts": "2026-11-23T05:58:50.112603Z",
+      "score": 16.2,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 10.4
     }
   ],
   "sources": [
