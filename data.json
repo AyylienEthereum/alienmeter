@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T23:28:34.816340Z",
-  "score": 18.6,
+  "generated_at": "2026-11-25T05:36:22.140274Z",
+  "score": 18.1,
   "band": {
     "name": "PROBABLY SWAMP GAS",
     "flavor": "nothing to see here",
@@ -11,7 +11,7 @@
   },
   "deltas": {
     "d1h": 2.4,
-    "d24h": 1.0,
+    "d24h": 2.0,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -20,20 +20,19 @@
     "geomagnetic": 0.0,
     "solar_flares": 2.5,
     "asteroid_approach": 3.5,
-    "search_interest": 1.7,
+    "search_interest": 1.8,
     "space_weather_alerts": 1.2,
     "seismic": 3.2,
-    "alien_variance": 1.7
+    "alien_variance": 1.0
   },
   "sightings_total": 44000,
   "daily_report": {
-    "number": 163,
-    "day": 163,
-    "date": "24.11.2026",
-    "declassified": "24.11.26",
-    "generated_utc": "23:28",
+    "number": 164,
+    "day": 164,
+    "date": "25.11.2026",
+    "declassified": "25.11.26",
+    "generated_utc": "05:36",
     "top_drivers": [
-      "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0444\u0438\u043b\u044c\u043c\u044b \u043d\u0430 \u0432\u0435\u0447\u0435\u0440 \u043e \u0442\u0430\u0439\u043d\u0430\u0445 \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0433\u043e\u0440\u043e\u0434\u043a\u043e\u0432 , \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0430\u0441 \u043f\u043e\u0440\u0430\u0437\u044f\u0442",
       "NOAA space-weather alerts active: 1",
       "Wikipedia UFO pageviews +11% above baseline",
       "NEO (2018 VL8) passing Earth at 28.2 lunar distances"
@@ -42,81 +41,21 @@
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 13.8,
-    "baseline_recent": 15.1,
+    "live_signal": 13.2,
+    "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
     "closest_asteroid_ld": 28.1530746714,
     "asteroid_name": "(2018 VL8)",
-    "gdelt_spike_pct": -56.5232228782036,
+    "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": 10.879683444908883,
+    "wiki_spike_pct": 11.359222343813167,
     "earthquakes_24h": 2,
     "max_quake_mag_24h": 6.4,
     "swpc_alerts_24h": 1
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0444\u0438\u043b\u044c\u043c\u044b \u043d\u0430 \u0432\u0435\u0447\u0435\u0440 \u043e \u0442\u0430\u0439\u043d\u0430\u0445 \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0433\u043e\u0440\u043e\u0434\u043a\u043e\u0432 , \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0430\u0441 \u043f\u043e\u0440\u0430\u0437\u044f\u0442",
-      "source": "kino.24tv.ua",
-      "url": "https://kino.24tv.ua/ru/interesnye-filmy-na-vecher-o-tajnah-malenkih-gorodkov-kotorye-vas-porazjat_n3213651"
-    },
-    {
-      "type": "news",
-      "text": "Operation  November Dawn  Targets Online Sexual Predators , Leads to Nine Arrests , including Rome and Cartersville men",
-      "source": "1049therebel.com",
-      "url": "https://www.1049therebel.com/2026/11/24/operation-november-dawn-targets-online-sexual-predators-leads-to-nine-arrests-including-rome-and-cartersville-men/"
-    },
-    {
-      "type": "news",
-      "text": "Texas rejt\u00e9lyes sivatagi f\u00e9nyeire m\u00e1sf\u00e9l \u00e9vsz\u00e1zada nincsen magyar\u00e1zat",
-      "source": "magyarnemzet.hu",
-      "url": "https://magyarnemzet.hu/tudomany/2026/11/texas-titokzatos-fenyei"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=sknu7rsp06l2oj7shsr2apu850"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=hr8joefmeh133v5709jd615cc1"
-    },
-    {
-      "type": "news",
-      "text": "As fewer young people choose college , this district wants to ensure they have career options",
-      "source": "timesherald.com",
-      "url": "https://www.timesherald.com/2026/11/02/young-people-career-options/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=g41uehts4kb6em65c4ej610bd4"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=a3l87prsq22j7qq626jicoorr7"
-    },
-    {
-      "type": "news",
-      "text": "  \u65e0\u7ffc\u98de\u8f66  \u539f\u5730\u8d77\u98de\u5e55\u540e \uff1a 10\u5e74\u56db\u6b21\u8fed\u4ee3 \uff0c \u661f\u57ce\u6709\u671b\u91cf\u4ea7 - \u4eca\u65e5\u5173\u6ce8 - \u6e56\u5357\u5728\u7ebf",
-      "source": "hunan.voc.com.cn",
-      "url": "https://hunan.voc.com.cn/news/202611/34333313.html"
-    },
-    {
-      "type": "news",
-      "text": "9 arrested in north Georgia operation targeting child predators , GBI says",
-      "source": "atlantanewsfirst.com",
-      "url": "https://www.atlantanewsfirst.com/2026/11/23/9-arrested-north-georgia-operation-targeting-child-predators-gbi-says/"
-    },
     {
       "type": "swpc",
       "text": "Space Weather Message Code: WATA20\r Serial Number: 1139\r Issue Time: 2026 Nov 24 1419 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
@@ -143,13 +82,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T19:21:42.850914Z",
-      "score": 20.3,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 15.2
-    },
     {
       "ts": "2026-08-21T19:46:34.230420Z",
       "score": 32.0,
@@ -4846,6 +4778,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 13.8
+    },
+    {
+      "ts": "2026-11-25T05:36:22.087587Z",
+      "score": 18.1,
+      "band": "PROBABLY SWAMP GAS",
+      "i": 1,
+      "live": 13.2
     }
   ],
   "sources": [
