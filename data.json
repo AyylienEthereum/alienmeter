@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-26T00:17:37.132203Z",
-  "score": 15.3,
+  "generated_at": "2026-11-26T08:43:18.134583Z",
+  "score": 14.6,
   "band": {
-    "name": "PROBABLY SWAMP GAS",
-    "flavor": "probably venus",
-    "index": 1,
-    "color": "#5DD49C",
+    "name": "NOTHINGBURGER",
+    "flavor": "the aliens are sleeping",
+    "index": 0,
+    "color": "#00FF94",
     "emoji": "\ud83d\udfe2",
-    "min": 15
+    "min": 0
   },
   "deltas": {
-    "d1h": -3.3,
-    "d24h": -4.8,
+    "d1h": -4.0,
+    "d24h": -5.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -21,9 +21,9 @@
     "solar_flares": 2.5,
     "asteroid_approach": 3.6,
     "search_interest": 0.0,
-    "space_weather_alerts": 1.2,
+    "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 2.3
+    "alien_variance": 2.6
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,17 +31,15 @@
     "day": 165,
     "date": "26.11.2026",
     "declassified": "26.11.26",
-    "generated_utc": "00:17",
+    "generated_utc": "08:43",
     "top_drivers": [
-      "New Mexico Thanksgiving travel forecast : Most roads stay dry Wednesday",
-      "NOAA space-weather alerts active: 1",
       "NEO 217628 Lugh (1990 HA) passing Earth at 27.5 lunar distances"
     ],
-    "assessment": "Background activity only. The occasional weather balloon, the odd swamp gas event. Nothing the cattle need worry about.",
+    "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 9.6,
+    "live_signal": 8.7,
     "baseline_recent": 15.0,
     "score_gain": 1.3,
     "kp": null,
@@ -50,78 +48,12 @@
     "asteroid_name": "217628 Lugh (1990 HA)",
     "gdelt_spike_pct": null,
     "x_last_hour": 0,
-    "wiki_spike_pct": -1.9694086831896032,
+    "wiki_spike_pct": -11.657145588832847,
     "earthquakes_24h": 0,
     "max_quake_mag_24h": 0,
-    "swpc_alerts_24h": 1
+    "swpc_alerts_24h": 0
   },
   "ticker": [
-    {
-      "type": "news",
-      "text": "New Mexico Thanksgiving travel forecast : Most roads stay dry Wednesday",
-      "source": "kob.com",
-      "url": "https://www.kob.com/new-mexico/new-mexico-thanksgiving-travel-forecast-most-roads-stay-dry-wednesday/"
-    },
-    {
-      "type": "news",
-      "text": "The Arcade 1971 \u2013 1999 book interview -  play as a public spectacle  ",
-      "source": "metro.co.uk",
-      "url": "https://metro.co.uk/2026/11/25/arcade-1971-1999-book-interview-play-a-public-spectacle-29813093/"
-    },
-    {
-      "type": "news",
-      "text": "\u042d\u043a\u0441 - \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a \u041f\u0435\u043d\u0442\u0430\u0433\u043e\u043d\u0430 \u0437\u0430\u044f\u0432\u0438\u043b , \u0447\u0442\u043e \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439 \u0436\u0438\u0432\u0443\u0442 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0435",
-      "source": "aif.ru",
-      "url": "https://aif.ru/society/eks-rabotnik-pentagona-zayavil-chto-sredi-lyudey-zhivut-inoplanetyane"
-    },
-    {
-      "type": "news",
-      "text": "  \u041e\u043d\u0438 \u043d\u0430\u0441\u043c\u0435\u0445\u0430\u044e\u0442\u0441\u044f \u043d\u0430\u0434 \u043d\u0430\u043c\u0438 : \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c - \u043e \u044f\u043a\u043e\u0431\u044b \u0436\u0438\u0432\u0443\u0449\u0438\u0445 \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439 \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0430\u0445",
-      "source": "rg.ru",
-      "url": "https://rg.ru/2026/11/25/eks-podriadchik-pentagona-moshir-rasskazal-o-zhivushchih-sredi-liudej-inoplanetianah.html"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=6jfmhs5d9fb95mb6cfumdcs605"
-    },
-    {
-      "type": "news",
-      "text": "What Happened to Stephanie Gonzalez ? Mom Killed on Birthday",
-      "source": "usmagazine.com",
-      "url": "https://www.usmagazine.com/crime-news/news/what-happened-to-stephanie-gonzalez-mom-killed-on-birthday/"
-    },
-    {
-      "type": "news",
-      "text": "\u9ec4\u4ec1\u52cb\u56de\u5f52\u82f1\u4f1f\u8fbe \uff0c \u4f20\u8bb0\u4f5c\u8005\u6539\u53e3\u79f0\u5176\u4e0d\u53ef\u66ff\u4ee3",
-      "source": "original.ifeng.com",
-      "url": "https://original.ifeng.com/c/8yKq2oqnBHj"
-    },
-    {
-      "type": "news",
-      "text": "United States Government Releases Documents on Enigmatic Creature Stirring Global Curiosity for Decades",
-      "source": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/346553"
-    },
-    {
-      "type": "news",
-      "text": "Operation  November Dawn  Targets Online Sexual Predators , Leads to Nine Arrests",
-      "source": "coosavalleynews.com",
-      "url": "https://coosavalleynews.com/2026/11/operation-november-dawn-targets-online-sexual-predators-leads-to-nine-arrests/"
-    },
-    {
-      "type": "news",
-      "text": "Ancient Aliens - Unerkl\u00e4rliche Ph\u00e4nomene - R\u00e4tsel der Atacama - W\u00fcste",
-      "source": "tele.at",
-      "url": "https://www.tele.at/tv-programm/sendungen/85328/ancient-aliens-unerklarliche-phanomene-ratsel-der-atacama-wuste"
-    },
-    {
-      "type": "swpc",
-      "text": "Space Weather Message Code: WATA20\r Serial Number: 1140\r Issue Time: 2026 Nov 25 0833 UTC\r \r WATCH: Geomagnetic Storm Category G1 Predicted ",
-      "source": "NOAA SWPC",
-      "url": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
-    },
     {
       "type": "neo",
       "text": "NEO 217628 Lugh (1990 HA) passing at 27.53 LD (~2742m, 17.7 km/s) \u2014 PHA",
@@ -130,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T20:48:09.189114Z",
-      "score": 19.0,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.5
-    },
     {
       "ts": "2026-08-21T21:18:05.619796Z",
       "score": 17.2,
@@ -4833,6 +4758,13 @@
       "band": "PROBABLY SWAMP GAS",
       "i": 1,
       "live": 9.6
+    },
+    {
+      "ts": "2026-11-26T08:43:18.076134Z",
+      "score": 14.6,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 8.7
     }
   ],
   "sources": [
