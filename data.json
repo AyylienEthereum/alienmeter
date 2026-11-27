@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T10:26:50.658819Z",
-  "score": 13.2,
+  "generated_at": "2026-11-27T19:34:32.950897Z",
+  "score": 13.8,
   "band": {
     "name": "NOTHINGBURGER",
     "flavor": "all quiet",
@@ -10,8 +10,8 @@
     "min": 0
   },
   "deltas": {
-    "d1h": -2.1,
-    "d24h": -7.4,
+    "d1h": -0.8,
+    "d24h": -6.7,
     "peak90": 64.4
   },
   "contributing_factors": {
@@ -23,7 +23,7 @@
     "search_interest": 0.0,
     "space_weather_alerts": 0.0,
     "seismic": 0.0,
-    "alien_variance": 0.8
+    "alien_variance": 1.5
   },
   "sightings_total": 44000,
   "daily_report": {
@@ -31,23 +31,22 @@
     "day": 166,
     "date": "27.11.2026",
     "declassified": "27.11.26",
-    "generated_utc": "10:26",
+    "generated_utc": "19:34",
     "top_drivers": [
-      "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
       "NEO 217628 Lugh (1990 HA) passing Earth at 27.5 lunar distances"
     ],
     "assessment": "All quiet on the extraterrestrial front. Sensors nominal, skies boring, aliens presumably asleep.",
     "sightings_total": 44000
   },
   "raw": {
-    "live_signal": 6.9,
+    "live_signal": 7.6,
     "baseline_recent": 15.1,
     "score_gain": 1.3,
     "kp": null,
     "xray_class": "B",
-    "closest_asteroid_ld": 27.5282968311,
+    "closest_asteroid_ld": 27.5282988539,
     "asteroid_name": "217628 Lugh (1990 HA)",
-    "gdelt_spike_pct": null,
+    "gdelt_spike_pct": -17.597855227882032,
     "x_last_hour": 0,
     "wiki_spike_pct": -5.132058024620005,
     "earthquakes_24h": 0,
@@ -56,66 +55,6 @@
   },
   "ticker": [
     {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=nf9764nubp6c2cgntbmdb2qli7"
-    },
-    {
-      "type": "news",
-      "text": "Five - star DE D . J . Jacobs flips commitment from Ohio State to Miami",
-      "source": "thescore1260.com",
-      "url": "https://www.thescore1260.com/2026/11/26/five-star-de-d-j-jacobs-flips-commitment-from-ohio-state-to-miami/"
-    },
-    {
-      "type": "news",
-      "text": "Antoine Dupont ,  cest un ovni depuis tr\u00e8s longtemps ,  impossible de nier \u00e0 quel point il est bon , il faudrait \u00eatre un idiot  Co\u00e9quipiers comme adversaires , le capitaine des Bleus les fait tous r\u00eav",
-      "source": "ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/11/27/antoine-dupont-cest-un-ovni-depuis-tres-longtemps-impossible-de-nier-a-quel-point-il-est-bon-il-faudrait-etre-un-idiot-coequipiers-comme-adversaires-13673250.php"
-    },
-    {
-      "type": "news",
-      "text": "101 Fun Maps That Also Provide Useful Information About Various Countries",
-      "source": "2.boredpanda.com",
-      "url": "https://2.boredpanda.com/weird-unexpected-useful-maps/"
-    },
-    {
-      "type": "news",
-      "text": "Five - star DE D . J . Jacobs flips commitment from Ohio State to Miami",
-      "source": "ktop1490.com",
-      "url": "https://www.ktop1490.com/2026/11/26/five-star-de-d-j-jacobs-flips-commitment-from-ohio-state-to-miami/"
-    },
-    {
-      "type": "news",
-      "text": "Funky Taurus Media - Music Photo Agency & Products - Funky Taurus & George Clinton - UFO Brooklyn",
-      "source": "funkytaurusmedia.com",
-      "url": "https://www.funkytaurusmedia.com/product_info.php?info=p50_funky-taurus-----george-clinton-----ufo-brooklyn---------exclusiv.html&XTCsid=9s6691rb7ean9gdq6qv236nbj1"
-    },
-    {
-      "type": "news",
-      "text": "El mito del \u00ab Estado fallido \u00bb: la contradicci\u00f3n entre asfixiar a Cuba y acusarla de no funcionar",
-      "source": "telesurtv.net",
-      "url": "https://www.telesurtv.net/cuba-asfixiar-economia-estado-fallido/"
-    },
-    {
-      "type": "news",
-      "text": "\u6843\u56ed\u4e0a\u7a7a\u51fa\u73b0  \u5de8\u5927\u9ed1\u73af \uff0c \u7adf\u4e0e\u53f0\u519b\u6709\u5173 _ \u51e4\u51f0\u7f51",
-      "source": "news.ifeng.com",
-      "url": "https://news.ifeng.com/c/8yO2A6a95CX"
-    },
-    {
-      "type": "news",
-      "text": "QUE SUCEDE CON LOS LLAMADOS OVNIS EN EL MUNDO . ",
-      "source": "hsbnoticias.com",
-      "url": "http://hsbnoticias.com/noticias/que-sucede-con-los-llamados-ovnis-en-el-mundo"
-    },
-    {
-      "type": "news",
-      "text": "5 - star recruit D . J . Jacobs decommits from Ohio State",
-      "source": "milwaukeesun.com",
-      "url": "http://www.milwaukeesun.com/news/279462667/5-star-recruit-dj-jacobs-decommits-from-ohio-state"
-    },
-    {
       "type": "neo",
       "text": "NEO 217628 Lugh (1990 HA) passing at 27.53 LD (~2742m, 17.7 km/s) \u2014 PHA",
       "source": "NASA NeoWs",
@@ -123,13 +62,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-21T22:49:06.104467Z",
-      "score": 18.7,
-      "band": "PROBABLY SWAMP GAS",
-      "i": 1,
-      "live": 13.2
-    },
     {
       "ts": "2026-08-21T23:17:42.266425Z",
       "score": 19.1,
@@ -4826,6 +4758,13 @@
       "band": "NOTHINGBURGER",
       "i": 0,
       "live": 6.9
+    },
+    {
+      "ts": "2026-11-27T19:34:32.892057Z",
+      "score": 13.8,
+      "band": "NOTHINGBURGER",
+      "i": 0,
+      "live": 7.6
     }
   ],
   "sources": [
